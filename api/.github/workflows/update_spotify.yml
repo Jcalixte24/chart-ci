@@ -1,0 +1,50 @@
+name: Mise à jour automatique Spotify
+
+on:
+  schedule:
+    # S'exécute toutes les 6 heures
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Permet aussi de lancer le script manuellement avec un bouton
+
+jobs:
+  scrape-spotify:
+    runs-on: ubuntu-latest
+    
+    # --- LIGNE AJOUTÉE ICI ---
+    permissions:
+      contents: write
+    # -------------------------
+
+    steps:
+      # 1. Récupère ton code
+      - name: Checkout du code
+        uses: actions/checkout@v3
+
+      # 2. Installe Python sur le serveur
+      - name: Configuration de Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      # 3. Installe Chrome et le driver pour Selenium
+      - name: Installer Chrome et ChromeDriver
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
+
+      # 4. Installe Selenium
+      - name: Installer les dépendances Python
+        run: pip install selenium
+
+      # 5. Lance ton script Python
+      - name: Exécuter le scraping Spotify
+        run: python api/spotify.py
+
+      # 6. Sauvegarde le fichier généré et l'envoie sur GitHub
+      - name: Commit et Push des nouvelles données
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data/spotify_data.json
+          # S'il y a des modifications, on commit et on push
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Mise à jour auto des données Spotify" && git push)

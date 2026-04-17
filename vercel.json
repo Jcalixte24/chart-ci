@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "buildCommand": null,
+  "outputDirectory": ".",
+  "framework": null,
+  "routes": [
+    { "src": "/chat",  "dest": "/api/chat.js"  },
+    { "src": "/proxy", "dest": "/api/proxy.js" },
+    { "src": "/api/spotify", "dest": "/api/spotify.js" },
+    {
+      "src": "/sw.js",
+      "dest": "/sw.js",
+      "headers": {
+        "Cache-Control": "no-cache, no-store, must-revalidate",
+        "Service-Worker-Allowed": "/"
+      }
+    },
+    { "src": "/(.*)", "dest": "/$1" }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "CI Charts – Musique Côte d'Ivoire",
+  "short_name": "CI Charts",
+  "description": "Classements musicaux en temps réel de Côte d'Ivoire – Apple Music, YouTube, Deezer",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0a0805",
+  "theme_color": "#e8651a",
+  "orientation": "portrait-primary",
+  "lang": "fr",
+  "categories": ["music", "entertainment", "news"],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

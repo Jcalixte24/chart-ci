@@ -1,0 +1,1857 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"/>
+<meta name="theme-color" content="#f8fafc"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="default"/>
+<meta name="apple-mobile-web-app-title" content="CI Charts"/>
+<title>CI Charts — Top Musique Côte d'Ivoire | Apple Music, YouTube, Deezer, Spotify</title>
+<link rel="manifest" href="/manifest.json"/>
+
+<!-- ═══════════════════════════════════════════════════
+     GOOGLE ADSENSE — Annonces Automatiques & Manuelles
+═══════════════════════════════════════════════════ -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2414311909411383" crossorigin="anonymous"></script>
+
+<!-- ═══════════════════════════════════════════════════
+     SEO — Balises essentielles
+═══════════════════════════════════════════════════ -->
+<meta name="description" content="CI Charts : les classements musicaux en temps réel de Côte d'Ivoire. Top Apple Music CI, YouTube CI et Deezer CI — Afrobeats, Coupé-Décalé, Nouchi Pop."/>
+<meta name="keywords" content="charts musique côte d'ivoire, top musique CI, apple music côte d'ivoire, youtube côte d'ivoire, deezer côte d'ivoire, afrobeats CI, coupé-décalé, nouchi pop, classement musical ivoirien, hits abidjan"/>
+<meta name="robots" content="index, follow"/>
+<meta name="author" content="CI Charts"/>
+<meta name="language" content="fr"/>
+<link rel="canonical" href="https://ci-charts.app/"/>
+
+<!-- Open Graph (Facebook / WhatsApp / LinkedIn) -->
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://ci-charts.app/"/>
+<meta property="og:title" content="CI Charts — Top Musique Côte d'Ivoire"/>
+<meta property="og:description" content="Classements musicaux en temps réel de Côte d'Ivoire : Apple Music, YouTube, Deezer. Afrobeats, Coupé-Décalé, Nouchi Pop."/>
+<meta property="og:image" content="https://ci-charts.app/og-image.png"/>
+<meta property="og:locale" content="fr_CI"/>
+<meta property="og:site_name" content="CI Charts"/>
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:title" content="CI Charts — Top Musique Côte d'Ivoire"/>
+<meta name="twitter:description" content="Classements musicaux en temps réel : Apple Music, YouTube, Deezer CI. Afrobeats, Coupé-Décalé, Nouchi Pop."/>
+<meta name="twitter:image" content="https://ci-charts.app/og-image.png"/>
+
+<!-- Données structurées JSON-LD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "CI Charts",
+  "url": "https://ci-charts.app/",
+  "description": "Classements musicaux en temps réel de Côte d'Ivoire — Apple Music, YouTube, Deezer",
+  "applicationCategory": "MusicApplication",
+  "operatingSystem": "All",
+  "inLanguage": "fr",
+  "offers": { "@type": "Offer", "price": "0", "priceCurrency": "XOF" },
+  "publisher": { "@type": "Organization", "name": "CI Charts" }
+}
+</script>
+
+<!-- PWA — icônes Safari/Chrome -->
+<link rel="icon" type="image/png" sizes="192x192" href="/icons/icon-192.png"/>
+<link rel="apple-touch-icon" href="/icons/icon-192.png"/>
+<meta name="mobile-web-app-capable" content="yes"/>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QMYK4TLMYJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-QMYK4TLMYJ');
+</script>
+
+<!-- Chart.js -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@0,600;0,700;1,400&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet"/>
+<style>
+/* ═══════════════════════════════════════════
+   RESET & VARIABLES (Thème Clair & Glassmorphism)
+═══════════════════════════════════════════ */
+*{box-sizing:border-box;margin:0;padding:0}
+
+:root{
+ /* Palette Light Modern */
+ --bg-app: #f4f6f8;
+ --bg-panel: rgba(255, 255, 255, 0.85);
+ --bg-card: #ffffff;
+ --bg-hover: rgba(241, 245, 249, 0.8);
+ 
+ --border: rgba(226, 232, 240, 0.8);
+ --border-light: rgba(241, 245, 249, 0.6);
+ 
+ --text-main: #0f172a;
+ --text-sec: #475569;
+ --text-muted: #94a3b8;
+ 
+ --primary: #FF5E00;
+ --primary-light: #fff2eb;
+ --primary-gradient: linear-gradient(135deg, #FF7B00, #FF4500);
+ 
+ --apple: #fa243c;
+ --apple-bg: #ffeaf0;
+ --yt: #ff0000;
+ --yt-bg: #ffe5e5;
+ --dz: #8b7fff;
+ --dz-bg: #f2efff;
+ --sp: #1db954;
+ --sp-bg: #e6f7ec;
+ 
+ --green: #10b981;
+ --red: #ef4444;
+ --gold: #f59e0b;
+
+ /* Type */
+ --font-display: 'Syne', sans-serif;
+ --font-serif: 'Playfair Display', serif;
+ --font-mono: 'JetBrains Mono', monospace;
+ 
+ --shadow-sm: 0 4px 20px -2px rgba(0,0,0,0.03);
+ --shadow-md: 0 8px 30px -4px rgba(0,0,0,0.06);
+ --shadow-lg: 0 12px 35px -5px rgba(0,0,0,0.08);
+ --radius-md: 14px;
+ --radius-lg: 18px;
+}
+
+html{
+ font-family: var(--font-display);
+ background: var(--bg-app);
+ color: var(--text-main);
+ -webkit-tap-highlight-color: transparent;
+ -webkit-font-smoothing: antialiased;
+}
+
+body {
+ display: flex;
+ height: 100vh;
+ overflow: hidden;
+}
+
+/* ═══════════════════════════════════════════
+   APP LAYOUT (Sidebar + Main)
+═══════════════════════════════════════════ */
+.app-container {
+ display: flex;
+ width: 100%;
+ height: 100%;
+}
+
+/* --- SIDEBAR (Desktop) --- */
+.sidebar {
+ width: 260px;
+ background: var(--bg-panel);
+ backdrop-filter: blur(12px);
+ -webkit-backdrop-filter: blur(12px);
+ border-right: 1px solid var(--border);
+ display: flex;
+ flex-direction: column;
+ z-index: 1000;
+ flex-shrink: 0;
+}
+
+.brand {
+ padding: 24px 20px;
+ display: flex;
+ align-items: center;
+ gap: 12px;
+ border-bottom: 1px solid var(--border-light);
+}
+
+.logo-badge {
+ width: 42px; height: 42px;
+ background: var(--primary-gradient);
+ border-radius: 12px;
+ display: flex; align-items: center; justify-content: center;
+ color: #fff; font-size: 17px; font-weight: 800; font-family: var(--font-display);
+ box-shadow: 0 8px 20px -4px rgba(255, 94, 0, 0.5), inset 0 2px 4px rgba(255,255,255,0.4);
+ position: relative;
+ overflow: hidden;
+ text-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+.logo-badge::before {
+ content: ''; position: absolute; width: 150%; height: 100%; top: 0; left: -150%;
+ background: linear-gradient(90deg, transparent, rgba(255,255,255,0.4), transparent);
+ transform: skewX(-25deg);
+ animation: badge-shine 5s infinite;
+}
+@keyframes badge-shine { 0%, 60% { left: -150%; } 100% { left: 150%; } }
+
+.logo-text { display: flex; flex-direction: column; line-height: 1.1; justify-content: center; }
+.logo-ci { font-size: 22px; font-weight: 800; letter-spacing: -0.5px; color: var(--text-main); display: flex; align-items: center; gap: 5px; }
+.logo-ci span { background: var(--primary-gradient); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+.logo-wave { margin-left: 2px; }
+.wave-1, .wave-2, .wave-3 { transform-box: fill-box; transform-origin: bottom; }
+.wave-1 { animation: w-anim 0.8s ease-in-out infinite alternate; }
+.wave-2 { animation: w-anim 0.6s ease-in-out infinite alternate-reverse; }
+.wave-3 { animation: w-anim 0.9s ease-in-out infinite alternate; }
+@keyframes w-anim { 0% { transform: scaleY(0.4); } 100% { transform: scaleY(1); } }
+.logo-sub { font-family: var(--font-mono); font-size: 9.5px; font-weight: 600; letter-spacing: 0.15em; color: var(--text-muted); text-transform: uppercase; margin-top: 2px; }
+
+.tabs {
+ display: flex;
+ flex-direction: column;
+ padding: 20px 12px;
+ gap: 6px;
+ overflow-y: auto;
+}
+
+.tab {
+ display: flex; align-items: center; gap: 12px;
+ padding: 12px 16px;
+ font-family: var(--font-display);
+ font-size: 13px; font-weight: 600;
+ letter-spacing: 0.03em;
+ cursor: pointer; border: none; background: transparent;
+ color: var(--text-sec);
+ border-radius: 10px;
+ transition: all 0.2s ease;
+ text-align: left;
+}
+
+.tab svg { flex-shrink: 0; }
+.tab:hover { background: var(--bg-hover); color: var(--text-main); }
+.tab.active { background: var(--primary-light); color: var(--primary); font-weight: 700; }
+.tab-apple.active { background: var(--apple-bg); color: var(--apple); }
+.tab-yt.active { background: var(--yt-bg); color: var(--yt); }
+.tab-dz.active { background: var(--dz-bg); color: var(--dz); }
+.tab-sp.active { background: var(--sp-bg); color: var(--sp); }
+.tab-stats.active { background: #fff8e6; color: var(--gold); }
+
+/* --- MAIN CONTENT --- */
+.main-content {
+ flex: 1;
+ display: flex;
+ flex-direction: column;
+ overflow: hidden;
+ position: relative;
+ background: var(--bg-app);
+}
+
+/* --- TOPBAR --- */
+.topbar {
+ background: var(--bg-panel);
+ backdrop-filter: blur(12px);
+ -webkit-backdrop-filter: blur(12px);
+ border-bottom: 1px solid var(--border);
+ padding: 14px 24px;
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+ gap: 20px;
+ z-index: 90;
+}
+
+.mobile-brand { display: none; }
+
+.search-wrap {
+ flex: 1;
+ max-width: 400px;
+ position: relative;
+}
+
+.search-inp {
+ width: 100%;
+ background: var(--bg-app);
+ border: 1px solid var(--border);
+ padding: 12px 16px 12px 40px;
+ border-radius: var(--radius-lg);
+ color: var(--text-main);
+ font-family: var(--font-mono);
+ font-size: 13px;
+ outline: none;
+ transition: all 0.2s;
+}
+.search-inp:focus { border-color: var(--primary); background: #fff; box-shadow: 0 0 0 3px var(--primary-light); }
+.search-inp::placeholder { color: var(--text-muted); }
+.search-wrap::before {
+ content: ''; position: absolute; left: 14px; top: 50%; transform: translateY(-50%);
+ width: 16px; height: 16px;
+ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%2394a3b8' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='11' cy='11' r='8'/%3E%3Cline x1='21' y1='21' x2='16.65' y2='16.65'/%3E%3C/svg%3E");
+ background-size: cover; pointer-events: none;
+}
+
+.topbar-actions {
+ display: flex; align-items: center; gap: 14px;
+}
+
+.ts-wrap { text-align: right; }
+.ts-date {
+ font-family: var(--font-mono); font-size: 10px; font-weight: 500;
+ color: var(--text-sec); display: block;
+}
+
+.refresh-btn {
+ width: 38px; height: 38px; border-radius: 10px;
+ background: var(--bg-app); border: 1px solid var(--border);
+ color: var(--text-sec);
+ display: flex; align-items: center; justify-content: center;
+ cursor: pointer;
+ transition: all 0.2s;
+}
+.refresh-btn svg { width: 18px; height: 18px; stroke: currentColor; fill: none; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
+.refresh-btn:hover { background: #fff; color: var(--primary); border-color: var(--primary); box-shadow: var(--shadow-sm); }
+.refresh-btn.spin svg { animation: spin .7s linear infinite; }
+@keyframes spin { to { transform: rotate(360deg); } }
+
+/* --- TYPE BAR (Sous-navigation) --- */
+.tbar {
+ display: flex; gap: 8px;
+ padding: 12px 24px;
+ background: var(--bg-panel);
+ backdrop-filter: blur(12px);
+ -webkit-backdrop-filter: blur(12px);
+ border-bottom: 1px solid var(--border);
+ overflow-x: auto; scrollbar-width: none;
+}
+.tbar::-webkit-scrollbar { display: none; }
+.tpill {
+ padding: 8px 16px; border-radius: 20px;
+ font-family: var(--font-mono); font-size: 11px; font-weight: 600; letter-spacing: .02em;
+ cursor: pointer; border: 1px solid var(--border); background: var(--bg-app); color: var(--text-sec);
+ transition: all 0.2s; white-space: nowrap;
+}
+.tpill:hover { background: #fff; border-color: var(--text-muted); }
+.tpill.active { background: var(--text-main); color: #fff; border-color: var(--text-main); }
+
+/* --- SCROLLABLE AREA --- */
+.scroll-area {
+ flex: 1;
+ overflow-y: auto;
+ padding-bottom: 40px;
+ scroll-behavior: smooth;
+}
+
+#main {
+ max-width: 800px;
+ margin: 0 auto;
+ padding: 20px 24px;
+}
+
+/* ═══════════════════════════════════════════
+   MOBILE RESPONSIVE (Bottom Tab Bar Native)
+═══════════════════════════════════════════ */
+@media (max-width: 768px) {
+ .app-container { flex-direction: column; }
+ 
+ .sidebar {
+   order: 3;
+   width: 100%; height: auto;
+   border-right: none; border-top: 1px solid var(--border);
+   background: rgba(255, 255, 255, 0.95);
+   backdrop-filter: blur(16px);
+   -webkit-backdrop-filter: blur(16px);
+   position: fixed; bottom: 0; left: 0; right: 0;
+   z-index: 1000;
+   padding-bottom: env(safe-area-inset-bottom);
+ }
+ 
+ .brand { display: none; }
+ 
+ .tabs {
+   flex-direction: row; padding: 6px; gap: 2px;
+   overflow-x: auto; justify-content: space-around;
+ }
+ 
+ .tab {
+   flex-direction: column; padding: 8px 0; gap: 4px;
+   font-size: 10px; border-radius: 8px; flex: 1; text-align: center; justify-content: center;
+ }
+ .tab svg { width: 22px; height: 22px; margin: 0 auto; }
+ 
+ .main-content { padding-bottom: 70px; }
+ 
+ .topbar { padding: 12px 16px; gap: 12px; }
+ .mobile-brand { display: flex; align-items: center; gap: 8px; font-weight: 800; font-size: 18px; color: var(--text-main); letter-spacing: -0.5px; }
+ .mobile-brand span { background: var(--primary-gradient); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+ .mobile-brand-badge { display: flex; align-items: center; justify-content: center; width: 28px; height: 28px; background: var(--primary-gradient); color: #fff; font-size: 12px; font-weight: 800; border-radius: 8px; box-shadow: 0 4px 10px rgba(255,94,0,0.4), inset 0 2px 3px rgba(255,255,255,0.3); text-shadow: 0 1px 2px rgba(0,0,0,0.2); }
+ 
+ .search-inp { padding: 10px 14px 10px 34px; font-size: 12px; }
+ .search-wrap::before { left: 10px; }
+ .ts-date { display: none; }
+ 
+ .tbar { padding: 10px 16px; }
+ #main { padding: 16px; }
+}
+
+/* ═══════════════════════════════════════════
+   TRACK LIST & CARDS (Clean UI)
+═══════════════════════════════════════════ */
+.sec-hdr{
+ display:flex; align-items:baseline; justify-content:space-between;
+ padding: 0 4px 12px;
+}
+.sec-lbl{
+ font-family: var(--font-display); font-size: 11px; font-weight: 800;
+ letter-spacing: .15em; text-transform: uppercase; color: var(--text-sec);
+ display: flex; align-items: center; gap: 8px;
+}
+.badge{
+ font-family: var(--font-mono); font-size: 9px; font-weight: 600;
+ padding: 3px 8px; border-radius: 6px; letter-spacing: .04em;
+}
+.ba{background: var(--apple-bg); color: var(--apple); border: 1px solid rgba(250,36,60,.15);}
+.by{background: var(--yt-bg); color: var(--yt); border: 1px solid rgba(255,0,0,.15);}
+.bd{background: var(--dz-bg); color: var(--dz); border: 1px solid rgba(139,127,255,.15);}
+.bs{background: var(--sp-bg); color: var(--sp); border: 1px solid rgba(29,185,84,.15);}
+.sec-meta{ font-family: var(--font-mono); font-size: 10px; color: var(--text-muted); font-weight: 500; }
+
+.tlist { display: flex; flex-direction: column; gap: 8px; margin-bottom: 24px; }
+
+.track {
+ display: flex; align-items: center; gap: 14px;
+ padding: 14px 16px;
+ background: var(--bg-card);
+ border: 1px solid rgba(0,0,0,0.04);
+ border-radius: var(--radius-md);
+ box-shadow: var(--shadow-sm);
+ transition: all 0.2s ease;
+ cursor: default;
+}
+.track:hover { transform: translateY(-2px); box-shadow: var(--shadow-md); border-color: rgba(0,0,0,0.08); }
+
+.t-rk { width: 28px; text-align: center; flex-shrink: 0; }
+.rn { font-family: var(--font-mono); font-size: 14px; font-weight: 600; color: var(--text-muted); }
+
+.r1 { font-family: var(--font-display); font-size: 22px; font-weight: 800; background: linear-gradient(135deg, #F59E0B, #EA580C); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+.r2 { font-family: var(--font-display); font-size: 18px; font-weight: 700; color: #64748B; }
+.r3 { font-family: var(--font-display); font-size: 16px; font-weight: 700; color: #B45309; }
+
+.t-info { flex: 1; min-width: 0; }
+.t-title {
+ font-family: var(--font-display); font-size: 14px; font-weight: 700; color: var(--text-main);
+ white-space: nowrap; overflow: hidden; text-overflow: ellipsis; letter-spacing: -0.01em;
+}
+.t-artist {
+ font-family: var(--font-mono); font-size: 11px; color: var(--text-sec); font-weight: 500;
+ white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin-top: 3px;
+}
+
+.t-right { display: flex; align-items: center; gap: 10px; flex-shrink: 0; }
+.t-str { font-family: var(--font-mono); font-size: 11px; font-weight: 600; color: var(--text-sec); background: var(--bg-app); padding: 4px 8px; border-radius: 6px; }
+.mov { font-family: var(--font-mono); font-size: 11px; font-weight: 600; min-width: 34px; text-align: right; }
+.mu { color: var(--green); }
+.md { color: var(--red); }
+.me { color: var(--text-muted); }
+.mnew {
+ background: var(--primary-light); color: var(--primary);
+ padding: 3px 6px; border-radius: 4px; font-size: 9px; font-weight: 700; letter-spacing: .05em;
+}
+
+/* ═══════════════════════════════════════════
+   ANALYTICS & CHARTS
+═══════════════════════════════════════════ */
+.kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 12px; margin-bottom: 20px; }
+.kpi {
+ background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius-md);
+ padding: 18px 16px; position: relative; overflow: hidden; box-shadow: var(--shadow-sm);
+}
+.kpi::before {
+ content: ''; position: absolute; top: 0; left: 0; right: 0; height: 3px;
+ background: var(--primary-gradient);
+}
+.kpi-lbl { font-family: var(--font-mono); font-size: 10px; font-weight: 600; letter-spacing: .05em; text-transform: uppercase; color: var(--text-sec); margin-bottom: 8px; }
+.kpi-v { font-family: var(--font-display); font-size: 32px; font-weight: 800; line-height: 1; letter-spacing: -0.03em; }
+.kpi-s { font-family: var(--font-mono); font-size: 10px; color: var(--text-muted); margin-top: 6px; }
+
+.card {
+ background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius-md);
+ padding: 20px; margin-bottom: 16px; box-shadow: var(--shadow-sm);
+}
+.card-t {
+ font-family: var(--font-display); font-size: 12px; font-weight: 800; color: var(--text-main);
+ text-transform: uppercase; letter-spacing: .1em; margin-bottom: 16px;
+ display: flex; align-items: center; gap: 8px;
+}
+.card-t::before { content: ''; display: block; width: 4px; height: 14px; background: var(--primary); border-radius: 2px; }
+
+.brow { display: flex; align-items: center; gap: 12px; margin-bottom: 10px; }
+.blbl { font-family: var(--font-mono); font-size: 11px; font-weight: 600; color: var(--text-sec); width: 90px; flex-shrink: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.bbg { flex: 1; height: 6px; background: var(--bg-hover); border-radius: 3px; overflow: hidden; }
+.bfill { height: 100%; border-radius: 3px; transition: width 1s cubic-bezier(.4,0,.2,1); }
+.bval { font-family: var(--font-mono); font-size: 10px; font-weight: 600; color: var(--text-main); min-width: 32px; text-align: right; }
+
+.crow { display: flex; align-items: center; padding: 12px 0; border-bottom: 1px solid var(--border-light); }
+.crow:last-child { border-bottom: none; padding-bottom: 0; }
+.cname { font-family: var(--font-display); font-size: 14px; font-weight: 700; color: var(--text-main); flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.pdots { display: flex; gap: 6px; }
+.pdot { width: 24px; height: 24px; border-radius: 6px; display: flex; align-items: center; justify-content: center; font-family: var(--font-display); font-size: 10px; font-weight: 800; }
+.pda { background: var(--apple-bg); color: var(--apple); }
+.pdy { background: var(--yt-bg); color: var(--yt); }
+.pdd { background: var(--dz-bg); color: var(--dz); }
+.pbs { background: var(--sp-bg); color: var(--sp); }
+.pdo { background: var(--bg-hover); color: var(--text-muted); }
+
+.chart-wrapper { position: relative; height: 280px; width: 100%; padding-top: 10px; margin-bottom: 8px; }
+
+.move-item { display: flex; align-items: center; justify-content: space-between; padding: 14px 10px; border-bottom: 1px solid var(--border-light); }
+.move-item:last-child { border-bottom: none; }
+.move-val { font-family: var(--font-mono); font-weight: 800; font-size: 14px; min-width: 45px; text-align: right; }
+
+.move-filters { display: flex; gap: 8px; margin-bottom: 16px; overflow-x: auto; padding-bottom: 4px; scrollbar-width: none; }
+.move-filters::-webkit-scrollbar { display: none; }
+.mpill {
+ padding: 8px 16px; border-radius: 20px; background: var(--bg-card); border: 1px solid var(--border);
+ color: var(--text-sec); font-size: 11px; font-weight: 600; font-family: var(--font-mono);
+ white-space: nowrap; cursor: pointer; transition: all 0.2s; box-shadow: var(--shadow-sm);
+}
+.mpill:hover { color: var(--text-main); border-color: var(--text-muted); }
+.mpill.active { background: var(--text-main); color: #fff; border-color: var(--text-main); }
+
+/* ═══════════════════════════════════════════
+   ÉTATS (Loading, Erreur, Vide)
+═══════════════════════════════════════════ */
+.loading { padding: 100px 20px; text-align: center; }
+.la { margin-bottom: 20px; display: flex; justify-content: center; }
+.spinner { animation: spin 1.2s linear infinite; stroke: var(--primary); }
+@keyframes spin { 100% { transform: rotate(360deg); } }
+.lt { font-family: var(--font-display); font-size: 16px; font-weight: 800; color: var(--text-main); margin-bottom: 6px; }
+.ls { font-family: var(--font-mono); font-size: 11px; color: var(--text-sec); margin-bottom: 24px; }
+.pb { width: 180px; height: 4px; background: var(--bg-hover); margin: 0 auto; overflow: hidden; border-radius: 2px; }
+.pf { height: 100%; background: var(--primary-gradient); animation: pg 2s ease-in-out infinite; border-radius: 2px; }
+@keyframes pg { 0%{width:0;opacity:1} 70%{width:90%} 100%{width:100%;opacity:0} }
+
+.empty { padding: 80px 20px; text-align: center; color: var(--text-sec); line-height: 1.6; }
+.eioc { margin-bottom: 16px; display: flex; justify-content: center; color: var(--text-muted); }
+.empty p { font-family: var(--font-display); font-size: 15px; font-weight: 700; color: var(--text-main); margin-bottom: 6px; }
+
+.errbox { margin: 20px; background: #fef2f2; border: 1px solid #fecaca; border-radius: var(--radius-md); padding: 30px 20px; text-align: center; }
+.errico { margin-bottom: 16px; display: flex; justify-content: center; color: #dc2626; }
+.errmsg { font-family: var(--font-display); font-size: 16px; font-weight: 800; color: #dc2626; margin-bottom: 8px; }
+.errhint { font-family: var(--font-mono); font-size: 11px; color: #7f1d1d; margin-bottom: 20px; }
+.errbtn { padding: 10px 24px; background: #dc2626; border: none; border-radius: 8px; color: #fff; font-family: var(--font-display); font-size: 13px; font-weight: 700; cursor: pointer; transition: background .15s; }
+.errbtn:hover { background: #b91c1c; }
+
+/* ═══════════════════════════════════════════
+   CHAT
+═══════════════════════════════════════════ */
+.chat-fab {
+ position: fixed; bottom: 24px; right: 24px;
+ width: 56px; height: 56px; border-radius: 50%;
+ background: var(--text-main); border: none;
+ color: #fff;
+ cursor: pointer; z-index: 1040;
+ display: flex; align-items: center; justify-content: center;
+ box-shadow: 0 8px 25px rgba(15, 23, 42, 0.3);
+ transition: transform 0.2s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+.chat-fab:hover { transform: scale(1.1); background: var(--primary); box-shadow: 0 8px 25px rgba(255, 94, 0, 0.4); }
+
+@media (max-width: 768px) {
+ .chat-fab { bottom: 100px; right: 16px; width: 50px; height: 50px; }
+}
+
+.chat-backdrop { position: fixed; inset: 0; background: rgba(15, 23, 42, 0.4); backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px); z-index: 1050; opacity: 0; pointer-events: none; transition: opacity .3s; }
+.chat-backdrop.visible { opacity: 1; pointer-events: auto; }
+
+.chatwrap {
+ position: fixed; bottom: 0; left: 50%; transform: translateX(-50%) translateY(100%);
+ width: min(500px, 100vw);
+ background: var(--bg-panel);
+ backdrop-filter: blur(16px);
+ -webkit-backdrop-filter: blur(16px);
+ border-radius: 20px 20px 0 0;
+ padding: 0 20px max(20px, env(safe-area-inset-bottom)) 20px;
+ z-index: 1060; box-shadow: 0 -10px 40px rgba(0,0,0,0.1);
+ transition: transform .35s cubic-bezier(0.2, 0.8, 0.2, 1);
+ display: flex; flex-direction: column; max-height: 85vh;
+}
+.chatwrap.open { transform: translateX(-50%) translateY(0); }
+
+/* Modifications spéciales Mobile pour l'IA plein écran */
+@media (max-width: 768px) { 
+ .chatwrap { 
+   width: 100vw; 
+   left: 0; 
+   height: 100%; /* Prend toute la hauteur disponible */
+   max-height: 100%;
+   border-radius: 0;
+   transform: translateY(100%); 
+   /* Le padding-top avec env(safe-area) garantit que la croix n'est pas cachée par l'encoche du téléphone */
+   padding: max(16px, env(safe-area-inset-top)) 16px max(16px, env(safe-area-inset-bottom)) 16px; 
+ } 
+ .chatwrap.open{ transform: translateY(0); } 
+}
+
+.chat-header { display: flex; align-items: center; justify-content: space-between; padding: 18px 0 14px; border-bottom: 1px solid var(--border); margin-bottom: 12px; flex-shrink: 0; }
+.chat-title { font-family: var(--font-display); font-size: 14px; font-weight: 800; color: var(--text-main); display: flex; align-items: center; gap: 8px; }
+.chat-close { width: 32px; height: 32px; border-radius: 50%; background: var(--bg-hover); border: none; color: var(--text-sec); cursor: pointer; display: flex; align-items: center; justify-content: center; transition: all .2s; }
+.chat-close:hover { background: var(--border); color: var(--text-main); }
+
+.chist { flex: 1; overflow-y: auto; display: flex; flex-direction: column; gap: 10px; margin-bottom: 16px; padding-right: 4px; }
+.chist::-webkit-scrollbar { width: 4px; }
+.chist::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+
+.cmsg { padding: 12px 14px; border-radius: 12px; font-size: 13px; line-height: 1.5; max-width: 85%; word-break: break-word; font-family: var(--font-mono); }
+.cu { background: var(--primary); color: #fff; align-self: flex-end; border-bottom-right-radius: 4px; box-shadow: 0 2px 8px rgba(255,94,0,0.2); }
+.ca { background: var(--bg-hover); border: 1px solid var(--border); color: var(--text-main); align-self: flex-start; border-bottom-left-radius: 4px; }
+.ca strong { color: var(--primary); font-weight: 700; font-family: var(--font-display); font-size: 14px; }
+
+.crow2 { display: flex; gap: 10px; align-items: center; background: var(--bg-hover); padding: 6px; border-radius: 14px; border: 1px solid var(--border); flex-shrink: 0; }
+.cinp { flex: 1; min-width: 0; background: transparent; border: none; padding: 10px 12px; color: var(--text-main); font-family: var(--font-mono); font-size: 12px; outline: none; }
+.cinp::placeholder { color: var(--text-muted); }
+.cgo { width: 40px; height: 40px; border-radius: 10px; background: var(--text-main); border: none; color: #fff; cursor: pointer; display: flex; align-items: center; justify-content: center; transition: background .2s; }
+.cgo:active,.cgo:hover { background: var(--primary); }
+
+.hidden { display: none !important; }
+
+@keyframes fadeUp { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+.tlist .track { animation: fadeUp 0.3s ease-out both; }
+.tlist .track:nth-child(1){animation-delay:.04s}
+.tlist .track:nth-child(2){animation-delay:.08s}
+.tlist .track:nth-child(3){animation-delay:.12s}
+.tlist .track:nth-child(4){animation-delay:.16s}
+.tlist .track:nth-child(n+5){animation-delay:.2s}
+</style>
+</head>
+<body>
+
+<div class="app-container">
+  <!-- SIDEBAR (Left on desktop, Bottom on mobile) -->
+  <aside class="sidebar" id="sidebar">
+    <div class="brand">
+      <div class="logo-badge">CI</div>
+      <div class="logo-text">
+        <span class="logo-ci">CI <span>Charts</span>
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="url(#orange-grad)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="logo-wave">
+            <defs><linearGradient id="orange-grad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#FF7B00"/><stop offset="100%" stop-color="#FF4500"/></linearGradient></defs>
+            <path d="M18 20V10" class="wave-1"></path>
+            <path d="M12 20V4" class="wave-2"></path>
+            <path d="M6 20V14" class="wave-3"></path>
+          </svg>
+        </span>
+        <span class="logo-sub">Classements Musicaux</span>
+      </div>
+    </div>
+    <nav class="tabs" id="tabs">
+      <button class="tab tab-all active" data-p="all">
+        <svg viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7"></rect><rect x="14" y="3" width="7" height="7"></rect><rect x="14" y="14" width="7" height="7"></rect><rect x="3" y="14" width="7" height="7"></rect></svg>
+        <span>Tout</span>
+      </button>
+      <button class="tab tab-apple" data-p="apple">
+        <svg viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20.5S16 17 16 12c0-3.5-2.5-4.5-4-4.5s-4 1-4 4.5c0 5 4 8.5 4 8.5z"></path><path d="M12 7.5a3 3 0 0 1-3-3"></path></svg>
+        <span>Apple</span>
+      </button>
+      <button class="tab tab-sp" data-p="spotify">
+        <svg viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><path d="M8 11.5c2.5-1 5.5-1 8 0"></path><path d="M7 14.5c2.5-1 6.5-1 9 0"></path></svg>
+        <span>Spotify</span>
+      </button>
+      <button class="tab tab-yt" data-p="youtube">
+        <svg viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="6" width="20" height="12" rx="2"></rect><polygon points="10 9 15 12 10 15 10 9"></polygon></svg>
+        <span>YouTube</span>
+      </button>
+      <button class="tab tab-dz" data-p="deezer">
+        <svg viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M3 18h3v3H3zM8 18h3v3H8zM13 18h3v3h-3zM18 18h3v3h-3zM13 13h3v3h-3zM18 13h3v3h-3zM18 8h3v3h-3z"></path></svg>
+        <span>Deezer</span>
+      </button>
+      <button class="tab tab-stats" data-p="stats">
+        <svg viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"></polyline></svg>
+        <span>Analyse</span>
+      </button>
+    </nav>
+  </aside>
+
+  <!-- MAIN CONTENT AREA -->
+  <div class="main-content">
+    <header class="topbar">
+      <div class="mobile-brand">
+        <div class="mobile-brand-badge">CI</div> CI <span>Charts</span>
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="url(#orange-grad-mobile)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="logo-wave">
+          <defs><linearGradient id="orange-grad-mobile" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#FF7B00"/><stop offset="100%" stop-color="#FF4500"/></linearGradient></defs>
+          <path d="M18 20V10" class="wave-1"></path>
+          <path d="M12 20V4" class="wave-2"></path>
+          <path d="M6 20V14" class="wave-3"></path>
+        </svg>
+      </div>
+      <div id="searchBar" class="search-wrap">
+        <input type="text" id="searchInput" class="search-inp" placeholder="Rechercher un titre, un artiste..." autocomplete="off"/>
+      </div>
+      <div class="topbar-actions">
+        <div class="ts-wrap"><span class="ts-date" id="tsEl"></span></div>
+        <button class="refresh-btn" id="refreshBtn" aria-label="Actualiser">
+          <svg viewBox="0 0 24 24"><path d="M21 2v6h-6"></path><path d="M3 12a9 9 0 1 0 2.1-5.9L21 8"></path></svg>
+        </button>
+      </div>
+    </header>
+
+    <div id="tbar" class="tbar">
+      <button class="tpill active" id="tpill-songs" data-t="songs">Titres</button>
+      <button class="tpill" id="tpill-albums" data-t="albums">Albums</button>
+      <button class="tpill hidden" id="tpill-artists" data-t="artists">Artistes</button>
+      <button class="tpill hidden" id="tpill-yt-daily" data-t="yt_daily">Quotidien</button>
+      <button class="tpill hidden" id="tpill-yt-weekly" data-t="yt_weekly">Hebdomadaire</button>
+      <button class="tpill hidden" id="tpill-summary" data-t="summary">Résumé</button>
+      <button class="tpill hidden" id="tpill-charts" data-t="charts">Graphes</button>
+      <button class="tpill hidden" id="tpill-moves" data-t="moves">Mouvements</button>
+    </div>
+
+    <!-- Scrollable content -->
+    <div class="scroll-area">
+      <!-- AD SPACE -->
+      <div id="ad-container" style="text-align:center; padding: 16px 0; min-height: 90px;">
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-2414311909411383"
+             data-ad-slot="2875525092"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+      </div>
+
+      <div id="main"></div>
+    </div>
+  </div>
+</div>
+
+<!-- CHAT BACKDROP -->
+<div class="chat-backdrop" id="chatBackdrop"></div>
+
+<!-- CHAT PANEL -->
+<div class="chatwrap" id="chatwrap">
+ <div class="chat-header">
+  <span class="chat-title">
+    <svg viewBox="0 0 24 24" width="18" height="18" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path></svg>
+    Assistant CI Charts
+  </span>
+  <button class="chat-close" id="chatClose" aria-label="Fermer">
+    <svg viewBox="0 0 24 24" width="18" height="18" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+  </button>
+ </div>
+ <div class="chist" id="chist"></div>
+ <div class="crow2">
+  <input class="cinp" id="cinp" placeholder="Pose-moi une question sur les charts..." type="text" maxlength="200"/>
+  <button class="cgo" id="cgo" aria-label="Envoyer">
+    <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+      <line x1="22" y1="2" x2="11" y2="13"></line>
+      <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+    </svg>
+  </button>
+ </div>
+</div>
+
+<!-- FAB -->
+<button class="chat-fab" id="chatFab" aria-label="Ouvrir l'assistant">
+  <svg viewBox="0 0 24 24" width="24" height="24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path></svg>
+</button>
+
+<script>
+/* ── GESTION DU CACHE ET SERVICE WORKER ───────────────────────────────────── */
+if('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.getRegistrations().then(function(registrations) {
+      for(let registration of registrations) { registration.unregister(); }
+    }).catch(function(err) { console.warn('Purge du SW ignorée:', err); });
+  });
+}
+
+/* ── MULTI-PROXY EXTRÊME POUR CONTOURNER CLOUDFLARE ───────────────────────────────────────────── */
+const PROXY = [
+ u=>`/proxy?url=${encodeURIComponent(u)}`, 
+ u=>`https://api.allorigins.win/get?url=${encodeURIComponent(u)}`, 
+ u=>`https://corsproxy.io/?${encodeURIComponent(u)}`,
+ u=>`https://api.codetabs.com/v1/proxy/?quest=${encodeURIComponent(u)}` 
+];
+
+/* VRAIS LIENS OFFICIELS (Y COMPRIS SPOTIFY & NOUVEAU YOUTUBE HEBDO) */
+const URLS = {
+ apple_songs: 'https://kworb.net/charts/apple_s/ci.html',
+ apple_albums: 'https://kworb.net/charts/apple_a/ci.html',
+ youtube: 'https://kworb.net/youtube/insights/ci_daily.html',
+ youtube_weekly: 'https://kworb.net/youtube/insights/ci.html', 
+ deezer: 'https://kworb.net/charts/deezer/ci.html',
+ spotify_songs: 'https://kworb.net/spotify/country/ci_daily.html'
+};
+
+/* ── STATE ────────────────────────────────────────────────── */
+const S = { p:'all', t:'songs', data:{}, loading:false, dp:null, mPlat: 'all', search: '' };
+
+/* ── FETCH VIA PROXY ──────────────────────────────────────── */
+async function pfetch(url){
+ if (!url) return null;
+ for(let i=0;i<PROXY.length;i++){
+ try{
+ const r=await fetch(PROXY[i](url),{signal:AbortSignal.timeout(12000)});
+ if(!r.ok) continue;
+ const ct=r.headers.get('content-type')||'';
+ let html=null;
+ 
+ if(ct.includes('json')){
+   let j; try{ j=await r.clone().json(); }catch(e){ continue; }
+   html=j.contents||j.body||(typeof j==='string'?j:null);
+ } else {
+   html=await r.text();
+ }
+ 
+ if(html && html.length > 500 && !html.includes('Just a moment...') && !html.includes('Attention Required!')) {
+   return html;
+ }
+ }catch(e){} 
+ }
+ return null; 
+}
+
+async function pfetchSafe(url){
+  try { return await pfetch(url); } catch(e) { return null; }
+}
+
+/* ── PARSER STANDARD ───────────── */
+function parseTable(html, isSpotify = false){
+ if(!html) return [];
+ const doc=new DOMParser().parseFromString(html,'text/html');
+ const items=[];
+ doc.querySelectorAll('table tbody tr').forEach(row=>{
+ const td=[...row.querySelectorAll('td')];
+ if(td.length<3) return;
+ const pos=parseInt(td[0].textContent.trim());
+ if(isNaN(pos)) return;
+ let mov=td[1].textContent.trim()||'=';
+ let isNew=false;
+ if(mov===''||mov==='NEW'){mov='NEW';isNew=true;}
+ else if(mov==='0'||mov==='=') mov='=';
+
+ const textNode = row.querySelector('.text');
+ const raw = textNode ? textNode.textContent.trim() : td[2].textContent.trim();
+
+ let streams = 0;
+ if (isSpotify && textNode && textNode.nextElementSibling) {
+   streams = parseInt(textNode.nextElementSibling.textContent.replace(/[,\s]/g,''))||0;
+ } else if (td.length>=4) {
+   streams = parseInt(td[3].textContent.replace(/[,\s]/g,''))||0;
+ }
+
+ const di=raw.indexOf(' - ');
+ const artist=di>=0?raw.slice(0,di).trim():raw;
+ const title=di>=0?raw.slice(di+3).trim():raw;
+ items.push({pos,artist,title,mov,isNew,streams});
+ });
+ return items;
+}
+
+/* ── DEEP SCRAPING HTML POUR SPOTIFY OFFICIEL ───────────── */
+function parseSpotify(html, type) {
+    if(!html || html.includes('Cloudflare') || html.includes('Just a moment...')) return [];
+    const items = [];
+    const seen = new Set();
+    
+    try {
+        let text = html.replace(/\\"/g, '"').replace(/\\u0022/g, '"');
+        let regex;
+        if (type === 'songs') {
+            regex = /"type":"track"[^}]*?"name":"([^"]+)"[^]*?"artists":\[{"(?:type":"artist",)?"name":"([^"]+)"/g;
+        } else if (type === 'albums') {
+            regex = /"type":"album"[^}]*?"name":"([^"]+)"[^]*?"artists":\[{"(?:type":"artist",)?"name":"([^"]+)"/g;
+        } else {
+            regex = /"type":"artist"[^}]*?"name":"([^"]+)"/g;
+        }
+
+        let match;
+        while ((match = regex.exec(text)) !== null) {
+            const title = match[1];
+            const artist = match[2] || '-';
+            if (title && title.length > 1 && !title.includes('Spotify') && !seen.has(title)) {
+                seen.add(title);
+                if (type === 'songs') items.push({ pos: items.length + 1, title: title, artist: artist, mov: '=' });
+                else if (type === 'albums') items.push({ pos: items.length + 1, title: title, artist: artist, type: 'Album' });
+                else items.push({ pos: items.length + 1, name: title, genres: 'Populaire CI', followers: 0 });
+            }
+            if(items.length >= 300) break; // Sécurité anti-boucle (Max)
+        }
+    } catch(e) {}
+    return items;
+}
+
+/* ── LOAD ALL ─────────────────────────────────────────────── */
+async function loadAll(silent=false){
+ if(S.loading) return;
+ S.loading=true;
+ const refreshBtnEl = document.getElementById('refreshBtn');
+ if (refreshBtnEl) refreshBtnEl.classList.add('spin');
+ 
+ if(!silent) showLoading();
+ try{
+ const [hAS,hAA,hYT,hDZ, hSPSongs, hYTW] = await Promise.all([
+   pfetchSafe(URLS.apple_songs),
+   pfetchSafe(URLS.apple_albums),
+   pfetchSafe(URLS.youtube),
+   pfetchSafe(URLS.deezer),
+   pfetchSafe(URLS.spotify_songs),
+   pfetchSafe(URLS.youtube_weekly)
+ ]);
+ 
+ const appleSongs = parseTable(hAS);
+ const appleAlbums = parseTable(hAA);
+ const yt = parseTable(hYT);
+ const ytWeekly = parseTable(hYTW);
+ const dz = parseTable(hDZ);
+ 
+ let spSongs = parseTable(hSPSongs, true); 
+ let spArtists = [];
+ let spAlbums = [];
+
+ if (spSongs.length > 0) {
+     const spArtistScores = {};
+     spSongs.forEach(track => {
+         const artists = track.artist.split(/,\s*|&\s*|feat\.?\s*/i);
+         artists.forEach(a => {
+             const name = a.trim();
+             if(name.length > 1) {
+                 spArtistScores[name] = (spArtistScores[name] || 0) + (track.streams || (200 - track.pos));
+             }
+         });
+     });
+     spArtists = Object.entries(spArtistScores)
+         .sort((a,b) => b[1] - a[1])
+         .map((a, idx) => ({ name: a[0], pos: idx + 1, streams: a[1], genres: 'Artiste Tendance CI' }));
+ }
+ 
+ try {
+     const apiRes = await fetch('/data/spotify_data.json');
+     if(apiRes.ok) {
+         const apiData = await apiRes.json();
+         if(apiData.albums && apiData.albums.length > 0) spAlbums = apiData.albums;
+         if(apiData.songs && apiData.songs.length > 0) spSongs = apiData.songs;
+         if(apiData.artists && apiData.artists.length > 0) spArtists = apiData.artists;
+     }
+ } catch(e) {
+     console.error("Erreur de chargement des données Spotify:", e);
+ }
+ S.data={
+   apple_songs:  appleSongs,
+   apple_albums: appleAlbums,
+   youtube:      yt,
+   youtube_weekly: ytWeekly,
+   deezer:       dz,
+   spotify_songs: spSongs,
+   spotify_albums: spAlbums,
+   spotify_artists: spArtists
+ };
+
+ const now=new Date();
+ const ts=now.toLocaleDateString('fr-FR',{day:'2-digit',month:'short'})+' '+
+ now.toLocaleTimeString('fr-FR',{hour:'2-digit',minute:'2-digit'});
+ const tsEl = document.getElementById('tsEl');
+ if (tsEl) tsEl.textContent=ts;
+ lastRefresh = Date.now();
+ updateNextRefreshLabel();
+ try{
+ localStorage.setItem('ci_data',JSON.stringify(S.data));
+ localStorage.setItem('ci_ts',ts);
+ }catch(e){}
+ render();
+ }catch(err){
+ try{
+ const c=localStorage.getItem('ci_data');
+ if(c){
+ S.data=JSON.parse(c);
+ const ts=(localStorage.getItem('ci_ts')||'')+' (cache)';
+ const tsEl = document.getElementById('tsEl');
+ if(tsEl) tsEl.textContent=ts;
+ render(); return;
+ }
+ }catch(e){}
+ showError(err.message);
+ }finally{
+ S.loading=false;
+ const refreshBtnElEnd = document.getElementById('refreshBtn');
+ if (refreshBtnElEnd) refreshBtnElEnd.classList.remove('spin');
+ }
+}
+
+/* ── NAVIGATION ───────────────────────────────────────────── */
+function updateTbar() {
+ const tbar = document.getElementById('tbar');
+ const pAr = document.getElementById('tpill-artists');
+ const pAl = document.getElementById('tpill-albums');
+ const pSo = document.getElementById('tpill-songs');
+ const pSum = document.getElementById('tpill-summary');
+ const pCha = document.getElementById('tpill-charts');
+ const pMov = document.getElementById('tpill-moves');
+ const pYtD = document.getElementById('tpill-yt-daily');
+ const pYtW = document.getElementById('tpill-yt-weekly');
+ const searchBar = document.getElementById('searchBar');
+ const adContainer = document.getElementById('ad-container');
+ 
+ if(!pAr || !pAl) return;
+
+ [pSo, pAl, pAr, pSum, pCha, pMov, pYtD, pYtW].forEach(el => el && el.classList.add('hidden'));
+
+ if (S.p === 'spotify') {
+   if (tbar) tbar.classList.remove('hidden');
+   pSo.classList.remove('hidden');
+   pAl.classList.remove('hidden');
+   pAr.classList.remove('hidden');
+   if(!['songs', 'albums', 'artists'].includes(S.t)) S.t = 'songs';
+ } else if (S.p === 'apple') {
+   if (tbar) tbar.classList.remove('hidden');
+   pSo.classList.remove('hidden');
+   pAl.classList.remove('hidden');
+   pAr.classList.add('hidden');
+   if(!['songs', 'albums'].includes(S.t)) S.t = 'songs';
+ } else if (S.p === 'stats') {
+   if (tbar) tbar.classList.remove('hidden');
+   pSum.classList.remove('hidden');
+   pCha.classList.remove('hidden');
+   pMov.classList.remove('hidden');
+   if(!['summary', 'charts', 'moves'].includes(S.t)) S.t = 'summary';
+ } else if (S.p === 'youtube') {
+   if (tbar) tbar.classList.remove('hidden');
+   if (pYtD) pYtD.classList.remove('hidden');
+   if (pYtW) pYtW.classList.remove('hidden');
+   if(!['yt_daily', 'yt_weekly'].includes(S.t)) S.t = 'yt_daily';
+ } else {
+   if (tbar) tbar.classList.add('hidden');
+   S.t = 'songs';
+ }
+
+ if (S.p === 'stats') {
+   if(searchBar) searchBar.classList.add('hidden');
+   if(adContainer) adContainer.classList.add('hidden');
+ } else {
+   if(searchBar) searchBar.classList.remove('hidden');
+   if(adContainer) adContainer.classList.remove('hidden');
+ }
+
+ document.querySelectorAll('.tpill').forEach(x=>x.classList.remove('active'));
+ const activePill = document.querySelector(`.tpill[data-t="${S.t}"]`);
+ if(activePill) activePill.classList.add('active');
+}
+
+window.setMovePlat = function(plat) {
+    S.mPlat = plat;
+    render();
+};
+
+/* ── RECHERCHE & FILTRAGE ─────────────────────────────────── */
+function filterItems(items) {
+    if (!S.search || S.search.trim() === '') return items;
+    return items.filter(i => {
+        const str = ((i.title || '') + ' ' + (i.artist || '') + ' ' + (i.name || '')).toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');
+        return str.includes(S.search);
+    });
+}
+
+/* ── RENDER HELPERS ───────────────────────────────────────── */
+const esc=s=>String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+function movH(m){
+ if(!m||m==='=') return '<span class="mov me">—</span>';
+ if(m==='NEW') return '<span class="mov mnew">NEW</span>';
+ if(m.startsWith('+')) return `<span class="mov mu">${m}</span>`;
+ return `<span class="mov md">${m}</span>`;
+}
+const rnCl=p=>p===1?'r1':p===2?'r2':p===3?'r3':'';
+function fmtS(n){
+ if(!n) return '';
+ if(n>=1e6) return (n/1e6).toFixed(1)+'M';
+ if(n>=1000) return Math.round(n/1000)+'k';
+ return ''+n;
+}
+function tHTML(i,showS=false){
+ const st=showS&&i.streams?`<span class="t-str">${fmtS(i.streams)}</span>`:'';
+ return `<div class="track">
+ <div class="t-rk"><span class="rn ${rnCl(i.pos)}">${i.pos}</span></div>
+ <div class="t-info">
+ <div class="t-title">${esc(i.title||i.artist)}</div>
+ <div class="t-artist">${esc(i.title?i.artist:'')}</div>
+ </div>
+ <div class="t-right">${st}${movH(i.mov)}</div>
+ </div>`;
+}
+function secH(label,bc,n,extra=''){
+ return `<div class="sec-hdr"><span class="sec-lbl"><span class="badge ${bc}">${label}</span></span><span class="sec-meta">${n} éléments${extra}</span></div>`;
+}
+
+/* ── GESTION DES GRAPHIQUES CHART.JS (Couleurs Light) ─────── */
+window.chartInstances = {};
+
+function drawCharts() {
+    if (S.p !== 'stats' || S.t !== 'charts') return;
+    
+    Object.values(window.chartInstances).forEach(c => c && c.destroy());
+    window.chartInstances = {};
+
+    if(typeof Chart === 'undefined') return;
+
+    Chart.defaults.color = '#64748b'; 
+    Chart.defaults.font.family = "'JetBrains Mono', monospace";
+    Chart.defaults.plugins.legend.labels.font = { family: "'JetBrains Mono', monospace", size: 11, weight: '600' };
+    Chart.defaults.plugins.tooltip.titleFont = { family: "'Syne', sans-serif", size: 13, weight: '700' };
+    Chart.defaults.plugins.tooltip.bodyFont = { family: "'JetBrains Mono', monospace", size: 12 };
+    Chart.defaults.plugins.tooltip.backgroundColor = 'rgba(15, 23, 42, 0.9)';
+    Chart.defaults.plugins.tooltip.padding = 10;
+    Chart.defaults.plugins.tooltip.cornerRadius = 8;
+
+    const d = S.data;
+    const gridColor = '#f1f5f9';
+    
+    // Graphe 1
+    const ctx1 = document.getElementById('chartArtists');
+    if (ctx1) {
+        const ac = {};
+        [...(d.apple_songs||[]), ...(d.deezer||[]), ...(d.spotify_songs||[]), ...(d.youtube_weekly||[])].forEach(i=>{
+            const a = normA(i.artist); 
+            if(a && a!=='-') ac[a] = (ac[a]||0) + 1;
+        });
+        const topA = Object.entries(ac).sort((a,b)=>b[1]-a[1]).slice(0,6);
+        window.chartInstances.c1 = new Chart(ctx1, {
+            type: 'bar',
+            data: {
+                labels: topA.map(x=>x[0]),
+                datasets: [{
+                    label: 'Présences',
+                    data: topA.map(x=>x[1]),
+                    backgroundColor: '#FF5E00',
+                    borderRadius: 6
+                }]
+            },
+            options: { 
+                responsive: true, maintainAspectRatio: false, indexAxis: 'y', 
+                plugins: { legend: { display: false } },
+                scales: { x: { grid: { color: gridColor } }, y: { grid: { display: false } } }
+            }
+        });
+    }
+
+    // Graphe 2
+    const ctx2 = document.getElementById('chartPresence');
+    if (ctx2) {
+        const ac = {};
+        [...(d.apple_songs||[]), ...(d.deezer||[]), ...(d.spotify_songs||[]), ...(d.youtube_weekly||[])].forEach(i=>{
+            const a = normA(i.artist); 
+            if(a && a!=='-') ac[a] = (ac[a]||0) + 1;
+        });
+        const top5 = Object.entries(ac).sort((a,b)=>b[1]-a[1]).slice(0,5).map(x=>x[0]);
+        
+        const dataA = top5.map(a => (d.apple_songs||[]).filter(t=>normA(t.artist)===a).length);
+        const dataS = top5.map(a => (d.spotify_songs||[]).filter(t=>normA(t.artist)===a).length);
+        const dataD = top5.map(a => (d.deezer||[]).filter(t=>normA(t.artist)===a).length);
+
+        window.chartInstances.c2 = new Chart(ctx2, {
+            type: 'radar',
+            data: {
+                labels: top5.map(lbl => lbl.length > 10 ? lbl.substring(0,10)+'...' : lbl),
+                datasets: [
+                    { label: 'Apple', data: dataA, borderColor: '#fa243c', backgroundColor: 'rgba(250,36,60,0.15)', borderWidth: 2, pointBackgroundColor: '#fa243c' },
+                    { label: 'Spotify', data: dataS, borderColor: '#1db954', backgroundColor: 'rgba(29,185,84,0.15)', borderWidth: 2, pointBackgroundColor: '#1db954' },
+                    { label: 'Deezer', data: dataD, borderColor: '#8b7fff', backgroundColor: 'rgba(139,127,255,0.15)', borderWidth: 2, pointBackgroundColor: '#8b7fff' }
+                ]
+            },
+            options: { 
+                responsive: true, maintainAspectRatio: false, 
+                scales: { r: { ticks: { display: false }, grid: { color: gridColor }, angleLines: { color: gridColor }, pointLabels: { font: { weight: 'bold' } } } }, 
+                plugins: { legend: { position: 'bottom' } } 
+            }
+        });
+    }
+
+    // Graphe 3
+    const ctx3 = document.getElementById('chartDiversity');
+    if (ctx3) {
+        const allT = [...(d.apple_songs||[]), ...(d.deezer||[]), ...(d.spotify_songs||[]), ...(d.youtube_weekly||[])];
+        const totalTracks = allT.length || 1;
+        const cNew = allT.filter(t=>t.isNew).length;
+        const cUp = allT.filter(t=>t.mov && t.mov.startsWith('+')).length;
+        const cDown = allT.filter(t=>t.mov && t.mov.startsWith('-')).length;
+        const cStable = totalTracks - cNew - cUp - cDown;
+
+        window.chartInstances.c3 = new Chart(ctx3, {
+            type: 'doughnut',
+            data: {
+                labels: ['Nouveautés', 'En hausse', 'Stables', 'En baisse'],
+                datasets: [{
+                    data: [cNew, cUp, cStable, cDown],
+                    backgroundColor: ['#FF5E00', '#10b981', '#94a3b8', '#ef4444'],
+                    borderWidth: 2, borderColor: '#ffffff'
+                }]
+            },
+            options: { 
+                responsive: true, maintainAspectRatio: false, cutout: '65%',
+                plugins: { legend: { position: 'right' } } 
+            }
+        });
+    }
+
+    // Graphe 4
+    const ctx4 = document.getElementById('chartMoves');
+    if (ctx4) {
+        const getNew = (arr) => (arr||[]).filter(i=>i.isNew).length;
+        const getUp = (arr) => (arr||[]).filter(i=>i.mov && i.mov.startsWith('+')).length;
+        const getDown = (arr) => (arr||[]).filter(i=>i.mov && i.mov.startsWith('-')).length;
+
+        window.chartInstances.c4 = new Chart(ctx4, {
+            type: 'bar',
+            data: {
+                labels: ['Apple', 'Spotify', 'Deezer', 'YouTube'],
+                datasets: [
+                    { label: 'Entrées', data: [getNew(d.apple_songs), getNew(d.spotify_songs), getNew(d.deezer), getNew(d.youtube_weekly)], backgroundColor: '#FF5E00', borderRadius: 4 },
+                    { label: 'Hausses', data: [getUp(d.apple_songs), getUp(d.spotify_songs), getUp(d.deezer), getUp(d.youtube_weekly)], backgroundColor: '#10b981', borderRadius: 4 },
+                    { label: 'Baisses', data: [getDown(d.apple_songs), getDown(d.spotify_songs), getDown(d.deezer), getDown(d.youtube_weekly)], backgroundColor: '#ef4444', borderRadius: 4 }
+                ]
+            },
+            options: { 
+                responsive: true, maintainAspectRatio: false, 
+                scales: { 
+                    x: { stacked: true, grid: { display: false } }, 
+                    y: { stacked: true, grid: { color: gridColor } } 
+                }, 
+                plugins: { legend: { position: 'bottom' } } 
+            }
+        });
+    }
+}
+
+/* ── RENDER ───────────────────────────────────────────────── */
+function render(){
+ const el=document.getElementById('main');
+ if(!el) return;
+ if(!Object.keys(S.data).length){
+ el.innerHTML=`<div class="empty">
+  <div class="eioc"><svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 2v20M17 5v14M7 5v14M22 8v8M2 8v8"/></svg></div>
+  <p>Données non chargées</p>
+  <small>Appuie sur le bouton actualiser pour charger les charts.</small>
+  </div>`;
+ return;
+ }
+ const{p,t}=S;
+ if(p==='stats')   return renderStats(el);
+ if(p==='youtube') return renderYoutube(el, t);
+ if(p==='apple')   return renderApple(el,t);
+ if(p==='deezer')  return renderDeezer(el);
+ if(p==='spotify') return renderSpotify(el);
+ renderAll(el,t);
+}
+
+function showLoading(){
+ const el = document.getElementById('main');
+ if(el) {
+   el.innerHTML=`<div class="loading">
+   <div class="la">
+     <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="spinner">
+       <line x1="12" y1="2" x2="12" y2="6"></line><line x1="12" y1="18" x2="12" y2="22"></line><line x1="4.93" y1="4.93" x2="7.76" y2="7.76"></line><line x1="16.24" y1="16.24" x2="19.07" y2="19.07"></line><line x1="2" y1="12" x2="6" y2="12"></line><line x1="18" y1="12" x2="22" y2="12"></line><line x1="4.93" y1="19.07" x2="7.76" y2="16.24"></line><line x1="16.24" y1="4.93" x2="19.07" y2="7.76"></line>
+     </svg>
+   </div>
+   <div class="lt">Chargement des charts CI...</div>
+   <div class="ls">Connexion aux classements officiels</div>
+   <div class="pb"><div class="pf"></div></div>
+   </div>`;
+ }
+}
+
+function showError(msg){
+ const el = document.getElementById('main');
+ if(el) {
+   el.innerHTML=`<div class="errbox">
+   <div class="errico">
+     <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"></path><line x1="12" y1="9" x2="12" y2="13"></line><line x1="12" y1="17" x2="12.01" y2="17"></line></svg>
+   </div>
+   <div class="errmsg">Impossible de charger les données</div>
+   <div class="errhint">${esc(msg)}<br><br>Le proxy est peut-être temporairement indisponible.<br>Attends quelques secondes puis réessaie.</div>
+   <button class="errbtn" id="retryBtn">Actualiser</button>
+   </div>`;
+   const retryBtn = document.getElementById('retryBtn');
+   if(retryBtn) retryBtn.onclick = () => loadAll();
+ }
+}
+
+function renderAll(el,t){
+ const apple=S.data[t==='songs'?'apple_songs':'apple_albums']||[];
+ const yt=S.data.youtube||[];
+ const dz=S.data.deezer||[];
+ 
+ const fApple = filterItems(apple);
+ const fYt = filterItems(yt);
+ const fDz = filterItems(dz);
+
+ let h='';
+ const limit = S.search ? 200 : 10;
+
+ if(fApple.length){
+ h+=secH(' Apple Music','ba',Math.min(limit,fApple.length), S.search ? '' : ' · top 10');
+ h+=`<div class="tlist">${fApple.slice(0,limit).map(i=>tHTML(i)).join('')}</div>`;
+ }
+ if(t==='songs'&&fYt.length){
+ h+=secH(' YouTube Daily','by',Math.min(limit,fYt.length), S.search ? '' : ' · top 10');
+ h+=`<div class="tlist">${fYt.slice(0,limit).map(i=>tHTML(i,true)).join('')}</div>`;
+ }
+ if(t==='songs'&&fDz.length){
+ h+=secH(' Deezer','bd',Math.min(limit,fDz.length), S.search ? '' : ' · top 10');
+ h+=`<div class="tlist">${fDz.slice(0,limit).map(i=>tHTML(i)).join('')}</div>`;
+ }
+ el.innerHTML=h||(S.search ? `<div class="empty">Aucun résultat trouvé pour "${esc(S.search)}"</div>` : '<div class="empty">Aucune donnée</div>');
+}
+
+function renderApple(el,t){
+ const items=S.data[t==='songs'?'apple_songs':'apple_albums']||[];
+ const filtered = filterItems(items);
+ if (!filtered.length) { el.innerHTML = `<div class="empty">Aucun résultat trouvé pour "${esc(S.search)}"</div>`; return; }
+ el.innerHTML=secH(' Apple Music','ba',filtered.length)+
+ `<div class="tlist">${filtered.map(i=>tHTML(i)).join('')}</div>`;
+}
+
+function renderYoutube(el, t){
+ const isWeekly = t === 'yt_weekly';
+ const items = isWeekly ? (S.data.youtube_weekly||[]) : (S.data.youtube||[]);
+ const filtered = filterItems(items);
+ if (!filtered.length) { el.innerHTML = `<div class="empty">Aucun résultat trouvé pour "${esc(S.search)}"</div>`; return; }
+
+ const title = isWeekly ? 'YouTube Hebdo' : 'YouTube Quotidien';
+ const subtitle = isWeekly ? ' · vues 7 jours' : ' · vues 48h';
+ 
+ el.innerHTML=secH(title,'by',filtered.length, subtitle)+
+ `<div class="tlist">${filtered.map(i=>tHTML(i,true)).join('')}</div>`;
+}
+
+function renderDeezer(el){
+ const items=S.data.deezer||[];
+ const filtered = filterItems(items);
+ if (!filtered.length) { el.innerHTML = `<div class="empty">Aucun résultat trouvé pour "${esc(S.search)}"</div>`; return; }
+
+ el.innerHTML=secH(' Deezer','bd',filtered.length)+
+ `<div class="tlist">${filtered.map(i=>tHTML(i)).join('')}</div>`;
+}
+
+function normA(s){return(s||'').split(/\s*[&,]\s*/)[0].split(/\s*feat\./i)[0].trim();}
+
+function renderStats(el){
+ const apple=S.data.apple_songs||[];
+ const yt=S.data.youtube||[];
+ const ytW=S.data.youtube_weekly||[];
+ const dz=S.data.deezer||[];
+ const sp=S.data.spotify_songs||[];
+ 
+ if(!apple.length&&!yt.length){
+   el.innerHTML='<div class="empty">Charge les charts d\'abord</div>';
+   return;
+ }
+
+ if (S.t === 'charts') {
+     el.innerHTML = `<div class="analytics">
+         <div class="card"><div class="card-t">Top Artistes (Volume Global)</div><div class="chart-wrapper"><canvas id="chartArtists"></canvas></div></div>
+         <div class="card"><div class="card-t">Présence des Leaders (Top 5)</div><div class="chart-wrapper"><canvas id="chartPresence"></canvas></div></div>
+         <div class="card"><div class="card-t">État du Marché (Global)</div><div class="chart-wrapper"><canvas id="chartDiversity"></canvas></div></div>
+         <div class="card"><div class="card-t">Dynamisme des Plateformes</div><div class="chart-wrapper"><canvas id="chartMoves"></canvas></div></div>
+     </div>`;
+     setTimeout(drawCharts, 50);
+     return;
+ }
+
+ if (S.t === 'moves') {
+     const allMoves = [];
+     const addMoves = (arr, badge, name, id) => {
+         if (S.mPlat !== 'all' && S.mPlat !== id) return;
+         (arr || []).forEach(i => {
+             if(i.mov && (i.mov.startsWith('+') || i.mov.startsWith('-') || i.mov === 'NEW')) {
+                 let val = i.mov === 'NEW' ? 999 : parseInt(i.mov);
+                 if(!isNaN(val)) allMoves.push({ ...i, val, badge, pName: name });
+             }
+         });
+     };
+     
+     addMoves(apple, 'ba', 'Apple', 'apple');
+     addMoves(S.data.apple_albums, 'ba', 'Apple Alb', 'apple');
+     addMoves(dz, 'bd', 'Deezer', 'deezer');
+     addMoves(sp, 'bs', 'Spotify', 'spotify');
+     addMoves(S.data.spotify_albums, 'bs', 'Spotify Alb', 'spotify');
+     addMoves(yt, 'by', 'YouTube', 'youtube');
+     addMoves(ytW, 'by', 'YT Hebdo', 'youtube');
+
+     const up = allMoves.filter(i => i.val > 0 && i.mov !== 'NEW').sort((a,b)=>b.val - a.val).slice(0, 10);
+     const down = allMoves.filter(i => i.val < 0).sort((a,b)=>a.val - b.val).slice(0, 10);
+     const news = allMoves.filter(i => i.mov === 'NEW').slice(0, 10);
+
+     let h = `<div class="analytics">
+         <div class="move-filters">
+             <button class="mpill ${S.mPlat === 'all' ? 'active' : ''}" onclick="setMovePlat('all')">Tous</button>
+             <button class="mpill ${S.mPlat === 'apple' ? 'active' : ''}" onclick="setMovePlat('apple')">Apple</button>
+             <button class="mpill ${S.mPlat === 'spotify' ? 'active' : ''}" onclick="setMovePlat('spotify')">Spotify</button>
+             <button class="mpill ${S.mPlat === 'deezer' ? 'active' : ''}" onclick="setMovePlat('deezer')">Deezer</button>
+             <button class="mpill ${S.mPlat === 'youtube' ? 'active' : ''}" onclick="setMovePlat('youtube')">YouTube</button>
+         </div>`;
+         
+     if(news.length) h += `<div class="card"><div class="card-t">Nouveautés Remarquables</div>${news.map(i=>`<div class="move-item"><div class="t-info"><div class="t-title">${esc(i.title||i.artist)}</div><div class="t-artist">${esc(i.title?i.artist:'')} <span class="badge ${i.badge}">${i.pName}</span></div></div><div class="move-val mnew">NEW</div></div>`).join('')}</div>`;
+     if(up.length) h += `<div class="card"><div class="card-t">Plus Fortes Progressions</div>${up.map(i=>`<div class="move-item"><div class="t-info"><div class="t-title">${esc(i.title||i.artist)}</div><div class="t-artist">${esc(i.title?i.artist:'')} <span class="badge ${i.badge}">${i.pName}</span></div></div><div class="move-val mu">+${i.val}</div></div>`).join('')}</div>`;
+     if(down.length) h += `<div class="card"><div class="card-t">Plus Fortes Chutes</div>${down.map(i=>`<div class="move-item"><div class="t-info"><div class="t-title">${esc(i.title||i.artist)}</div><div class="t-artist">${esc(i.title?i.artist:'')} <span class="badge ${i.badge}">${i.pName}</span></div></div><div class="move-val md">${i.val}</div></div>`).join('')}</div>`;
+     if(!news.length && !up.length && !down.length) h += `<div class="empty">Aucun mouvement significatif trouvé pour le moment.</div>`;
+     h += '</div>';
+     el.innerHTML = h;
+     return;
+ }
+
+ const newA=apple.filter(i=>i.isNew).length;
+ const newD=dz.filter(i=>i.isNew).length;
+ const newS=sp.filter(i=>i.isNew).length;
+ const risers=apple.filter(i=>i.mov?.startsWith('+')&&parseInt(i.mov.slice(1))>=15).length + sp.filter(i=>i.mov?.startsWith('+')&&parseInt(i.mov.slice(1))>=15).length + dz.filter(i=>i.mov?.startsWith('+')&&parseInt(i.mov.slice(1))>=15).length;
+ const drops=apple.filter(i=>i.mov?.startsWith('-')&&parseInt(i.mov.slice(1))>=15).length + dz.filter(i=>i.mov?.startsWith('-')&&parseInt(i.mov.slice(1))>=15).length + sp.filter(i=>i.mov?.startsWith('-')&&parseInt(i.mov.slice(1))>=15).length;
+
+ const as=new Set(apple.slice(0,80).map(i=>normA(i.artist)));
+ const ys=new Set(ytW.map(i=>normA(i.artist)));
+ const ds=new Set(dz.slice(0,60).map(i=>normA(i.artist)));
+ const ss=new Set(sp.slice(0,80).map(i=>normA(i.artist)));
+ 
+ const cross=[...new Set([...as,...ys,...ds,...ss])]
+ .filter(a=>[as.has(a),ys.has(a),ds.has(a),ss.has(a)].filter(Boolean).length>=3)
+ .slice(0,10);
+
+ const topYT=[...ytW].filter(i=>i.streams>0).sort((a,b)=>b.streams-a.streams).slice(0,6);
+ const maxSt=topYT[0]?.streams||1;
+ 
+ const totalTracks = apple.length + dz.length + sp.length + ytW.length;
+
+ el.innerHTML=`<div class="analytics">
+ <div class="kpis">
+ <div class="kpi"><div class="kpi-lbl">Entrées</div>
+ <div class="kpi-v" style="color:var(--primary)">${newA+newD+newS}</div>
+ <div class="kpi-s">Global</div></div>
+ <div class="kpi"><div class="kpi-lbl">Grimpeurs</div>
+ <div class="kpi-v" style="color:var(--green)">${risers}</div>
+ <div class="kpi-s">+15 places ou plus</div></div>
+ <div class="kpi"><div class="kpi-lbl">Baisses</div>
+ <div class="kpi-v" style="color:var(--red)">${drops}</div>
+ <div class="kpi-s">-15 places ou plus</div></div>
+ <div class="kpi"><div class="kpi-lbl">Titres</div>
+ <div class="kpi-v" style="color:var(--text-sec)">${totalTracks}</div>
+ <div class="kpi-s">Analysés</div></div>
+ </div>
+
+ ${cross.length?`<div class="card">
+ <div class="card-t">Stars Multi-Plateformes</div>
+ ${cross.map(a=>`<div class="crow">
+ <span class="cname">${esc(a)}</span>
+ <div class="pdots">
+ <div class="pdot ${as.has(a)?'pda':'pdo'}">A</div>
+ <div class="pdot ${ss.has(a)?'pbs':'pdo'}">S</div>
+ <div class="pdot ${ys.has(a)?'pdy':'pdo'}">Y</div>
+ <div class="pdot ${ds.has(a)?'pdd':'pdo'}">D</div>
+ </div>
+ </div>`).join('')}
+ </div>`:''}
+
+ ${topYT.length?`<div class="card">
+ <div class="card-t">YouTube — Top Hebdo</div>
+ ${topYT.map(i=>`<div class="brow">
+ <span class="blbl">${esc(normA(i.artist))}</span>
+ <div class="bbg"><div class="bfill" style="width:${Math.round(i.streams/maxSt*100)}%;background:var(--yt)"></div></div>
+ <span class="bval">${fmtS(i.streams)}</span>
+ </div>`).join('')}
+ </div>`:''}
+ <div style="padding:15px 0 10px;text-align:center;font-size:11px;color:var(--text3);border-top:1px solid var(--border-light);margin-top:15px;">
+ <span class="sec-meta">Astuce : Explore les onglets "Graphes" et "Mouvements" en haut</span>
+ </div>
+ </div>`;
+}
+
+/* ── CHAT LOCAL (0 coût) ──────────────────────────────────── */
+function normA2(s){return(s||'').split(/\s*[&,(]\s*/)[0].split(/\s*feat\./i)[0].trim().toLowerCase();}
+
+function stripEmoji(s){
+ return s.replace(/[\u{1F000}-\u{1FFFF}]|[\u{2600}-\u{27BF}]|[\u{1F300}-\u{1F9FF}]|[\u2702-\u27B0]|[\u24C2-\u{1F251}]|[\u{1F900}-\u{1F9FF}]|[\u{2194}-\u{2199}]|[\u{2702}-\u{27B0}]|\p{Emoji}/gu,'').replace(/\s{2,}/g,' ').trim();
+}
+
+function localAnswer(q){
+ const lq = q.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');
+
+ const apple = S.data.apple_songs || [];
+ const albums = S.data.apple_albums || [];
+ const yt = S.data.youtube || [];
+ const dz = S.data.deezer || [];
+ const sp = S.data.spotify_songs || [];
+
+ if(!apple.length && !yt.length && !sp.length)
+ return 'Lance le chargement des charts avec le bouton actualiser en haut.';
+
+ if(/n[°o]?\.?\s*1|numero.?1|premier|#1|meilleur|classement|qui mene|qui est en tete/.test(lq)){
+ const a=apple[0], y=yt[0], d=dz[0], s=sp[0];
+ let r = '';
+ if(a) r += `Apple Music #1 : **${a.artist}** — *${a.title}*\n`;
+ if(y) r += `YouTube #1 : **${y.artist}** — *${y.title}* (${fmtS(y.streams)} streams)\n`;
+ if(d) r += `Deezer #1 : **${d.artist}** — *${d.title}*\n`;
+ if(s) r += `Spotify #1 : **${s.artist}** — *${s.title}*`;
+ return r.trim();
+ }
+
+ const topN = lq.match(/top\s*(\d+)/);
+ if(topN){
+ const n = Math.min(parseInt(topN[1]), 10);
+ return `Top ${n} Apple Music CI :\n` +
+ apple.slice(0,n).map(i=>`${i.pos}. **${i.artist}** — *${i.title}*`).join('\n');
+ }
+
+ const allNames = [...new Set([...apple,...dz,...yt,...sp].map(i=>normA2(i.artist)))];
+ const found = allNames.find(a => {
+ const an = a.normalize('NFD').replace(/[\u0300-\u036f]/g,'');
+ return lq.includes(an) && an.length > 2;
+ }) || allNames.find(a => {
+ const an = a.normalize('NFD').replace(/[\u0300-\u036f]/g,'');
+ return an.length > 3 && an.split(' ').some(w => w.length > 3 && lq.includes(w));
+ });
+
+ if(found){
+ const ia = apple.findIndex(i=>normA2(i.artist)===found);
+ const iy = yt.findIndex(i=>normA2(i.artist)===found);
+ const id = dz.findIndex(i=>normA2(i.artist)===found);
+ const is = sp.findIndex(i=>normA2(i.artist)===found);
+ const fname = found.charAt(0).toUpperCase()+found.slice(1);
+ if(ia<0 && iy<0 && id<0 && is<0)
+ return `**${fname}** n'est pas dans les charts actuels.`;
+ let r = `**${fname}** dans les charts CI :\n`;
+ if(ia>=0) r += `Apple Music #${ia+1} — *${apple[ia].title}* (${apple[ia].mov})\n`;
+ if(iy>=0) r += `YouTube #${iy+1} — ${fmtS(yt[iy].streams)} streams\n`;
+ if(id>=0) r += `Deezer #${id+1} — *${dz[id].title}* (${dz[id].mov})\n`;
+ if(is>=0) r += `Spotify #${is+1} — *${sp[is].title}* (${sp[is].mov})\n`;
+ const totalA = apple.filter(i=>normA2(i.artist)===found).length;
+ if(totalA>1) r += `${totalA} titres dans le top Apple Music`;
+ return r.trim();
+ }
+
+ if(/nouveau|newcom|entree|new|vient d|sorti/.test(lq)){
+ const n = apple.filter(i=>i.isNew).slice(0,6);
+ if(!n.length) return 'Aucune nouvelle entrée détectée dans les charts Apple Music.';
+ return `Nouvelles entrées Apple Music CI :\n` +
+ n.map(i=>`• **${i.artist}** — *${i.title}*`).join('\n');
+ }
+
+ if(/grimpe|monte|hausse|progresse|rise|\+|gagne/.test(lq)){
+ const r=[...apple].filter(i=>i.mov?.startsWith('+'))
+ .sort((a,b)=>parseInt(b.mov)-parseInt(a.mov)).slice(0,5);
+ if(!r.length) return 'Aucun grimpeur significatif aujourd\'hui.';
+ return `Gros grimpeurs Apple Music CI :\n` +
+ r.map(i=>`• **${i.artist}** ${i.mov} → #${i.pos}`).join('\n');
+ }
+
+ if(/baisse|descend|drop|perd|chute/.test(lq)){
+ const r=[...apple].filter(i=>i.mov?.startsWith('-'))
+ .sort((a,b)=>parseInt(a.mov)-parseInt(b.mov)).slice(0,5);
+ if(!r.length) return 'Aucune grosse baisse aujourd\'hui.';
+ return `Baisses Apple Music CI :\n` +
+ r.map(i=>`• **${i.artist}** ${i.mov} → #${i.pos}`).join('\n');
+ }
+
+ if(/album|projet|ep|mixtape/.test(lq)){
+ return `Top 5 Albums Apple Music CI :\n` +
+ albums.slice(0,5).map(i=>`${i.pos}. **${i.artist}** — *${i.title}* (${i.mov})`).join('\n');
+ }
+
+ if(/youtube|stream|vue|video/.test(lq)){
+ return `Top 5 YouTube CI :\n` +
+ yt.slice(0,5).map(i=>`${i.pos}. **${i.artist}** — *${i.title}* · ${fmtS(i.streams)}`).join('\n');
+ }
+
+ if(/deezer/.test(lq)){
+ return `Top 5 Deezer CI :\n` +
+ dz.slice(0,5).map(i=>`${i.pos}. **${i.artist}** — *${i.title}* (${i.mov})`).join('\n');
+ }
+
+ if(/spotify/.test(lq)){
+ return `Top 5 Spotify CI :\n` +
+ sp.slice(0,5).map(i=>`${i.pos}. **${i.artist}** — *${i.title}* (${i.mov})`).join('\n');
+ }
+
+ if(/combien|nombre|count|total|stat/.test(lq)){
+ const as=new Set([...apple,...dz,...yt,...sp].map(i=>normA2(i.artist))).size;
+ return `Stats CI :\n` +
+ `Apple Music : ${apple.length} titres · ${albums.length} albums\n` +
+ `YouTube : ${yt.length} titres\n` +
+ `Deezer : ${dz.length} titres\n` +
+ `Spotify : ${sp.length} titres\n` +
+ `Artistes uniques : ${as}`;
+ }
+
+ const a1=apple[0], y1=yt[0], s1=sp[0];
+ return `Apple #1 : **${a1?.artist}** — *${a1?.title}*\n` +
+ (y1 ? `YouTube #1 : **${y1.artist}** (${fmtS(y1.streams)} streams)\n` : '') +
+ (s1 ? `Spotify #1 : **${s1.artist}**\n` : '') +
+ `\nTu peux demander le nom d'un artiste, "nouveautes", "top 5", "grimpeurs", "albums"…`;
+}
+
+const cinp=document.getElementById('cinp');
+const cgo=document.getElementById('cgo');
+const chist=document.getElementById('chist');
+
+function addMsg(txt,role){
+ if(!chist) return;
+ const d=document.createElement('div');
+ d.className=`cmsg c${role}`;
+ if(role==='a'){
+ const clean = txt
+ .replace(/[\u{1F000}-\u{1FFFF}]|\p{Emoji_Presentation}|\p{Extended_Pictographic}/gu,'')
+ .replace(/[]/g,'')
+ .trim();
+ d.innerHTML = clean
+ .replace(/\*\*(.*?)\*\*/g,'<strong>$1</strong>')
+ .replace(/\*(.*?)\*/g,'<em>$1</em>')
+ .replace(/\n/g,'<br>');
+ } else {
+ d.innerHTML = esc(txt);
+ }
+ chist.appendChild(d);
+ chist.scrollTop=chist.scrollHeight;
+ return d;
+}
+
+async function doChat(){
+  if(!cinp || !cgo) return;
+  const msg=cinp.value.trim(); if(!msg) return;
+  cinp.value=''; addMsg(msg,'u');
+  const t=addMsg('…','a');
+  cgo.disabled=true; cinp.disabled=true;
+
+  function buildCtx(){
+    const lines=[];
+    const a=S.data.apple_songs||[], al=S.data.apple_albums||[], y=S.data.youtube||[], yw=S.data.youtube_weekly||[], d=S.data.deezer||[], sp=S.data.spotify_songs||[];
+    
+    if(a.length){ lines.push('APPLE MUSIC CI - Titres (TOP MAX)'); a.forEach(t=>lines.push(`#${t.pos} ${t.artist} - ${t.title} (${t.mov})`)); }
+    if(al.length){ lines.push('APPLE MUSIC CI - ALBUMS (TOP MAX)'); al.forEach(t=>lines.push(`#${t.pos} ${t.artist} - ${t.title} (${t.mov})`)); }
+    if(y.length){ lines.push('YOUTUBE CI - STREAMS 48H (TOP MAX)'); y.forEach(t=>lines.push(`#${t.pos} ${t.artist} - ${t.title} - ${t.streams?.toLocaleString()} streams`)); }
+    if(yw.length){ lines.push('YOUTUBE CI - STREAMS HEBDO (TOP MAX)'); yw.forEach(t=>lines.push(`#${t.pos} ${t.artist} - ${t.title} - ${t.streams?.toLocaleString()} streams`)); }
+    if(d.length){ lines.push('DEEZER CI (TOP MAX)'); d.forEach(t=>lines.push(`#${t.pos} ${t.artist} - ${t.title} (${t.mov})`)); }
+    if(sp.length){ lines.push('SPOTIFY CI (TOP MAX)'); sp.forEach(t=>lines.push(`#${t.pos} ${t.artist} - ${t.title} (${t.mov})`)); }
+    
+    return lines.join('\n') || 'Aucune donnee chargee.';
+  }
+
+  function renderReply(txt, el){
+    if(!el || !chist) return;
+    const clean = txt.replace(/[\u{1F000}-\u{1FFFF}\u{2600}-\u{27BF}\u{1F300}-\u{1FA6F}\u{1FA70}-\u{1FAFF}]/gu,'').replace(/[\u25B6\u266A-\u266F]/g,'').trim();
+    el.innerHTML = clean
+      .replace(/\*\*(.*?)\*\*/g,'<strong>$1</strong>')
+      .replace(/\*(.*?)\*/g,'<em>$1</em>')
+      .replace(/\n/g,'<br>');
+    chist.scrollTop = chist.scrollHeight;
+  }
+
+  try{
+    const r = await fetch('/chat', {
+      method:'POST',
+      headers:{ 'Content-Type':'application/json' },
+      body: JSON.stringify({ message: msg, context: buildCtx() }),
+      signal: AbortSignal.timeout(25000)
+    });
+    const data = await r.json();
+    if(r.ok && data.reply){
+      renderReply(data.reply, t);
+      cgo.disabled=false; cinp.disabled=false; cinp.focus();
+      return;
+    }
+    console.warn('Serveur /chat error:', data.error);
+  }catch(e){ console.warn('/chat failed:', e.message); }
+
+  renderReply(localAnswer(msg), t);
+  cgo.disabled=false; cinp.disabled=false; cinp.focus();
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const searchInp = document.getElementById('searchInput');
+    if(searchInp) {
+        searchInp.addEventListener('input', (e) => {
+            S.search = e.target.value.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');
+            render();
+        });
+    }
+
+    const tabsEl = document.getElementById('tabs');
+    if(tabsEl) {
+      tabsEl.addEventListener('click',e=>{
+       const b=e.target.closest('.tab'); if(!b) return;
+       document.querySelectorAll('.tab').forEach(x=>x.classList.remove('active'));
+       b.classList.add('active'); 
+       S.p=b.dataset.p;
+       updateTbar();
+       render();
+      });
+    }
+
+    const tbarEl = document.getElementById('tbar');
+    if(tbarEl) {
+      tbarEl.addEventListener('click',e=>{
+       const b=e.target.closest('.tpill'); if(!b) return;
+       S.t=b.dataset.t; 
+       updateTbar();
+       render();
+      });
+    }
+
+    const cgoEl = document.getElementById('cgo');
+    const cinpEl = document.getElementById('cinp');
+    if(cgoEl) cgoEl.onclick=doChat;
+    if(cinpEl) cinpEl.addEventListener('keydown',e=>{if(e.key==='Enter')doChat();});
+    
+    const refreshBtnEl = document.getElementById('refreshBtn');
+    if(refreshBtnEl) refreshBtnEl.onclick = () => loadAll();
+    
+    const chatFabEl = document.getElementById('chatFab');
+    const chatCloseEl = document.getElementById('chatClose');
+    const chatBackdropEl = document.getElementById('chatBackdrop');
+    
+    if(chatFabEl) chatFabEl.onclick = () => openChat();
+    if(chatCloseEl) chatCloseEl.onclick = closeChat;
+    if(chatBackdropEl) chatBackdropEl.onclick = closeChat;
+});
+
+const REFRESH_INTERVAL = 30 * 60 * 1000;
+let refreshTimer = null;
+let lastRefresh = null;
+
+function scheduleRefresh() {
+ if (refreshTimer) clearInterval(refreshTimer);
+ refreshTimer = setInterval(() => {
+ if (!document.hidden) {
+ loadAll(true);
+ }
+ }, REFRESH_INTERVAL);
+}
+
+document.addEventListener('visibilitychange', () => {
+ if (!document.hidden && lastRefresh) {
+ const elapsed = Date.now() - lastRefresh;
+ if (elapsed > REFRESH_INTERVAL) loadAll(true);
+ }
+});
+
+function updateNextRefreshLabel() {
+ const el = document.getElementById('tsEl');
+ if (!el || !lastRefresh) return;
+ const next = new Date(lastRefresh + REFRESH_INTERVAL);
+ const now = new Date();
+ const diff = Math.max(0, Math.round((next - now) / 60000));
+ const ts = localStorage.getItem('ci_ts') || '';
+ el.textContent = ts + (diff > 0 ? ` · MàJ dans ${diff}min` : ' · MàJ imminente');
+}
+setInterval(updateNextRefreshLabel, 60000);
+
+/* ── CHAT TOGGLE ─────────────────────────────────────────── */
+function openChat(){
+  const chatWrap = document.getElementById('chatwrap');
+  const chatBackdrop = document.getElementById('chatBackdrop');
+  const chatFab = document.getElementById('chatFab');
+  
+  if(chatWrap) chatWrap.classList.add('open');
+  if(chatBackdrop) chatBackdrop.classList.add('visible');
+  if(chatFab) chatFab.style.transform = 'scale(0)'; 
+  
+  // S'assurer que le chat prend bien la bonne hauteur à l'ouverture
+  if (window.visualViewport && window.innerWidth <= 768) {
+      chatWrap.style.height = window.visualViewport.height + 'px';
+  }
+  
+  setTimeout(()=>{
+      const c = document.getElementById('cinp');
+      if(c) c.focus();
+  }, 300);
+}
+function closeChat(){
+  const chatWrap = document.getElementById('chatwrap');
+  const chatBackdrop = document.getElementById('chatBackdrop');
+  const chatFab = document.getElementById('chatFab');
+  
+  if(chatWrap) chatWrap.classList.remove('open');
+  if(chatBackdrop) chatBackdrop.classList.remove('visible');
+  if(chatFab) chatFab.style.transform = 'scale(1)'; 
+}
+
+if (window.visualViewport) {
+  function onViewportResize() {
+    const chatWrap = document.getElementById('chatwrap');
+    if (!chatWrap || !chatWrap.classList.contains('open')) return;
+    const vv = window.visualViewport;
+    const isMobile = window.innerWidth <= 768;
+    
+    if (isMobile) {
+        // Sur mobile, le chat remplit l'espace visible exact (évite de cacher la barre de saisie sous le clavier)
+        chatWrap.style.height = vv.height + 'px';
+        chatWrap.style.bottom = '0px';
+    } else {
+        // Comportement original sur desktop
+        const keyboardH = Math.max(0, window.innerHeight - vv.height - vv.offsetTop);
+        chatWrap.style.bottom = keyboardH > 50 ? keyboardH + 'px' : '';
+        chatWrap.style.height = '';
+    }
+  }
+  
+  const _baseOpen = openChat;
+  const _baseClose = closeChat;
+  
+  window.openChat = function() {
+    _baseOpen();
+    window.visualViewport.addEventListener('resize', onViewportResize);
+    window.visualViewport.addEventListener('scroll', onViewportResize);
+    setTimeout(onViewportResize, 100);
+  };
+  window.closeChat = function() {
+    _baseClose();
+    const chatWrap = document.getElementById('chatwrap');
+    if(chatWrap) { chatWrap.style.bottom = ''; chatWrap.style.height = ''; }
+    window.visualViewport.removeEventListener('resize', onViewportResize);
+    window.visualViewport.removeEventListener('scroll', onViewportResize);
+  };
+}
+
+/* ── SPOTIFY RENDER ──────────────────────────────────────── */
+function renderSpotify(el) {
+ const d = S.data || {};
+ let items = [];
+ let title = '';
+
+ if (S.t === 'songs') { items = d.spotify_songs || []; title = 'Top Titres Tendances CI'; }
+ else if (S.t === 'albums') { items = d.spotify_albums || []; title = 'Top Albums Populaires'; }
+ else if (S.t === 'artists') { items = d.spotify_artists || []; title = 'Artistes Populaires'; }
+
+ const filtered = filterItems(items);
+
+ if (!filtered.length) {
+   el.innerHTML = S.search ? `<div class="empty">Aucun résultat trouvé pour "${esc(S.search)}"</div>` : `<div class="empty">
+    <div class="eioc"><svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="10"></circle><path d="M8 11.5c2.5-1 5.5-1 8 0"></path><path d="M7 14.5c2.5-1 6.5-1 9 0"></path></svg></div>
+    <p>Spotify CI indisponible</p>
+    <small>Impossible de charger le classement pour le moment.</small>
+   </div>`;
+   return;
+ }
+
+ let h = secH(`Spotify CI — ${title}`, 'bs', filtered.length);
+
+ h += `<div class="tlist">`;
+ 
+ filtered.forEach((i, idx) => {
+   if (S.t === 'artists') {
+     h += `<div class="track">
+       <div class="t-rk"><span class="rn ${rnCl(i.pos)}">${i.pos}</span></div>
+       <div class="t-info"><div class="t-title">${esc(i.name)}</div><div class="t-artist">${esc(i.genres)}</div></div>
+       <div class="t-right"><span class="t-str">${i.streams ? fmtS(i.streams) + ' pts' : ''}</span></div>
+     </div>`;
+   } else if (S.t === 'albums') {
+     h += `<div class="track">
+       <div class="t-rk"><span class="rn ${rnCl(i.pos)}">${i.pos}</span></div>
+       <div class="t-info"><div class="t-title">${esc(i.title)}</div><div class="t-artist">${esc(i.artist)}</div></div>
+       <div class="t-right"><span class="t-str">${esc(i.type)}</span></div>
+     </div>`;
+   } else {
+     h += `<div class="track">
+       <div class="t-rk"><span class="rn ${rnCl(i.pos)}">${i.pos}</span></div>
+       <div class="t-info"><div class="t-title">${esc(i.title)}</div><div class="t-artist">${esc(i.artist)}</div></div>
+       <div class="t-right">${i.streams ? `<span class="t-str">${fmtS(i.streams)}</span>` : ''}${movH(i.mov)}</div>
+     </div>`;
+   }
+ });
+ h += `</div>`;
+ el.innerHTML = h;
+}
+
+/* ── INIT ─────────────────────────────────────────────────── */
+render();
+loadAll();
+scheduleRefresh();
+
+</script>
+</body>
+</html>
