@@ -36,40 +36,68 @@ function buildChartsContext(ctx) {
   return lines.length ? lines.join('\n') : 'Aucune donnée chargée.';
 }
 
+function normalizeText(s) {
+  return (s || '')
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .trim();
+}
+
+function splitArtists(raw) {
+  const source = String(raw || '');
+  return source
+    .split(/\s*(?:,|&|feat\.?|ft\.?|x|\/)\s*/i)
+    .map(a => normalizeText(a))
+    .filter(Boolean);
+}
+
+function extractArtistsFromTextContext(ctxText) {
+  const artists = new Set();
+  const lineRe = /^#\d+\s+(.+?)\s+-\s+(.+?)(?:\s+\(|\s+·|$)/gm;
+  let m;
+  while ((m = lineRe.exec(ctxText)) !== null) {
+    const artistRaw = m[1];
+    splitArtists(artistRaw).forEach(a => artists.add(a));
+  }
+  return artists;
+}
+
+function extractArtistsFromObjectContext(ctxObj) {
+  const all = [
+    ...(ctxObj.apple_songs || []),
+    ...(ctxObj.apple_albums || []),
+    ...(ctxObj.youtube || []),
+    ...(ctxObj.youtube_weekly || []),
+    ...(ctxObj.deezer || []),
+    ...(ctxObj.spotify_songs || []),
+    ...(ctxObj.spotify_albums || [])
+  ];
+
+  const artists = new Set();
+  all.forEach(i => {
+    splitArtists(i.artist).forEach(a => artists.add(a));
+  });
+
+  (ctxObj.spotify_artists || []).forEach(a => {
+    splitArtists(a.name).forEach(v => artists.add(v));
+  });
+
+  return artists;
+}
+
 // Détecte si la question concerne un artiste qui n'est pas dans les charts
 function detectArtistQuery(message, ctx) {
-  const lq = message.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');
-  
-  let allArtists = new Set();
-  
-  // Extraction robuste que ctx soit un String ou un Object
-  if (typeof ctx === 'string') {
-      const matches = ctx.match(/#\d+\s+([^-]+)\s+-/g);
-      if (matches) {
-          matches.forEach(m => {
-              const artistPart = m.replace(/#\d+\s+/, '').replace(/\s+-$/, '').trim().toLowerCase();
-              allArtists.add(artistPart.split(/\s*[&,]/)[0].trim());
-          });
-      }
-  } else {
-      allArtists = new Set([
-        ...(ctx.apple_songs||[]),
-        ...(ctx.youtube||[]),
-        ...(ctx.deezer||[]),
-        ...(ctx.spotify_songs||[]),
-      ].map(i => (i.artist||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').split(/\s*[&,]/)[0].trim()));
-  }
+  const lq = normalizeText(message);
+  const allArtists = typeof ctx === 'string'
+    ? extractArtistsFromTextContext(ctx)
+    : extractArtistsFromObjectContext(ctx || {});
 
-  // Si l'artiste mentionné n'est pas dans les charts, retourne le nom pour une recherche externe
-  const words = lq.split(/\s+/).filter(w => w.length > 3);
-  const inCharts = [...allArtists].some(a => a.length > 3 && lq.includes(a));
-  
-  // Mots-clés indiquant une recherche d'artiste
+  const inCharts = [...allArtists].some(a => a.length > 2 && lq.includes(a));
   const isArtistQuery = /qui est|parle.moi|info|biographie|bio|followers|streams|popularit|connu|artiste|chanteur|rappeur|musicien/.test(lq);
-  
+
   if (isArtistQuery && !inCharts) {
-    // Extraire le nom probable de l'artiste (mots capitalisés ou inconnus)
-    const originalWords = message.split(/\s+/);
+    const originalWords = String(message || '').split(/\s+/);
     const candidate = originalWords.find(w => w.length > 3 && /^[A-ZÀ-Ü]/.test(w));
     return candidate || null;
   }

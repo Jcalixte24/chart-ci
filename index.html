@@ -1608,16 +1608,54 @@ async function doChat(){
   cgo.disabled=true; cinp.disabled=true;
 
   function buildCtx(){
-    const lines=[];
-    const a=S.data.apple_songs||[], al=S.data.apple_albums||[], y=S.data.youtube||[], yw=S.data.youtube_weekly||[], d=S.data.deezer||[], sp=S.data.spotify_songs||[];
-    
-    if(a.length){ lines.push('APPLE MUSIC CI - Titres (TOP MAX)'); a.forEach(t=>lines.push(`#${t.pos} ${t.artist} - ${t.title} (${t.mov})`)); }
-    if(al.length){ lines.push('APPLE MUSIC CI - ALBUMS (TOP MAX)'); al.forEach(t=>lines.push(`#${t.pos} ${t.artist} - ${t.title} (${t.mov})`)); }
-    if(y.length){ lines.push('YOUTUBE CI - STREAMS 48H (TOP MAX)'); y.forEach(t=>lines.push(`#${t.pos} ${t.artist} - ${t.title} - ${t.streams?.toLocaleString()} streams`)); }
-    if(yw.length){ lines.push('YOUTUBE CI - STREAMS HEBDO (TOP MAX)'); yw.forEach(t=>lines.push(`#${t.pos} ${t.artist} - ${t.title} - ${t.streams?.toLocaleString()} streams`)); }
-    if(d.length){ lines.push('DEEZER CI (TOP MAX)'); d.forEach(t=>lines.push(`#${t.pos} ${t.artist} - ${t.title} (${t.mov})`)); }
-    if(sp.length){ lines.push('SPOTIFY CI (TOP MAX)'); sp.forEach(t=>lines.push(`#${t.pos} ${t.artist} - ${t.title} (${t.mov})`)); }
-    
+    const lines = [];
+    const a = S.data.apple_songs || [];
+    const al = S.data.apple_albums || [];
+    const y = S.data.youtube || [];
+    const yw = S.data.youtube_weekly || [];
+    const d = S.data.deezer || [];
+    const sp = S.data.spotify_songs || [];
+    const spa = S.data.spotify_albums || [];
+    const spr = S.data.spotify_artists || [];
+
+    const refreshAt = (localStorage.getItem('ci_ts') || '').trim();
+    lines.push('=== META CONTEXTE ===');
+    lines.push(`Refreshed_at: ${refreshAt || 'inconnu'}`);
+    lines.push(`Counts: apple_songs=${a.length}, apple_albums=${al.length}, youtube_daily=${y.length}, youtube_weekly=${yw.length}, deezer=${d.length}, spotify_songs=${sp.length}, spotify_albums=${spa.length}, spotify_artists=${spr.length}`);
+
+    if (a.length) {
+      lines.push('=== APPLE MUSIC CI — TITRES (TOP MAX) ===');
+      a.forEach(t => lines.push(`#${t.pos} ${t.artist} - ${t.title} (${t.mov})`));
+    }
+    if (al.length) {
+      lines.push('=== APPLE MUSIC CI — ALBUMS (TOP MAX) ===');
+      al.forEach(t => lines.push(`#${t.pos} ${t.artist} - ${t.title} (${t.mov})`));
+    }
+    if (y.length) {
+      lines.push('=== YOUTUBE CI — STREAMS 48H (TOP MAX) ===');
+      y.forEach(t => lines.push(`#${t.pos} ${t.artist} - ${t.title} - ${t.streams?.toLocaleString()} streams`));
+    }
+    if (yw.length) {
+      lines.push('=== YOUTUBE CI — STREAMS HEBDO (TOP MAX) ===');
+      yw.forEach(t => lines.push(`#${t.pos} ${t.artist} - ${t.title} - ${t.streams?.toLocaleString()} streams`));
+    }
+    if (d.length) {
+      lines.push('=== DEEZER CI — TOP MAX ===');
+      d.forEach(t => lines.push(`#${t.pos} ${t.artist} - ${t.title} (${t.mov})`));
+    }
+    if (sp.length) {
+      lines.push('=== SPOTIFY CI — SONGS (TOP MAX) ===');
+      sp.forEach(t => lines.push(`#${t.pos} ${t.artist} - ${t.title} (${t.mov})`));
+    }
+    if (spa.length) {
+      lines.push('=== SPOTIFY CI — ALBUMS (TOP MAX) ===');
+      spa.forEach(t => lines.push(`#${t.pos} ${t.artist} - ${t.title} (${t.mov || '='})`));
+    }
+    if (spr.length) {
+      lines.push('=== SPOTIFY CI — ARTISTS (TOP MAX) ===');
+      spr.forEach(t => lines.push(`#${t.pos} ${t.name} - ${t.genres || 'Artiste'} (${t.streams || 0})`));
+    }
+
     return lines.join('\n') || 'Aucune donnee chargee.';
   }
 

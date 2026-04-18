@@ -187,12 +187,41 @@ def scraper_page_spotify(driver, categorie, url):
                 print(f"{result['pos']}. {nom_affiche} - {artiste_affiche}")
 
         if not resultats_json:
-            print("⚠️ Aucun élément lisible trouvé.")
+            print(" Aucun élément lisible trouvé.")
 
     except Exception as e:
-        print(f"❌ Erreur : {e}")
+        print(f" Erreur : {e}")
 
     return resultats_json
+
+
+def charger_historique(chemin_historique):
+    if not os.path.exists(chemin_historique):
+        return []
+    try:
+        with open(chemin_historique, "r", encoding="utf-8") as f:
+            data = json.load(f)
+            return data if isinstance(data, list) else []
+    except Exception:
+        return []
+
+
+def sauvegarder_historique(chemin_historique, historique, limite=60):
+    historique_limite = historique[-limite:]
+    with open(chemin_historique, "w", encoding="utf-8") as f:
+        json.dump(historique_limite, f, ensure_ascii=False, indent=2)
+
+
+def construire_snapshot(donnees):
+    now = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
+    return {
+        "generated_at": now,
+        "source": "spotify-web-scrape",
+        "country": "ci",
+        "songs": donnees.get("songs", []),
+        "albums": donnees.get("albums", []),
+        "artists": donnees.get("artists", [])
+    }
 
 
 def main():
@@ -209,13 +238,21 @@ def main():
 
         os.makedirs("data", exist_ok=True)
         chemin_fichier = os.path.join("data", "spotify_data.json")
+        chemin_historique = os.path.join("data", "spotify_history.json")
+
         with open(chemin_fichier, "w", encoding="utf-8") as f:
             json.dump(toutes_les_donnees, f, ensure_ascii=False, indent=2)
 
-        print(f"\n✅ Extraction terminée ! Données sauvegardées dans '{chemin_fichier}'")
+        snapshot = construire_snapshot(toutes_les_donnees)
+        historique = charger_historique(chemin_historique)
+        historique.append(snapshot)
+        sauvegarder_historique(chemin_historique, historique, limite=60)
+
+        print(f"\nExtraction terminée ! Données sauvegardées dans '{chemin_fichier}'")
+        print(f"Historique mis à jour dans '{chemin_historique}'")
 
     except Exception as e:
-        print(f"❌ Erreur critique : {e}")
+        print(f"Erreur critique : {e}")
     finally:
         if driver:
             print("\nFermeture du navigateur...")

@@ -45,6 +45,6 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add data/spotify_data.json
+          git add data/spotify_data.json data/spotify_history.json
           # S'il y a des modifications, on commit et on push
           git diff --quiet && git diff --staged --quiet || (git commit -m "Mise à jour auto des données Spotify" && git push)
