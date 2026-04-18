@@ -1,6 +1,7 @@
 import time
 import json
 import os
+import re
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
@@ -14,13 +15,14 @@ URLS = {
     "artists": "https://open.spotify.com/intl-fr/popular-all/popular-artists/ci"
 }
 
+
 def initialiser_navigateur():
     print("Lancement du navigateur...")
     options = Options()
     options.add_argument('--headless')
     options.add_argument('--disable-gpu')
     options.add_argument('--log-level=3')
-    options.add_argument('--window-size=1920,1080')  # FIX: taille explicite en headless
+    options.add_argument('--window-size=1920,1080')
     options.add_argument('user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36')
     return webdriver.Chrome(options=options)
 
@@ -32,10 +34,10 @@ def scroll_jusqu_au_bout(driver, max_scrolls=20):
 
     for _ in range(max_scrolls):
         body.send_keys(Keys.END)
-        time.sleep(2)  # Attendre le chargement lazy
+        time.sleep(2)
         nouvelle_hauteur = driver.execute_script("return document.body.scrollHeight")
         if nouvelle_hauteur == derniere_hauteur:
-            break  # Plus rien à charger
+            break
         derniere_hauteur = nouvelle_hauteur
 
 
@@ -56,6 +58,53 @@ def parser_mouvement(valeur):
     return None
 
 
+def parser_ligne_tracklist(parts, categorie, compteur):
+    """
+    Parse une ligne de tracklist en gérant les artistes multi-lignes (feat., &, ,).
+    Spotify splitte souvent le nom complet sur plusieurs lignes \\n.
+    """
+    if not parts:
+        return None
+
+    # Retirer numéro de position initial
+    if parts[0].isdigit():
+        parts.pop(0)
+    if not parts:
+        return None
+
+    # Détecter mouvement en tête
+    mov = "="
+    if parts and parser_mouvement(parts[0]) is not None:
+        mov = parser_mouvement(parts[0])
+        parts.pop(0)
+    if not parts:
+        return None
+
+    title = parts[0]
+    if est_ligne_header(title):
+        return None
+
+    # FIX : tout ce qui suit le titre jusqu'à un champ de durée/popularité = artiste complet.
+    # On joint les fragments jusqu'à rencontrer une durée (ex: "3:45") ou un chiffre seul
+    # (popularité Spotify), ce qui marque la fin des métadonnées texte.
+    artist_parts = []
+    for part in parts[1:]:
+        if re.match(r'^\d+:\d+$', part):   # durée type "3:45"
+            break
+        if re.match(r'^\d+$', part):        # chiffre seul (popularité, numéro de rang)
+            break
+        artist_parts.append(part)
+
+    artist = " ".join(artist_parts).strip() if artist_parts else "-"
+
+    if categorie == "artists":
+        return {"pos": compteur, "name": title, "genres": artist or "Artiste", "streams": 0}
+    elif categorie == "albums":
+        return {"pos": compteur, "title": title, "artist": artist, "type": "Album", "mov": mov}
+    else:
+        return {"pos": compteur, "title": title, "artist": artist, "mov": mov, "streams": 0}
+
+
 def scraper_page_spotify(driver, categorie, url):
     print(f"\n{'='*60}\n💿 EXTRACTION : {categorie.upper()}\n🔗 URL : {url}\n{'='*60}")
     driver.get(url)
@@ -69,7 +118,6 @@ def scraper_page_spotify(driver, categorie, url):
         )
         time.sleep(3)
 
-        # FIX: scroll complet pour tout charger avant d'extraire
         scroll_jusqu_au_bout(driver, max_scrolls=20)
         time.sleep(2)
 
@@ -86,47 +134,26 @@ def scraper_page_spotify(driver, categorie, url):
                 if not parts:
                     continue
 
-                # FIX: ignorer uniquement les vraies lignes d'en-tête
+                # Ignorer les vraies lignes d'en-tête
                 if len(parts) == 1 and est_ligne_header(parts[0]):
                     continue
                 if all(est_ligne_header(p) for p in parts):
                     continue
 
-                # FIX: enlever le numéro de position s'il est présent
-                if parts[0].isdigit():
-                    parts.pop(0)
-
-                if not parts:
-                    continue
-
-                # FIX: détecter le mouvement sans casser l'extraction si absent
-                mov = "="
-                if len(parts) >= 2:
-                    mouv_detecte = parser_mouvement(parts[0])
-                    if mouv_detecte is not None:
-                        mov = mouv_detecte
-                        parts.pop(0)
-
-                title = parts[0] if len(parts) > 0 else "Inconnu"
-                artist = parts[1] if len(parts) > 1 else "-"
-
-                # Ignorer les lignes sans titre valide
-                if not title or est_ligne_header(title):
+                # FIX : utiliser parser_ligne_tracklist pour reconstruire l'artiste complet
+                result = parser_ligne_tracklist(parts[:], categorie, compteur + 1)
+                if result is None:
                     continue
 
                 compteur += 1
-
                 if compteur > 100:
                     break
 
-                if categorie == "artists":
-                    resultats_json.append({"pos": compteur, "name": title, "genres": artist if artist != "-" else "Artiste", "streams": 0})
-                elif categorie == "albums":
-                    resultats_json.append({"pos": compteur, "title": title, "artist": artist, "type": "Album", "mov": mov})
-                else:
-                    resultats_json.append({"pos": compteur, "title": title, "artist": artist, "mov": mov, "streams": 0})
-
-                print(f"{compteur}. {title} - {artist} ({mov})")
+                resultats_json.append(result)
+                nom_affiche = result.get('title', result.get('name', '?'))
+                artiste_affiche = result.get('artist', result.get('genres', '-'))
+                mov_affiche = result.get('mov', '')
+                print(f"{result['pos']}. {nom_affiche} - {artiste_affiche} ({mov_affiche})")
 
         # --- Méthode 2 : Grille de cartes (artistes / albums) ---
         if not resultats_json:
@@ -145,24 +172,19 @@ def scraper_page_spotify(driver, categorie, url):
                 if not parts:
                     continue
 
-                title = parts[0]
-                artist = parts[1] if len(parts) > 1 else "-"
-
-                if not title or est_ligne_header(title):
+                # FIX : même logique de reconstruction pour les cartes
+                result = parser_ligne_tracklist(parts[:], categorie, compteur + 1)
+                if result is None:
                     continue
 
                 compteur += 1
                 if compteur > 100:
                     break
 
-                if categorie == "artists":
-                    resultats_json.append({"pos": compteur, "name": title, "genres": artist if artist != "-" else "Artiste", "streams": 0})
-                elif categorie == "albums":
-                    resultats_json.append({"pos": compteur, "title": title, "artist": artist, "type": "Album", "mov": "="})
-                else:
-                    resultats_json.append({"pos": compteur, "title": title, "artist": artist, "mov": "=", "streams": 0})
-
-                print(f"{compteur}. {title} - {artist}")
+                resultats_json.append(result)
+                nom_affiche = result.get('title', result.get('name', '?'))
+                artiste_affiche = result.get('artist', result.get('genres', '-'))
+                print(f"{result['pos']}. {nom_affiche} - {artiste_affiche}")
 
         if not resultats_json:
             print("⚠️ Aucun élément lisible trouvé.")
@@ -186,18 +208,19 @@ def main():
             time.sleep(2)
 
         os.makedirs("data", exist_ok=True)
-        chemin_fichier = os.path.join("data", "spotify_data.json")  # FIX: chemin relatif propre
+        chemin_fichier = os.path.join("data", "spotify_data.json")
         with open(chemin_fichier, "w", encoding="utf-8") as f:
             json.dump(toutes_les_donnees, f, ensure_ascii=False, indent=2)
 
         print(f"\n✅ Extraction terminée ! Données sauvegardées dans '{chemin_fichier}'")
 
     except Exception as e:
-        print(f" Erreur critique : {e}")
+        print(f"❌ Erreur critique : {e}")
     finally:
         if driver:
             print("\nFermeture du navigateur...")
             driver.quit()
+
 
 if __name__ == "__main__":
     main()
