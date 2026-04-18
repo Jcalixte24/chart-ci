@@ -1322,7 +1322,18 @@ function renderDeezer(el){
  `<div class="tlist">${filtered.map(i=>tHTML(i)).join('')}</div>`;
 }
 
-function normA(s){return(s||'').split(/\s*[&,]\s*/)[0].split(/\s*feat\./i)[0].trim();}
+function normA(s){
+ const base = (s||'')
+   .toLowerCase()
+   .normalize('NFD')
+   .replace(/[\u0300-\u036f]/g,'')
+   .replace(/\./g,'')
+   .replace(/['’]/g,'')
+   .split(/\s*(?:&|,|feat\.?|ft\.?|x|\/)\s*/i)[0]
+   .trim();
+
+ return base.replace(/\s+/g,' ');
+}
 
 function renderStats(el){
  const apple=S.data.apple_songs||[];
