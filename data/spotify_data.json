@@ -396,15 +396,15 @@
     },
     {
       "pos": 7,
-      "title": "Juventus Nueva Era (Deluxe Edition)",
-      "artist": "Didi B",
+      "title": "LVDG PACK 2",
+      "artist": "TRK.",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 8,
-      "title": "LVDG PACK 2",
-      "artist": "TRK.",
+      "title": "Juventus Nueva Era (Deluxe Edition)",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
@@ -480,15 +480,15 @@
     },
     {
       "pos": 19,
-      "title": "JEUNE & RICHE",
-      "artist": "Himra",
+      "title": "BABI TAPE Vol.1",
+      "artist": "Babi Tape",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 20,
-      "title": "BABI TAPE Vol.1",
-      "artist": "Babi Tape",
+      "title": "JEUNE & RICHE",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
@@ -522,15 +522,15 @@
     },
     {
       "pos": 25,
-      "title": "Jefe",
-      "artist": "Ninho",
+      "title": "Cherie Coco",
+      "artist": "Didi B, Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 26,
-      "title": "Ipséité",
-      "artist": "Damso",
+      "title": "Jefe",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
@@ -543,15 +543,15 @@
     },
     {
       "pos": 28,
-      "title": "Cherie Coco",
-      "artist": "Didi B, Fally Ipupa",
+      "title": "Ipséité",
+      "artist": "Damso",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 29,
-      "title": "1X",
-      "artist": "Himra",
+      "title": "R.F.W (Ready For War)",
+      "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
@@ -564,8 +564,8 @@
     },
     {
       "pos": 31,
-      "title": "R.F.W (Ready For War)",
-      "artist": "Lamoula$",
+      "title": "1X",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
@@ -585,29 +585,29 @@
     },
     {
       "pos": 34,
-      "title": "BDLM VOL.1",
-      "artist": "Tiakola",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 35,
       "title": "Tokooos II",
       "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 35,
+      "title": "BDLM VOL.1",
+      "artist": "Tiakola",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 36,
-      "title": "WHO IS DØPE?",
-      "artist": "døpelym",
+      "title": "FREESTYLE DRILL IVOIRE #7",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 37,
-      "title": "FREESTYLE DRILL IVOIRE #7",
-      "artist": "Himra",
+      "title": "WHO IS DØPE?",
+      "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
@@ -627,78 +627,78 @@
     },
     {
       "pos": 40,
+      "title": "XX",
+      "artist": "Fally Ipupa",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 41,
       "title": "BENZO PRESIDENT (Deluxe)",
       "artist": "Tino thebenzoboy",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 41,
+      "pos": 42,
       "title": "BĒYĀH",
       "artist": "Damso",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 42,
+      "pos": 43,
       "title": "AMADAN",
       "artist": "Lamine løssa",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 43,
+      "pos": 44,
       "title": "M.I.L.S 4",
       "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 44,
+      "pos": 45,
       "title": "FAIS OH FAIS (1 COUP KO)",
       "artist": "Ste Milano",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 45,
+      "pos": 46,
       "title": "Pyramide",
       "artist": "Werenoi",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 46,
+      "pos": 47,
       "title": "Carré",
       "artist": "Werenoi",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 47,
+      "pos": 48,
       "title": "Tokooos",
       "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 48,
+      "pos": 49,
       "title": "Work Of Art",
       "artist": "Asake",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 49,
+      "pos": 50,
       "title": "A LA VIE A LA MORT",
       "artist": "SDM",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 50,
-      "title": "CAPITALE DU CRIME RADIO, vol. 2",
-      "artist": "La Fouine",
       "type": "Album",
       "mov": "="
     }
