@@ -361,15 +361,15 @@
     },
     {
       "pos": 2,
-      "title": "INVASION TOME II",
-      "artist": "Sindika",
+      "title": "Flâ Ni",
+      "artist": "Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 3,
-      "title": "Flâ Ni",
-      "artist": "Ameka Zrai",
+      "title": "INVASION TOME II",
+      "artist": "Sindika",
       "type": "Album",
       "mov": "="
     },
@@ -501,29 +501,29 @@
     },
     {
       "pos": 22,
+      "title": "Cherie Coco",
+      "artist": "Didi B, Fally Ipupa",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 23,
       "title": "23 JOURS PLUS TARD",
       "artist": "Jolagreen23",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 23,
+      "pos": 24,
       "title": "LVDG PACK 2 (Deluxe)",
       "artist": "TRK.",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 24,
+      "pos": 25,
       "title": "Jeune Morty Vol.1",
       "artist": "Jeune Morty",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 25,
-      "title": "Cherie Coco",
-      "artist": "Didi B, Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
@@ -543,92 +543,92 @@
     },
     {
       "pos": 28,
+      "title": "XX",
+      "artist": "Fally Ipupa",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 29,
       "title": "Ipséité",
       "artist": "Damso",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 29,
+      "pos": 30,
       "title": "R.F.W (Ready For War)",
       "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 30,
+      "pos": 31,
       "title": "Poison Ou Antidote",
       "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 31,
+      "pos": 32,
       "title": "1X",
       "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 32,
+      "pos": 33,
       "title": "Diamant Noir",
       "artist": "Werenoi",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 33,
+      "pos": 34,
       "title": "Gentleman 2.0",
       "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 34,
-      "title": "Tokooos II",
-      "artist": "Fally Ipupa",
-      "type": "Album",
-      "mov": "="
-    },
-    {
       "pos": 35,
-      "title": "BDLM VOL.1",
-      "artist": "Tiakola",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 36,
       "title": "FREESTYLE DRILL IVOIRE #7",
       "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 36,
+      "title": "Tokooos II",
+      "artist": "Fally Ipupa",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 37,
+      "title": "BDLM VOL.1",
+      "artist": "Tiakola",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 38,
       "title": "WHO IS DØPE?",
       "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 38,
+      "pos": 39,
       "title": "M.I.L.S 3",
       "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 39,
+      "pos": 40,
       "title": "INVASION : TOME I",
       "artist": "Sindika",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 40,
-      "title": "XX",
-      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
@@ -655,15 +655,15 @@
     },
     {
       "pos": 44,
-      "title": "M.I.L.S 4",
-      "artist": "Ninho",
+      "title": "FAIS OH FAIS (1 COUP KO)",
+      "artist": "Ste Milano",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 45,
-      "title": "FAIS OH FAIS (1 COUP KO)",
-      "artist": "Ste Milano",
+      "title": "M.I.L.S 4",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
@@ -676,15 +676,15 @@
     },
     {
       "pos": 47,
-      "title": "Carré",
-      "artist": "Werenoi",
+      "title": "Tokooos",
+      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 48,
-      "title": "Tokooos",
-      "artist": "Fally Ipupa",
+      "title": "Carré",
+      "artist": "Werenoi",
       "type": "Album",
       "mov": "="
     },
