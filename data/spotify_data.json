@@ -23,15 +23,15 @@
     },
     {
       "pos": 4,
-      "title": "EN STRING",
-      "artist": "Doupi Papillon, Didi B",
+      "title": "ICI BAS",
+      "artist": "E Philipayne",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 5,
-      "title": "Jam",
-      "artist": "Fally Ipupa, Wizkid",
+      "title": "EN STRING",
+      "artist": "Doupi Papillon, Didi B",
       "mov": "=",
       "streams": 0
     },
@@ -44,8 +44,8 @@
     },
     {
       "pos": 7,
-      "title": "Chanel",
-      "artist": "E La Mano 1.9",
+      "title": "Jam",
+      "artist": "Fally Ipupa, Wizkid",
       "mov": "=",
       "streams": 0
     },
@@ -58,218 +58,218 @@
     },
     {
       "pos": 9,
-      "title": "La Mano x Gazo x La Rvfleuze (ATL MAQUETTE)",
-      "artist": "E Rap Exclusives",
+      "title": "Talbin",
+      "artist": "E Zed, Ninho",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 10,
-      "title": "magique",
-      "artist": "Willylancien",
+      "title": "Chanel",
+      "artist": "E La Mano 1.9",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 11,
-      "title": "Pavaner",
-      "artist": "E Arii, Ameka Zrai",
+      "title": "TALES",
+      "artist": "døpelym, Lamoula$",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 12,
-      "title": "Nouchi",
-      "artist": "Babi Tape, Black K, Ameka Zrai",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 13,
-      "title": "FOLLASSE",
-      "artist": "OG Mahilet, Lamoula$",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 14,
-      "title": "SOUS LES TROPIQUES",
-      "artist": "E Jukee, OG Mahilet",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 15,
-      "title": "CONFRÉRIE",
-      "artist": "Sindika, Ameka Zrai",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 16,
-      "title": "Ça sort",
-      "artist": "E BEN J, Ameka Zrai",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 17,
-      "title": "GANJAMAN (feat. Beeztrap KOTM, Kwaku DMC, Reggie & O'Kenneth)",
-      "artist": "E Himra, Beeztrap KOTM, Kwaku DMC, ,",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 18,
-      "title": "Jollof",
-      "artist": "E Big Chekete",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 19,
-      "title": "Faut Gbachi",
-      "artist": "KOMMANDER SAMO",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 20,
-      "title": "she goes by. - KayArchon Remix",
-      "artist": "KayArchonn, where.t.at",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 21,
-      "title": "I Denounce You Satan",
-      "artist": "Sheena Taylor",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 22,
-      "title": "BONJOUR BÉBÉ",
-      "artist": "Tino thebenzoboy",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 23,
-      "title": "Full",
-      "artist": "E Bilouki",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 24,
-      "title": "Maladie",
-      "artist": "Mauvais djo",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 25,
       "title": "BÉNI",
       "artist": "Lesky, døpelym, Ameka Zrai, Bmuxx Carter",
       "mov": "=",
       "streams": 0
     },
     {
+      "pos": 13,
+      "title": "Pavaner",
+      "artist": "E Arii, Ameka Zrai",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 14,
+      "title": "NOSTALGIE",
+      "artist": "Himra",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 15,
+      "title": "magique",
+      "artist": "Willylancien",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 16,
+      "title": "Nouchi",
+      "artist": "Babi Tape, Black K, Ameka Zrai",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 17,
+      "title": "CONFRÉRIE",
+      "artist": "Sindika, Ameka Zrai",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 18,
+      "title": "SOUS LES TROPIQUES",
+      "artist": "E Jukee, OG Mahilet",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 19,
+      "title": "Ça sort",
+      "artist": "E BEN J, Ameka Zrai",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 20,
+      "title": "La Mano x Gazo x La Rvfleuze (ATL MAQUETTE)",
+      "artist": "E Rap Exclusives",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 21,
+      "title": "Légendes",
+      "artist": "E La Fouine, Himra",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 22,
+      "title": "Full",
+      "artist": "E Bilouki",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 23,
+      "title": "C'est Gnimo",
+      "artist": "Dydy Yeman",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 24,
+      "title": "Gnanhi",
+      "artist": "Miedjia, Ameka Zrai",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 25,
+      "title": "she goes by. - KayArchon Remix",
+      "artist": "KayArchonn, where.t.at",
+      "mov": "=",
+      "streams": 0
+    },
+    {
       "pos": 26,
-      "title": "EN CATIMINII",
-      "artist": "Neaj",
+      "title": "Faut Gbachi",
+      "artist": "KOMMANDER SAMO",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 27,
-      "title": "Number One",
-      "artist": "Le Niapo, Waza no limite",
+      "title": "I Denounce You Satan",
+      "artist": "Sheena Taylor",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 28,
+      "title": "BONJOUR BÉBÉ",
+      "artist": "Tino thebenzoboy",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 29,
       "title": "OKULU",
       "artist": "L'Oiseau Rare, Didi B",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 29,
-      "title": "Big Boss",
-      "artist": "E La Fouine, Favé",
-      "mov": "=",
-      "streams": 0
-    },
-    {
       "pos": 30,
-      "title": "VVS",
-      "artist": "E Ninho",
+      "title": "Jollof",
+      "artist": "E Big Chekete",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 31,
+      "title": "Fimbu",
+      "artist": "Team Paiya, Didi B, Ste Milano, Tam Sir, 3xdavs",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 32,
+      "title": "FLEURS (feat. Tiakola)",
+      "artist": "E Gazo, Tiakola",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 33,
+      "title": "La vie qu'on mène",
+      "artist": "Ninho",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 34,
+      "title": "Appeler",
+      "artist": "E RBIB",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 35,
+      "title": "Pilé",
+      "artist": "Mauvais djo",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 36,
       "title": "Lettre à un petit frère",
       "artist": "JACK HONEY, JEFE BURGER",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 32,
-      "title": "Say less",
-      "artist": "David Okit",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 33,
-      "title": "Celebrate Me",
-      "artist": "IngaRose",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 34,
-      "title": "Tu m'aimes plus",
-      "artist": "Naza",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 35,
-      "title": "HOMIES",
-      "artist": "E MAFIA RECORDS, KH€O!, LN, LATECI,",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 36,
+      "pos": 37,
       "title": "Alabama Barker",
       "artist": "E Favé",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 37,
-      "title": "Elle veut",
-      "artist": "AK, Didi B",
-      "mov": "=",
-      "streams": 0
-    },
-    {
       "pos": 38,
-      "title": "C'est tout moi",
-      "artist": "Black M",
+      "title": "God's Plan",
+      "artist": "E Drake",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 39,
-      "title": "La vie de rêve",
-      "artist": "E SDM",
+      "title": "1,2,3",
+      "artist": "Chouchou Salvador",
       "mov": "=",
       "streams": 0
     },
@@ -282,71 +282,71 @@
     },
     {
       "pos": 41,
-      "title": "Plus rien ne m'étonne",
-      "artist": "Tiken Jah Fakoly",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 42,
-      "title": "Beauty And A Beat",
-      "artist": "Justin Bieber, Nicki Minaj",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 43,
       "title": "Pas le temps",
       "artist": "LM, Ameka Zrai",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 44,
+      "pos": 42,
       "title": "SHE DID IT AGAIN (feat. Zara Larsson)",
       "artist": "Tyla, Zara Larsson",
       "mov": "=",
       "streams": 0
     },
     {
+      "pos": 43,
+      "title": "Poney",
+      "artist": "E Werenoi",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 44,
+      "title": "Monalisa",
+      "artist": "Suspect95, Himra",
+      "mov": "=",
+      "streams": 0
+    },
+    {
       "pos": 45,
-      "title": "À l'aise",
-      "artist": "TRIANGLE DES BERMUDES, L2B, MC YOSHI, ,",
+      "title": "Billie Jean",
+      "artist": "Michael Jackson",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 46,
-      "title": "Y'a Pas Fort Dedans",
-      "artist": "E Kawid, Ameka Zrai",
+      "title": "RAGE D'UN ANIMAL",
+      "artist": "E Dope Family, døpelym, Lamoula$, ,",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 47,
-      "title": "Baby",
-      "artist": "E Daayvx, Ameka Zrai",
+      "title": "HOMIES",
+      "artist": "E MAFIA RECORDS, KH€O!, LN, LATECI,",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 48,
-      "title": "QABBALA",
-      "artist": "E Jeune Lion",
+      "title": "EN CATIMINII",
+      "artist": "Neaj",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 49,
-      "title": "REDRED",
-      "artist": "CORTIS",
+      "title": "Celebrate Me",
+      "artist": "IngaRose",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 50,
-      "title": "THATS WHAT I WANT",
-      "artist": "E Lil Nas X",
+      "title": "Number One",
+      "artist": "Le Niapo, Waza no limite",
       "mov": "=",
       "streams": 0
     }
@@ -928,43 +928,43 @@
     },
     {
       "pos": 38,
-      "name": "Tripa Gninnin",
-      "genres": "Artist",
-      "streams": 0
-    },
-    {
-      "pos": 39,
-      "name": "MHD",
-      "genres": "Artist",
-      "streams": 0
-    },
-    {
-      "pos": 40,
-      "name": "Tino thebenzoboy",
-      "genres": "Artist",
-      "streams": 0
-    },
-    {
-      "pos": 41,
       "name": "Doupi Papillon",
       "genres": "Artist",
       "streams": 0
     },
     {
-      "pos": 42,
+      "pos": 39,
+      "name": "Tripa Gninnin",
+      "genres": "Artist",
+      "streams": 0
+    },
+    {
+      "pos": 40,
       "name": "Philipayne",
       "genres": "Artist",
       "streams": 0
     },
     {
+      "pos": 41,
+      "name": "MHD",
+      "genres": "Artist",
+      "streams": 0
+    },
+    {
+      "pos": 42,
+      "name": "Tino thebenzoboy",
+      "genres": "Artist",
+      "streams": 0
+    },
+    {
       "pos": 43,
-      "name": "Genezio",
+      "name": "Joé Dwèt Filé",
       "genres": "Artist",
       "streams": 0
     },
     {
       "pos": 44,
-      "name": "Joé Dwèt Filé",
+      "name": "Wantché",
       "genres": "Artist",
       "streams": 0
     },
@@ -976,7 +976,7 @@
     },
     {
       "pos": 46,
-      "name": "Wantché",
+      "name": "Genezio",
       "genres": "Artist",
       "streams": 0
     },
@@ -988,19 +988,19 @@
     },
     {
       "pos": 48,
-      "name": "Booba",
+      "name": "Miedjia",
       "genres": "Artist",
       "streams": 0
     },
     {
       "pos": 49,
-      "name": "VDA",
+      "name": "Booba",
       "genres": "Artist",
       "streams": 0
     },
     {
       "pos": 50,
-      "name": "Miedjia",
+      "name": "VDA",
       "genres": "Artist",
       "streams": 0
     }
