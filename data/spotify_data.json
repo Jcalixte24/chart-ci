@@ -424,15 +424,15 @@
     },
     {
       "pos": 11,
-      "title": "Numéro d'écrou",
-      "artist": "La Rvfleuze",
+      "title": "RÉSONANCE",
+      "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 12,
-      "title": "RÉSONANCE",
-      "artist": "Josey",
+      "title": "Numéro d'écrou",
+      "artist": "La Rvfleuze",
       "type": "Album",
       "mov": "="
     },
@@ -459,15 +459,15 @@
     },
     {
       "pos": 16,
-      "title": "Destin",
-      "artist": "Ninho",
+      "title": "XX",
+      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 17,
-      "title": "Formule 7",
-      "artist": "Fally Ipupa",
+      "title": "Destin",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
@@ -480,22 +480,22 @@
     },
     {
       "pos": 19,
+      "title": "Formule 7",
+      "artist": "Fally Ipupa",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 20,
       "title": "BABI TAPE Vol.1",
       "artist": "Babi Tape",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 20,
+      "pos": 21,
       "title": "JEUNE & RICHE",
       "artist": "Himra",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 21,
-      "title": "XX",
-      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
@@ -515,29 +515,29 @@
     },
     {
       "pos": 24,
+      "title": "MERCON2BABIÈRE",
+      "artist": "Ameka Zrai",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 25,
       "title": "Jeune Morty Vol.1",
       "artist": "Jeune Morty",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 25,
+      "pos": 26,
       "title": "LVDG PACK 2 (Deluxe)",
       "artist": "TRK.",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 26,
+      "pos": 27,
       "title": "23 JOURS PLUS TARD",
       "artist": "Jolagreen23",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 27,
-      "title": "MERCON2BABIÈRE",
-      "artist": "Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
@@ -606,15 +606,15 @@
     },
     {
       "pos": 37,
-      "title": "BDLM VOL.1",
-      "artist": "Tiakola",
+      "title": "M.I.L.S 3",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 38,
-      "title": "M.I.L.S 3",
-      "artist": "Ninho",
+      "title": "BDLM VOL.1",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
@@ -669,29 +669,29 @@
     },
     {
       "pos": 46,
+      "title": "Je m'appelle",
+      "artist": "Didi B, Zlatan, Chlé",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 47,
       "title": "M.I.L.S 4",
       "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 47,
+      "pos": 48,
       "title": "Tokooos",
       "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 48,
+      "pos": 49,
       "title": "Carré",
       "artist": "Werenoi",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 49,
-      "title": "Je m'appelle",
-      "artist": "Didi B, Zlatan, Chlé",
       "type": "Album",
       "mov": "="
     },
