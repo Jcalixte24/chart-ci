@@ -431,22 +431,22 @@
     },
     {
       "pos": 12,
+      "title": "XX",
+      "artist": "Fally Ipupa",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 13,
       "title": "Numéro d'écrou",
       "artist": "La Rvfleuze",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 13,
+      "pos": 14,
       "title": "DIYILEM & BAZARHOFF : GENIUS",
       "artist": "Didi B",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 14,
-      "title": "XX",
-      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
@@ -571,15 +571,15 @@
     },
     {
       "pos": 32,
-      "title": "Poison Ou Antidote",
-      "artist": "Dadju",
+      "title": "Diamant Noir",
+      "artist": "Werenoi",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 33,
-      "title": "Diamant Noir",
-      "artist": "Werenoi",
+      "title": "Poison Ou Antidote",
+      "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
@@ -648,15 +648,15 @@
     },
     {
       "pos": 43,
-      "title": "AMADAN",
-      "artist": "Lamine løssa",
+      "title": "Je m'appelle",
+      "artist": "Didi B, Zlatan, Chlé",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 44,
-      "title": "Je m'appelle",
-      "artist": "Didi B, Zlatan, Chlé",
+      "title": "AMADAN",
+      "artist": "Lamine løssa",
       "type": "Album",
       "mov": "="
     },
@@ -676,8 +676,8 @@
     },
     {
       "pos": 47,
-      "title": "M.I.L.S 4",
-      "artist": "Ninho",
+      "title": "CLARITY OF MIND",
+      "artist": "OMAH LAY",
       "type": "Album",
       "mov": "="
     },
@@ -697,8 +697,8 @@
     },
     {
       "pos": 50,
-      "title": "CLARITY OF MIND",
-      "artist": "OMAH LAY",
+      "title": "M.I.L.S 4",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     }
@@ -736,37 +736,37 @@
     },
     {
       "pos": 6,
-      "name": "Suspect95",
-      "genres": "Artist",
-      "streams": 0
-    },
-    {
-      "pos": 7,
       "name": "Ste Milano",
       "genres": "Artist",
       "streams": 0
     },
     {
-      "pos": 8,
+      "pos": 7,
       "name": "døpelym",
       "genres": "Artist",
       "streams": 0
     },
     {
-      "pos": 9,
+      "pos": 8,
       "name": "Dadju",
       "genres": "Artist",
       "streams": 0
     },
     {
+      "pos": 9,
+      "name": "Suspect95",
+      "genres": "Artist",
+      "streams": 0
+    },
+    {
       "pos": 10,
-      "name": "Sindika",
+      "name": "Fally Ipupa",
       "genres": "Artist",
       "streams": 0
     },
     {
       "pos": 11,
-      "name": "Fally Ipupa",
+      "name": "Sindika",
       "genres": "Artist",
       "streams": 0
     },
@@ -802,13 +802,13 @@
     },
     {
       "pos": 17,
-      "name": "Werenoi",
+      "name": "Gazo",
       "genres": "Artist",
       "streams": 0
     },
     {
       "pos": 18,
-      "name": "Gazo",
+      "name": "Werenoi",
       "genres": "Artist",
       "streams": 0
     },
@@ -856,25 +856,25 @@
     },
     {
       "pos": 26,
-      "name": "RnBoi",
-      "genres": "Artist",
-      "streams": 0
-    },
-    {
-      "pos": 27,
       "name": "NO PAIN NO GAIN",
       "genres": "Artist",
       "streams": 0
     },
     {
-      "pos": 28,
+      "pos": 27,
       "name": "Niska",
       "genres": "Artist",
       "streams": 0
     },
     {
-      "pos": 29,
+      "pos": 28,
       "name": "Lesky",
+      "genres": "Artist",
+      "streams": 0
+    },
+    {
+      "pos": 29,
+      "name": "RnBoi",
       "genres": "Artist",
       "streams": 0
     },
@@ -892,31 +892,31 @@
     },
     {
       "pos": 32,
-      "name": "DJ Arafat",
+      "name": "Doupi Papillon",
       "genres": "Artist",
       "streams": 0
     },
     {
       "pos": 33,
-      "name": "Paulo Chakal",
-      "genres": "Artist",
-      "streams": 0
-    },
-    {
-      "pos": 34,
       "name": "L'Oiseau Rare",
       "genres": "Artist",
       "streams": 0
     },
     {
+      "pos": 34,
+      "name": "DJ Arafat",
+      "genres": "Artist",
+      "streams": 0
+    },
+    {
       "pos": 35,
-      "name": "SDM",
+      "name": "Paulo Chakal",
       "genres": "Artist",
       "streams": 0
     },
     {
       "pos": 36,
-      "name": "Doupi Papillon",
+      "name": "SDM",
       "genres": "Artist",
       "streams": 0
     },
@@ -940,55 +940,55 @@
     },
     {
       "pos": 40,
-      "name": "Wantché",
-      "genres": "Artist",
-      "streams": 0
-    },
-    {
-      "pos": 41,
-      "name": "Philipayne",
-      "genres": "Artist",
-      "streams": 0
-    },
-    {
-      "pos": 42,
       "name": "Joé Dwèt Filé",
       "genres": "Artist",
       "streams": 0
     },
     {
+      "pos": 41,
+      "name": "Wantché",
+      "genres": "Artist",
+      "streams": 0
+    },
+    {
+      "pos": 42,
+      "name": "Nyerky",
+      "genres": "Artist",
+      "streams": 0
+    },
+    {
       "pos": 43,
-      "name": "Tino thebenzoboy",
-      "genres": "Artist",
-      "streams": 0
-    },
-    {
-      "pos": 44,
-      "name": "MHD",
-      "genres": "Artist",
-      "streams": 0
-    },
-    {
-      "pos": 45,
       "name": "Naza",
       "genres": "Artist",
       "streams": 0
     },
     {
+      "pos": 44,
+      "name": "Philipayne",
+      "genres": "Artist",
+      "streams": 0
+    },
+    {
+      "pos": 45,
+      "name": "Tino thebenzoboy",
+      "genres": "Artist",
+      "streams": 0
+    },
+    {
       "pos": 46,
-      "name": "Genezio",
+      "name": "MHD",
       "genres": "Artist",
       "streams": 0
     },
     {
       "pos": 47,
-      "name": "KeBlack",
+      "name": "Genezio",
       "genres": "Artist",
       "streams": 0
     },
     {
       "pos": 48,
-      "name": "Nyerky",
+      "name": "KeBlack",
       "genres": "Artist",
       "streams": 0
     },
