@@ -375,15 +375,15 @@
     },
     {
       "pos": 4,
-      "title": "Démosthène",
-      "artist": "Suspect95",
+      "title": "JEUNE & RICHE (DELUXE)",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 5,
-      "title": "JEUNE & RICHE (DELUXE)",
-      "artist": "Himra",
+      "title": "Démosthène",
+      "artist": "Suspect95",
       "type": "Album",
       "mov": "="
     },
@@ -424,29 +424,29 @@
     },
     {
       "pos": 11,
-      "title": "RÉSONANCE",
-      "artist": "Josey",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 12,
       "title": "XX",
       "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 12,
+      "title": "RÉSONANCE",
+      "artist": "Josey",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 13,
-      "title": "Numéro d'écrou",
-      "artist": "La Rvfleuze",
+      "title": "DIYILEM & BAZARHOFF : GENIUS",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 14,
-      "title": "DIYILEM & BAZARHOFF : GENIUS",
-      "artist": "Didi B",
+      "title": "Numéro d'écrou",
+      "artist": "La Rvfleuze",
       "type": "Album",
       "mov": "="
     },
@@ -480,22 +480,22 @@
     },
     {
       "pos": 19,
+      "title": "JEUNE & RICHE",
+      "artist": "Himra",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 20,
       "title": "Formule 7",
       "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 20,
+      "pos": 21,
       "title": "BABI TAPE Vol.1",
       "artist": "Babi Tape",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 21,
-      "title": "JEUNE & RICHE",
-      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
@@ -522,8 +522,8 @@
     },
     {
       "pos": 25,
-      "title": "Jeune Morty Vol.1",
-      "artist": "Jeune Morty",
+      "title": "Jefe",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
@@ -536,8 +536,8 @@
     },
     {
       "pos": 27,
-      "title": "Jefe",
-      "artist": "Ninho",
+      "title": "Jeune Morty Vol.1",
+      "artist": "Jeune Morty",
       "type": "Album",
       "mov": "="
     },
@@ -550,15 +550,15 @@
     },
     {
       "pos": 29,
-      "title": "Ipséité",
-      "artist": "Damso",
+      "title": "R.F.W (Ready For War)",
+      "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 30,
-      "title": "R.F.W (Ready For War)",
-      "artist": "Lamoula$",
+      "title": "Ipséité",
+      "artist": "Damso",
       "type": "Album",
       "mov": "="
     },
@@ -571,22 +571,22 @@
     },
     {
       "pos": 32,
+      "title": "FREESTYLE DRILL IVOIRE #7",
+      "artist": "Himra",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 33,
       "title": "Diamant Noir",
       "artist": "Werenoi",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 33,
+      "pos": 34,
       "title": "Poison Ou Antidote",
       "artist": "Dadju",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 34,
-      "title": "FREESTYLE DRILL IVOIRE #7",
-      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
@@ -641,15 +641,15 @@
     },
     {
       "pos": 42,
-      "title": "BENZO PRESIDENT (Deluxe)",
-      "artist": "Tino thebenzoboy",
+      "title": "Je m'appelle",
+      "artist": "Didi B, Zlatan, Chlé",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 43,
-      "title": "Je m'appelle",
-      "artist": "Didi B, Zlatan, Chlé",
+      "title": "BENZO PRESIDENT (Deluxe)",
+      "artist": "Tino thebenzoboy",
       "type": "Album",
       "mov": "="
     },
@@ -683,8 +683,8 @@
     },
     {
       "pos": 48,
-      "title": "Carré",
-      "artist": "Werenoi",
+      "title": "MERCON2BABIÈRE (DELUXE)",
+      "artist": "Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
@@ -697,8 +697,8 @@
     },
     {
       "pos": 50,
-      "title": "M.I.L.S 4",
-      "artist": "Ninho",
+      "title": "Carré",
+      "artist": "Werenoi",
       "type": "Album",
       "mov": "="
     }
