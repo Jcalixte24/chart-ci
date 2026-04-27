@@ -403,29 +403,29 @@
     },
     {
       "pos": 8,
-      "title": "Juventus Nueva Era (Deluxe Edition)",
-      "artist": "Didi B",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 9,
       "title": "DACHIBA KOUMGBA TCHAIBA",
       "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 9,
+      "title": "Juventus Nueva Era (Deluxe Edition)",
+      "artist": "Didi B",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 10,
-      "title": "M.I.L.S 4",
-      "artist": "Ninho",
+      "title": "XX",
+      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 11,
-      "title": "XX",
-      "artist": "Fally Ipupa",
+      "title": "M.I.L.S 4",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
@@ -466,15 +466,15 @@
     },
     {
       "pos": 17,
-      "title": "Destin",
-      "artist": "Ninho",
+      "title": "BIG AKA 4 AKA KAI",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 18,
-      "title": "BIG AKA 4 AKA KAI",
-      "artist": "Himra",
+      "title": "Destin",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
@@ -487,15 +487,15 @@
     },
     {
       "pos": 20,
-      "title": "Formule 7",
-      "artist": "Fally Ipupa",
+      "title": "BABI TAPE Vol.1",
+      "artist": "Babi Tape",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 21,
-      "title": "BABI TAPE Vol.1",
-      "artist": "Babi Tape",
+      "title": "Formule 7",
+      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
@@ -613,15 +613,15 @@
     },
     {
       "pos": 38,
-      "title": "BDLM VOL.1",
-      "artist": "Tiakola",
+      "title": "INVASION : TOME I",
+      "artist": "Sindika",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 39,
-      "title": "INVASION : TOME I",
-      "artist": "Sindika",
+      "title": "BDLM VOL.1",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
@@ -634,15 +634,15 @@
     },
     {
       "pos": 41,
-      "title": "BĒYĀH",
-      "artist": "Damso",
+      "title": "Je m'appelle",
+      "artist": "Didi B, Zlatan, Chlé",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 42,
-      "title": "Je m'appelle",
-      "artist": "Didi B, Zlatan, Chlé",
+      "title": "BĒYĀH",
+      "artist": "Damso",
       "type": "Album",
       "mov": "="
     },
@@ -669,8 +669,8 @@
     },
     {
       "pos": 46,
-      "title": "FAIS OH FAIS (1 COUP KO)",
-      "artist": "Ste Milano",
+      "title": "MERCON2BABIÈRE (DELUXE)",
+      "artist": "Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
@@ -683,8 +683,8 @@
     },
     {
       "pos": 48,
-      "title": "MERCON2BABIÈRE (DELUXE)",
-      "artist": "Ameka Zrai",
+      "title": "FAIS OH FAIS (1 COUP KO)",
+      "artist": "Ste Milano",
       "type": "Album",
       "mov": "="
     },
