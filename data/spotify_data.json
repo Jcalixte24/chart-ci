@@ -718,19 +718,19 @@
     },
     {
       "pos": 3,
-      "name": "Ninho",
+      "name": "Ameka Zrai",
       "genres": "Artist",
       "streams": 0
     },
     {
       "pos": 4,
-      "name": "TRK.",
+      "name": "Ninho",
       "genres": "Artist",
       "streams": 0
     },
     {
       "pos": 5,
-      "name": "Ameka Zrai",
+      "name": "TRK.",
       "genres": "Artist",
       "streams": 0
     },
@@ -748,13 +748,13 @@
     },
     {
       "pos": 8,
-      "name": "døpelym",
+      "name": "Fally Ipupa",
       "genres": "Artist",
       "streams": 0
     },
     {
       "pos": 9,
-      "name": "Fally Ipupa",
+      "name": "døpelym",
       "genres": "Artist",
       "streams": 0
     },
@@ -808,13 +808,13 @@
     },
     {
       "pos": 18,
-      "name": "La Rvfleuze",
+      "name": "GENERATION NERF",
       "genres": "Artist",
       "streams": 0
     },
     {
       "pos": 19,
-      "name": "GENERATION NERF",
+      "name": "La Rvfleuze",
       "genres": "Artist",
       "streams": 0
     },
@@ -874,25 +874,25 @@
     },
     {
       "pos": 29,
-      "name": "RnBoi",
-      "genres": "Artist",
-      "streams": 0
-    },
-    {
-      "pos": 30,
       "name": "Nyerky",
       "genres": "Artist",
       "streams": 0
     },
     {
+      "pos": 30,
+      "name": "RnBoi",
+      "genres": "Artist",
+      "streams": 0
+    },
+    {
       "pos": 31,
-      "name": "Asake",
+      "name": "Doupi Papillon",
       "genres": "Artist",
       "streams": 0
     },
     {
       "pos": 32,
-      "name": "Doupi Papillon",
+      "name": "Asake",
       "genres": "Artist",
       "streams": 0
     },
@@ -946,19 +946,19 @@
     },
     {
       "pos": 41,
-      "name": "Tripa Gninnin",
-      "genres": "Artist",
-      "streams": 0
-    },
-    {
-      "pos": 42,
       "name": "Wantché",
       "genres": "Artist",
       "streams": 0
     },
     {
-      "pos": 43,
+      "pos": 42,
       "name": "Philipayne",
+      "genres": "Artist",
+      "streams": 0
+    },
+    {
+      "pos": 43,
+      "name": "Tripa Gninnin",
       "genres": "Artist",
       "streams": 0
     },
@@ -970,25 +970,25 @@
     },
     {
       "pos": 45,
-      "name": "MHD",
-      "genres": "Artist",
-      "streams": 0
-    },
-    {
-      "pos": 46,
       "name": "Tino thebenzoboy",
       "genres": "Artist",
       "streams": 0
     },
     {
+      "pos": 46,
+      "name": "MHD",
+      "genres": "Artist",
+      "streams": 0
+    },
+    {
       "pos": 47,
-      "name": "Genezio",
+      "name": "Miedjia",
       "genres": "Artist",
       "streams": 0
     },
     {
       "pos": 48,
-      "name": "Miedjia",
+      "name": "Genezio",
       "genres": "Artist",
       "streams": 0
     },
