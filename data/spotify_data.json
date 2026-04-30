@@ -742,13 +742,13 @@
     },
     {
       "pos": 7,
-      "name": "Dadju",
+      "name": "Fally Ipupa",
       "genres": "Artist",
       "streams": 0
     },
     {
       "pos": 8,
-      "name": "Fally Ipupa",
+      "name": "Dadju",
       "genres": "Artist",
       "streams": 0
     },
@@ -802,13 +802,13 @@
     },
     {
       "pos": 17,
-      "name": "Werenoi",
+      "name": "GENERATION NERF",
       "genres": "Artist",
       "streams": 0
     },
     {
       "pos": 18,
-      "name": "GENERATION NERF",
+      "name": "Werenoi",
       "genres": "Artist",
       "streams": 0
     },
@@ -862,31 +862,31 @@
     },
     {
       "pos": 27,
-      "name": "Niska",
-      "genres": "Artist",
-      "streams": 0
-    },
-    {
-      "pos": 28,
-      "name": "NO PAIN NO GAIN",
-      "genres": "Artist",
-      "streams": 0
-    },
-    {
-      "pos": 29,
       "name": "Nyerky",
       "genres": "Artist",
       "streams": 0
     },
     {
+      "pos": 28,
+      "name": "Niska",
+      "genres": "Artist",
+      "streams": 0
+    },
+    {
+      "pos": 29,
+      "name": "NO PAIN NO GAIN",
+      "genres": "Artist",
+      "streams": 0
+    },
+    {
       "pos": 30,
-      "name": "RnBoi",
+      "name": "Doupi Papillon",
       "genres": "Artist",
       "streams": 0
     },
     {
       "pos": 31,
-      "name": "Doupi Papillon",
+      "name": "RnBoi",
       "genres": "Artist",
       "streams": 0
     },
@@ -910,19 +910,19 @@
     },
     {
       "pos": 35,
-      "name": "Paulo Chakal",
+      "name": "DJ Arafat",
       "genres": "Artist",
       "streams": 0
     },
     {
       "pos": 36,
-      "name": "SDM",
+      "name": "Paulo Chakal",
       "genres": "Artist",
       "streams": 0
     },
     {
       "pos": 37,
-      "name": "DJ Arafat",
+      "name": "SDM",
       "genres": "Artist",
       "streams": 0
     },
@@ -934,25 +934,25 @@
     },
     {
       "pos": 39,
-      "name": "Aya Nakamura",
+      "name": "Philipayne",
       "genres": "Artist",
       "streams": 0
     },
     {
       "pos": 40,
-      "name": "Davido",
-      "genres": "Artist",
-      "streams": 0
-    },
-    {
-      "pos": 41,
       "name": "Wantché",
       "genres": "Artist",
       "streams": 0
     },
     {
+      "pos": 41,
+      "name": "Aya Nakamura",
+      "genres": "Artist",
+      "streams": 0
+    },
+    {
       "pos": 42,
-      "name": "Philipayne",
+      "name": "Davido",
       "genres": "Artist",
       "streams": 0
     },
@@ -970,7 +970,7 @@
     },
     {
       "pos": 45,
-      "name": "Tino thebenzoboy",
+      "name": "Miedjia",
       "genres": "Artist",
       "streams": 0
     },
@@ -982,25 +982,25 @@
     },
     {
       "pos": 47,
-      "name": "Miedjia",
+      "name": "Tino thebenzoboy",
       "genres": "Artist",
       "streams": 0
     },
     {
       "pos": 48,
-      "name": "Genezio",
+      "name": "VDA",
       "genres": "Artist",
       "streams": 0
     },
     {
       "pos": 49,
-      "name": "KeBlack",
+      "name": "Genezio",
       "genres": "Artist",
       "streams": 0
     },
     {
       "pos": 50,
-      "name": "VDA",
+      "name": "KeBlack",
       "genres": "Artist",
       "streams": 0
     }
