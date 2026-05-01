@@ -1,2028 +1,6 @@
 [
   {
-    "generated_at": "2026-04-19T12:02:54Z",
-    "source": "spotify-web-scrape",
-    "country": "ci",
-    "songs": [
-      {
-        "pos": 1,
-        "title": "Adriano",
-        "artist": "E Ameka Zrai",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 2,
-        "title": "Jam",
-        "artist": "Fally Ipupa, Wizkid",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 3,
-        "title": "Cherie Coco",
-        "artist": "E Didi B, Fally Ipupa",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 4,
-        "title": "ahlalala",
-        "artist": "E 63OG, Didi B",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 5,
-        "title": "Changé Numéro",
-        "artist": "Nyerky, Ameka Zrai",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 6,
-        "title": "Chanel",
-        "artist": "E La Mano 1.9",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 7,
-        "title": "Pineapple",
-        "artist": "E Leto",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 8,
-        "title": "magique",
-        "artist": "Willylancien",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 9,
-        "title": "Jollof",
-        "artist": "E Big Chekete",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 10,
-        "title": "Débrouillard",
-        "artist": "E Lamoula$",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 11,
-        "title": "Elle veut",
-        "artist": "AK, Didi B",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 12,
-        "title": "24/24",
-        "artist": "E La Fouine, WIXO & LA2S",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 13,
-        "title": "Faut Gbachi",
-        "artist": "KOMMANDER SAMO",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 14,
-        "title": "Alabama Barker",
-        "artist": "E Favé",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 15,
-        "title": "C'est Gnimo",
-        "artist": "Dydy Yeman",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 16,
-        "title": "Tu m'aimes plus",
-        "artist": "Naza",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 17,
-        "title": "Say less",
-        "artist": "David Okit",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 18,
-        "title": "BÉNI",
-        "artist": "Lesky, døpelym, Ameka Zrai, Bmuxx Carter",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 19,
-        "title": "LABUBU",
-        "artist": "ILYAH, GIMS",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 20,
-        "title": "Bottom Of Your Boots",
-        "artist": "Ella Langley",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 21,
-        "title": "she goes by. - KayArchon Remix",
-        "artist": "KayArchonn, where.t.at",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 22,
-        "title": "Papa de Télé",
-        "artist": "E Doupi Papillon, TRK.",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 23,
-        "title": "SHE DID IT AGAIN (feat. Zara Larsson)",
-        "artist": "Tyla, Zara Larsson",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 24,
-        "title": "Machine",
-        "artist": "E Keeqaid",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 25,
-        "title": "Pavaner",
-        "artist": "E Arii, Ameka Zrai",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 26,
-        "title": "Rosé",
-        "artist": "Guy2Bezbar",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 27,
-        "title": "BAHI",
-        "artist": "E Wantché, OG Mahilet",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 28,
-        "title": "63KODES",
-        "artist": "E Kodes, 63OG",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 29,
-        "title": "Beauty And A Beat",
-        "artist": "Justin Bieber, Nicki Minaj",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 30,
-        "title": "Appeler",
-        "artist": "E RBIB",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 31,
-        "title": "KAGEINNOVE!",
-        "artist": "E KAGE",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 32,
-        "title": "Back and Forth (feat. Missy Elliott)",
-        "artist": "E Kehlani, Missy Elliott",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 33,
-        "title": "1,2,3",
-        "artist": "Chouchou Salvador",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 34,
-        "title": "Lettre à un petit frère",
-        "artist": "JACK HONEY, JEFE BURGER",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 35,
-        "title": "Biama Yacouba",
-        "artist": "Daoudi le Kirikou",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 36,
-        "title": "Full",
-        "artist": "E Bilouki",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 37,
-        "title": "LIFESTYLE",
-        "artist": "E ODK.",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 38,
-        "title": "EN CATIMINII",
-        "artist": "Neaj",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 39,
-        "title": "Gnanhi",
-        "artist": "Miedjia, Ameka Zrai",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 40,
-        "title": "Moviestar",
-        "artist": "Sofiane Pamart, Rema",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 41,
-        "title": "Maladie",
-        "artist": "Mauvais djo",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 42,
-        "title": "HOMIES",
-        "artist": "E MAFIA RECORDS, KH€O!, LN, LATECI,",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 43,
-        "title": "Changé",
-        "artist": "Devone",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 44,
-        "title": "COUPER-COUPER",
-        "artist": "E Renard Barakissa",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 45,
-        "title": "Mr. Know It All",
-        "artist": "Teddy Swims",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 46,
-        "title": "RUNWAY",
-        "artist": "E Lady Gaga, Doechii",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 47,
-        "title": "PINKY UP",
-        "artist": "E KATSEYE",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 48,
-        "title": "Fimbu",
-        "artist": "Team Paiya, Didi B, Ste Milano, Tam Sir, 3xdavs",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 49,
-        "title": "Paquinou",
-        "artist": "Tripa Gninnin, Observateur",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 50,
-        "title": "GENESIS",
-        "artist": "STARK2",
-        "mov": "=",
-        "streams": 0
-      }
-    ],
-    "albums": [
-      {
-        "pos": 1,
-        "title": "DACHIBA KOUMGBA TCHAIBA : DALSHIM",
-        "artist": "Himra",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 2,
-        "title": "INVASION TOME II",
-        "artist": "Sindika",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 3,
-        "title": "Flâ Ni",
-        "artist": "Ameka Zrai",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 4,
-        "title": "Démosthène",
-        "artist": "Suspect95",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 5,
-        "title": "JEUNE & RICHE (DELUXE)",
-        "artist": "Himra",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 6,
-        "title": "FREELYM",
-        "artist": "døpelym",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 7,
-        "title": "LVDG PACK 2",
-        "artist": "TRK.",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 8,
-        "title": "Juventus Nueva Era (Deluxe Edition)",
-        "artist": "Didi B",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 9,
-        "title": "DACHIBA KOUMGBA TCHAIBA",
-        "artist": "Himra",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 10,
-        "title": "M.I.L.S 4",
-        "artist": "Ninho",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 11,
-        "title": "Numéro d'écrou",
-        "artist": "La Rvfleuze",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 12,
-        "title": "RÉSONANCE",
-        "artist": "Josey",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 13,
-        "title": "DIYILEM & BAZARHOFF : GENIUS",
-        "artist": "Didi B",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 14,
-        "title": "IDK2",
-        "artist": "Himra",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 15,
-        "title": "Mélo",
-        "artist": "Tiakola",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 16,
-        "title": "Formule 7",
-        "artist": "Fally Ipupa",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 17,
-        "title": "Destin",
-        "artist": "Ninho",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 18,
-        "title": "BIG AKA 4 AKA KAI",
-        "artist": "Himra",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 19,
-        "title": "BABI TAPE Vol.1",
-        "artist": "Babi Tape",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 20,
-        "title": "JEUNE & RICHE",
-        "artist": "Himra",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 21,
-        "title": "Juventus Nueva Era",
-        "artist": "Didi B",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 22,
-        "title": "23 JOURS PLUS TARD",
-        "artist": "Jolagreen23",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 23,
-        "title": "LVDG PACK 2 (Deluxe)",
-        "artist": "TRK.",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 24,
-        "title": "Jeune Morty Vol.1",
-        "artist": "Jeune Morty",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 25,
-        "title": "Cherie Coco",
-        "artist": "Didi B, Fally Ipupa",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 26,
-        "title": "Jefe",
-        "artist": "Ninho",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 27,
-        "title": "MERCON2BABIÈRE",
-        "artist": "Ameka Zrai",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 28,
-        "title": "Ipséité",
-        "artist": "Damso",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 29,
-        "title": "R.F.W (Ready For War)",
-        "artist": "Lamoula$",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 30,
-        "title": "Poison Ou Antidote",
-        "artist": "Dadju",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 31,
-        "title": "1X",
-        "artist": "Himra",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 32,
-        "title": "Diamant Noir",
-        "artist": "Werenoi",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 33,
-        "title": "Gentleman 2.0",
-        "artist": "Dadju",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 34,
-        "title": "Tokooos II",
-        "artist": "Fally Ipupa",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 35,
-        "title": "BDLM VOL.1",
-        "artist": "Tiakola",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 36,
-        "title": "FREESTYLE DRILL IVOIRE #7",
-        "artist": "Himra",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 37,
-        "title": "WHO IS DØPE?",
-        "artist": "døpelym",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 38,
-        "title": "M.I.L.S 3",
-        "artist": "Ninho",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 39,
-        "title": "INVASION : TOME I",
-        "artist": "Sindika",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 40,
-        "title": "XX",
-        "artist": "Fally Ipupa",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 41,
-        "title": "BENZO PRESIDENT (Deluxe)",
-        "artist": "Tino thebenzoboy",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 42,
-        "title": "BĒYĀH",
-        "artist": "Damso",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 43,
-        "title": "AMADAN",
-        "artist": "Lamine løssa",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 44,
-        "title": "M.I.L.S 4",
-        "artist": "Ninho",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 45,
-        "title": "FAIS OH FAIS (1 COUP KO)",
-        "artist": "Ste Milano",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 46,
-        "title": "Pyramide",
-        "artist": "Werenoi",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 47,
-        "title": "Carré",
-        "artist": "Werenoi",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 48,
-        "title": "Tokooos",
-        "artist": "Fally Ipupa",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 49,
-        "title": "Work Of Art",
-        "artist": "Asake",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 50,
-        "title": "A LA VIE A LA MORT",
-        "artist": "SDM",
-        "type": "Album",
-        "mov": "="
-      }
-    ],
-    "artists": [
-      {
-        "pos": 1,
-        "name": "Himra",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 2,
-        "name": "Didi B",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 3,
-        "name": "TRK.",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 4,
-        "name": "Ninho",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 5,
-        "name": "døpelym",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 6,
-        "name": "Ste Milano",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 7,
-        "name": "Dadju",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 8,
-        "name": "Suspect95",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 9,
-        "name": "La Fouine",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 10,
-        "name": "Sindika",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 11,
-        "name": "GIMS",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 12,
-        "name": "Ameka Zrai",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 13,
-        "name": "Fally Ipupa",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 14,
-        "name": "Tiakola",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 15,
-        "name": "Babi Tape",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 16,
-        "name": "Gazo",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 17,
-        "name": "Werenoi",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 18,
-        "name": "La Rvfleuze",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 19,
-        "name": "GENERATION NERF",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 20,
-        "name": "Team Paiya",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 21,
-        "name": "Lamine løssa",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 22,
-        "name": "Josey",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 23,
-        "name": "Tayc",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 24,
-        "name": "RnBoi",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 25,
-        "name": "Damso",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 26,
-        "name": "NO PAIN NO GAIN",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 27,
-        "name": "Niska",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 28,
-        "name": "Asake",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 29,
-        "name": "Leto",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 30,
-        "name": "Lesky",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 31,
-        "name": "3xdavs",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 32,
-        "name": "SDM",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 33,
-        "name": "DJ Arafat",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 34,
-        "name": "Aya Nakamura",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 35,
-        "name": "Davido",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 36,
-        "name": "Tino thebenzoboy",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 37,
-        "name": "Genezio",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 38,
-        "name": "Paulo Chakal",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 39,
-        "name": "KeBlack",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 40,
-        "name": "Philipayne",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 41,
-        "name": "MHD",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 42,
-        "name": "L'Oiseau Rare",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 43,
-        "name": "Booba",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 44,
-        "name": "Franglish",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 45,
-        "name": "Naza",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 46,
-        "name": "Tripa Gninnin",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 47,
-        "name": "Espoir 2000",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 48,
-        "name": "Joé Dwèt Filé",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 49,
-        "name": "Kiff No Beat",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 50,
-        "name": "Lamoula$",
-        "genres": "Artiste",
-        "streams": 0
-      }
-    ]
-  },
-  {
-    "generated_at": "2026-04-24T18:59:48Z",
-    "source": "spotify-web-scrape",
-    "country": "ci",
-    "songs": [
-      {
-        "pos": 1,
-        "title": "Adriano",
-        "artist": "E Ameka Zrai",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 2,
-        "title": "Fire in your Eyes",
-        "artist": "Didi B, Mavo",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 3,
-        "title": "KEHOU DRILL",
-        "artist": "HIMIRA",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 4,
-        "title": "Changé Numéro",
-        "artist": "Nyerky, Ameka Zrai",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 5,
-        "title": "EN STRING",
-        "artist": "Doupi Papillon, Didi B",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 6,
-        "title": "NUMBER ONE (feat. Minz)",
-        "artist": "Himra, Minz",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 7,
-        "title": "Talbin",
-        "artist": "E Zed, Ninho",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 8,
-        "title": "Lost",
-        "artist": "Fally Ipupa",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 9,
-        "title": "Pineapple",
-        "artist": "E Leto",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 10,
-        "title": "ICI BAS",
-        "artist": "E Philipayne",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 11,
-        "title": "Chanel",
-        "artist": "E La Mano 1.9",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 12,
-        "title": "Pavaner",
-        "artist": "E Arii, Ameka Zrai",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 13,
-        "title": "BÉNI",
-        "artist": "Lesky, døpelym, Ameka Zrai, Bmuxx Carter",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 14,
-        "title": "Nouchi",
-        "artist": "Babi Tape, Black K, Ameka Zrai",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 15,
-        "title": "magique",
-        "artist": "Willylancien",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 16,
-        "title": "Ça sort",
-        "artist": "E BEN J, Ameka Zrai",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 17,
-        "title": "Débrouillard",
-        "artist": "E Lamoula$",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 18,
-        "title": "she goes by. - KayArchon Remix",
-        "artist": "KayArchonn, where.t.at",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 19,
-        "title": "Pilé",
-        "artist": "Mauvais djo",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 20,
-        "title": "Faut Gbachi",
-        "artist": "KOMMANDER SAMO",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 21,
-        "title": "BONJOUR BÉBÉ",
-        "artist": "Tino thebenzoboy",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 22,
-        "title": "CONFRÉRIE",
-        "artist": "Sindika, Ameka Zrai",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 23,
-        "title": "LOVE",
-        "artist": "E Kerchak",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 24,
-        "title": "Billie Jean",
-        "artist": "Michael Jackson",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 25,
-        "title": "Full",
-        "artist": "E Bilouki",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 26,
-        "title": "SOUS LES TROPIQUES",
-        "artist": "E Jukee, OG Mahilet",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 27,
-        "title": "I Denounce You Satan",
-        "artist": "Sheena Taylor",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 28,
-        "title": "Légendes",
-        "artist": "E La Fouine, Himra",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 29,
-        "title": "Gnanhi",
-        "artist": "Miedjia, Ameka Zrai",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 30,
-        "title": "C'est Gnimo",
-        "artist": "Dydy Yeman",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 31,
-        "title": "L'Oiseau Rare, Bolémvn, Ameka Zrai",
-        "artist": "-",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 32,
-        "title": "DANS LE DOS",
-        "artist": "E NO PAIN NO GAIN, Himra, Ninho",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 33,
-        "title": "La vie qu'on mène",
-        "artist": "Ninho",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 34,
-        "title": "Jollof",
-        "artist": "E Big Chekete",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 35,
-        "title": "Gasolina (feat. Rsko)",
-        "artist": "E Tiakola, Rsko",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 36,
-        "title": "Collabo",
-        "artist": "P-Square, Don Jazzy",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 37,
-        "title": "Gazo (La Mano 1.9 & La Rvfleuze) [Audio Exclu 2026]",
-        "artist": "E Nskz",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 38,
-        "title": "Not Afraid",
-        "artist": "E Eminem",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 39,
-        "title": "Y'a Pas Fort Dedans",
-        "artist": "E Kawid, Ameka Zrai",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 40,
-        "title": "Medellín",
-        "artist": "E Niska",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 41,
-        "title": "ASSAUT",
-        "artist": "E Paki Chenzu, Himra",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 42,
-        "title": "EN CATIMINII",
-        "artist": "Neaj",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 43,
-        "title": "Ça Ira",
-        "artist": "B-Soundz",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 44,
-        "title": "Lettre à un petit frère",
-        "artist": "JACK HONEY, JEFE BURGER",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 45,
-        "title": "Saison",
-        "artist": "E HMZ, Werenoi",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 46,
-        "title": "Baby",
-        "artist": "E Daayvx, Ameka Zrai",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 47,
-        "title": "Alabama Barker",
-        "artist": "E Favé",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 48,
-        "title": "Pas le temps",
-        "artist": "LM, Ameka Zrai",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 49,
-        "title": "Vacances sur la côte",
-        "artist": "E Gradur, SDM",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 50,
-        "title": "go",
-        "artist": "E Cat Burns",
-        "mov": "=",
-        "streams": 0
-      }
-    ],
-    "albums": [
-      {
-        "pos": 1,
-        "title": "DACHIBA KOUMGBA TCHAIBA : DALSHIM",
-        "artist": "Himra",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 2,
-        "title": "Flâ Ni",
-        "artist": "Ameka Zrai",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 3,
-        "title": "INVASION TOME II",
-        "artist": "Sindika",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 4,
-        "title": "Démosthène",
-        "artist": "Suspect95",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 5,
-        "title": "JEUNE & RICHE (DELUXE)",
-        "artist": "Himra",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 6,
-        "title": "FREELYM",
-        "artist": "døpelym",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 7,
-        "title": "LVDG PACK 2",
-        "artist": "TRK.",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 8,
-        "title": "Juventus Nueva Era (Deluxe Edition)",
-        "artist": "Didi B",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 9,
-        "title": "DACHIBA KOUMGBA TCHAIBA",
-        "artist": "Himra",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 10,
-        "title": "M.I.L.S 4",
-        "artist": "Ninho",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 11,
-        "title": "RÉSONANCE",
-        "artist": "Josey",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 12,
-        "title": "Numéro d'écrou",
-        "artist": "La Rvfleuze",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 13,
-        "title": "DIYILEM & BAZARHOFF : GENIUS",
-        "artist": "Didi B",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 14,
-        "title": "XX",
-        "artist": "Fally Ipupa",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 15,
-        "title": "IDK2",
-        "artist": "Himra",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 16,
-        "title": "Mélo",
-        "artist": "Tiakola",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 17,
-        "title": "Destin",
-        "artist": "Ninho",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 18,
-        "title": "BIG AKA 4 AKA KAI",
-        "artist": "Himra",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 19,
-        "title": "Formule 7",
-        "artist": "Fally Ipupa",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 20,
-        "title": "BABI TAPE Vol.1",
-        "artist": "Babi Tape",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 21,
-        "title": "JEUNE & RICHE",
-        "artist": "Himra",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 22,
-        "title": "Juventus Nueva Era",
-        "artist": "Didi B",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 23,
-        "title": "Cherie Coco",
-        "artist": "Didi B, Fally Ipupa",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 24,
-        "title": "MERCON2BABIÈRE",
-        "artist": "Ameka Zrai",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 25,
-        "title": "Jeune Morty Vol.1",
-        "artist": "Jeune Morty",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 26,
-        "title": "LVDG PACK 2 (Deluxe)",
-        "artist": "TRK.",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 27,
-        "title": "Jefe",
-        "artist": "Ninho",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 28,
-        "title": "23 JOURS PLUS TARD",
-        "artist": "Jolagreen23",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 29,
-        "title": "Ipséité",
-        "artist": "Damso",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 30,
-        "title": "R.F.W (Ready For War)",
-        "artist": "Lamoula$",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 31,
-        "title": "1X",
-        "artist": "Himra",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 32,
-        "title": "Poison Ou Antidote",
-        "artist": "Dadju",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 33,
-        "title": "Diamant Noir",
-        "artist": "Werenoi",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 34,
-        "title": "FREESTYLE DRILL IVOIRE #7",
-        "artist": "Himra",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 35,
-        "title": "Gentleman 2.0",
-        "artist": "Dadju",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 36,
-        "title": "Tokooos II",
-        "artist": "Fally Ipupa",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 37,
-        "title": "M.I.L.S 3",
-        "artist": "Ninho",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 38,
-        "title": "BDLM VOL.1",
-        "artist": "Tiakola",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 39,
-        "title": "INVASION : TOME I",
-        "artist": "Sindika",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 40,
-        "title": "WHO IS DØPE?",
-        "artist": "døpelym",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 41,
-        "title": "BĒYĀH",
-        "artist": "Damso",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 42,
-        "title": "BENZO PRESIDENT (Deluxe)",
-        "artist": "Tino thebenzoboy",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 43,
-        "title": "AMADAN",
-        "artist": "Lamine løssa",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 44,
-        "title": "Je m'appelle",
-        "artist": "Didi B, Zlatan, Chlé",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 45,
-        "title": "Pyramide",
-        "artist": "Werenoi",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 46,
-        "title": "FAIS OH FAIS (1 COUP KO)",
-        "artist": "Ste Milano",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 47,
-        "title": "M.I.L.S 4",
-        "artist": "Ninho",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 48,
-        "title": "Carré",
-        "artist": "Werenoi",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 49,
-        "title": "Tokooos",
-        "artist": "Fally Ipupa",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 50,
-        "title": "CLARITY OF MIND",
-        "artist": "OMAH LAY",
-        "type": "Album",
-        "mov": "="
-      }
-    ],
-    "artists": [
-      {
-        "pos": 1,
-        "name": "Himra",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 2,
-        "name": "Didi B",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 3,
-        "name": "Ninho",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 4,
-        "name": "TRK.",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 5,
-        "name": "Ameka Zrai",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 6,
-        "name": "Suspect95",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 7,
-        "name": "Ste Milano",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 8,
-        "name": "døpelym",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 9,
-        "name": "Dadju",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 10,
-        "name": "Sindika",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 11,
-        "name": "Fally Ipupa",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 12,
-        "name": "La Fouine",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 13,
-        "name": "GIMS",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 14,
-        "name": "Tiakola",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 15,
-        "name": "Babi Tape",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 16,
-        "name": "La Rvfleuze",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 17,
-        "name": "Werenoi",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 18,
-        "name": "Gazo",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 19,
-        "name": "GENERATION NERF",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 20,
-        "name": "Team Paiya",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 21,
-        "name": "Lamine løssa",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 22,
-        "name": "Josey",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 23,
-        "name": "Tayc",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 24,
-        "name": "Damso",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 25,
-        "name": "Leto",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 26,
-        "name": "RnBoi",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 27,
-        "name": "NO PAIN NO GAIN",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 28,
-        "name": "Niska",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 29,
-        "name": "Lesky",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 30,
-        "name": "Asake",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 31,
-        "name": "3xdavs",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 32,
-        "name": "DJ Arafat",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 33,
-        "name": "Paulo Chakal",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 34,
-        "name": "L'Oiseau Rare",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 35,
-        "name": "SDM",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 36,
-        "name": "Doupi Papillon",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 37,
-        "name": "Aya Nakamura",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 38,
-        "name": "Davido",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 39,
-        "name": "Tripa Gninnin",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 40,
-        "name": "Wantché",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 41,
-        "name": "Philipayne",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 42,
-        "name": "Joé Dwèt Filé",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 43,
-        "name": "Tino thebenzoboy",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 44,
-        "name": "MHD",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 45,
-        "name": "Naza",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 46,
-        "name": "Genezio",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 47,
-        "name": "KeBlack",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 48,
-        "name": "Nyerky",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 49,
-        "name": "Miedjia",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 50,
-        "name": "VDA",
-        "genres": "Artiste",
-        "streams": 0
-      }
-    ]
-  },
-  {
-    "generated_at": "2026-04-27T00:57:07Z",
+    "generated_at": "2026-04-27T18:41:02Z",
     "source": "spotify-web-scrape",
     "country": "ci",
     "songs": [
@@ -2042,3370 +20,337 @@
       },
       {
         "pos": 3,
-        "title": "Changé Numéro",
-        "artist": "Nyerky, Ameka Zrai",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 4,
         "title": "NUMBER ONE (feat. Minz)",
         "artist": "Himra, Minz",
         "mov": "=",
         "streams": 0
       },
       {
-        "pos": 5,
-        "title": "Fire in your Eyes",
-        "artist": "Didi B, Mavo",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 6,
-        "title": "Golden Boy 2",
-        "artist": "E TRK.",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 7,
-        "title": "Lis L'heure",
-        "artist": "E OG Mahilet",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 8,
-        "title": "Pineapple",
-        "artist": "E Leto",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 9,
-        "title": "Légendes",
-        "artist": "E La Fouine, Himra",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 10,
-        "title": "Gas Station",
-        "artist": "Lesky, Widgunz",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 11,
-        "title": "BAHI",
-        "artist": "E Wantché, OG Mahilet",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 12,
-        "title": "C'est Gnimo",
-        "artist": "Dydy Yeman",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 13,
-        "title": "FAIS OH FAIS (1 COUP KO)",
-        "artist": "Ste Milano",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 14,
-        "title": "AMADAN",
-        "artist": "E Lamine løssa",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 15,
-        "title": "Nobody",
-        "artist": "E døpelym",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 16,
-        "title": "Chanel",
-        "artist": "E La Mano 1.9",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 17,
-        "title": "JAMAIS CHERLA",
-        "artist": "GENERATION NERF, døpelym, Himra",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 18,
-        "title": "EN STRING",
-        "artist": "Doupi Papillon, Didi B",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 19,
-        "title": "Débrouillard",
-        "artist": "E Lamoula$",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 20,
-        "title": "Rihanna",
-        "artist": "E Joé Dwèt Filé",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 21,
-        "title": "COUPER-COUPER",
-        "artist": "E Renard Barakissa",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 22,
-        "title": "Oplus",
-        "artist": "Ks Bloom",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 23,
-        "title": "DANS LE DOS",
-        "artist": "E NO PAIN NO GAIN, Himra, Ninho",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 24,
-        "title": "Pilé",
-        "artist": "Mauvais djo",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 25,
-        "title": "Biama Yacouba",
-        "artist": "Daoudi le Kirikou",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 26,
-        "title": "Deux êtres",
-        "artist": "Fally Ipupa",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 27,
-        "title": "OCCUPÉ",
-        "artist": "E DDJ\"",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 28,
-        "title": "1,2,3",
-        "artist": "Chouchou Salvador",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 29,
-        "title": "Billie Jean",
-        "artist": "Michael Jackson",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 30,
-        "title": "Fais ton malin",
-        "artist": "Josey",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 31,
-        "title": "La bêtise",
-        "artist": "Kadirov Mania, Renard Barakissa",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 32,
-        "title": "Pavaner",
-        "artist": "E Arii, Ameka Zrai",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 33,
-        "title": "Moyo",
-        "artist": "Suspect95, døpelym",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 34,
-        "title": "R.I.P",
-        "artist": "E Landy, R2, Genezio",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 35,
-        "title": "LAISSE TOI ALLER",
-        "artist": "E Goh Dedi, KRM",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 36,
-        "title": "BADMAN GANGSTA",
-        "artist": "E Asake, Tiakola",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 37,
-        "title": "she goes by. - KayArchon Remix",
-        "artist": "KayArchonn, where.t.at",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 38,
-        "title": "Faut Gbachi",
-        "artist": "KOMMANDER SAMO",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 39,
-        "title": "LOVE",
-        "artist": "E Kerchak",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 40,
-        "title": "Miss Kitoko",
-        "artist": "E Theodora",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 41,
-        "title": "Argent Sale - A COLORS SHOW",
-        "artist": "E La Rvfleuze, COLORS",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 42,
-        "title": "Nouchi",
-        "artist": "Babi Tape, Black K, Ameka Zrai",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 43,
-        "title": "Gazo (La Mano 1.9 & La Rvfleuze) [Audio Exclu 2026]",
-        "artist": "E Nskz",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 44,
-        "title": "JAPANEXPO",
-        "artist": "E Jolagreen23",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 45,
-        "title": "MON BÉBÉ",
-        "artist": "RnBoi",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 46,
-        "title": "magique",
-        "artist": "Willylancien",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 47,
-        "title": "CONFRÉRIE",
-        "artist": "Sindika, Ameka Zrai",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 48,
-        "title": "Talbin",
-        "artist": "E Zed, Ninho",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 49,
-        "title": "RIP DAISHI",
-        "artist": "E jam$co",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 50,
-        "title": "KAT (feat. La Rvfleuze)",
-        "artist": "E Gazo, La Rvfleuze",
-        "mov": "=",
-        "streams": 0
-      }
-    ],
-    "albums": [
-      {
-        "pos": 1,
-        "title": "DACHIBA KOUMGBA TCHAIBA : DALSHIM",
-        "artist": "Himra",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 2,
-        "title": "Flâ Ni",
-        "artist": "Ameka Zrai",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 3,
-        "title": "INVASION TOME II",
-        "artist": "Sindika",
-        "type": "Album",
-        "mov": "="
-      },
-      {
         "pos": 4,
-        "title": "JEUNE & RICHE (DELUXE)",
-        "artist": "Himra",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 5,
-        "title": "Démosthène",
-        "artist": "Suspect95",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 6,
-        "title": "FREELYM",
-        "artist": "døpelym",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 7,
-        "title": "LVDG PACK 2",
-        "artist": "TRK.",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 8,
-        "title": "Juventus Nueva Era (Deluxe Edition)",
-        "artist": "Didi B",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 9,
-        "title": "DACHIBA KOUMGBA TCHAIBA",
-        "artist": "Himra",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 10,
-        "title": "M.I.L.S 4",
-        "artist": "Ninho",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 11,
-        "title": "XX",
-        "artist": "Fally Ipupa",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 12,
-        "title": "RÉSONANCE",
-        "artist": "Josey",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 13,
-        "title": "DIYILEM & BAZARHOFF : GENIUS",
-        "artist": "Didi B",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 14,
-        "title": "Numéro d'écrou",
-        "artist": "La Rvfleuze",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 15,
-        "title": "IDK2",
-        "artist": "Himra",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 16,
-        "title": "Mélo",
-        "artist": "Tiakola",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 17,
-        "title": "Destin",
-        "artist": "Ninho",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 18,
-        "title": "BIG AKA 4 AKA KAI",
-        "artist": "Himra",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 19,
-        "title": "JEUNE & RICHE",
-        "artist": "Himra",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 20,
-        "title": "Formule 7",
-        "artist": "Fally Ipupa",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 21,
-        "title": "BABI TAPE Vol.1",
-        "artist": "Babi Tape",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 22,
-        "title": "Juventus Nueva Era",
-        "artist": "Didi B",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 23,
-        "title": "Cherie Coco",
-        "artist": "Didi B, Fally Ipupa",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 24,
-        "title": "MERCON2BABIÈRE",
-        "artist": "Ameka Zrai",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 25,
-        "title": "Jefe",
-        "artist": "Ninho",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 26,
-        "title": "LVDG PACK 2 (Deluxe)",
-        "artist": "TRK.",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 27,
-        "title": "Jeune Morty Vol.1",
-        "artist": "Jeune Morty",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 28,
-        "title": "23 JOURS PLUS TARD",
-        "artist": "Jolagreen23",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 29,
-        "title": "R.F.W (Ready For War)",
-        "artist": "Lamoula$",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 30,
-        "title": "Ipséité",
-        "artist": "Damso",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 31,
-        "title": "1X",
-        "artist": "Himra",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 32,
-        "title": "FREESTYLE DRILL IVOIRE #7",
-        "artist": "Himra",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 33,
-        "title": "Diamant Noir",
-        "artist": "Werenoi",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 34,
-        "title": "Poison Ou Antidote",
-        "artist": "Dadju",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 35,
-        "title": "Gentleman 2.0",
-        "artist": "Dadju",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 36,
-        "title": "Tokooos II",
-        "artist": "Fally Ipupa",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 37,
-        "title": "M.I.L.S 3",
-        "artist": "Ninho",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 38,
-        "title": "BDLM VOL.1",
-        "artist": "Tiakola",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 39,
-        "title": "INVASION : TOME I",
-        "artist": "Sindika",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 40,
-        "title": "WHO IS DØPE?",
-        "artist": "døpelym",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 41,
-        "title": "BĒYĀH",
-        "artist": "Damso",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 42,
-        "title": "Je m'appelle",
-        "artist": "Didi B, Zlatan, Chlé",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 43,
-        "title": "BENZO PRESIDENT (Deluxe)",
-        "artist": "Tino thebenzoboy",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 44,
-        "title": "AMADAN",
-        "artist": "Lamine løssa",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 45,
-        "title": "Pyramide",
-        "artist": "Werenoi",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 46,
-        "title": "FAIS OH FAIS (1 COUP KO)",
-        "artist": "Ste Milano",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 47,
-        "title": "CLARITY OF MIND",
-        "artist": "OMAH LAY",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 48,
-        "title": "MERCON2BABIÈRE (DELUXE)",
-        "artist": "Ameka Zrai",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 49,
-        "title": "Tokooos",
-        "artist": "Fally Ipupa",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 50,
-        "title": "Carré",
-        "artist": "Werenoi",
-        "type": "Album",
-        "mov": "="
-      }
-    ],
-    "artists": [
-      {
-        "pos": 1,
-        "name": "Himra",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 2,
-        "name": "Didi B",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 3,
-        "name": "Ninho",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 4,
-        "name": "TRK.",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 5,
-        "name": "Ameka Zrai",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 6,
-        "name": "Ste Milano",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 7,
-        "name": "døpelym",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 8,
-        "name": "Dadju",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 9,
-        "name": "Suspect95",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 10,
-        "name": "Fally Ipupa",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 11,
-        "name": "La Fouine",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 12,
-        "name": "Sindika",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 13,
-        "name": "GIMS",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 14,
-        "name": "Tiakola",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 15,
-        "name": "Babi Tape",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 16,
-        "name": "La Rvfleuze",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 17,
-        "name": "Gazo",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 18,
-        "name": "Werenoi",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 19,
-        "name": "GENERATION NERF",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 20,
-        "name": "Lamine løssa",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 21,
-        "name": "Team Paiya",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 22,
-        "name": "Josey",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 23,
-        "name": "Tayc",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 24,
-        "name": "Damso",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 25,
-        "name": "Leto",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 26,
-        "name": "Lesky",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 27,
-        "name": "Niska",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 28,
-        "name": "NO PAIN NO GAIN",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 29,
-        "name": "RnBoi",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 30,
-        "name": "Asake",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 31,
-        "name": "3xdavs",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 32,
-        "name": "Doupi Papillon",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 33,
-        "name": "L'Oiseau Rare",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 34,
-        "name": "DJ Arafat",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 35,
-        "name": "Paulo Chakal",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 36,
-        "name": "SDM",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 37,
-        "name": "Nyerky",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 38,
-        "name": "Aya Nakamura",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 39,
-        "name": "Davido",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 40,
-        "name": "Joé Dwèt Filé",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 41,
-        "name": "Tripa Gninnin",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 42,
-        "name": "Wantché",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 43,
-        "name": "Naza",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 44,
-        "name": "Philipayne",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 45,
-        "name": "MHD",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 46,
-        "name": "Tino thebenzoboy",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 47,
-        "name": "Genezio",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 48,
-        "name": "KeBlack",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 49,
-        "name": "Miedjia",
-        "genres": "Artiste",
-        "streams": 0
-      },
-      {
-        "pos": 50,
-        "name": "VDA",
-        "genres": "Artiste",
-        "streams": 0
-      }
-    ]
-  },
-  {
-    "generated_at": "2026-04-27T03:44:24Z",
-    "source": "spotify-web-scrape",
-    "country": "ci",
-    "songs": [
-      {
-        "pos": 1,
-        "title": "Adriano",
-        "artist": "E Ameka Zrai",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 2,
-        "title": "KEHOU DRILL",
-        "artist": "HIMIRA",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 3,
         "title": "Changé Numéro",
         "artist": "Nyerky, Ameka Zrai",
         "mov": "=",
         "streams": 0
       },
       {
-        "pos": 4,
-        "title": "NUMBER ONE (feat. Minz)",
-        "artist": "Himra, Minz",
-        "mov": "=",
-        "streams": 0
-      },
-      {
         "pos": 5,
-        "title": "Fire in your Eyes",
-        "artist": "Didi B, Mavo",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 6,
-        "title": "Golden Boy 2",
-        "artist": "E TRK.",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 7,
-        "title": "Lis L'heure",
-        "artist": "E OG Mahilet",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 8,
-        "title": "Pineapple",
-        "artist": "E Leto",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 9,
-        "title": "Légendes",
-        "artist": "E La Fouine, Himra",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 10,
-        "title": "Gas Station",
-        "artist": "Lesky, Widgunz",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 11,
-        "title": "BAHI",
-        "artist": "E Wantché, OG Mahilet",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 12,
-        "title": "C'est Gnimo",
-        "artist": "Dydy Yeman",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 13,
-        "title": "FAIS OH FAIS (1 COUP KO)",
-        "artist": "Ste Milano",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 14,
-        "title": "AMADAN",
-        "artist": "E Lamine løssa",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 15,
-        "title": "Nobody",
-        "artist": "E døpelym",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 16,
-        "title": "Chanel",
-        "artist": "E La Mano 1.9",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 17,
-        "title": "JAMAIS CHERLA",
-        "artist": "GENERATION NERF, døpelym, Himra",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 18,
-        "title": "EN STRING",
-        "artist": "Doupi Papillon, Didi B",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 19,
-        "title": "Débrouillard",
-        "artist": "E Lamoula$",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 20,
-        "title": "Rihanna",
-        "artist": "E Joé Dwèt Filé",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 21,
-        "title": "COUPER-COUPER",
-        "artist": "E Renard Barakissa",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 22,
-        "title": "Oplus",
-        "artist": "Ks Bloom",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 23,
-        "title": "DANS LE DOS",
-        "artist": "E NO PAIN NO GAIN, Himra, Ninho",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 24,
-        "title": "Pilé",
-        "artist": "Mauvais djo",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 25,
-        "title": "Biama Yacouba",
-        "artist": "Daoudi le Kirikou",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 26,
-        "title": "Deux êtres",
-        "artist": "Fally Ipupa",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 27,
-        "title": "OCCUPÉ",
-        "artist": "E DDJ\"",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 28,
-        "title": "1,2,3",
-        "artist": "Chouchou Salvador",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 29,
-        "title": "Billie Jean",
-        "artist": "Michael Jackson",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 30,
-        "title": "Fais ton malin",
-        "artist": "Josey",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 31,
-        "title": "La bêtise",
-        "artist": "Kadirov Mania, Renard Barakissa",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 32,
-        "title": "Pavaner",
-        "artist": "E Arii, Ameka Zrai",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 33,
-        "title": "Moyo",
-        "artist": "Suspect95, døpelym",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 34,
-        "title": "R.I.P",
-        "artist": "E Landy, R2, Genezio",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 35,
-        "title": "LAISSE TOI ALLER",
-        "artist": "E Goh Dedi, KRM",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 36,
-        "title": "BADMAN GANGSTA",
-        "artist": "E Asake, Tiakola",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 37,
-        "title": "she goes by. - KayArchon Remix",
-        "artist": "KayArchonn, where.t.at",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 38,
-        "title": "Faut Gbachi",
-        "artist": "KOMMANDER SAMO",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 39,
-        "title": "LOVE",
-        "artist": "E Kerchak",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 40,
-        "title": "Miss Kitoko",
-        "artist": "E Theodora",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 41,
-        "title": "Argent Sale - A COLORS SHOW",
-        "artist": "E La Rvfleuze, COLORS",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 42,
-        "title": "Nouchi",
-        "artist": "Babi Tape, Black K, Ameka Zrai",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 43,
-        "title": "Gazo (La Mano 1.9 & La Rvfleuze) [Audio Exclu 2026]",
-        "artist": "E Nskz",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 44,
-        "title": "JAPANEXPO",
-        "artist": "E Jolagreen23",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 45,
-        "title": "MON BÉBÉ",
-        "artist": "RnBoi",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 46,
-        "title": "magique",
-        "artist": "Willylancien",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 47,
-        "title": "CONFRÉRIE",
-        "artist": "Sindika, Ameka Zrai",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 48,
-        "title": "Talbin",
-        "artist": "E Zed, Ninho",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 49,
-        "title": "RIP DAISHI",
-        "artist": "E jam$co",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 50,
-        "title": "KAT (feat. La Rvfleuze)",
-        "artist": "E Gazo, La Rvfleuze",
-        "mov": "=",
-        "streams": 0
-      }
-    ],
-    "albums": [
-      {
-        "pos": 1,
-        "title": "DACHIBA KOUMGBA TCHAIBA : DALSHIM",
-        "artist": "Himra",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 2,
-        "title": "Flâ Ni",
-        "artist": "Ameka Zrai",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 3,
-        "title": "INVASION TOME II",
-        "artist": "Sindika",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 4,
-        "title": "JEUNE & RICHE (DELUXE)",
-        "artist": "Himra",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 5,
-        "title": "Démosthène",
-        "artist": "Suspect95",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 6,
-        "title": "FREELYM",
-        "artist": "døpelym",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 7,
-        "title": "LVDG PACK 2",
-        "artist": "TRK.",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 8,
-        "title": "Juventus Nueva Era (Deluxe Edition)",
-        "artist": "Didi B",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 9,
-        "title": "DACHIBA KOUMGBA TCHAIBA",
-        "artist": "Himra",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 10,
-        "title": "M.I.L.S 4",
-        "artist": "Ninho",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 11,
-        "title": "XX",
-        "artist": "Fally Ipupa",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 12,
-        "title": "RÉSONANCE",
-        "artist": "Josey",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 13,
-        "title": "DIYILEM & BAZARHOFF : GENIUS",
-        "artist": "Didi B",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 14,
-        "title": "Numéro d'écrou",
-        "artist": "La Rvfleuze",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 15,
-        "title": "IDK2",
-        "artist": "Himra",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 16,
-        "title": "Mélo",
-        "artist": "Tiakola",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 17,
-        "title": "Destin",
-        "artist": "Ninho",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 18,
-        "title": "BIG AKA 4 AKA KAI",
-        "artist": "Himra",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 19,
-        "title": "JEUNE & RICHE",
-        "artist": "Himra",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 20,
-        "title": "Formule 7",
-        "artist": "Fally Ipupa",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 21,
-        "title": "BABI TAPE Vol.1",
-        "artist": "Babi Tape",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 22,
-        "title": "Juventus Nueva Era",
-        "artist": "Didi B",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 23,
-        "title": "Cherie Coco",
-        "artist": "Didi B, Fally Ipupa",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 24,
-        "title": "MERCON2BABIÈRE",
-        "artist": "Ameka Zrai",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 25,
-        "title": "Jefe",
-        "artist": "Ninho",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 26,
-        "title": "LVDG PACK 2 (Deluxe)",
-        "artist": "TRK.",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 27,
-        "title": "Jeune Morty Vol.1",
-        "artist": "Jeune Morty",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 28,
-        "title": "23 JOURS PLUS TARD",
-        "artist": "Jolagreen23",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 29,
-        "title": "R.F.W (Ready For War)",
-        "artist": "Lamoula$",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 30,
-        "title": "Ipséité",
-        "artist": "Damso",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 31,
-        "title": "1X",
-        "artist": "Himra",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 32,
-        "title": "FREESTYLE DRILL IVOIRE #7",
-        "artist": "Himra",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 33,
-        "title": "Diamant Noir",
-        "artist": "Werenoi",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 34,
-        "title": "Poison Ou Antidote",
-        "artist": "Dadju",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 35,
-        "title": "Gentleman 2.0",
-        "artist": "Dadju",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 36,
-        "title": "Tokooos II",
-        "artist": "Fally Ipupa",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 37,
-        "title": "M.I.L.S 3",
-        "artist": "Ninho",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 38,
-        "title": "BDLM VOL.1",
-        "artist": "Tiakola",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 39,
-        "title": "INVASION : TOME I",
-        "artist": "Sindika",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 40,
-        "title": "WHO IS DØPE?",
-        "artist": "døpelym",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 41,
-        "title": "BĒYĀH",
-        "artist": "Damso",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 42,
-        "title": "Je m'appelle",
-        "artist": "Didi B, Zlatan, Chlé",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 43,
-        "title": "BENZO PRESIDENT (Deluxe)",
-        "artist": "Tino thebenzoboy",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 44,
-        "title": "AMADAN",
-        "artist": "Lamine løssa",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 45,
-        "title": "Pyramide",
-        "artist": "Werenoi",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 46,
-        "title": "FAIS OH FAIS (1 COUP KO)",
-        "artist": "Ste Milano",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 47,
-        "title": "CLARITY OF MIND",
-        "artist": "OMAH LAY",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 48,
-        "title": "MERCON2BABIÈRE (DELUXE)",
-        "artist": "Ameka Zrai",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 49,
-        "title": "Tokooos",
-        "artist": "Fally Ipupa",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 50,
-        "title": "Carré",
-        "artist": "Werenoi",
-        "type": "Album",
-        "mov": "="
-      }
-    ],
-    "artists": [
-      {
-        "pos": 1,
-        "name": "Himra",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 2,
-        "name": "Didi B",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 3,
-        "name": "Ninho",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 4,
-        "name": "TRK.",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 5,
-        "name": "Ameka Zrai",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 6,
-        "name": "Ste Milano",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 7,
-        "name": "døpelym",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 8,
-        "name": "Dadju",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 9,
-        "name": "Suspect95",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 10,
-        "name": "Fally Ipupa",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 11,
-        "name": "La Fouine",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 12,
-        "name": "Sindika",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 13,
-        "name": "GIMS",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 14,
-        "name": "Tiakola",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 15,
-        "name": "Babi Tape",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 16,
-        "name": "La Rvfleuze",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 17,
-        "name": "Gazo",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 18,
-        "name": "Werenoi",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 19,
-        "name": "GENERATION NERF",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 20,
-        "name": "Lamine løssa",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 21,
-        "name": "Team Paiya",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 22,
-        "name": "Josey",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 23,
-        "name": "Tayc",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 24,
-        "name": "Damso",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 25,
-        "name": "Leto",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 26,
-        "name": "Lesky",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 27,
-        "name": "Niska",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 28,
-        "name": "NO PAIN NO GAIN",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 29,
-        "name": "RnBoi",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 30,
-        "name": "Asake",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 31,
-        "name": "3xdavs",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 32,
-        "name": "Doupi Papillon",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 33,
-        "name": "L'Oiseau Rare",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 34,
-        "name": "DJ Arafat",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 35,
-        "name": "Paulo Chakal",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 36,
-        "name": "SDM",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 37,
-        "name": "Nyerky",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 38,
-        "name": "Aya Nakamura",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 39,
-        "name": "Davido",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 40,
-        "name": "Joé Dwèt Filé",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 41,
-        "name": "Tripa Gninnin",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 42,
-        "name": "Wantché",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 43,
-        "name": "Naza",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 44,
-        "name": "Philipayne",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 45,
-        "name": "MHD",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 46,
-        "name": "Tino thebenzoboy",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 47,
-        "name": "Genezio",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 48,
-        "name": "KeBlack",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 49,
-        "name": "Miedjia",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 50,
-        "name": "VDA",
-        "genres": "Artist",
-        "streams": 0
-      }
-    ]
-  },
-  {
-    "generated_at": "2026-04-27T08:37:39Z",
-    "source": "spotify-web-scrape",
-    "country": "ci",
-    "songs": [
-      {
-        "pos": 1,
-        "title": "Adriano",
-        "artist": "E Ameka Zrai",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 2,
-        "title": "KEHOU DRILL",
-        "artist": "HIMIRA",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 3,
-        "title": "Changé Numéro",
-        "artist": "Nyerky, Ameka Zrai",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 4,
-        "title": "NUMBER ONE (feat. Minz)",
-        "artist": "Himra, Minz",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 5,
-        "title": "Fire in your Eyes",
-        "artist": "Didi B, Mavo",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 6,
-        "title": "Golden Boy 2",
-        "artist": "E TRK.",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 7,
-        "title": "Lis L'heure",
-        "artist": "E OG Mahilet",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 8,
-        "title": "Pineapple",
-        "artist": "E Leto",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 9,
-        "title": "Légendes",
-        "artist": "E La Fouine, Himra",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 10,
-        "title": "Gas Station",
-        "artist": "Lesky, Widgunz",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 11,
-        "title": "BAHI",
-        "artist": "E Wantché, OG Mahilet",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 12,
-        "title": "C'est Gnimo",
-        "artist": "Dydy Yeman",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 13,
-        "title": "FAIS OH FAIS (1 COUP KO)",
-        "artist": "Ste Milano",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 14,
-        "title": "AMADAN",
-        "artist": "E Lamine løssa",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 15,
-        "title": "Nobody",
-        "artist": "E døpelym",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 16,
-        "title": "Chanel",
-        "artist": "E La Mano 1.9",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 17,
-        "title": "JAMAIS CHERLA",
-        "artist": "GENERATION NERF, døpelym, Himra",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 18,
-        "title": "EN STRING",
-        "artist": "Doupi Papillon, Didi B",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 19,
-        "title": "Débrouillard",
-        "artist": "E Lamoula$",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 20,
-        "title": "Rihanna",
-        "artist": "E Joé Dwèt Filé",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 21,
-        "title": "COUPER-COUPER",
-        "artist": "E Renard Barakissa",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 22,
-        "title": "Oplus",
-        "artist": "Ks Bloom",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 23,
-        "title": "DANS LE DOS",
-        "artist": "E NO PAIN NO GAIN, Himra, Ninho",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 24,
-        "title": "Pilé",
-        "artist": "Mauvais djo",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 25,
-        "title": "Biama Yacouba",
-        "artist": "Daoudi le Kirikou",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 26,
-        "title": "Deux êtres",
-        "artist": "Fally Ipupa",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 27,
-        "title": "OCCUPÉ",
-        "artist": "E DDJ\"",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 28,
-        "title": "1,2,3",
-        "artist": "Chouchou Salvador",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 29,
-        "title": "Billie Jean",
-        "artist": "Michael Jackson",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 30,
-        "title": "Fais ton malin",
-        "artist": "Josey",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 31,
-        "title": "La bêtise",
-        "artist": "Kadirov Mania, Renard Barakissa",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 32,
-        "title": "Pavaner",
-        "artist": "E Arii, Ameka Zrai",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 33,
-        "title": "Moyo",
-        "artist": "Suspect95, døpelym",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 34,
-        "title": "R.I.P",
-        "artist": "E Landy, R2, Genezio",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 35,
-        "title": "LAISSE TOI ALLER",
-        "artist": "E Goh Dedi, KRM",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 36,
-        "title": "BADMAN GANGSTA",
-        "artist": "E Asake, Tiakola",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 37,
-        "title": "she goes by. - KayArchon Remix",
-        "artist": "KayArchonn, where.t.at",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 38,
-        "title": "Faut Gbachi",
-        "artist": "KOMMANDER SAMO",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 39,
-        "title": "LOVE",
-        "artist": "E Kerchak",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 40,
-        "title": "Miss Kitoko",
-        "artist": "E Theodora",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 41,
-        "title": "Argent Sale - A COLORS SHOW",
-        "artist": "E La Rvfleuze, COLORS",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 42,
-        "title": "Nouchi",
-        "artist": "Babi Tape, Black K, Ameka Zrai",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 43,
-        "title": "Gazo (La Mano 1.9 & La Rvfleuze) [Audio Exclu 2026]",
-        "artist": "E Nskz",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 44,
-        "title": "JAPANEXPO",
-        "artist": "E Jolagreen23",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 45,
-        "title": "MON BÉBÉ",
-        "artist": "RnBoi",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 46,
-        "title": "magique",
-        "artist": "Willylancien",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 47,
-        "title": "CONFRÉRIE",
-        "artist": "Sindika, Ameka Zrai",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 48,
-        "title": "Talbin",
-        "artist": "E Zed, Ninho",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 49,
-        "title": "RIP DAISHI",
-        "artist": "E jam$co",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 50,
-        "title": "KAT (feat. La Rvfleuze)",
-        "artist": "E Gazo, La Rvfleuze",
-        "mov": "=",
-        "streams": 0
-      }
-    ],
-    "albums": [
-      {
-        "pos": 1,
-        "title": "DACHIBA KOUMGBA TCHAIBA : DALSHIM",
-        "artist": "Himra",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 2,
-        "title": "Flâ Ni",
-        "artist": "Ameka Zrai",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 3,
-        "title": "INVASION TOME II",
-        "artist": "Sindika",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 4,
-        "title": "JEUNE & RICHE (DELUXE)",
-        "artist": "Himra",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 5,
-        "title": "Démosthène",
-        "artist": "Suspect95",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 6,
-        "title": "FREELYM",
-        "artist": "døpelym",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 7,
-        "title": "LVDG PACK 2",
-        "artist": "TRK.",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 8,
-        "title": "DACHIBA KOUMGBA TCHAIBA",
-        "artist": "Himra",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 9,
-        "title": "Juventus Nueva Era (Deluxe Edition)",
-        "artist": "Didi B",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 10,
-        "title": "XX",
-        "artist": "Fally Ipupa",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 11,
-        "title": "M.I.L.S 4",
-        "artist": "Ninho",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 12,
-        "title": "RÉSONANCE",
-        "artist": "Josey",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 13,
-        "title": "DIYILEM & BAZARHOFF : GENIUS",
-        "artist": "Didi B",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 14,
-        "title": "Numéro d'écrou",
-        "artist": "La Rvfleuze",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 15,
-        "title": "IDK2",
-        "artist": "Himra",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 16,
-        "title": "Mélo",
-        "artist": "Tiakola",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 17,
-        "title": "BIG AKA 4 AKA KAI",
-        "artist": "Himra",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 18,
-        "title": "Destin",
-        "artist": "Ninho",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 19,
-        "title": "JEUNE & RICHE",
-        "artist": "Himra",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 20,
-        "title": "BABI TAPE Vol.1",
-        "artist": "Babi Tape",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 21,
-        "title": "Formule 7",
-        "artist": "Fally Ipupa",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 22,
-        "title": "Juventus Nueva Era",
-        "artist": "Didi B",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 23,
-        "title": "Cherie Coco",
-        "artist": "Didi B, Fally Ipupa",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 24,
-        "title": "MERCON2BABIÈRE",
-        "artist": "Ameka Zrai",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 25,
-        "title": "Jefe",
-        "artist": "Ninho",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 26,
-        "title": "LVDG PACK 2 (Deluxe)",
-        "artist": "TRK.",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 27,
-        "title": "Jeune Morty Vol.1",
-        "artist": "Jeune Morty",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 28,
-        "title": "23 JOURS PLUS TARD",
-        "artist": "Jolagreen23",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 29,
-        "title": "R.F.W (Ready For War)",
-        "artist": "Lamoula$",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 30,
-        "title": "Ipséité",
-        "artist": "Damso",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 31,
-        "title": "1X",
-        "artist": "Himra",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 32,
-        "title": "FREESTYLE DRILL IVOIRE #7",
-        "artist": "Himra",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 33,
-        "title": "Diamant Noir",
-        "artist": "Werenoi",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 34,
-        "title": "Poison Ou Antidote",
-        "artist": "Dadju",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 35,
-        "title": "Gentleman 2.0",
-        "artist": "Dadju",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 36,
-        "title": "Tokooos II",
-        "artist": "Fally Ipupa",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 37,
-        "title": "M.I.L.S 3",
-        "artist": "Ninho",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 38,
-        "title": "INVASION : TOME I",
-        "artist": "Sindika",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 39,
-        "title": "BDLM VOL.1",
-        "artist": "Tiakola",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 40,
-        "title": "WHO IS DØPE?",
-        "artist": "døpelym",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 41,
-        "title": "Je m'appelle",
-        "artist": "Didi B, Zlatan, Chlé",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 42,
-        "title": "BĒYĀH",
-        "artist": "Damso",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 43,
-        "title": "BENZO PRESIDENT (Deluxe)",
-        "artist": "Tino thebenzoboy",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 44,
-        "title": "AMADAN",
-        "artist": "Lamine løssa",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 45,
-        "title": "Pyramide",
-        "artist": "Werenoi",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 46,
-        "title": "MERCON2BABIÈRE (DELUXE)",
-        "artist": "Ameka Zrai",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 47,
-        "title": "CLARITY OF MIND",
-        "artist": "OMAH LAY",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 48,
-        "title": "FAIS OH FAIS (1 COUP KO)",
-        "artist": "Ste Milano",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 49,
-        "title": "Tokooos",
-        "artist": "Fally Ipupa",
-        "type": "Album",
-        "mov": "="
-      },
-      {
-        "pos": 50,
-        "title": "Carré",
-        "artist": "Werenoi",
-        "type": "Album",
-        "mov": "="
-      }
-    ],
-    "artists": [
-      {
-        "pos": 1,
-        "name": "Himra",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 2,
-        "name": "Didi B",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 3,
-        "name": "Ninho",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 4,
-        "name": "TRK.",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 5,
-        "name": "Ameka Zrai",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 6,
-        "name": "Ste Milano",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 7,
-        "name": "døpelym",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 8,
-        "name": "Dadju",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 9,
-        "name": "Suspect95",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 10,
-        "name": "Fally Ipupa",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 11,
-        "name": "La Fouine",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 12,
-        "name": "Sindika",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 13,
-        "name": "GIMS",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 14,
-        "name": "Tiakola",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 15,
-        "name": "Babi Tape",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 16,
-        "name": "La Rvfleuze",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 17,
-        "name": "Gazo",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 18,
-        "name": "Werenoi",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 19,
-        "name": "GENERATION NERF",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 20,
-        "name": "Lamine løssa",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 21,
-        "name": "Team Paiya",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 22,
-        "name": "Josey",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 23,
-        "name": "Tayc",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 24,
-        "name": "Damso",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 25,
-        "name": "Leto",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 26,
-        "name": "Lesky",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 27,
-        "name": "Niska",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 28,
-        "name": "NO PAIN NO GAIN",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 29,
-        "name": "RnBoi",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 30,
-        "name": "Asake",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 31,
-        "name": "3xdavs",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 32,
-        "name": "Doupi Papillon",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 33,
-        "name": "L'Oiseau Rare",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 34,
-        "name": "DJ Arafat",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 35,
-        "name": "Paulo Chakal",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 36,
-        "name": "SDM",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 37,
-        "name": "Nyerky",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 38,
-        "name": "Aya Nakamura",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 39,
-        "name": "Davido",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 40,
-        "name": "Joé Dwèt Filé",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 41,
-        "name": "Tripa Gninnin",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 42,
-        "name": "Wantché",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 43,
-        "name": "Naza",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 44,
-        "name": "Philipayne",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 45,
-        "name": "MHD",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 46,
-        "name": "Tino thebenzoboy",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 47,
-        "name": "Genezio",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 48,
-        "name": "KeBlack",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 49,
-        "name": "Miedjia",
-        "genres": "Artist",
-        "streams": 0
-      },
-      {
-        "pos": 50,
-        "name": "VDA",
-        "genres": "Artist",
-        "streams": 0
-      }
-    ]
-  },
-  {
-    "generated_at": "2026-04-27T14:12:53Z",
-    "source": "spotify-web-scrape",
-    "country": "ci",
-    "songs": [
-      {
-        "pos": 1,
-        "title": "Adriano",
-        "artist": "E Ameka Zrai",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 2,
-        "title": "KEHOU DRILL",
-        "artist": "HIMIRA",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 3,
-        "title": "Changé Numéro",
-        "artist": "Nyerky, Ameka Zrai",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 4,
-        "title": "NUMBER ONE (feat. Minz)",
-        "artist": "Himra, Minz",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 5,
-        "title": "Fire in your Eyes",
-        "artist": "Didi B, Mavo",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 6,
-        "title": "Golden Boy 2",
-        "artist": "E TRK.",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 7,
         "title": "Lire L'heure",
         "artist": "E OG Mahilet",
         "mov": "=",
         "streams": 0
       },
       {
+        "pos": 6,
+        "title": "Fire in your Eyes",
+        "artist": "Didi B, Mavo",
+        "mov": "=",
+        "streams": 0
+      },
+      {
+        "pos": 7,
+        "title": "Golden Boy 2",
+        "artist": "E TRK.",
+        "mov": "=",
+        "streams": 0
+      },
+      {
         "pos": 8,
-        "title": "Pineapple",
-        "artist": "E Leto",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 9,
-        "title": "Légendes",
-        "artist": "E La Fouine, Himra",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 10,
         "title": "Gas Station",
         "artist": "Lesky, Widgunz",
         "mov": "=",
         "streams": 0
       },
       {
-        "pos": 11,
-        "title": "BAHI",
-        "artist": "E Wantché, OG Mahilet",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 12,
-        "title": "C'est Gnimo",
-        "artist": "Dydy Yeman",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 13,
-        "title": "FAIS OH FAIS (1 COUP KO)",
-        "artist": "Ste Milano",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 14,
-        "title": "AMADAN",
-        "artist": "E Lamine løssa",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 15,
-        "title": "Nobody",
-        "artist": "E døpelym",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 16,
-        "title": "Chanel",
-        "artist": "E La Mano 1.9",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 17,
-        "title": "JAMAIS CHERLA",
-        "artist": "GENERATION NERF, døpelym, Himra",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 18,
-        "title": "EN STRING",
-        "artist": "Doupi Papillon, Didi B",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 19,
-        "title": "Débrouillard",
-        "artist": "E Lamoula$",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 20,
-        "title": "Rihanna",
-        "artist": "E Joé Dwèt Filé",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 21,
-        "title": "COUPER-COUPER",
-        "artist": "E Renard Barakissa",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 22,
+        "pos": 9,
         "title": "Oplus",
         "artist": "Ks Bloom",
         "mov": "=",
         "streams": 0
       },
       {
-        "pos": 23,
-        "title": "DANS LE DOS",
-        "artist": "E NO PAIN NO GAIN, Himra, Ninho",
+        "pos": 10,
+        "title": "C'est Gnimo",
+        "artist": "Dydy Yeman",
         "mov": "=",
         "streams": 0
       },
       {
-        "pos": 24,
-        "title": "Pilé",
-        "artist": "Mauvais djo",
+        "pos": 11,
+        "title": "Pineapple",
+        "artist": "E Leto",
         "mov": "=",
         "streams": 0
       },
       {
-        "pos": 25,
-        "title": "Biama Yacouba",
-        "artist": "Daoudi le Kirikou",
+        "pos": 12,
+        "title": "EN STRING",
+        "artist": "Doupi Papillon, Didi B",
         "mov": "=",
         "streams": 0
       },
       {
-        "pos": 26,
-        "title": "Deux êtres",
-        "artist": "Fally Ipupa",
+        "pos": 13,
+        "title": "Rihanna",
+        "artist": "E Joé Dwèt Filé",
         "mov": "=",
         "streams": 0
       },
       {
-        "pos": 27,
+        "pos": 14,
         "title": "OCCUPÉ",
         "artist": "E DDJ\"",
         "mov": "=",
         "streams": 0
       },
       {
-        "pos": 28,
-        "title": "1,2,3",
-        "artist": "Chouchou Salvador",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 29,
+        "pos": 15,
         "title": "Billie Jean",
         "artist": "Michael Jackson",
         "mov": "=",
         "streams": 0
       },
       {
-        "pos": 30,
-        "title": "Fais ton malin",
-        "artist": "Josey",
+        "pos": 16,
+        "title": "Légendes",
+        "artist": "E La Fouine, Himra",
         "mov": "=",
         "streams": 0
       },
       {
-        "pos": 31,
-        "title": "La bêtise",
-        "artist": "Kadirov Mania, Renard Barakissa",
+        "pos": 17,
+        "title": "Chanel",
+        "artist": "E La Mano 1.9",
         "mov": "=",
         "streams": 0
       },
       {
-        "pos": 32,
-        "title": "Pavaner",
-        "artist": "E Arii, Ameka Zrai",
+        "pos": 18,
+        "title": "TALES",
+        "artist": "døpelym, Lamoula$",
         "mov": "=",
         "streams": 0
       },
       {
-        "pos": 33,
-        "title": "Moyo",
-        "artist": "Suspect95, døpelym",
+        "pos": 19,
+        "title": "Pilé",
+        "artist": "Mauvais djo",
         "mov": "=",
         "streams": 0
       },
       {
-        "pos": 34,
-        "title": "R.I.P",
-        "artist": "E Landy, R2, Genezio",
+        "pos": 20,
+        "title": "Débrouillard",
+        "artist": "E Lamoula$",
         "mov": "=",
         "streams": 0
       },
       {
-        "pos": 35,
-        "title": "LAISSE TOI ALLER",
-        "artist": "E Goh Dedi, KRM",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 36,
-        "title": "BADMAN GANGSTA",
-        "artist": "E Asake, Tiakola",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 37,
-        "title": "she goes by. - KayArchon Remix",
-        "artist": "KayArchonn, where.t.at",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 38,
-        "title": "Faut Gbachi",
-        "artist": "KOMMANDER SAMO",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 39,
+        "pos": 21,
         "title": "LOVE",
         "artist": "E Kerchak",
         "mov": "=",
         "streams": 0
       },
       {
-        "pos": 40,
-        "title": "Miss Kitoko",
-        "artist": "E Theodora",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 41,
-        "title": "Argent Sale - A COLORS SHOW",
-        "artist": "E La Rvfleuze, COLORS",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 42,
-        "title": "Nouchi",
-        "artist": "Babi Tape, Black K, Ameka Zrai",
-        "mov": "=",
-        "streams": 0
-      },
-      {
-        "pos": 43,
+        "pos": 22,
         "title": "Gazo (La Mano 1.9 & La Rvfleuze) [Audio Exclu 2026]",
         "artist": "E Nskz",
         "mov": "=",
         "streams": 0
       },
       {
-        "pos": 44,
-        "title": "JAPANEXPO",
-        "artist": "E Jolagreen23",
+        "pos": 23,
+        "title": "Biama Yacouba",
+        "artist": "Daoudi le Kirikou",
         "mov": "=",
         "streams": 0
       },
       {
-        "pos": 45,
-        "title": "MON BÉBÉ",
-        "artist": "RnBoi",
+        "pos": 24,
+        "title": "Ma diva",
+        "artist": "Fally Ipupa, SDM",
         "mov": "=",
         "streams": 0
       },
       {
-        "pos": 46,
-        "title": "magique",
+        "pos": 25,
+        "title": "Fais ton malin",
+        "artist": "Josey",
+        "mov": "=",
+        "streams": 0
+      },
+      {
+        "pos": 26,
+        "title": "Monalisa",
+        "artist": "Suspect95, Himra",
+        "mov": "=",
+        "streams": 0
+      },
+      {
+        "pos": 27,
+        "title": "COUPER-COUPER",
+        "artist": "E Renard Barakissa",
+        "mov": "=",
+        "streams": 0
+      },
+      {
+        "pos": 28,
+        "title": "she goes by. - KayArchon Remix",
+        "artist": "KayArchonn, where.t.at",
+        "mov": "=",
+        "streams": 0
+      },
+      {
+        "pos": 29,
+        "title": "BAHI",
+        "artist": "E Wantché, OG Mahilet",
+        "mov": "=",
+        "streams": 0
+      },
+      {
+        "pos": 30,
+        "title": "tempête",
         "artist": "Willylancien",
         "mov": "=",
         "streams": 0
       },
       {
-        "pos": 47,
-        "title": "CONFRÉRIE",
-        "artist": "Sindika, Ameka Zrai",
+        "pos": 31,
+        "title": "ICI BAS",
+        "artist": "E Philipayne",
         "mov": "=",
         "streams": 0
       },
       {
-        "pos": 48,
+        "pos": 32,
+        "title": "R.I.P",
+        "artist": "E Landy, R2, Genezio",
+        "mov": "=",
+        "streams": 0
+      },
+      {
+        "pos": 33,
+        "title": "DANS LE DOS",
+        "artist": "E NO PAIN NO GAIN, Himra, Ninho",
+        "mov": "=",
+        "streams": 0
+      },
+      {
+        "pos": 34,
+        "title": "JAMAIS CHERLA",
+        "artist": "GENERATION NERF, døpelym, Himra",
+        "mov": "=",
+        "streams": 0
+      },
+      {
+        "pos": 35,
+        "title": "Pavaner",
+        "artist": "E Arii, Ameka Zrai",
+        "mov": "=",
+        "streams": 0
+      },
+      {
+        "pos": 36,
+        "title": "Faut Gbachi",
+        "artist": "KOMMANDER SAMO",
+        "mov": "=",
+        "streams": 0
+      },
+      {
+        "pos": 37,
         "title": "Talbin",
         "artist": "E Zed, Ninho",
         "mov": "=",
         "streams": 0
       },
       {
+        "pos": 38,
+        "title": "Full",
+        "artist": "E Bilouki",
+        "mov": "=",
+        "streams": 0
+      },
+      {
+        "pos": 39,
+        "title": "1,2,3",
+        "artist": "Chouchou Salvador",
+        "mov": "=",
+        "streams": 0
+      },
+      {
+        "pos": 40,
+        "title": "Superwoman (feat. Dadju)",
+        "artist": "Angelique Kidjo, Dadju",
+        "mov": "=",
+        "streams": 0
+      },
+      {
+        "pos": 41,
+        "title": "La lettre",
+        "artist": "Malakey",
+        "mov": "=",
+        "streams": 0
+      },
+      {
+        "pos": 42,
+        "title": "La bêtise",
+        "artist": "Kadirov Mania, Renard Barakissa",
+        "mov": "=",
+        "streams": 0
+      },
+      {
+        "pos": 43,
+        "title": "Couleur ébène",
+        "artist": "Mh, Yoyannick",
+        "mov": "=",
+        "streams": 0
+      },
+      {
+        "pos": 44,
+        "title": "RAGE D'UN ANIMAL",
+        "artist": "E Dope Family, døpelym, Lamoula$, KAGE, NTH",
+        "mov": "=",
+        "streams": 0
+      },
+      {
+        "pos": 45,
+        "title": "Imadjigui",
+        "artist": "Tiken Jah Fakoly",
+        "mov": "=",
+        "streams": 0
+      },
+      {
+        "pos": 46,
+        "title": "BONJOUR BÉBÉ",
+        "artist": "Tino thebenzoboy",
+        "mov": "=",
+        "streams": 0
+      },
+      {
+        "pos": 47,
+        "title": "Nouchi",
+        "artist": "Babi Tape, Black K, Ameka Zrai",
+        "mov": "=",
+        "streams": 0
+      },
+      {
+        "pos": 48,
+        "title": "Lettre à un petit frère",
+        "artist": "JACK HONEY, JEFE BURGER",
+        "mov": "=",
+        "streams": 0
+      },
+      {
         "pos": 49,
-        "title": "RIP DAISHI",
-        "artist": "E jam$co",
+        "title": "Jollof",
+        "artist": "E Big Chekete",
         "mov": "=",
         "streams": 0
       },
       {
         "pos": 50,
-        "title": "KAT (feat. La Rvfleuze)",
-        "artist": "E Gazo, La Rvfleuze",
+        "title": "Praise the Lord",
+        "artist": "Toofan",
         "mov": "=",
         "streams": 0
       }
@@ -5766,301 +711,301 @@
       {
         "pos": 1,
         "name": "Himra",
-        "genres": "Artist",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 2,
         "name": "Didi B",
-        "genres": "Artist",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 3,
         "name": "Ninho",
-        "genres": "Artist",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 4,
         "name": "TRK.",
-        "genres": "Artist",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 5,
         "name": "Ameka Zrai",
-        "genres": "Artist",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 6,
         "name": "Ste Milano",
-        "genres": "Artist",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 7,
-        "name": "døpelym",
-        "genres": "Artist",
+        "name": "Dadju",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 8,
-        "name": "Dadju",
-        "genres": "Artist",
+        "name": "døpelym",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 9,
-        "name": "Suspect95",
-        "genres": "Artist",
+        "name": "Fally Ipupa",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 10,
-        "name": "Fally Ipupa",
-        "genres": "Artist",
+        "name": "Suspect95",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 11,
         "name": "La Fouine",
-        "genres": "Artist",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 12,
         "name": "Sindika",
-        "genres": "Artist",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 13,
         "name": "GIMS",
-        "genres": "Artist",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 14,
         "name": "Tiakola",
-        "genres": "Artist",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 15,
         "name": "Babi Tape",
-        "genres": "Artist",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 16,
-        "name": "La Rvfleuze",
-        "genres": "Artist",
+        "name": "Gazo",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 17,
-        "name": "Gazo",
-        "genres": "Artist",
+        "name": "La Rvfleuze",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 18,
         "name": "Werenoi",
-        "genres": "Artist",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 19,
         "name": "GENERATION NERF",
-        "genres": "Artist",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 20,
         "name": "Lamine løssa",
-        "genres": "Artist",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 21,
         "name": "Team Paiya",
-        "genres": "Artist",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 22,
         "name": "Josey",
-        "genres": "Artist",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 23,
         "name": "Tayc",
-        "genres": "Artist",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 24,
         "name": "Damso",
-        "genres": "Artist",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 25,
         "name": "Leto",
-        "genres": "Artist",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 26,
         "name": "Lesky",
-        "genres": "Artist",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 27,
         "name": "Niska",
-        "genres": "Artist",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 28,
         "name": "NO PAIN NO GAIN",
-        "genres": "Artist",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 29,
         "name": "RnBoi",
-        "genres": "Artist",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 30,
         "name": "Asake",
-        "genres": "Artist",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 31,
-        "name": "3xdavs",
-        "genres": "Artist",
+        "name": "Doupi Papillon",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 32,
-        "name": "Doupi Papillon",
-        "genres": "Artist",
+        "name": "Nyerky",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 33,
-        "name": "L'Oiseau Rare",
-        "genres": "Artist",
+        "name": "3xdavs",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 34,
-        "name": "DJ Arafat",
-        "genres": "Artist",
+        "name": "L'Oiseau Rare",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 35,
         "name": "Paulo Chakal",
-        "genres": "Artist",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 36,
         "name": "SDM",
-        "genres": "Artist",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 37,
-        "name": "Nyerky",
-        "genres": "Artist",
+        "name": "DJ Arafat",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 38,
         "name": "Aya Nakamura",
-        "genres": "Artist",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 39,
         "name": "Davido",
-        "genres": "Artist",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 40,
         "name": "Joé Dwèt Filé",
-        "genres": "Artist",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 41,
         "name": "Tripa Gninnin",
-        "genres": "Artist",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 42,
         "name": "Wantché",
-        "genres": "Artist",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 43,
-        "name": "Naza",
-        "genres": "Artist",
+        "name": "Philipayne",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 44,
-        "name": "Philipayne",
-        "genres": "Artist",
+        "name": "Naza",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 45,
-        "name": "MHD",
-        "genres": "Artist",
+        "name": "Tino thebenzoboy",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 46,
-        "name": "Tino thebenzoboy",
-        "genres": "Artist",
+        "name": "MHD",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 47,
         "name": "Genezio",
-        "genres": "Artist",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 48,
         "name": "KeBlack",
-        "genres": "Artist",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 49,
         "name": "Miedjia",
-        "genres": "Artist",
+        "genres": "Artiste",
         "streams": 0
       },
       {
         "pos": 50,
         "name": "VDA",
-        "genres": "Artist",
+        "genres": "Artiste",
         "streams": 0
       }
     ]
