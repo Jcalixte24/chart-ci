@@ -58,16 +58,29 @@ def parser_mouvement(valeur):
     return None
 
 
+def nettoyer_artiste(artist):
+    """Supprime les artefacts Spotify : icône E (explicit), E en tête, espaces superflus."""
+    # Retire "E" isolé en début (badge explicit Spotify affiché comme lettre)
+    artist = re.sub(r'^E\s+', '', artist.strip())
+    # Retire "E" isolé collé entre virgules/espaces
+    artist = re.sub(r',\s*E\s+', ', ', artist)
+    # Normalise les espaces multiples
+    artist = re.sub(r'\s{2,}', ' ', artist).strip()
+    return artist or "-"
+
+
 def parser_ligne_tracklist(parts, categorie, compteur):
-    """
-    Parse une ligne de tracklist en gérant les artistes multi-lignes (feat., &, ,).
-    Spotify splitte souvent le nom complet sur plusieurs lignes \\n.
-    """
     if not parts:
         return None
 
     # Retirer numéro de position initial
     if parts[0].isdigit():
+        parts.pop(0)
+    if not parts:
+        return None
+
+    # Ignorer la lettre "E" seule (badge explicit en tête de ligne)
+    if parts[0] == "E":
         parts.pop(0)
     if not parts:
         return None
@@ -84,21 +97,20 @@ def parser_ligne_tracklist(parts, categorie, compteur):
     if est_ligne_header(title):
         return None
 
-    # FIX : tout ce qui suit le titre jusqu'à un champ de durée/popularité = artiste complet.
-    # On joint les fragments jusqu'à rencontrer une durée (ex: "3:45") ou un chiffre seul
-    # (popularité Spotify), ce qui marque la fin des métadonnées texte.
     artist_parts = []
     for part in parts[1:]:
+        if part == "E":          # badge explicit en milieu de ligne
+            continue
         if re.match(r'^\d+:\d+$', part):   # durée type "3:45"
             break
-        if re.match(r'^\d+$', part):        # chiffre seul (popularité, numéro de rang)
+        if re.match(r'^\d+$', part):        # chiffre seul (popularité)
             break
         artist_parts.append(part)
 
-    artist = " ".join(artist_parts).strip() if artist_parts else "-"
+    artist = nettoyer_artiste(" ".join(artist_parts)) if artist_parts else "-"
 
     if categorie == "artists":
-        return {"pos": compteur, "name": title, "genres": artist or "Artiste", "streams": 0}
+        return {"pos": compteur, "name": title, "genres": "Artiste", "streams": 0}
     elif categorie == "albums":
         return {"pos": compteur, "title": title, "artist": artist, "type": "Album", "mov": mov}
     else:
