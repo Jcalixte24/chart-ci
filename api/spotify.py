@@ -228,6 +228,10 @@ def main():
     driver = None
     toutes_les_donnees = {"songs": [], "albums": [], "artists": []}
 
+    # Toujours sauvegarder dans data/ relatif à la racine du projet
+    racine = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    dossier_data = os.path.join(racine, "data")
+
     try:
         driver = initialiser_navigateur()
 
@@ -236,9 +240,9 @@ def main():
             toutes_les_donnees[categorie] = data
             time.sleep(2)
 
-        os.makedirs("data", exist_ok=True)
-        chemin_fichier = os.path.join("data", "spotify_data.json")
-        chemin_historique = os.path.join("data", "spotify_history.json")
+        os.makedirs(dossier_data, exist_ok=True)
+        chemin_fichier = os.path.join(dossier_data, "spotify_data.json")
+        chemin_historique = os.path.join(dossier_data, "spotify_history.json")
 
         with open(chemin_fichier, "w", encoding="utf-8") as f:
             json.dump(toutes_les_donnees, f, ensure_ascii=False, indent=2)
@@ -249,7 +253,7 @@ def main():
         sauvegarder_historique(chemin_historique, historique, limite=60)
 
         print(f"\nExtraction terminée ! Données sauvegardées dans '{chemin_fichier}'")
-        print(f"Historique mis à jour dans '{chemin_historique}'")
+        print(f"Historique mis à jour dans '{chemin_historique}' ({len(historique)} snapshots)")
 
     except Exception as e:
         print(f"Erreur critique : {e}")

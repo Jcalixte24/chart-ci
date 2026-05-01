@@ -61,11 +61,21 @@
 <link rel="apple-touch-icon" href="/icons/icon-192.png"/>
 <meta name="mobile-web-app-capable" content="yes"/>
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-QMYK4TLMYJ"></script>
+<!-- Google Consent Mode v2 — doit être AVANT gtag.js -->
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
+  var _consent = localStorage.getItem('cookie_consent');
+  gtag('consent', 'default', {
+    analytics_storage: _consent === 'accepted' ? 'granted' : 'denied',
+    ad_storage: _consent === 'accepted' ? 'granted' : 'denied',
+    wait_for_update: 500
+  });
+</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QMYK4TLMYJ"></script>
+<script>
   gtag('js', new Date());
   gtag('config', 'G-QMYK4TLMYJ');
 </script>
@@ -712,6 +722,34 @@ body {
       </div>
 
       <div id="main"></div>
+
+      <!-- FOOTER LÉGAL -->
+      <footer style="padding:20px 16px 80px;text-align:center;border-top:1px solid var(--border);margin-top:24px;">
+        <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:16px;font-size:12px;color:var(--text-muted);">
+          <a href="/politique-confidentialite" style="color:var(--text-muted);text-decoration:none;transition:color .2s;" onmouseover="this.style.color='var(--primary)'" onmouseout="this.style.color='var(--text-muted)'">Politique de confidentialité</a>
+          <span>·</span>
+          <a href="/conditions-utilisation" style="color:var(--text-muted);text-decoration:none;transition:color .2s;" onmouseover="this.style.color='var(--primary)'" onmouseout="this.style.color='var(--text-muted)'">Conditions d'utilisation</a>
+          <span>·</span>
+          <a href="/cookies" style="color:var(--text-muted);text-decoration:none;transition:color .2s;" onmouseover="this.style.color='var(--primary)'" onmouseout="this.style.color='var(--text-muted)'">Politique de cookies</a>
+          <span>·</span>
+          <span>© 2025 CI Charts</span>
+        </div>
+        <p style="margin-top:8px;font-size:11px;color:var(--text-muted);">Classements musicaux non officiels — Données issues de sources publiques.</p>
+      </footer>
+    </div>
+  </div>
+</div>
+
+<!-- COOKIE CONSENT BANNER -->
+<div id="cookieBanner" style="display:none;position:fixed;bottom:0;left:0;right:0;z-index:9999;background:rgba(15,23,42,0.97);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);color:#f8fafc;padding:14px 20px;box-shadow:0 -4px 24px rgba(0,0,0,0.25);border-top:1px solid rgba(255,255,255,0.08);">
+  <div style="max-width:900px;margin:0 auto;display:flex;align-items:center;gap:16px;flex-wrap:wrap;">
+    <span style="flex:1;min-width:220px;font-size:13px;line-height:1.5;color:#cbd5e1;">
+      🍪 Ce site utilise des cookies pour mesurer l'audience (Google Analytics) et afficher des publicités (Google AdSense). En continuant votre navigation, vous acceptez notre
+      <a href="/politique-confidentialite" style="color:#FF7B00;text-decoration:underline;">Politique de confidentialité</a> et l'utilisation de cookies.
+    </span>
+    <div style="display:flex;gap:10px;flex-shrink:0;">
+      <button id="cookieAccept" style="background:#FF5E00;color:#fff;border:none;padding:9px 20px;border-radius:8px;font-size:13px;font-weight:600;cursor:pointer;transition:background .2s;">Accepter</button>
+      <button id="cookieDecline" style="background:transparent;color:#94a3b8;border:1px solid rgba(148,163,184,0.4);padding:9px 16px;border-radius:8px;font-size:13px;cursor:pointer;">Refuser</button>
     </div>
   </div>
 </div>
@@ -1895,6 +1933,27 @@ function renderSpotify(el) {
  h += `</div>`;
  el.innerHTML = h;
 }
+
+/* ── COOKIE CONSENT ─────────────────────────────────────── */
+(function(){
+  var banner = document.getElementById('cookieBanner');
+  var consent = localStorage.getItem('cookie_consent');
+  if (!consent) {
+    banner.style.display = 'block';
+  }
+  function hideBanner() { banner.style.display = 'none'; }
+  document.getElementById('cookieAccept').addEventListener('click', function(){
+    localStorage.setItem('cookie_consent', 'accepted');
+    hideBanner();
+    // Active Google Analytics seulement après consentement
+    if (window.gtag) gtag('consent', 'update', { analytics_storage: 'granted', ad_storage: 'granted' });
+  });
+  document.getElementById('cookieDecline').addEventListener('click', function(){
+    localStorage.setItem('cookie_consent', 'declined');
+    hideBanner();
+    if (window.gtag) gtag('consent', 'update', { analytics_storage: 'denied', ad_storage: 'denied' });
+  });
+})();
 
 /* ── INIT ─────────────────────────────────────────────────── */
 render();

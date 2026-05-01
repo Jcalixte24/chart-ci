@@ -7,6 +7,9 @@
     { "src": "/chat",  "dest": "/api/chat.js"  },
     { "src": "/proxy", "dest": "/api/proxy.js" },
     { "src": "/api/spotify", "dest": "/api/spotify.js" },
+    { "src": "/politique-confidentialite", "dest": "/politique-confidentialite.html" },
+    { "src": "/conditions-utilisation", "dest": "/conditions-utilisation.html" },
+    { "src": "/cookies", "dest": "/cookies.html" },
     {
       "src": "/sw.js",
       "dest": "/sw.js",
