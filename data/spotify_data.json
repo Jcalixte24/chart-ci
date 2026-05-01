@@ -886,13 +886,13 @@
     },
     {
       "pos": 31,
-      "name": "RnBoi",
+      "name": "Asake",
       "genres": "Artist",
       "streams": 0
     },
     {
       "pos": 32,
-      "name": "Asake",
+      "name": "RnBoi",
       "genres": "Artist",
       "streams": 0
     },
@@ -946,19 +946,19 @@
     },
     {
       "pos": 41,
-      "name": "Aya Nakamura",
-      "genres": "Artist",
-      "streams": 0
-    },
-    {
-      "pos": 42,
       "name": "Davido",
       "genres": "Artist",
       "streams": 0
     },
     {
-      "pos": 43,
+      "pos": 42,
       "name": "Tripa Gninnin",
+      "genres": "Artist",
+      "streams": 0
+    },
+    {
+      "pos": 43,
+      "name": "Aya Nakamura",
       "genres": "Artist",
       "streams": 0
     },
@@ -976,31 +976,31 @@
     },
     {
       "pos": 46,
-      "name": "MHD",
-      "genres": "Artist",
-      "streams": 0
-    },
-    {
-      "pos": 47,
-      "name": "Tino thebenzoboy",
-      "genres": "Artist",
-      "streams": 0
-    },
-    {
-      "pos": 48,
       "name": "VDA",
       "genres": "Artist",
       "streams": 0
     },
     {
+      "pos": 47,
+      "name": "MHD",
+      "genres": "Artist",
+      "streams": 0
+    },
+    {
+      "pos": 48,
+      "name": "Tino thebenzoboy",
+      "genres": "Artist",
+      "streams": 0
+    },
+    {
       "pos": 49,
-      "name": "Genezio",
+      "name": "La Mano 1.9",
       "genres": "Artist",
       "streams": 0
     },
     {
       "pos": 50,
-      "name": "KeBlack",
+      "name": "Genezio",
       "genres": "Artist",
       "streams": 0
     }
