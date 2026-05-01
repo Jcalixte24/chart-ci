@@ -3,7 +3,7 @@
     {
       "pos": 1,
       "title": "Adriano",
-      "artist": "E Ameka Zrai",
+      "artist": "Ameka Zrai",
       "mov": "=",
       "streams": 0
     },
@@ -24,14 +24,14 @@
     {
       "pos": 4,
       "title": "BAHI",
-      "artist": "E Wantché, OG Mahilet",
+      "artist": "Wantché, OG Mahilet",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 5,
       "title": "Pineapple",
-      "artist": "E Leto",
+      "artist": "Leto",
       "mov": "=",
       "streams": 0
     },
@@ -45,7 +45,7 @@
     {
       "pos": 7,
       "title": "Comme Avant",
-      "artist": "E Favé, R2",
+      "artist": "Favé, R2",
       "mov": "=",
       "streams": 0
     },
@@ -59,7 +59,7 @@
     {
       "pos": 9,
       "title": "Golden Boy 2",
-      "artist": "E TRK.",
+      "artist": "TRK.",
       "mov": "=",
       "streams": 0
     },
@@ -73,7 +73,7 @@
     {
       "pos": 11,
       "title": "PETIT DIOULA",
-      "artist": "E 777MOB, Lamoula$",
+      "artist": "777MOB, Lamoula$",
       "mov": "=",
       "streams": 0
     },
@@ -87,21 +87,21 @@
     {
       "pos": 13,
       "title": "ASSAUT",
-      "artist": "E Paki Chenzu, Himra",
+      "artist": "Paki Chenzu, Himra",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 14,
       "title": "Lire L'heure",
-      "artist": "E OG Mahilet",
+      "artist": "OG Mahilet",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 15,
       "title": "Sans bruit",
-      "artist": "E BatBat, iDS, L2B",
+      "artist": "BatBat, iDS, L2B",
       "mov": "=",
       "streams": 0
     },
@@ -136,14 +136,14 @@
     {
       "pos": 20,
       "title": "Rihanna",
-      "artist": "E Joé Dwèt Filé",
+      "artist": "Joé Dwèt Filé",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 21,
       "title": "Légendes",
-      "artist": "E La Fouine, Himra",
+      "artist": "La Fouine, Himra",
       "mov": "=",
       "streams": 0
     },
@@ -164,14 +164,14 @@
     {
       "pos": 24,
       "title": "Ronnie Kray",
-      "artist": "E Landy, Tiakola",
+      "artist": "Landy, Tiakola",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 25,
       "title": "DANS LE DOS",
-      "artist": "E NO PAIN NO GAIN, Himra, Ninho",
+      "artist": "NO PAIN NO GAIN, Himra, Ninho",
       "mov": "=",
       "streams": 0
     },
@@ -185,7 +185,7 @@
     {
       "pos": 27,
       "title": "COUPER-COUPER",
-      "artist": "E Renard Barakissa",
+      "artist": "Renard Barakissa",
       "mov": "=",
       "streams": 0
     },
@@ -213,14 +213,14 @@
     {
       "pos": 31,
       "title": "Débrouillard",
-      "artist": "E Lamoula$",
+      "artist": "Lamoula$",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 32,
       "title": "Pavaner",
-      "artist": "E Arii, Ameka Zrai",
+      "artist": "Arii, Ameka Zrai",
       "mov": "=",
       "streams": 0
     },
@@ -248,7 +248,7 @@
     {
       "pos": 36,
       "title": "Meuda",
-      "artist": "E Tiakola",
+      "artist": "Tiakola",
       "mov": "=",
       "streams": 0
     },
@@ -269,28 +269,28 @@
     {
       "pos": 39,
       "title": "Chanel",
-      "artist": "E La Mano 1.9",
+      "artist": "La Mano 1.9",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 40,
       "title": "PELÉ",
-      "artist": "E KAGE",
+      "artist": "KAGE",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 41,
       "title": "Air Max",
-      "artist": "E Rim'K, Ninho",
+      "artist": "Rim'K, Ninho",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 42,
       "title": "Chemin d'or",
-      "artist": "E Werenoi",
+      "artist": "Werenoi",
       "mov": "=",
       "streams": 0
     },
@@ -332,14 +332,14 @@
     {
       "pos": 48,
       "title": "Δ. Dieu ne ment jamais",
-      "artist": "E Damso",
+      "artist": "Damso",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 49,
       "title": "AMADAN",
-      "artist": "E Lamine løssa",
+      "artist": "Lamine løssa",
       "mov": "=",
       "streams": 0
     },
@@ -707,301 +707,301 @@
     {
       "pos": 1,
       "name": "Himra",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 2,
       "name": "Didi B",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 3,
       "name": "Ameka Zrai",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 4,
       "name": "Ninho",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 5,
       "name": "TRK.",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 6,
       "name": "Ste Milano",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 7,
       "name": "Fally Ipupa",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 8,
       "name": "Dadju",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 9,
       "name": "døpelym",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 10,
       "name": "Suspect95",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 11,
       "name": "La Fouine",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 12,
       "name": "Sindika",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 13,
       "name": "GIMS",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 14,
       "name": "Tiakola",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 15,
       "name": "Babi Tape",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 16,
       "name": "Gazo",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 17,
       "name": "GENERATION NERF",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 18,
       "name": "Werenoi",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 19,
       "name": "La Rvfleuze",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 20,
       "name": "Team Paiya",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 21,
       "name": "Lamine løssa",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 22,
       "name": "Josey",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 23,
       "name": "Tayc",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 24,
       "name": "Damso",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 25,
       "name": "Leto",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 26,
       "name": "Lesky",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 27,
       "name": "Nyerky",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 28,
       "name": "Niska",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 29,
       "name": "NO PAIN NO GAIN",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 30,
       "name": "Doupi Papillon",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 31,
       "name": "Asake",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 32,
       "name": "RnBoi",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 33,
       "name": "L'Oiseau Rare",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 34,
       "name": "3xdavs",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 35,
       "name": "DJ Arafat",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 36,
       "name": "Paulo Chakal",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 37,
       "name": "SDM",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 38,
       "name": "Joé Dwèt Filé",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 39,
       "name": "Philipayne",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 40,
       "name": "Wantché",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 41,
       "name": "Davido",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 42,
       "name": "Tripa Gninnin",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 43,
       "name": "Aya Nakamura",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 44,
       "name": "Naza",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 45,
       "name": "Miedjia",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 46,
       "name": "VDA",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 47,
       "name": "MHD",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 48,
       "name": "Tino thebenzoboy",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 49,
       "name": "La Mano 1.9",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 50,
       "name": "Genezio",
-      "genres": "Artist",
+      "genres": "Artiste",
       "streams": 0
     }
   ]
