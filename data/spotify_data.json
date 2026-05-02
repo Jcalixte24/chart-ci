@@ -382,15 +382,15 @@
     },
     {
       "pos": 5,
-      "title": "Démosthène",
-      "artist": "Suspect95",
+      "title": "XX",
+      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 6,
-      "title": "XX",
-      "artist": "Fally Ipupa",
+      "title": "Démosthène",
+      "artist": "Suspect 95",
       "type": "Album",
       "mov": "="
     },
@@ -452,15 +452,15 @@
     },
     {
       "pos": 15,
-      "title": "RÉSONANCE",
-      "artist": "Josey",
+      "title": "Mélo",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 16,
-      "title": "Mélo",
-      "artist": "Tiakola",
+      "title": "RÉSONANCE",
+      "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
@@ -529,15 +529,15 @@
     },
     {
       "pos": 26,
-      "title": "LVDG PACK 2 (Deluxe)",
-      "artist": "TRK.",
+      "title": "R.F.W (Ready For War)",
+      "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 27,
-      "title": "R.F.W (Ready For War)",
-      "artist": "Lamoula$",
+      "title": "LVDG PACK 2 (Deluxe)",
+      "artist": "TRK.",
       "type": "Album",
       "mov": "="
     },
@@ -550,15 +550,15 @@
     },
     {
       "pos": 29,
-      "title": "Ipséité",
-      "artist": "Damso",
+      "title": "1X",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 30,
-      "title": "1X",
-      "artist": "Himra",
+      "title": "Ipséité",
+      "artist": "Damso",
       "type": "Album",
       "mov": "="
     },
@@ -606,15 +606,15 @@
     },
     {
       "pos": 37,
-      "title": "INVASION : TOME I",
-      "artist": "Sindika",
+      "title": "M.I.L.S 3",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 38,
-      "title": "M.I.L.S 3",
-      "artist": "Ninho",
+      "title": "INVASION : TOME I",
+      "artist": "Sindika",
       "type": "Album",
       "mov": "="
     },
@@ -627,29 +627,29 @@
     },
     {
       "pos": 40,
+      "title": "Fais ton malin",
+      "artist": "Josey",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 41,
       "title": "Tokooos II",
       "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 41,
+      "pos": 42,
       "title": "WHO IS DØPE?",
       "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 42,
+      "pos": 43,
       "title": "BĒYĀH",
       "artist": "Damso",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 43,
-      "title": "Fais ton malin",
-      "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
@@ -669,29 +669,29 @@
     },
     {
       "pos": 46,
+      "title": "Changé Numéro",
+      "artist": "Nyerky, Ameka Zrai",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 47,
       "title": "AMADAN",
       "artist": "Lamine løssa",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 47,
+      "pos": 48,
       "title": "CLARITY OF MIND",
       "artist": "OMAH LAY",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 48,
+      "pos": 49,
       "title": "Pyramide",
       "artist": "Werenoi",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 49,
-      "title": "Changé Numéro",
-      "artist": "Nyerky, Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
@@ -760,7 +760,7 @@
     },
     {
       "pos": 10,
-      "name": "Suspect95",
+      "name": "Suspect 95",
       "genres": "Artiste",
       "streams": 0
     },
@@ -814,19 +814,19 @@
     },
     {
       "pos": 19,
-      "name": "La Rvfleuze",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 20,
       "name": "Team Paiya",
       "genres": "Artiste",
       "streams": 0
     },
     {
-      "pos": 21,
+      "pos": 20,
       "name": "Lamine løssa",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
+      "pos": 21,
+      "name": "La Rvfleuze",
       "genres": "Artiste",
       "streams": 0
     },
@@ -868,25 +868,25 @@
     },
     {
       "pos": 28,
-      "name": "Niska",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 29,
-      "name": "NO PAIN NO GAIN",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 30,
       "name": "Doupi Papillon",
       "genres": "Artiste",
       "streams": 0
     },
     {
-      "pos": 31,
+      "pos": 29,
+      "name": "Niska",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
+      "pos": 30,
       "name": "Asake",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
+      "pos": 31,
+      "name": "NO PAIN NO GAIN",
       "genres": "Artiste",
       "streams": 0
     },
@@ -934,25 +934,25 @@
     },
     {
       "pos": 39,
-      "name": "Philipayne",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 40,
       "name": "Wantché",
       "genres": "Artiste",
       "streams": 0
     },
     {
+      "pos": 40,
+      "name": "Philipayne",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
       "pos": 41,
-      "name": "Davido",
+      "name": "Tripa Gninnin",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 42,
-      "name": "Tripa Gninnin",
+      "name": "Davido",
       "genres": "Artiste",
       "streams": 0
     },
@@ -988,19 +988,19 @@
     },
     {
       "pos": 48,
-      "name": "Tino thebenzoboy",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 49,
       "name": "La Mano 1.9",
       "genres": "Artiste",
       "streams": 0
     },
     {
+      "pos": 49,
+      "name": "Tino thebenzoboy",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
       "pos": 50,
-      "name": "Genezio",
+      "name": "KeBlack",
       "genres": "Artiste",
       "streams": 0
     }
