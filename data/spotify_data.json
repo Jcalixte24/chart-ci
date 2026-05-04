@@ -724,13 +724,13 @@
     },
     {
       "pos": 4,
-      "name": "Ninho",
+      "name": "TRK.",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 5,
-      "name": "TRK.",
+      "name": "Ninho",
       "genres": "Artiste",
       "streams": 0
     },
@@ -802,25 +802,25 @@
     },
     {
       "pos": 17,
-      "name": "GENERATION NERF",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 18,
       "name": "Werenoi",
       "genres": "Artiste",
       "streams": 0
     },
     {
+      "pos": 18,
+      "name": "GENERATION NERF",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
       "pos": 19,
-      "name": "Team Paiya",
+      "name": "Lamine løssa",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 20,
-      "name": "Lamine løssa",
+      "name": "Team Paiya",
       "genres": "Artiste",
       "streams": 0
     },
@@ -844,19 +844,19 @@
     },
     {
       "pos": 24,
-      "name": "Tayc",
+      "name": "Nyerky",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 25,
-      "name": "Leto",
+      "name": "Tayc",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 26,
-      "name": "Nyerky",
+      "name": "Leto",
       "genres": "Artiste",
       "streams": 0
     },
@@ -922,13 +922,13 @@
     },
     {
       "pos": 37,
-      "name": "Paulo Chakal",
+      "name": "Joé Dwèt Filé",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 38,
-      "name": "Joé Dwèt Filé",
+      "name": "Paulo Chakal",
       "genres": "Artiste",
       "streams": 0
     },
@@ -940,13 +940,13 @@
     },
     {
       "pos": 40,
-      "name": "Philipayne",
+      "name": "Tripa Gninnin",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 41,
-      "name": "Tripa Gninnin",
+      "name": "Philipayne",
       "genres": "Artiste",
       "streams": 0
     },
