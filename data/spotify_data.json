@@ -389,29 +389,29 @@
     },
     {
       "pos": 6,
-      "title": "Démosthène",
-      "artist": "Suspect 95",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 7,
       "title": "LVDG PACK 2",
       "artist": "TRK.",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 8,
+      "pos": 7,
       "title": "FREELYM",
       "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 9,
+      "pos": 8,
       "title": "DACHIBA KOUMGBA TCHAIBA",
       "artist": "Himra",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 9,
+      "title": "Démosthène",
+      "artist": "Suspect 95",
       "type": "Album",
       "mov": "="
     },
@@ -445,15 +445,15 @@
     },
     {
       "pos": 14,
-      "title": "Numéro d'écrou",
-      "artist": "La Rvfleuze",
+      "title": "Mélo",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 15,
-      "title": "Mélo",
-      "artist": "Tiakola",
+      "title": "Numéro d'écrou",
+      "artist": "La Rvfleuze",
       "type": "Album",
       "mov": "="
     },
@@ -466,22 +466,22 @@
     },
     {
       "pos": 17,
-      "title": "RÉSONANCE",
-      "artist": "Josey",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 18,
       "title": "JEUNE & RICHE",
       "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 19,
+      "pos": 18,
       "title": "Destin",
       "artist": "Ninho",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 19,
+      "title": "RÉSONANCE",
+      "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
@@ -536,15 +536,15 @@
     },
     {
       "pos": 27,
-      "title": "LVDG PACK 2 (Deluxe)",
-      "artist": "TRK.",
+      "title": "1X",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 28,
-      "title": "1X",
-      "artist": "Himra",
+      "title": "LVDG PACK 2 (Deluxe)",
+      "artist": "TRK.",
       "type": "Album",
       "mov": "="
     },
@@ -599,15 +599,15 @@
     },
     {
       "pos": 36,
-      "title": "Fais ton malin",
-      "artist": "Josey",
+      "title": "Je m'appelle",
+      "artist": "Didi B, Zlatan, Chlé",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 37,
-      "title": "Je m'appelle",
-      "artist": "Didi B, Zlatan, Chlé",
+      "title": "Fais ton malin",
+      "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
@@ -655,29 +655,29 @@
     },
     {
       "pos": 44,
-      "title": "BĒYĀH",
-      "artist": "Damso",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 45,
       "title": "Changé Numéro",
       "artist": "Nyerky, Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 45,
+      "title": "BĒYĀH",
+      "artist": "Damso",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 46,
-      "title": "BENZO PRESIDENT (Deluxe)",
-      "artist": "Tino thebenzoboy",
+      "title": "AMADAN",
+      "artist": "Lamine løssa",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 47,
-      "title": "AMADAN",
-      "artist": "Lamine løssa",
+      "title": "BENZO PRESIDENT (Deluxe)",
+      "artist": "Tino thebenzoboy",
       "type": "Album",
       "mov": "="
     },
@@ -690,15 +690,15 @@
     },
     {
       "pos": 49,
-      "title": "Pyramide",
-      "artist": "Werenoi",
+      "title": "M$NEY",
+      "artist": "Asake",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 50,
-      "title": "FAIS OH FAIS (1 COUP KO)",
-      "artist": "Ste Milano",
+      "title": "Pyramide",
+      "artist": "Werenoi",
       "type": "Album",
       "mov": "="
     }
