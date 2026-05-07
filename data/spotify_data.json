@@ -417,14 +417,14 @@
     },
     {
       "pos": 10,
-      "title": "Juventus Nueva Era (Deluxe Edition)",
+      "title": "DIYILEM & BAZARHOFF : GENIUS",
       "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 11,
-      "title": "DIYILEM & BAZARHOFF : GENIUS",
+      "title": "Juventus Nueva Era (Deluxe Edition)",
       "artist": "Didi B",
       "type": "Album",
       "mov": "="
@@ -459,15 +459,15 @@
     },
     {
       "pos": 16,
-      "title": "Numéro d'écrou",
-      "artist": "La Rvfleuze",
+      "title": "JEUNE & RICHE",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 17,
-      "title": "JEUNE & RICHE",
-      "artist": "Himra",
+      "title": "Numéro d'écrou",
+      "artist": "La Rvfleuze",
       "type": "Album",
       "mov": "="
     },
@@ -480,29 +480,29 @@
     },
     {
       "pos": 19,
-      "title": "BABI TAPE Vol.1",
-      "artist": "Babi Tape",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 20,
       "title": "Formule 7",
       "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 20,
+      "title": "BABI TAPE Vol.1",
+      "artist": "Babi Tape",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 21,
-      "title": "RÉSONANCE",
-      "artist": "Josey",
+      "title": "Juventus Nueva Era",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 22,
-      "title": "Juventus Nueva Era",
-      "artist": "Didi B",
+      "title": "RÉSONANCE",
+      "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
@@ -529,22 +529,22 @@
     },
     {
       "pos": 26,
+      "title": "M$NEY",
+      "artist": "Asake",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 27,
       "title": "R.F.W (Ready For War)",
       "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 27,
+      "pos": 28,
       "title": "1X",
       "artist": "Himra",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 28,
-      "title": "LVDG PACK 2 (Deluxe)",
-      "artist": "TRK.",
       "type": "Album",
       "mov": "="
     },
@@ -557,15 +557,15 @@
     },
     {
       "pos": 30,
-      "title": "Jeune Morty Vol.1",
-      "artist": "Jeune Morty",
+      "title": "LVDG PACK 2 (Deluxe)",
+      "artist": "TRK.",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 31,
-      "title": "M$NEY",
-      "artist": "Asake",
+      "title": "Jeune Morty Vol.1",
+      "artist": "Jeune Morty",
       "type": "Album",
       "mov": "="
     },
@@ -578,8 +578,8 @@
     },
     {
       "pos": 33,
-      "title": "23 JOURS PLUS TARD",
-      "artist": "Jolagreen23",
+      "title": "Poison Ou Antidote",
+      "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
@@ -592,8 +592,8 @@
     },
     {
       "pos": 35,
-      "title": "Poison Ou Antidote",
-      "artist": "Dadju",
+      "title": "23 JOURS PLUS TARD",
+      "artist": "Jolagreen23",
       "type": "Album",
       "mov": "="
     },
