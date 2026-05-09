@@ -375,15 +375,15 @@
     },
     {
       "pos": 4,
-      "title": "INVASION TOME II",
-      "artist": "Sindika",
+      "title": "XX",
+      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 5,
-      "title": "XX",
-      "artist": "Fally Ipupa",
+      "title": "INVASION TOME II",
+      "artist": "Sindika",
       "type": "Album",
       "mov": "="
     },
@@ -501,15 +501,15 @@
     },
     {
       "pos": 22,
-      "title": "RÉSONANCE",
-      "artist": "Josey",
+      "title": "MERCON2BABIÈRE",
+      "artist": "Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 23,
-      "title": "MERCON2BABIÈRE",
-      "artist": "Ameka Zrai",
+      "title": "RÉSONANCE",
+      "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
@@ -620,15 +620,15 @@
     },
     {
       "pos": 39,
-      "title": "Fais ton malin",
-      "artist": "Josey",
+      "title": "BDLM VOL.1",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 40,
-      "title": "BDLM VOL.1",
-      "artist": "Tiakola",
+      "title": "Fais ton malin",
+      "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
@@ -641,15 +641,15 @@
     },
     {
       "pos": 42,
-      "title": "INVASION : TOME I",
-      "artist": "Sindika",
+      "title": "WHO IS DØPE?",
+      "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 43,
-      "title": "WHO IS DØPE?",
-      "artist": "døpelym",
+      "title": "INVASION : TOME I",
+      "artist": "Sindika",
       "type": "Album",
       "mov": "="
     },
@@ -683,15 +683,15 @@
     },
     {
       "pos": 48,
-      "title": "AMADAN",
-      "artist": "Lamine løssa",
+      "title": "Pyramide",
+      "artist": "Werenoi",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 49,
-      "title": "Pyramide",
-      "artist": "Werenoi",
+      "title": "AMADAN",
+      "artist": "Lamine løssa",
       "type": "Album",
       "mov": "="
     },
@@ -772,19 +772,19 @@
     },
     {
       "pos": 12,
-      "name": "GIMS",
+      "name": "Tiakola",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 13,
-      "name": "Sindika",
+      "name": "GIMS",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 14,
-      "name": "Tiakola",
+      "name": "Sindika",
       "genres": "Artiste",
       "streams": 0
     },
@@ -820,19 +820,19 @@
     },
     {
       "pos": 20,
-      "name": "Lamine løssa",
+      "name": "Nyerky",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 21,
-      "name": "Josey",
+      "name": "Lamine løssa",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 22,
-      "name": "Nyerky",
+      "name": "Josey",
       "genres": "Artiste",
       "streams": 0
     },
@@ -850,49 +850,49 @@
     },
     {
       "pos": 25,
-      "name": "Damso",
+      "name": "DJ Arafat",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 26,
-      "name": "Tayc",
+      "name": "Damso",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 27,
-      "name": "Lesky",
+      "name": "Tayc",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 28,
-      "name": "Asake",
+      "name": "Lesky",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 29,
-      "name": "Doupi Papillon",
+      "name": "Asake",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 30,
-      "name": "Niska",
+      "name": "Doupi Papillon",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 31,
-      "name": "NO PAIN NO GAIN",
+      "name": "Niska",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 32,
-      "name": "DJ Arafat",
+      "name": "NO PAIN NO GAIN",
       "genres": "Artiste",
       "streams": 0
     },
@@ -904,25 +904,25 @@
     },
     {
       "pos": 34,
-      "name": "3xdavs",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 35,
-      "name": "L'Oiseau Rare",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 36,
       "name": "Paulo Chakal",
       "genres": "Artiste",
       "streams": 0
     },
     {
-      "pos": 37,
+      "pos": 35,
+      "name": "3xdavs",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
+      "pos": 36,
       "name": "SDM",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
+      "pos": 37,
+      "name": "L'Oiseau Rare",
       "genres": "Artiste",
       "streams": 0
     },
@@ -934,19 +934,19 @@
     },
     {
       "pos": 39,
-      "name": "RnBoi",
+      "name": "Aya Nakamura",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 40,
-      "name": "Miedjia",
+      "name": "RnBoi",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 41,
-      "name": "Aya Nakamura",
+      "name": "Miedjia",
       "genres": "Artiste",
       "streams": 0
     },
@@ -970,13 +970,13 @@
     },
     {
       "pos": 45,
-      "name": "Naza",
+      "name": "La Mano 1.9",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 46,
-      "name": "La Mano 1.9",
+      "name": "Naza",
       "genres": "Artiste",
       "streams": 0
     },
