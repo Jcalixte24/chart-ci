@@ -508,36 +508,36 @@
     },
     {
       "pos": 23,
-      "title": "RÉSONANCE",
-      "artist": "Josey",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 24,
-      "title": "Cherie Coco",
-      "artist": "Didi B, Fally Ipupa",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 25,
       "title": "M$NEY",
       "artist": "Asake",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 24,
+      "title": "RÉSONANCE",
+      "artist": "Josey",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 25,
+      "title": "Cherie Coco",
+      "artist": "Didi B, Fally Ipupa",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 26,
-      "title": "Jefe",
-      "artist": "Ninho",
+      "title": "R.F.W (Ready For War)",
+      "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 27,
-      "title": "R.F.W (Ready For War)",
-      "artist": "Lamoula$",
+      "title": "Jefe",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
@@ -564,15 +564,15 @@
     },
     {
       "pos": 31,
-      "title": "Jeune Morty Vol.1",
-      "artist": "Jeune Morty",
+      "title": "Poison Ou Antidote",
+      "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 32,
-      "title": "Poison Ou Antidote",
-      "artist": "Dadju",
+      "title": "Jeune Morty Vol.1",
+      "artist": "Jeune Morty",
       "type": "Album",
       "mov": "="
     },
@@ -627,15 +627,15 @@
     },
     {
       "pos": 40,
-      "title": "Fais ton malin",
-      "artist": "Josey",
+      "title": "Tokooos II",
+      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 41,
-      "title": "Tokooos II",
-      "artist": "Fally Ipupa",
+      "title": "Fais ton malin",
+      "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
@@ -697,8 +697,8 @@
     },
     {
       "pos": 50,
-      "title": "BENZO PRESIDENT (Deluxe)",
-      "artist": "Tino thebenzoboy",
+      "title": "Tokooos",
+      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     }
@@ -838,19 +838,19 @@
     },
     {
       "pos": 23,
-      "name": "La Rvfleuze",
+      "name": "DJ Arafat",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 24,
-      "name": "Leto",
+      "name": "La Rvfleuze",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 25,
-      "name": "DJ Arafat",
+      "name": "Leto",
       "genres": "Artiste",
       "streams": 0
     },
@@ -910,7 +910,7 @@
     },
     {
       "pos": 35,
-      "name": "3xdavs",
+      "name": "Wantché",
       "genres": "Artiste",
       "streams": 0
     },
@@ -922,19 +922,19 @@
     },
     {
       "pos": 37,
-      "name": "L'Oiseau Rare",
+      "name": "3xdavs",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 38,
-      "name": "Wantché",
+      "name": "Aya Nakamura",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 39,
-      "name": "Aya Nakamura",
+      "name": "L'Oiseau Rare",
       "genres": "Artiste",
       "streams": 0
     },
@@ -952,13 +952,13 @@
     },
     {
       "pos": 42,
-      "name": "Tripa Gninnin",
+      "name": "Davido",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 43,
-      "name": "Davido",
+      "name": "La Mano 1.9",
       "genres": "Artiste",
       "streams": 0
     },
@@ -970,7 +970,7 @@
     },
     {
       "pos": 45,
-      "name": "La Mano 1.9",
+      "name": "Tripa Gninnin",
       "genres": "Artiste",
       "streams": 0
     },
@@ -994,13 +994,13 @@
     },
     {
       "pos": 49,
-      "name": "Booba",
+      "name": "KeBlack",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 50,
-      "name": "KeBlack",
+      "name": "Booba",
       "genres": "Artiste",
       "streams": 0
     }
