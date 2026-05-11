@@ -802,25 +802,25 @@
     },
     {
       "pos": 17,
-      "name": "Werenoi",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 18,
       "name": "GENERATION NERF",
       "genres": "Artiste",
       "streams": 0
     },
     {
+      "pos": 18,
+      "name": "Werenoi",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
       "pos": 19,
-      "name": "Team Paiya",
+      "name": "Nyerky",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 20,
-      "name": "Nyerky",
+      "name": "Team Paiya",
       "genres": "Artiste",
       "streams": 0
     },
@@ -844,13 +844,13 @@
     },
     {
       "pos": 24,
-      "name": "La Rvfleuze",
+      "name": "Leto",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 25,
-      "name": "Leto",
+      "name": "La Rvfleuze",
       "genres": "Artiste",
       "streams": 0
     },
@@ -898,37 +898,37 @@
     },
     {
       "pos": 33,
-      "name": "Joé Dwèt Filé",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 34,
-      "name": "Paulo Chakal",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 35,
       "name": "Wantché",
       "genres": "Artiste",
       "streams": 0
     },
     {
+      "pos": 34,
+      "name": "Joé Dwèt Filé",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
+      "pos": 35,
+      "name": "Paulo Chakal",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
       "pos": 36,
-      "name": "SDM",
+      "name": "Aya Nakamura",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 37,
-      "name": "3xdavs",
+      "name": "SDM",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 38,
-      "name": "Aya Nakamura",
+      "name": "3xdavs",
       "genres": "Artiste",
       "streams": 0
     },
@@ -946,19 +946,19 @@
     },
     {
       "pos": 41,
-      "name": "Miedjia",
+      "name": "La Mano 1.9",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 42,
-      "name": "Davido",
+      "name": "Miedjia",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 43,
-      "name": "La Mano 1.9",
+      "name": "Davido",
       "genres": "Artiste",
       "streams": 0
     },
@@ -994,13 +994,13 @@
     },
     {
       "pos": 49,
-      "name": "KeBlack",
+      "name": "Lamoula$",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 50,
-      "name": "Booba",
+      "name": "KeBlack",
       "genres": "Artiste",
       "streams": 0
     }
