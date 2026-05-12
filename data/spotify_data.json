@@ -480,36 +480,36 @@
     },
     {
       "pos": 19,
-      "title": "Formule 7",
-      "artist": "Fally Ipupa",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 20,
-      "title": "BABI TAPE Vol.1",
-      "artist": "Babi Tape",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 21,
       "title": "M$NEY",
       "artist": "Asake",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 20,
+      "title": "Formule 7",
+      "artist": "Fally Ipupa",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 21,
+      "title": "BABI TAPE Vol.1",
+      "artist": "Babi Tape",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 22,
-      "title": "Juventus Nueva Era",
-      "artist": "Didi B",
+      "title": "MERCON2BABIÈRE",
+      "artist": "Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 23,
-      "title": "MERCON2BABIÈRE",
-      "artist": "Ameka Zrai",
+      "title": "Juventus Nueva Era",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
@@ -543,15 +543,15 @@
     },
     {
       "pos": 28,
-      "title": "1X",
-      "artist": "Himra",
+      "title": "Ipséité",
+      "artist": "Damso",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 29,
-      "title": "Ipséité",
-      "artist": "Damso",
+      "title": "1X",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
@@ -585,15 +585,15 @@
     },
     {
       "pos": 34,
-      "title": "FREESTYLE DRILL IVOIRE #7",
-      "artist": "Himra",
+      "title": "Je m'appelle",
+      "artist": "Didi B, Zlatan, Chlé",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 35,
-      "title": "Je m'appelle",
-      "artist": "Didi B, Zlatan, Chlé",
+      "title": "FREESTYLE DRILL IVOIRE #7",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
@@ -648,22 +648,22 @@
     },
     {
       "pos": 43,
-      "title": "INVASION : TOME I",
-      "artist": "Sindika",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 44,
       "title": "Changé Numéro",
       "artist": "Nyerky, Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 45,
+      "pos": 44,
       "title": "MERCON2BABIÈRE (DELUXE)",
       "artist": "Ameka Zrai",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 45,
+      "title": "INVASION : TOME I",
+      "artist": "Sindika",
       "type": "Album",
       "mov": "="
     },
@@ -683,15 +683,15 @@
     },
     {
       "pos": 48,
-      "title": "AMADAN",
-      "artist": "Lamine løssa",
+      "title": "Pyramide",
+      "artist": "Werenoi",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 49,
-      "title": "Pyramide",
-      "artist": "Werenoi",
+      "title": "AMADAN",
+      "artist": "Lamine løssa",
       "type": "Album",
       "mov": "="
     },
