@@ -808,13 +808,13 @@
     },
     {
       "pos": 18,
-      "name": "Werenoi",
+      "name": "Nyerky",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 19,
-      "name": "Nyerky",
+      "name": "Werenoi",
       "genres": "Artiste",
       "streams": 0
     },
@@ -868,13 +868,13 @@
     },
     {
       "pos": 28,
-      "name": "Lesky",
+      "name": "Asake",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 29,
-      "name": "Asake",
+      "name": "Lesky",
       "genres": "Artiste",
       "streams": 0
     },
@@ -904,13 +904,13 @@
     },
     {
       "pos": 34,
-      "name": "Paulo Chakal",
+      "name": "Aya Nakamura",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 35,
-      "name": "Aya Nakamura",
+      "name": "Paulo Chakal",
       "genres": "Artiste",
       "streams": 0
     },
@@ -934,13 +934,13 @@
     },
     {
       "pos": 39,
-      "name": "L'Oiseau Rare",
+      "name": "La Mano 1.9",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 40,
-      "name": "La Mano 1.9",
+      "name": "L'Oiseau Rare",
       "genres": "Artiste",
       "streams": 0
     },
@@ -952,13 +952,13 @@
     },
     {
       "pos": 42,
-      "name": "Miedjia",
+      "name": "Davido",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 43,
-      "name": "Davido",
+      "name": "Miedjia",
       "genres": "Artiste",
       "streams": 0
     },
@@ -970,13 +970,13 @@
     },
     {
       "pos": 45,
-      "name": "Tripa Gninnin",
+      "name": "Naza",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 46,
-      "name": "Naza",
+      "name": "Lamoula$",
       "genres": "Artiste",
       "streams": 0
     },
@@ -988,7 +988,7 @@
     },
     {
       "pos": 48,
-      "name": "Lamoula$",
+      "name": "Tripa Gninnin",
       "genres": "Artiste",
       "streams": 0
     },
