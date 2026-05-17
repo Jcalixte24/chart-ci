@@ -424,15 +424,15 @@
     },
     {
       "pos": 11,
-      "title": "Démosthène",
-      "artist": "Suspect 95",
+      "title": "Mélo",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 12,
-      "title": "Mélo",
-      "artist": "Tiakola",
+      "title": "Démosthène",
+      "artist": "Suspect 95",
       "type": "Album",
       "mov": "="
     },
@@ -452,22 +452,22 @@
     },
     {
       "pos": 15,
+      "title": "M$NEY",
+      "artist": "Asake",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 16,
       "title": "M.I.L.S 4",
       "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 16,
+      "pos": 17,
       "title": "Juventus Nueva Era (Deluxe Edition)",
       "artist": "Didi B",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 17,
-      "title": "M$NEY",
-      "artist": "Asake",
       "type": "Album",
       "mov": "="
     },
@@ -480,22 +480,22 @@
     },
     {
       "pos": 19,
+      "title": "BARA BARA",
+      "artist": "Himra",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 20,
       "title": "Formule 7",
       "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 20,
+      "pos": 21,
       "title": "BABI TAPE Vol.1",
       "artist": "Babi Tape",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 21,
-      "title": "Numéro d'écrou",
-      "artist": "La Rvfleuze",
       "type": "Album",
       "mov": "="
     },
@@ -508,57 +508,57 @@
     },
     {
       "pos": 23,
+      "title": "Numéro d'écrou",
+      "artist": "La Rvfleuze",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 24,
       "title": "Juventus Nueva Era",
       "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 24,
+      "pos": 25,
       "title": "Cherie Coco",
       "artist": "Didi B, Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 25,
+      "pos": 26,
       "title": "R.F.W (Ready For War)",
       "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 26,
+      "pos": 27,
       "title": "Jefe",
       "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 27,
+      "pos": 28,
       "title": "RÉSONANCE",
       "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 28,
+      "pos": 29,
       "title": "1X",
       "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 29,
+      "pos": 30,
       "title": "Ipséité",
       "artist": "Damso",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 30,
-      "title": "BARA BARA",
-      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
@@ -592,22 +592,22 @@
     },
     {
       "pos": 35,
-      "title": "FREESTYLE DRILL IVOIRE #7",
-      "artist": "Himra",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 36,
       "title": "Gentleman 2.0",
       "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 37,
+      "pos": 36,
       "title": "M.I.L.S 3",
       "artist": "Ninho",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 37,
+      "title": "FREESTYLE DRILL IVOIRE #7",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
@@ -620,43 +620,43 @@
     },
     {
       "pos": 39,
-      "title": "Jeune Morty Vol.1",
-      "artist": "Jeune Morty",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 40,
       "title": "Tokooos II",
       "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 41,
-      "title": "23 JOURS PLUS TARD",
-      "artist": "Jolagreen23",
+      "pos": 40,
+      "title": "Jeune Morty Vol.1",
+      "artist": "Jeune Morty",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 42,
+      "pos": 41,
       "title": "Changé Numéro",
       "artist": "Nyerky, Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 43,
+      "pos": 42,
       "title": "WHO IS DØPE?",
       "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 44,
+      "pos": 43,
       "title": "MERCON2BABIÈRE (DELUXE)",
       "artist": "Ameka Zrai",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 44,
+      "title": "23 JOURS PLUS TARD",
+      "artist": "Jolagreen23",
       "type": "Album",
       "mov": "="
     },
@@ -683,22 +683,22 @@
     },
     {
       "pos": 48,
+      "title": "Raba",
+      "artist": "Didi B, Young Jonn",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 49,
       "title": "CLARITY OF MIND",
       "artist": "OMAH LAY",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 49,
+      "pos": 50,
       "title": "Fire in your Eyes",
       "artist": "Didi B, Mavo",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 50,
-      "title": "Pyramide",
-      "artist": "Werenoi",
       "type": "Album",
       "mov": "="
     }
