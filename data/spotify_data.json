@@ -382,22 +382,22 @@
     },
     {
       "pos": 5,
-      "title": "INVASION TOME II",
-      "artist": "Sindika",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 6,
       "title": "LVDG PACK 2",
       "artist": "TRK.",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 7,
+      "pos": 6,
       "title": "DACHIBA KOUMGBA TCHAIBA",
       "artist": "Himra",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 7,
+      "title": "INVASION TOME II",
+      "artist": "Sindika",
       "type": "Album",
       "mov": "="
     },
@@ -424,15 +424,15 @@
     },
     {
       "pos": 11,
-      "title": "Mélo",
-      "artist": "Tiakola",
+      "title": "BARA BARA",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 12,
-      "title": "Démosthène",
-      "artist": "Suspect 95",
+      "title": "Mélo",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
@@ -459,15 +459,15 @@
     },
     {
       "pos": 16,
-      "title": "M.I.L.S 4",
-      "artist": "Ninho",
+      "title": "Démosthène",
+      "artist": "Suspect 95",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 17,
-      "title": "Juventus Nueva Era (Deluxe Edition)",
-      "artist": "Didi B",
+      "title": "M.I.L.S 4",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
@@ -480,8 +480,8 @@
     },
     {
       "pos": 19,
-      "title": "BARA BARA",
-      "artist": "Himra",
+      "title": "Juventus Nueva Era (Deluxe Edition)",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
@@ -522,15 +522,15 @@
     },
     {
       "pos": 25,
-      "title": "Cherie Coco",
-      "artist": "Didi B, Fally Ipupa",
+      "title": "R.F.W (Ready For War)",
+      "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 26,
-      "title": "R.F.W (Ready For War)",
-      "artist": "Lamoula$",
+      "title": "Cherie Coco",
+      "artist": "Didi B, Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
@@ -550,15 +550,15 @@
     },
     {
       "pos": 29,
-      "title": "1X",
-      "artist": "Himra",
+      "title": "Ipséité",
+      "artist": "Damso",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 30,
-      "title": "Ipséité",
-      "artist": "Damso",
+      "title": "1X",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
@@ -578,64 +578,64 @@
     },
     {
       "pos": 33,
+      "title": "Raba",
+      "artist": "Didi B, Young Jonn",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 34,
       "title": "Diamant Noir",
       "artist": "Werenoi",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 34,
+      "pos": 35,
       "title": "Je m'appelle",
       "artist": "Didi B, Zlatan, Chlé",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 35,
+      "pos": 36,
       "title": "Gentleman 2.0",
       "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 36,
+      "pos": 37,
       "title": "M.I.L.S 3",
       "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 37,
+      "pos": 38,
       "title": "FREESTYLE DRILL IVOIRE #7",
       "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 38,
+      "pos": 39,
       "title": "BDLM VOL.1",
       "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 39,
-      "title": "Tokooos II",
-      "artist": "Fally Ipupa",
-      "type": "Album",
-      "mov": "="
-    },
-    {
       "pos": 40,
-      "title": "Jeune Morty Vol.1",
-      "artist": "Jeune Morty",
+      "title": "Changé Numéro",
+      "artist": "Nyerky, Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 41,
-      "title": "Changé Numéro",
-      "artist": "Nyerky, Ameka Zrai",
+      "title": "Tokooos II",
+      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
@@ -655,50 +655,50 @@
     },
     {
       "pos": 44,
+      "title": "Jeune Morty Vol.1",
+      "artist": "Jeune Morty",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 45,
       "title": "23 JOURS PLUS TARD",
       "artist": "Jolagreen23",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 45,
+      "pos": 46,
       "title": "INVASION : TOME I",
       "artist": "Sindika",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 46,
+      "pos": 47,
       "title": "Fais ton malin",
       "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 47,
+      "pos": 48,
       "title": "BĒYĀH",
       "artist": "Damso",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 48,
-      "title": "Raba",
-      "artist": "Didi B, Young Jonn",
-      "type": "Album",
-      "mov": "="
-    },
-    {
       "pos": 49,
-      "title": "CLARITY OF MIND",
-      "artist": "OMAH LAY",
+      "title": "Fire in your Eyes",
+      "artist": "Didi B, Mavo",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 50,
-      "title": "Fire in your Eyes",
-      "artist": "Didi B, Mavo",
+      "title": "CLARITY OF MIND",
+      "artist": "OMAH LAY",
       "type": "Album",
       "mov": "="
     }
