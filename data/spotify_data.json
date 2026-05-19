@@ -410,21 +410,21 @@
     },
     {
       "pos": 9,
+      "title": "BARA BARA",
+      "artist": "Himra",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 10,
       "title": "DIYILEM & BAZARHOFF : GENIUS",
       "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 10,
-      "title": "IDK2",
-      "artist": "Himra",
-      "type": "Album",
-      "mov": "="
-    },
-    {
       "pos": 11,
-      "title": "BARA BARA",
+      "title": "IDK2",
       "artist": "Himra",
       "type": "Album",
       "mov": "="
@@ -445,15 +445,15 @@
     },
     {
       "pos": 14,
-      "title": "BIG AKA 4 AKA KAI",
-      "artist": "Himra",
+      "title": "M$NEY",
+      "artist": "Asake",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 15,
-      "title": "M$NEY",
-      "artist": "Asake",
+      "title": "BIG AKA 4 AKA KAI",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
@@ -508,15 +508,15 @@
     },
     {
       "pos": 23,
-      "title": "Numéro d'écrou",
-      "artist": "La Rvfleuze",
+      "title": "Juventus Nueva Era",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 24,
-      "title": "Juventus Nueva Era",
-      "artist": "Didi B",
+      "title": "Numéro d'écrou",
+      "artist": "La Rvfleuze",
       "type": "Album",
       "mov": "="
     },
@@ -543,8 +543,8 @@
     },
     {
       "pos": 28,
-      "title": "RÉSONANCE",
-      "artist": "Josey",
+      "title": "Raba",
+      "artist": "Didi B, Young Jonn",
       "type": "Album",
       "mov": "="
     },
@@ -564,36 +564,36 @@
     },
     {
       "pos": 31,
+      "title": "RÉSONANCE",
+      "artist": "Josey",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 32,
       "title": "LVDG PACK 2 (Deluxe)",
       "artist": "TRK.",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 32,
+      "pos": 33,
       "title": "Poison Ou Antidote",
       "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 33,
-      "title": "Raba",
-      "artist": "Didi B, Young Jonn",
-      "type": "Album",
-      "mov": "="
-    },
-    {
       "pos": 34,
-      "title": "Diamant Noir",
-      "artist": "Werenoi",
+      "title": "Je m'appelle",
+      "artist": "Didi B, Zlatan, Chlé",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 35,
-      "title": "Je m'appelle",
-      "artist": "Didi B, Zlatan, Chlé",
+      "title": "Diamant Noir",
+      "artist": "Werenoi",
       "type": "Album",
       "mov": "="
     },
@@ -613,15 +613,15 @@
     },
     {
       "pos": 38,
-      "title": "FREESTYLE DRILL IVOIRE #7",
-      "artist": "Himra",
+      "title": "BDLM VOL.1",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 39,
-      "title": "BDLM VOL.1",
-      "artist": "Tiakola",
+      "title": "FREESTYLE DRILL IVOIRE #7",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
@@ -634,15 +634,15 @@
     },
     {
       "pos": 41,
-      "title": "Tokooos II",
-      "artist": "Fally Ipupa",
+      "title": "WHO IS DØPE?",
+      "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 42,
-      "title": "WHO IS DØPE?",
-      "artist": "døpelym",
+      "title": "Tokooos II",
+      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
@@ -662,15 +662,15 @@
     },
     {
       "pos": 45,
-      "title": "23 JOURS PLUS TARD",
-      "artist": "Jolagreen23",
+      "title": "INVASION : TOME I",
+      "artist": "Sindika",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 46,
-      "title": "INVASION : TOME I",
-      "artist": "Sindika",
+      "title": "23 JOURS PLUS TARD",
+      "artist": "Jolagreen23",
       "type": "Album",
       "mov": "="
     },
@@ -690,15 +690,15 @@
     },
     {
       "pos": 49,
-      "title": "Fire in your Eyes",
-      "artist": "Didi B, Mavo",
+      "title": "ICEMAN",
+      "artist": "Drake",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 50,
-      "title": "CLARITY OF MIND",
-      "artist": "OMAH LAY",
+      "title": "Fire in your Eyes",
+      "artist": "Didi B, Mavo",
       "type": "Album",
       "mov": "="
     }
