@@ -396,22 +396,22 @@
     },
     {
       "pos": 7,
+      "title": "BARA BARA",
+      "artist": "Himra",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 8,
       "title": "INVASION TOME II",
       "artist": "Sindika",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 8,
+      "pos": 9,
       "title": "FREELYM",
       "artist": "døpelym",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 9,
-      "title": "BARA BARA",
-      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
@@ -522,29 +522,29 @@
     },
     {
       "pos": 25,
+      "title": "Raba",
+      "artist": "Didi B, Young Jonn",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 26,
       "title": "R.F.W (Ready For War)",
       "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 26,
+      "pos": 27,
       "title": "Cherie Coco",
       "artist": "Didi B, Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 27,
+      "pos": 28,
       "title": "Jefe",
       "artist": "Ninho",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 28,
-      "title": "Raba",
-      "artist": "Didi B, Young Jonn",
       "type": "Album",
       "mov": "="
     },
@@ -627,15 +627,15 @@
     },
     {
       "pos": 40,
-      "title": "Changé Numéro",
-      "artist": "Nyerky, Ameka Zrai",
+      "title": "WHO IS DØPE?",
+      "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 41,
-      "title": "WHO IS DØPE?",
-      "artist": "døpelym",
+      "title": "Changé Numéro",
+      "artist": "Nyerky, Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
@@ -648,57 +648,57 @@
     },
     {
       "pos": 43,
-      "title": "MERCON2BABIÈRE (DELUXE)",
-      "artist": "Ameka Zrai",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 44,
-      "title": "Jeune Morty Vol.1",
-      "artist": "Jeune Morty",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 45,
-      "title": "INVASION : TOME I",
-      "artist": "Sindika",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 46,
-      "title": "23 JOURS PLUS TARD",
-      "artist": "Jolagreen23",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 47,
-      "title": "Fais ton malin",
-      "artist": "Josey",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 48,
-      "title": "BĒYĀH",
-      "artist": "Damso",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 49,
       "title": "ICEMAN",
       "artist": "Drake",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 44,
+      "title": "MERCON2BABIÈRE (DELUXE)",
+      "artist": "Ameka Zrai",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 45,
+      "title": "Jeune Morty Vol.1",
+      "artist": "Jeune Morty",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 46,
+      "title": "INVASION : TOME I",
+      "artist": "Sindika",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 47,
+      "title": "23 JOURS PLUS TARD",
+      "artist": "Jolagreen23",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 48,
+      "title": "Fais ton malin",
+      "artist": "Josey",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 49,
+      "title": "BĒYĀH",
+      "artist": "Damso",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 50,
-      "title": "Fire in your Eyes",
-      "artist": "Didi B, Mavo",
+      "title": "BAHI",
+      "artist": "Wantché, OG Mahilet",
       "type": "Album",
       "mov": "="
     }
