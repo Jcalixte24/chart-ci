@@ -375,15 +375,15 @@
     },
     {
       "pos": 4,
-      "title": "XX",
-      "artist": "Fally Ipupa",
+      "title": "BARA BARA",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 5,
-      "title": "BARA BARA",
-      "artist": "Himra",
+      "title": "XX",
+      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
@@ -403,15 +403,15 @@
     },
     {
       "pos": 8,
-      "title": "INVASION TOME II",
-      "artist": "Sindika",
+      "title": "FREELYM",
+      "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 9,
-      "title": "FREELYM",
-      "artist": "døpelym",
+      "title": "INVASION TOME II",
+      "artist": "Sindika",
       "type": "Album",
       "mov": "="
     },
@@ -438,15 +438,15 @@
     },
     {
       "pos": 13,
-      "title": "Mélo",
-      "artist": "Tiakola",
+      "title": "M$NEY",
+      "artist": "Asake",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 14,
-      "title": "M$NEY",
-      "artist": "Asake",
+      "title": "Mélo",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
@@ -459,14 +459,14 @@
     },
     {
       "pos": 16,
-      "title": "M.I.L.S 4",
+      "title": "Destin",
       "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 17,
-      "title": "Destin",
+      "title": "M.I.L.S 4",
       "artist": "Ninho",
       "type": "Album",
       "mov": "="
@@ -508,22 +508,22 @@
     },
     {
       "pos": 23,
+      "title": "Raba",
+      "artist": "Didi B, Young Jonn",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 24,
       "title": "Juventus Nueva Era",
       "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 24,
+      "pos": 25,
       "title": "Numéro d'écrou",
       "artist": "La Rvfleuze",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 25,
-      "title": "Raba",
-      "artist": "Didi B, Young Jonn",
       "type": "Album",
       "mov": "="
     },
@@ -578,15 +578,15 @@
     },
     {
       "pos": 33,
-      "title": "Poison Ou Antidote",
-      "artist": "Dadju",
+      "title": "ICEMAN",
+      "artist": "Drake",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 34,
-      "title": "ICEMAN",
-      "artist": "Drake",
+      "title": "Poison Ou Antidote",
+      "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
@@ -620,15 +620,15 @@
     },
     {
       "pos": 39,
-      "title": "BDLM VOL.1",
-      "artist": "Tiakola",
+      "title": "Changé Numéro",
+      "artist": "Nyerky, Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 40,
-      "title": "Changé Numéro",
-      "artist": "Nyerky, Ameka Zrai",
+      "title": "BDLM VOL.1",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
@@ -669,29 +669,29 @@
     },
     {
       "pos": 46,
+      "title": "BAHI",
+      "artist": "Wantché, OG Mahilet",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 47,
       "title": "Jeune Morty Vol.1",
       "artist": "Jeune Morty",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 47,
+      "pos": 48,
       "title": "23 JOURS PLUS TARD",
       "artist": "Jolagreen23",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 48,
+      "pos": 49,
       "title": "Fais ton malin",
       "artist": "Josey",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 49,
-      "title": "BAHI",
-      "artist": "Wantché, OG Mahilet",
       "type": "Album",
       "mov": "="
     },
