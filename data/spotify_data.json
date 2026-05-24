@@ -389,15 +389,15 @@
     },
     {
       "pos": 6,
-      "title": "LVDG PACK 2",
-      "artist": "TRK.",
+      "title": "DACHIBA KOUMGBA TCHAIBA",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 7,
-      "title": "DACHIBA KOUMGBA TCHAIBA",
-      "artist": "Himra",
+      "title": "LVDG PACK 2",
+      "artist": "TRK.",
       "type": "Album",
       "mov": "="
     },
@@ -480,29 +480,29 @@
     },
     {
       "pos": 19,
+      "title": "Raba",
+      "artist": "Didi B, Young Jonn",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 20,
       "title": "Juventus Nueva Era (Deluxe Edition)",
       "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 20,
+      "pos": 21,
       "title": "Formule 7",
       "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 21,
+      "pos": 22,
       "title": "BABI TAPE Vol.1",
       "artist": "Babi Tape",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 22,
-      "title": "Raba",
-      "artist": "Didi B, Young Jonn",
       "type": "Album",
       "mov": "="
     },
@@ -620,29 +620,29 @@
     },
     {
       "pos": 39,
+      "title": "BAHI",
+      "artist": "Wantché, OG Mahilet",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 40,
       "title": "Changé Numéro",
       "artist": "Nyerky, Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 40,
+      "pos": 41,
       "title": "WHO IS DØPE?",
       "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 41,
+      "pos": 42,
       "title": "BDLM VOL.1",
       "artist": "Tiakola",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 42,
-      "title": "FREESTYLE DRILL IVOIRE #7",
-      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
@@ -655,8 +655,8 @@
     },
     {
       "pos": 44,
-      "title": "BAHI",
-      "artist": "Wantché, OG Mahilet",
+      "title": "FREESTYLE DRILL IVOIRE #7",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
@@ -683,15 +683,15 @@
     },
     {
       "pos": 48,
-      "title": "23 JOURS PLUS TARD",
-      "artist": "Jolagreen23",
+      "title": "Fais ton malin",
+      "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 49,
-      "title": "Fais ton malin",
-      "artist": "Josey",
+      "title": "23 JOURS PLUS TARD",
+      "artist": "Jolagreen23",
       "type": "Album",
       "mov": "="
     },
