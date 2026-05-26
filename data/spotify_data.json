@@ -368,14 +368,14 @@
     },
     {
       "pos": 3,
-      "title": "JEUNE & RICHE (DELUXE)",
+      "title": "BARA BARA",
       "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 4,
-      "title": "BARA BARA",
+      "title": "JEUNE & RICHE (DELUXE)",
       "artist": "Himra",
       "type": "Album",
       "mov": "="
@@ -487,22 +487,22 @@
     },
     {
       "pos": 20,
-      "title": "Juventus Nueva Era (Deluxe Edition)",
-      "artist": "Didi B",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 21,
       "title": "Formule 7",
       "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 22,
+      "pos": 21,
       "title": "BABI TAPE Vol.1",
       "artist": "Babi Tape",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 22,
+      "title": "Juventus Nueva Era (Deluxe Edition)",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
@@ -592,22 +592,22 @@
     },
     {
       "pos": 35,
+      "title": "BAHI",
+      "artist": "Wantché, OG Mahilet",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 36,
       "title": "Je m'appelle",
       "artist": "Didi B, Zlatan, Chlé",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 36,
+      "pos": 37,
       "title": "Diamant Noir",
       "artist": "Werenoi",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 37,
-      "title": "BAHI",
-      "artist": "Wantché, OG Mahilet",
       "type": "Album",
       "mov": "="
     },
