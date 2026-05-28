@@ -438,15 +438,15 @@
     },
     {
       "pos": 13,
-      "title": "M$NEY",
-      "artist": "Asake",
+      "title": "BIG AKA 4 AKA KAI",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 14,
-      "title": "BIG AKA 4 AKA KAI",
-      "artist": "Himra",
+      "title": "M$NEY",
+      "artist": "Asake",
       "type": "Album",
       "mov": "="
     },
@@ -494,22 +494,22 @@
     },
     {
       "pos": 21,
-      "title": "Démosthène",
-      "artist": "Suspect 95",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 22,
       "title": "Juventus Nueva Era (Deluxe Edition)",
       "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 23,
+      "pos": 22,
       "title": "MERCON2BABIÈRE",
       "artist": "Ameka Zrai",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 23,
+      "title": "Démosthène",
+      "artist": "Suspect 95",
       "type": "Album",
       "mov": "="
     },
@@ -522,15 +522,15 @@
     },
     {
       "pos": 25,
-      "title": "Numéro d'écrou",
-      "artist": "La Rvfleuze",
+      "title": "R.F.W (Ready For War)",
+      "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 26,
-      "title": "R.F.W (Ready For War)",
-      "artist": "Lamoula$",
+      "title": "Numéro d'écrou",
+      "artist": "La Rvfleuze",
       "type": "Album",
       "mov": "="
     },
@@ -557,8 +557,8 @@
     },
     {
       "pos": 30,
-      "title": "Ipséité",
-      "artist": "Damso",
+      "title": "RÉSONANCE",
+      "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
@@ -571,8 +571,8 @@
     },
     {
       "pos": 32,
-      "title": "RÉSONANCE",
-      "artist": "Josey",
+      "title": "Ipséité",
+      "artist": "Damso",
       "type": "Album",
       "mov": "="
     },
@@ -613,22 +613,22 @@
     },
     {
       "pos": 38,
+      "title": "Changé Numéro",
+      "artist": "Nyerky, Ameka Zrai",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 39,
       "title": "M.I.L.S 3",
       "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 39,
+      "pos": 40,
       "title": "Gentleman 2.0",
       "artist": "Dadju",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 40,
-      "title": "Changé Numéro",
-      "artist": "Nyerky, Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
@@ -655,15 +655,15 @@
     },
     {
       "pos": 44,
-      "title": "MERCON2BABIÈRE (DELUXE)",
-      "artist": "Ameka Zrai",
+      "title": "FREESTYLE DRILL IVOIRE #7",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 45,
-      "title": "FREESTYLE DRILL IVOIRE #7",
-      "artist": "Himra",
+      "title": "MERCON2BABIÈRE (DELUXE)",
+      "artist": "Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
