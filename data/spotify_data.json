@@ -487,15 +487,15 @@
     },
     {
       "pos": 20,
-      "title": "M.I.L.S 4",
-      "artist": "Ninho",
+      "title": "Juventus Nueva Era (Deluxe Edition)",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 21,
-      "title": "Juventus Nueva Era (Deluxe Edition)",
-      "artist": "Didi B",
+      "title": "M.I.L.S 4",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
@@ -508,22 +508,22 @@
     },
     {
       "pos": 23,
-      "title": "MERCON2BABIÈRE",
-      "artist": "Ameka Zrai",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 24,
       "title": "RÉSONANCE",
       "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 25,
+      "pos": 24,
       "title": "R.F.W (Ready For War)",
       "artist": "Lamoula$",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 25,
+      "title": "MERCON2BABIÈRE",
+      "artist": "Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
@@ -536,15 +536,15 @@
     },
     {
       "pos": 27,
-      "title": "Démosthène",
-      "artist": "Suspect 95",
+      "title": "Blanco nemesis",
+      "artist": "Booba",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 28,
-      "title": "Blanco nemesis",
-      "artist": "Booba",
+      "title": "Démosthène",
+      "artist": "Suspect 95",
       "type": "Album",
       "mov": "="
     },
@@ -571,15 +571,15 @@
     },
     {
       "pos": 32,
-      "title": "Numéro d'écrou",
-      "artist": "La Rvfleuze",
+      "title": "BAHI",
+      "artist": "Wantché, OG Mahilet",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 33,
-      "title": "BAHI",
-      "artist": "Wantché, OG Mahilet",
+      "title": "Numéro d'écrou",
+      "artist": "La Rvfleuze",
       "type": "Album",
       "mov": "="
     },
@@ -620,15 +620,15 @@
     },
     {
       "pos": 39,
-      "title": "Changé Numéro",
-      "artist": "Nyerky, Ameka Zrai",
+      "title": "M.I.L.S 3",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 40,
-      "title": "M.I.L.S 3",
-      "artist": "Ninho",
+      "title": "Changé Numéro",
+      "artist": "Nyerky, Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
@@ -676,15 +676,15 @@
     },
     {
       "pos": 47,
-      "title": "FREESTYLE DRILL IVOIRE #7",
-      "artist": "Himra",
+      "title": "JAMAIS CHERLA",
+      "artist": "GENERATION NERF, døpelym, Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 48,
-      "title": "JAMAIS CHERLA",
-      "artist": "GENERATION NERF, døpelym, Himra",
+      "title": "FREESTYLE DRILL IVOIRE #7",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
