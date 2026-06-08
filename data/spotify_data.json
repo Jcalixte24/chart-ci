@@ -424,15 +424,15 @@
     },
     {
       "pos": 11,
-      "title": "INVASION TOME II",
-      "artist": "Sindika",
+      "title": "JEUNE & RICHE",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 12,
-      "title": "JEUNE & RICHE",
-      "artist": "Himra",
+      "title": "INVASION TOME II",
+      "artist": "Sindika",
       "type": "Album",
       "mov": "="
     },
@@ -480,22 +480,22 @@
     },
     {
       "pos": 19,
+      "title": "Blanco nemesis",
+      "artist": "Booba",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 20,
       "title": "Raba",
       "artist": "Didi B, Young Jonn",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 20,
+      "pos": 21,
       "title": "BABI TAPE Vol.1",
       "artist": "Babi Tape",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 21,
-      "title": "Blanco nemesis",
-      "artist": "Booba",
       "type": "Album",
       "mov": "="
     },
@@ -529,15 +529,15 @@
     },
     {
       "pos": 26,
-      "title": "MERCON2BABIÈRE",
-      "artist": "Ameka Zrai",
+      "title": "Juventus Nueva Era",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 27,
-      "title": "Juventus Nueva Era",
-      "artist": "Didi B",
+      "title": "MERCON2BABIÈRE",
+      "artist": "Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
@@ -683,22 +683,22 @@
     },
     {
       "pos": 48,
+      "title": "CAPITALE DU CRIME RADIO, vol. 2",
+      "artist": "La Fouine",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 49,
       "title": "INVASION : TOME I",
       "artist": "Sindika",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 49,
-      "title": "FREESTYLE DRILL IVOIRE #7",
-      "artist": "Himra",
-      "type": "Album",
-      "mov": "="
-    },
-    {
       "pos": 50,
-      "title": "CAPITALE DU CRIME RADIO, vol. 2",
-      "artist": "La Fouine",
+      "title": "BĒYĀH",
+      "artist": "Damso",
       "type": "Album",
       "mov": "="
     }
