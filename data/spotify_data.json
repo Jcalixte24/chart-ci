@@ -396,15 +396,15 @@
     },
     {
       "pos": 8,
-      "title": "BARA BARA",
-      "artist": "Himra",
+      "title": "FREELYM",
+      "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 9,
-      "title": "FREELYM",
-      "artist": "døpelym",
+      "title": "BARA BARA",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
@@ -431,15 +431,15 @@
     },
     {
       "pos": 13,
-      "title": "IDK2",
-      "artist": "Himra",
+      "title": "RÉSONANCE",
+      "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 14,
-      "title": "RÉSONANCE",
-      "artist": "Josey",
+      "title": "IDK2",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
@@ -480,15 +480,15 @@
     },
     {
       "pos": 20,
-      "title": "Raba",
-      "artist": "Didi B, Young Jonn",
+      "title": "BABI TAPE Vol.1",
+      "artist": "Babi Tape",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 21,
-      "title": "BABI TAPE Vol.1",
-      "artist": "Babi Tape",
+      "title": "Raba",
+      "artist": "Didi B, Young Jonn",
       "type": "Album",
       "mov": "="
     },
@@ -634,22 +634,22 @@
     },
     {
       "pos": 42,
+      "title": "JAMAIS CHERLA",
+      "artist": "GENERATION NERF, døpelym, Himra",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 43,
       "title": "Changé Numéro",
       "artist": "Nyerky, Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 43,
+      "pos": 44,
       "title": "Diamant Noir",
       "artist": "Werenoi",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 44,
-      "title": "JAMAIS CHERLA",
-      "artist": "GENERATION NERF, døpelym, Himra",
       "type": "Album",
       "mov": "="
     },
