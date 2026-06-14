@@ -403,50 +403,50 @@
     },
     {
       "pos": 8,
-      "title": "FREELYM",
-      "artist": "døpelym",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 9,
-      "title": "DIYILEM & BAZARHOFF : GENIUS",
-      "artist": "Didi B",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 10,
       "title": "RÉSONANCE",
       "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 11,
-      "title": "BARA BARA",
-      "artist": "Himra",
+      "pos": 9,
+      "title": "FREELYM",
+      "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 12,
+      "pos": 10,
+      "title": "DIYILEM & BAZARHOFF : GENIUS",
+      "artist": "Didi B",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 11,
       "title": "JEUNE & RICHE",
       "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 12,
+      "title": "BARA BARA",
+      "artist": "Himra",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 13,
-      "title": "INVASION TOME II",
-      "artist": "Sindika",
+      "title": "IDK2",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 14,
-      "title": "IDK2",
-      "artist": "Himra",
+      "title": "INVASION TOME II",
+      "artist": "Sindika",
       "type": "Album",
       "mov": "="
     },
@@ -508,8 +508,8 @@
     },
     {
       "pos": 23,
-      "title": "Juventus Nueva Era (Deluxe Edition)",
-      "artist": "Didi B",
+      "title": "R.F.W (Ready For War)",
+      "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
@@ -522,8 +522,8 @@
     },
     {
       "pos": 25,
-      "title": "R.F.W (Ready For War)",
-      "artist": "Lamoula$",
+      "title": "Juventus Nueva Era (Deluxe Edition)",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
@@ -585,78 +585,78 @@
     },
     {
       "pos": 34,
+      "title": "IGBO",
+      "artist": "Didi B",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 35,
       "title": "Numéro d'écrou",
       "artist": "La Rvfleuze",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 35,
+      "pos": 36,
       "title": "ICEMAN",
       "artist": "Drake",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 36,
+      "pos": 37,
       "title": "LVDG PACK 2 (Deluxe)",
       "artist": "TRK.",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 37,
+      "pos": 38,
       "title": "Poison Ou Antidote",
       "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 38,
+      "pos": 39,
       "title": "M.I.L.S 3",
       "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 39,
+      "pos": 40,
       "title": "Je m'appelle",
       "artist": "Didi B, Zlatan, Chlé",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 40,
+      "pos": 41,
       "title": "Gentleman 2.0",
       "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 41,
+      "pos": 42,
       "title": "WHO IS DØPE?",
       "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 42,
+      "pos": 43,
       "title": "JAMAIS CHERLA",
       "artist": "GENERATION NERF, døpelym, Himra",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 43,
+      "pos": 44,
       "title": "Diamant Noir",
       "artist": "Werenoi",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 44,
-      "title": "Changé Numéro",
-      "artist": "Nyerky, Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
@@ -676,29 +676,29 @@
     },
     {
       "pos": 47,
+      "title": "Changé Numéro",
+      "artist": "Nyerky, Ameka Zrai",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 48,
       "title": "CAPITALE DU CRIME RADIO, vol. 2",
       "artist": "La Fouine",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 48,
+      "pos": 49,
       "title": "MERCON2BABIÈRE (DELUXE)",
       "artist": "Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 49,
-      "title": "BĒYĀH",
-      "artist": "Damso",
-      "type": "Album",
-      "mov": "="
-    },
-    {
       "pos": 50,
-      "title": "INVASION : TOME I",
-      "artist": "Sindika",
+      "title": "Rien du Tout",
+      "artist": "Josey",
       "type": "Album",
       "mov": "="
     }
