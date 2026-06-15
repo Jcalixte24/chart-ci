@@ -396,15 +396,15 @@
     },
     {
       "pos": 7,
-      "title": "XX",
-      "artist": "Fally Ipupa",
+      "title": "RÉSONANCE",
+      "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 8,
-      "title": "RÉSONANCE",
-      "artist": "Josey",
+      "title": "XX",
+      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
@@ -431,15 +431,15 @@
     },
     {
       "pos": 12,
-      "title": "BARA BARA",
+      "title": "IDK2",
       "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 13,
-      "title": "IDK2",
-      "artist": "Himra",
+      "title": "Destin",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
@@ -452,8 +452,8 @@
     },
     {
       "pos": 15,
-      "title": "Destin",
-      "artist": "Ninho",
+      "title": "BARA BARA",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
@@ -487,22 +487,22 @@
     },
     {
       "pos": 20,
-      "title": "BABI TAPE Vol.1",
-      "artist": "Babi Tape",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 21,
       "title": "Formule 7",
       "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 21,
+      "title": "IGBO",
+      "artist": "Didi B",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 22,
-      "title": "Raba",
-      "artist": "Didi B, Young Jonn",
+      "title": "BABI TAPE Vol.1",
+      "artist": "Babi Tape",
       "type": "Album",
       "mov": "="
     },
@@ -515,78 +515,78 @@
     },
     {
       "pos": 24,
+      "title": "Raba",
+      "artist": "Didi B, Young Jonn",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 25,
       "title": "M.I.L.S 4",
       "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 25,
+      "pos": 26,
       "title": "Juventus Nueva Era (Deluxe Edition)",
       "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 26,
+      "pos": 27,
       "title": "Juventus Nueva Era",
       "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 27,
+      "pos": 28,
       "title": "MERCON2BABIÈRE",
       "artist": "Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 28,
+      "pos": 29,
       "title": "Démosthène",
       "artist": "Suspect 95",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 29,
+      "pos": 30,
       "title": "BAHI",
       "artist": "Wantché, OG Mahilet",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 30,
+      "pos": 31,
       "title": "Jefe",
       "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 31,
+      "pos": 32,
       "title": "Ipséité",
       "artist": "Damso",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 32,
+      "pos": 33,
       "title": "1X",
       "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 33,
+      "pos": 34,
       "title": "Cherie Coco",
       "artist": "Didi B, Fally Ipupa",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 34,
-      "title": "IGBO",
-      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
@@ -599,22 +599,22 @@
     },
     {
       "pos": 36,
-      "title": "ICEMAN",
-      "artist": "Drake",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 37,
       "title": "LVDG PACK 2 (Deluxe)",
       "artist": "TRK.",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 38,
+      "pos": 37,
       "title": "Poison Ou Antidote",
       "artist": "Dadju",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 38,
+      "title": "ICEMAN",
+      "artist": "Drake",
       "type": "Album",
       "mov": "="
     },
@@ -655,8 +655,8 @@
     },
     {
       "pos": 44,
-      "title": "Diamant Noir",
-      "artist": "Werenoi",
+      "title": "BDLM VOL.1",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
@@ -669,36 +669,36 @@
     },
     {
       "pos": 46,
-      "title": "BDLM VOL.1",
-      "artist": "Tiakola",
+      "title": "Diamant Noir",
+      "artist": "Werenoi",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 47,
+      "title": "BYAKUGAN",
+      "artist": "Kaaris",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 48,
       "title": "Changé Numéro",
       "artist": "Nyerky, Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 48,
-      "title": "CAPITALE DU CRIME RADIO, vol. 2",
-      "artist": "La Fouine",
-      "type": "Album",
-      "mov": "="
-    },
-    {
       "pos": 49,
-      "title": "MERCON2BABIÈRE (DELUXE)",
-      "artist": "Ameka Zrai",
+      "title": "Rien du Tout",
+      "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 50,
-      "title": "Rien du Tout",
-      "artist": "Josey",
+      "title": "CAPITALE DU CRIME RADIO, vol. 2",
+      "artist": "La Fouine",
       "type": "Album",
       "mov": "="
     }
