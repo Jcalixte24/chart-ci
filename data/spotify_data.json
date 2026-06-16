@@ -452,15 +452,15 @@
     },
     {
       "pos": 15,
-      "title": "BARA BARA",
-      "artist": "Himra",
+      "title": "Mélo",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 16,
-      "title": "Mélo",
-      "artist": "Tiakola",
+      "title": "BARA BARA",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
@@ -473,29 +473,29 @@
     },
     {
       "pos": 18,
+      "title": "IGBO",
+      "artist": "Didi B",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 19,
       "title": "M$NEY",
       "artist": "Asake",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 19,
+      "pos": 20,
       "title": "Blanco nemesis",
       "artist": "Booba",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 20,
+      "pos": 21,
       "title": "Formule 7",
       "artist": "Fally Ipupa",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 21,
-      "title": "IGBO",
-      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
@@ -515,15 +515,15 @@
     },
     {
       "pos": 24,
-      "title": "Raba",
-      "artist": "Didi B, Young Jonn",
+      "title": "M.I.L.S 4",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 25,
-      "title": "M.I.L.S 4",
-      "artist": "Ninho",
+      "title": "Raba",
+      "artist": "Didi B, Young Jonn",
       "type": "Album",
       "mov": "="
     },
@@ -550,22 +550,22 @@
     },
     {
       "pos": 29,
-      "title": "Démosthène",
-      "artist": "Suspect 95",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 30,
       "title": "BAHI",
       "artist": "Wantché, OG Mahilet",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 31,
+      "pos": 30,
       "title": "Jefe",
       "artist": "Ninho",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 31,
+      "title": "Démosthène",
+      "artist": "Suspect 95",
       "type": "Album",
       "mov": "="
     },
@@ -599,8 +599,8 @@
     },
     {
       "pos": 36,
-      "title": "LVDG PACK 2 (Deluxe)",
-      "artist": "TRK.",
+      "title": "BYAKUGAN",
+      "artist": "Kaaris",
       "type": "Album",
       "mov": "="
     },
@@ -613,71 +613,71 @@
     },
     {
       "pos": 38,
+      "title": "LVDG PACK 2 (Deluxe)",
+      "artist": "TRK.",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 39,
       "title": "ICEMAN",
       "artist": "Drake",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 39,
+      "pos": 40,
       "title": "M.I.L.S 3",
       "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 40,
+      "pos": 41,
       "title": "Je m'appelle",
       "artist": "Didi B, Zlatan, Chlé",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 41,
+      "pos": 42,
       "title": "Gentleman 2.0",
       "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 42,
+      "pos": 43,
       "title": "WHO IS DØPE?",
       "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 43,
+      "pos": 44,
       "title": "JAMAIS CHERLA",
       "artist": "GENERATION NERF, døpelym, Himra",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 44,
+      "pos": 45,
       "title": "BDLM VOL.1",
       "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 45,
+      "pos": 46,
       "title": "Tokooos II",
       "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 46,
+      "pos": 47,
       "title": "Diamant Noir",
       "artist": "Werenoi",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 47,
-      "title": "BYAKUGAN",
-      "artist": "Kaaris",
       "type": "Album",
       "mov": "="
     },
@@ -697,8 +697,8 @@
     },
     {
       "pos": 50,
-      "title": "CAPITALE DU CRIME RADIO, vol. 2",
-      "artist": "La Fouine",
+      "title": "WAWA",
+      "artist": "Kodes, Himra",
       "type": "Album",
       "mov": "="
     }
