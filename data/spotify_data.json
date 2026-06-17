@@ -389,15 +389,15 @@
     },
     {
       "pos": 6,
-      "title": "LVDG PACK 2",
-      "artist": "TRK.",
+      "title": "RÉSONANCE",
+      "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 7,
-      "title": "RÉSONANCE",
-      "artist": "Josey",
+      "title": "LVDG PACK 2",
+      "artist": "TRK.",
       "type": "Album",
       "mov": "="
     },
@@ -424,29 +424,29 @@
     },
     {
       "pos": 11,
+      "title": "IGBO",
+      "artist": "Didi B",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 12,
       "title": "JEUNE & RICHE",
       "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 12,
+      "pos": 13,
       "title": "IDK2",
       "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 13,
+      "pos": 14,
       "title": "Destin",
       "artist": "Ninho",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 14,
-      "title": "INVASION TOME II",
-      "artist": "Sindika",
       "type": "Album",
       "mov": "="
     },
@@ -459,22 +459,22 @@
     },
     {
       "pos": 16,
+      "title": "INVASION TOME II",
+      "artist": "Sindika",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 17,
       "title": "BARA BARA",
       "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 17,
+      "pos": 18,
       "title": "BIG AKA 4 AKA KAI",
       "artist": "Himra",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 18,
-      "title": "IGBO",
-      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
@@ -592,36 +592,36 @@
     },
     {
       "pos": 35,
-      "title": "Numéro d'écrou",
-      "artist": "La Rvfleuze",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 36,
       "title": "BYAKUGAN",
       "artist": "Kaaris",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 36,
+      "title": "Numéro d'écrou",
+      "artist": "La Rvfleuze",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 37,
+      "title": "WAWA",
+      "artist": "Kodes, Himra",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 38,
       "title": "Poison Ou Antidote",
       "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 38,
+      "pos": 39,
       "title": "LVDG PACK 2 (Deluxe)",
       "artist": "TRK.",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 39,
-      "title": "ICEMAN",
-      "artist": "Drake",
       "type": "Album",
       "mov": "="
     },
@@ -634,22 +634,22 @@
     },
     {
       "pos": 41,
+      "title": "ICEMAN",
+      "artist": "Drake",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 42,
       "title": "Je m'appelle",
       "artist": "Didi B, Zlatan, Chlé",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 42,
+      "pos": 43,
       "title": "Gentleman 2.0",
       "artist": "Dadju",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 43,
-      "title": "WHO IS DØPE?",
-      "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
@@ -662,15 +662,15 @@
     },
     {
       "pos": 45,
-      "title": "BDLM VOL.1",
-      "artist": "Tiakola",
+      "title": "WHO IS DØPE?",
+      "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 46,
-      "title": "Tokooos II",
-      "artist": "Fally Ipupa",
+      "title": "BDLM VOL.1",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
@@ -683,22 +683,22 @@
     },
     {
       "pos": 48,
+      "title": "Tokooos II",
+      "artist": "Fally Ipupa",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 49,
       "title": "Changé Numéro",
       "artist": "Nyerky, Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 49,
+      "pos": 50,
       "title": "Rien du Tout",
       "artist": "Josey",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 50,
-      "title": "WAWA",
-      "artist": "Kodes, Himra",
       "type": "Album",
       "mov": "="
     }
