@@ -382,15 +382,15 @@
     },
     {
       "pos": 5,
-      "title": "DACHIBA KOUMGBA TCHAIBA",
-      "artist": "Himra",
+      "title": "RÉSONANCE",
+      "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 6,
-      "title": "RÉSONANCE",
-      "artist": "Josey",
+      "title": "DACHIBA KOUMGBA TCHAIBA",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
@@ -403,22 +403,22 @@
     },
     {
       "pos": 8,
+      "title": "IGBO",
+      "artist": "Didi B",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 9,
       "title": "XX",
       "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 9,
+      "pos": 10,
       "title": "FREELYM",
       "artist": "døpelym",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 10,
-      "title": "IGBO",
-      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
@@ -438,15 +438,15 @@
     },
     {
       "pos": 13,
-      "title": "IDK2",
-      "artist": "Himra",
+      "title": "Destin",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 14,
-      "title": "Destin",
-      "artist": "Ninho",
+      "title": "IDK2",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
@@ -473,15 +473,15 @@
     },
     {
       "pos": 18,
-      "title": "BARA BARA",
-      "artist": "Himra",
+      "title": "M$NEY",
+      "artist": "Asake",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 19,
-      "title": "M$NEY",
-      "artist": "Asake",
+      "title": "BARA BARA",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
@@ -522,22 +522,22 @@
     },
     {
       "pos": 25,
-      "title": "Raba",
-      "artist": "Didi B, Young Jonn",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 26,
       "title": "Juventus Nueva Era (Deluxe Edition)",
       "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 26,
+      "title": "Raba",
+      "artist": "Didi B, Young Jonn",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 27,
-      "title": "Juventus Nueva Era",
-      "artist": "Didi B",
+      "title": "Jefe",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
@@ -550,43 +550,43 @@
     },
     {
       "pos": 29,
-      "title": "Jefe",
-      "artist": "Ninho",
+      "title": "WAWA",
+      "artist": "Kodes, Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 30,
+      "title": "Juventus Nueva Era",
+      "artist": "Didi B",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 31,
       "title": "MERCON2BABIÈRE",
       "artist": "Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 31,
-      "title": "Démosthène",
-      "artist": "Suspect 95",
-      "type": "Album",
-      "mov": "="
-    },
-    {
       "pos": 32,
-      "title": "Ipséité",
-      "artist": "Damso",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 33,
       "title": "BYAKUGAN",
       "artist": "Kaaris",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 33,
+      "title": "Ipséité",
+      "artist": "Damso",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 34,
-      "title": "WAWA",
-      "artist": "Kodes, Himra",
+      "title": "Démosthène",
+      "artist": "Suspect 95",
       "type": "Album",
       "mov": "="
     },
@@ -634,29 +634,29 @@
     },
     {
       "pos": 41,
-      "title": "ICEMAN",
-      "artist": "Drake",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 42,
       "title": "Je m'appelle",
       "artist": "Didi B, Zlatan, Chlé",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 43,
+      "pos": 42,
       "title": "Gentleman 2.0",
       "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 44,
+      "pos": 43,
       "title": "JAMAIS CHERLA",
       "artist": "GENERATION NERF, døpelym, Himra",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 44,
+      "title": "ICEMAN",
+      "artist": "Drake",
       "type": "Album",
       "mov": "="
     },
@@ -676,22 +676,22 @@
     },
     {
       "pos": 47,
+      "title": "Rien du Tout",
+      "artist": "Josey",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 48,
       "title": "Diamant Noir",
       "artist": "Werenoi",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 48,
+      "pos": 49,
       "title": "Tokooos II",
       "artist": "Fally Ipupa",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 49,
-      "title": "Rien du Tout",
-      "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
