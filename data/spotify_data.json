@@ -396,15 +396,15 @@
     },
     {
       "pos": 7,
-      "title": "LVDG PACK 2",
-      "artist": "TRK.",
+      "title": "IGBO",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 8,
-      "title": "IGBO",
-      "artist": "Didi B",
+      "title": "LVDG PACK 2",
+      "artist": "TRK.",
       "type": "Album",
       "mov": "="
     },
@@ -417,15 +417,15 @@
     },
     {
       "pos": 10,
-      "title": "FREELYM",
-      "artist": "døpelym",
+      "title": "DIYILEM & BAZARHOFF : GENIUS",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 11,
-      "title": "DIYILEM & BAZARHOFF : GENIUS",
-      "artist": "Didi B",
+      "title": "FREELYM",
+      "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
@@ -480,15 +480,15 @@
     },
     {
       "pos": 19,
-      "title": "BARA BARA",
-      "artist": "Himra",
+      "title": "WAWA",
+      "artist": "Kodes, Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 20,
-      "title": "Blanco nemesis",
-      "artist": "Booba",
+      "title": "BARA BARA",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
@@ -501,78 +501,78 @@
     },
     {
       "pos": 22,
+      "title": "Blanco nemesis",
+      "artist": "Booba",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 23,
       "title": "R.F.W (Ready For War)",
       "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 23,
+      "pos": 24,
       "title": "BABI TAPE Vol.1",
       "artist": "Babi Tape",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 24,
-      "title": "WAWA",
-      "artist": "Kodes, Himra",
-      "type": "Album",
-      "mov": "="
-    },
-    {
       "pos": 25,
-      "title": "M.I.L.S 4",
-      "artist": "Ninho",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 26,
-      "title": "Juventus Nueva Era (Deluxe Edition)",
-      "artist": "Didi B",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 27,
-      "title": "Raba",
-      "artist": "Didi B, Young Jonn",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 28,
       "title": "BYAKUGAN",
       "artist": "Kaaris",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 29,
+      "pos": 26,
+      "title": "M.I.L.S 4",
+      "artist": "Ninho",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 27,
+      "title": "Juventus Nueva Era (Deluxe Edition)",
+      "artist": "Didi B",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 28,
       "title": "Jefe",
       "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 30,
+      "pos": 29,
       "title": "BAHI",
       "artist": "Wantché, OG Mahilet",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 30,
+      "title": "Raba",
+      "artist": "Didi B, Young Jonn",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 31,
-      "title": "Juventus Nueva Era",
-      "artist": "Didi B",
+      "title": "MERCON2BABIÈRE",
+      "artist": "Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 32,
-      "title": "MERCON2BABIÈRE",
-      "artist": "Ameka Zrai",
+      "title": "Juventus Nueva Era",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
@@ -592,15 +592,15 @@
     },
     {
       "pos": 35,
-      "title": "Cherie Coco",
-      "artist": "Didi B, Fally Ipupa",
+      "title": "1X",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 36,
-      "title": "1X",
-      "artist": "Himra",
+      "title": "Cherie Coco",
+      "artist": "Didi B, Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
@@ -648,29 +648,29 @@
     },
     {
       "pos": 43,
-      "title": "JAMAIS CHERLA",
-      "artist": "GENERATION NERF, døpelym, Himra",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 44,
       "title": "WHO IS DØPE?",
       "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 44,
+      "title": "JAMAIS CHERLA",
+      "artist": "GENERATION NERF, døpelym, Himra",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 45,
-      "title": "ICEMAN",
-      "artist": "Drake",
+      "title": "BDLM VOL.1",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 46,
-      "title": "BDLM VOL.1",
-      "artist": "Tiakola",
+      "title": "ICEMAN",
+      "artist": "Drake",
       "type": "Album",
       "mov": "="
     },
@@ -683,15 +683,15 @@
     },
     {
       "pos": 48,
-      "title": "Diamant Noir",
-      "artist": "Werenoi",
+      "title": "Tokooos II",
+      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 49,
-      "title": "Tokooos II",
-      "artist": "Fally Ipupa",
+      "title": "Diamant Noir",
+      "artist": "Werenoi",
       "type": "Album",
       "mov": "="
     },
