@@ -375,15 +375,15 @@
     },
     {
       "pos": 4,
-      "title": "JEUNE & RICHE (DELUXE)",
-      "artist": "Himra",
+      "title": "RÉSONANCE",
+      "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 5,
-      "title": "RÉSONANCE",
-      "artist": "Josey",
+      "title": "JEUNE & RICHE (DELUXE)",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
@@ -473,29 +473,29 @@
     },
     {
       "pos": 18,
-      "title": "M$NEY",
-      "artist": "Asake",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 19,
       "title": "WAWA",
       "artist": "Kodes, Himra",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 19,
+      "title": "M$NEY",
+      "artist": "Asake",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 20,
-      "title": "BARA BARA",
-      "artist": "Himra",
+      "title": "Formule 7",
+      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 21,
-      "title": "Formule 7",
-      "artist": "Fally Ipupa",
+      "title": "BARA BARA",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
@@ -641,15 +641,15 @@
     },
     {
       "pos": 42,
-      "title": "Je m'appelle",
-      "artist": "Didi B, Zlatan, Chlé",
+      "title": "WHO IS DØPE?",
+      "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 43,
-      "title": "WHO IS DØPE?",
-      "artist": "døpelym",
+      "title": "Je m'appelle",
+      "artist": "Didi B, Zlatan, Chlé",
       "type": "Album",
       "mov": "="
     },
@@ -669,15 +669,15 @@
     },
     {
       "pos": 46,
-      "title": "ICEMAN",
-      "artist": "Drake",
+      "title": "Rien du Tout",
+      "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 47,
-      "title": "Rien du Tout",
-      "artist": "Josey",
+      "title": "ICEMAN",
+      "artist": "Drake",
       "type": "Album",
       "mov": "="
     },
