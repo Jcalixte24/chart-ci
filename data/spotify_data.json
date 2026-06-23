@@ -389,15 +389,15 @@
     },
     {
       "pos": 6,
-      "title": "DACHIBA KOUMGBA TCHAIBA",
-      "artist": "Himra",
+      "title": "IGBO",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 7,
-      "title": "IGBO",
-      "artist": "Didi B",
+      "title": "DACHIBA KOUMGBA TCHAIBA",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
@@ -417,29 +417,29 @@
     },
     {
       "pos": 10,
-      "title": "DIYILEM & BAZARHOFF : GENIUS",
-      "artist": "Didi B",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 11,
       "title": "FREELYM",
       "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 11,
+      "title": "DIYILEM & BAZARHOFF : GENIUS",
+      "artist": "Didi B",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 12,
-      "title": "JEUNE & RICHE",
-      "artist": "Himra",
+      "title": "Destin",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 13,
-      "title": "Destin",
-      "artist": "Ninho",
+      "title": "JEUNE & RICHE",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
@@ -459,15 +459,15 @@
     },
     {
       "pos": 16,
-      "title": "INVASION TOME II",
-      "artist": "Sindika",
+      "title": "BIG AKA 4 AKA KAI",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 17,
-      "title": "BIG AKA 4 AKA KAI",
-      "artist": "Himra",
+      "title": "INVASION TOME II",
+      "artist": "Sindika",
       "type": "Album",
       "mov": "="
     },
@@ -494,22 +494,22 @@
     },
     {
       "pos": 21,
-      "title": "BARA BARA",
-      "artist": "Himra",
+      "title": "R.F.W (Ready For War)",
+      "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 22,
-      "title": "Blanco nemesis",
-      "artist": "Booba",
+      "title": "BYAKUGAN",
+      "artist": "Kaaris",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 23,
-      "title": "R.F.W (Ready For War)",
-      "artist": "Lamoula$",
+      "title": "Blanco nemesis",
+      "artist": "Booba",
       "type": "Album",
       "mov": "="
     },
@@ -522,8 +522,8 @@
     },
     {
       "pos": 25,
-      "title": "BYAKUGAN",
-      "artist": "Kaaris",
+      "title": "BARA BARA",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
@@ -536,15 +536,15 @@
     },
     {
       "pos": 27,
-      "title": "Juventus Nueva Era (Deluxe Edition)",
-      "artist": "Didi B",
+      "title": "Jefe",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 28,
-      "title": "Jefe",
-      "artist": "Ninho",
+      "title": "Juventus Nueva Era (Deluxe Edition)",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
@@ -627,15 +627,15 @@
     },
     {
       "pos": 40,
-      "title": "LVDG PACK 2 (Deluxe)",
-      "artist": "TRK.",
+      "title": "Gentleman 2.0",
+      "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 41,
-      "title": "Gentleman 2.0",
-      "artist": "Dadju",
+      "title": "LVDG PACK 2 (Deluxe)",
+      "artist": "TRK.",
       "type": "Album",
       "mov": "="
     },
@@ -648,29 +648,29 @@
     },
     {
       "pos": 43,
-      "title": "Je m'appelle",
-      "artist": "Didi B, Zlatan, Chlé",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 44,
       "title": "JAMAIS CHERLA",
       "artist": "GENERATION NERF, døpelym, Himra",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 44,
+      "title": "Rien du Tout",
+      "artist": "Josey",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 45,
-      "title": "BDLM VOL.1",
-      "artist": "Tiakola",
+      "title": "Je m'appelle",
+      "artist": "Didi B, Zlatan, Chlé",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 46,
-      "title": "Rien du Tout",
-      "artist": "Josey",
+      "title": "BDLM VOL.1",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
