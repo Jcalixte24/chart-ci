@@ -2,15 +2,15 @@
   "songs": [
     {
       "pos": 1,
-      "title": "WAWA",
-      "artist": "Kodes, Himra",
+      "title": "JET SET",
+      "artist": "La Mano 1.9",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 2,
-      "title": "Mélo Décalé",
-      "artist": "Tiakola",
+      "title": "MODE AVION - Remix",
+      "artist": "3xdavs",
       "mov": "=",
       "streams": 0
     },
@@ -23,29 +23,29 @@
     },
     {
       "pos": 4,
-      "title": "MATATA",
-      "artist": "Tazeboy",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 5,
       "title": "GO",
       "artist": "Wantché",
       "mov": "=",
       "streams": 0
     },
     {
+      "pos": 5,
+      "title": "MATATA",
+      "artist": "Tazeboy",
+      "mov": "=",
+      "streams": 0
+    },
+    {
       "pos": 6,
-      "title": "JET SET",
-      "artist": "La Mano 1.9",
+      "title": "CASSE TES REINS",
+      "artist": "Dydy Yeman",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 7,
-      "title": "Numero Uno",
-      "artist": "TRK.",
+      "title": "WAWA",
+      "artist": "Kodes, Himra",
       "mov": "=",
       "streams": 0
     },
@@ -58,295 +58,295 @@
     },
     {
       "pos": 9,
-      "title": "magique",
-      "artist": "Willylancien",
+      "title": "Kpakassez les ! (feat. Les Eléphants)",
+      "artist": "Himra, Les Eléphants",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 10,
-      "title": "Gut Genug (mit Blumengarten & Shirin David)",
-      "artist": "KITSCHKRIEG, Blumengarten, Shirin David",
+      "title": "FAIS OH FAIS (1 COUP KO)",
+      "artist": "Ste Milano",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 11,
-      "title": "DON'T PLAY",
+      "title": "ROCKSTAR",
       "artist": "jam$co",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 12,
-      "title": "BONUS TRACK (TALK)",
-      "artist": "Lamine løssa, Tino thebenzoboy",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 13,
-      "title": "Lost",
-      "artist": "Fally Ipupa",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 14,
-      "title": "FINIS-LES",
-      "artist": "La Fève",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 15,
-      "title": "Kônô",
-      "artist": "Pipa Junky",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 16,
-      "title": "LIL WAYNE",
-      "artist": "Himra",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 17,
-      "title": "Pineapple",
-      "artist": "Leto",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 18,
-      "title": "Maladie",
-      "artist": "Mauvais djo",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 19,
-      "title": "SO MAWA (feat. Mauvais djo)",
-      "artist": "R2, Mauvais djo",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 20,
-      "title": "Ako",
-      "artist": "Ameka Zrai",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 21,
-      "title": "on one tonight",
-      "artist": "Gunna",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 22,
-      "title": "BOTTEGA",
-      "artist": "gbon lion, KRM",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 23,
-      "title": "Gninnin",
-      "artist": "Tripa Gninnin, Sonik",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 24,
-      "title": "TOUT VA BIEN",
-      "artist": "Didi B",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 25,
-      "title": "La vie qu'on mène",
-      "artist": "Ninho",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 26,
-      "title": "RODÉLA",
-      "artist": "Sindika, Didi B",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 27,
-      "title": "312-391",
-      "artist": "La Rvfleuze",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 28,
       "title": "Di Maria",
       "artist": "AKIM PAPICHULO, Ameka Zrai",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 29,
-      "title": "MAMI WATA",
-      "artist": "Gazo, Tiakola",
+      "pos": 13,
+      "title": "Gut Genug (mit Blumengarten & Shirin David)",
+      "artist": "KITSCHKRIEG, Blumengarten, Shirin David",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 30,
-      "title": "CALE EN L'AIR",
-      "artist": "Black K, TRK.",
+      "pos": 14,
+      "title": "FOKONKITTELEBANDO (feat. Josman)",
+      "artist": "Jolagreen23, Josman",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 31,
-      "title": "La vraie vie",
-      "artist": "OMBRE2RUE",
+      "pos": 15,
+      "title": "Garant aux éléphants",
+      "artist": "Fitini",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 32,
+      "pos": 16,
+      "title": "Kônô",
+      "artist": "Pipa Junky",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 17,
+      "title": "Victoire des éléphants",
+      "artist": "Gadji Celi",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 18,
+      "title": "Enjaillement à l'Ivoirienne",
+      "artist": "Yodé & Siro",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 19,
+      "title": "magique",
+      "artist": "Willylancien",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 20,
+      "title": "Cicatrice",
+      "artist": "OG Mahilet",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 21,
       "title": "GROS CACHET",
       "artist": "CØCA, Lamoula$",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 33,
-      "title": "Haut les mains",
-      "artist": "Franglish, KeBlack, iDS",
+      "pos": 22,
+      "title": "FINIS-LES",
+      "artist": "La Fève",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 34,
-      "title": "BADMAN GANGSTA",
-      "artist": "Asake, Tiakola",
+      "pos": 23,
+      "title": "Djaboulany",
+      "artist": "Sindika",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 35,
-      "title": "S/O",
-      "artist": "OG Mahilet, Toumalewe, Luchh",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 36,
-      "title": "JAMAIS CHERLA",
-      "artist": "GENERATION NERF, døpelym, Himra",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 37,
-      "title": "GO",
-      "artist": "DDJ\", Goh Dedi",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 38,
+      "pos": 24,
       "title": "Dai Dai",
       "artist": "Shakira, Burna Boy",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 39,
-      "title": "Ololo",
-      "artist": "Heaven Sam, Didi B, Afro Live",
+      "pos": 25,
+      "title": "200% Zoblazo",
+      "artist": "Meiway",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 40,
-      "title": "Chemin d'or",
-      "artist": "Werenoi",
+      "pos": 26,
+      "title": "Numero Uno",
+      "artist": "TRK.",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 41,
-      "title": "Sans Adieu",
-      "artist": "Yamsel",
+      "pos": 27,
+      "title": "Ayosse",
+      "artist": "Chantal Taïba",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 42,
-      "title": "RUN IT",
-      "artist": "Stray Kids",
+      "pos": 28,
+      "title": "CAN 2024 CHAUFFEZ",
+      "artist": "Fior 2 Bior, Lil Jay Bingerack",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 43,
-      "title": "Δ. Dieu ne ment jamais",
-      "artist": "Damso",
+      "pos": 29,
+      "title": "Maladie",
+      "artist": "Mauvais djo",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 44,
-      "title": "LAISSE TOI ALLER",
-      "artist": "Goh Dedi, KRM",
+      "pos": 30,
+      "title": "La vraie vie",
+      "artist": "OMBRE2RUE",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 45,
-      "title": "Hope",
-      "artist": "XXXTENTACION",
+      "pos": 31,
+      "title": "on va les accélérer",
+      "artist": "Molare",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 46,
-      "title": "N'ZAMBE",
-      "artist": "Joochar",
+      "pos": 32,
+      "title": "SAGACITÉ",
+      "artist": "Lamine løssa",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 47,
-      "title": "Bina",
-      "artist": "Zayi, Didi B, 63OG",
+      "pos": 33,
+      "title": "SO MAWA (feat. Mauvais djo)",
+      "artist": "R2, Mauvais djo",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 48,
+      "pos": 34,
+      "title": "CAILLOUX (feat. Wantché)",
+      "artist": "Kawid, Wantché",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 35,
+      "title": "Allez les éléphants",
+      "artist": "Yode & Siro",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 36,
+      "title": "Y’a pas Djai",
+      "artist": "Babi Tape, Wantché, Widgunz, Didi B",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 37,
       "title": "RESPECTEZ",
       "artist": "GOKS",
       "mov": "=",
       "streams": 0
     },
     {
+      "pos": 38,
+      "title": "Don't tell your dreams",
+      "artist": "STOSLIV, LOVIXX",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 39,
+      "title": "COUPER-COUPER",
+      "artist": "Renard Barakissa",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 40,
+      "title": "URBAN DÉCALÉ #1",
+      "artist": "Jr La Melo, DISCO BINKS, NOVA BINKS",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 41,
+      "title": "Gninnin",
+      "artist": "Tripa Gninnin, Sonik",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 42,
+      "title": "Elephants",
+      "artist": "Kiff No Beat",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 43,
+      "title": "Smooth Criminal - 2012 Remaster",
+      "artist": "Michael Jackson",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 44,
+      "title": "En Haut",
+      "artist": "Didi B, Jr La Melo, Tam Sir",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 45,
+      "title": "Filon",
+      "artist": "Ninho",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 46,
+      "title": "Kure-Kure (Ndinonzwa nani)",
+      "artist": "Magic Wacho",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 47,
+      "title": "MUGANGA",
+      "artist": "GIMS",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 48,
+      "title": "RUN IT",
+      "artist": "Stray Kids",
+      "mov": "=",
+      "streams": 0
+    },
+    {
       "pos": 49,
-      "title": "Full",
-      "artist": "Bilouki",
+      "title": "CALE EN L'AIR",
+      "artist": "Black K, TRK.",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 50,
-      "title": "CHOUAAA (feat. Didi B)",
-      "artist": "L'Oiseau Rare, Didi B",
+      "title": "AVENTADOR.",
+      "artist": "THB",
       "mov": "=",
       "streams": 0
     }
