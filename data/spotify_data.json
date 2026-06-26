@@ -368,15 +368,15 @@
     },
     {
       "pos": 3,
-      "title": "Flâ Ni",
-      "artist": "Ameka Zrai",
+      "title": "RÉSONANCE",
+      "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 4,
-      "title": "RÉSONANCE",
-      "artist": "Josey",
+      "title": "Flâ Ni",
+      "artist": "Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
@@ -445,22 +445,22 @@
     },
     {
       "pos": 14,
+      "title": "WAWA",
+      "artist": "Kodes, Himra",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 15,
       "title": "IDK2",
       "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 15,
+      "pos": 16,
       "title": "Mélo",
       "artist": "Tiakola",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 16,
-      "title": "WAWA",
-      "artist": "Kodes, Himra",
       "type": "Album",
       "mov": "="
     },
@@ -522,14 +522,14 @@
     },
     {
       "pos": 25,
-      "title": "M.I.L.S 4",
+      "title": "Jefe",
       "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 26,
-      "title": "Jefe",
+      "title": "M.I.L.S 4",
       "artist": "Ninho",
       "type": "Album",
       "mov": "="
@@ -543,15 +543,15 @@
     },
     {
       "pos": 28,
-      "title": "BARA BARA",
-      "artist": "Himra",
+      "title": "Juventus Nueva Era (Deluxe Edition)",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 29,
-      "title": "Juventus Nueva Era (Deluxe Edition)",
-      "artist": "Didi B",
+      "title": "BARA BARA",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
@@ -571,15 +571,15 @@
     },
     {
       "pos": 32,
-      "title": "Raba",
-      "artist": "Didi B, Young Jonn",
+      "title": "Juventus Nueva Era",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 33,
-      "title": "Juventus Nueva Era",
-      "artist": "Didi B",
+      "title": "Raba",
+      "artist": "Didi B, Young Jonn",
       "type": "Album",
       "mov": "="
     },
@@ -606,15 +606,15 @@
     },
     {
       "pos": 37,
-      "title": "Numéro d'écrou",
-      "artist": "La Rvfleuze",
+      "title": "Rien du Tout",
+      "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 38,
-      "title": "Rien du Tout",
-      "artist": "Josey",
+      "title": "Numéro d'écrou",
+      "artist": "La Rvfleuze",
       "type": "Album",
       "mov": "="
     },
@@ -627,22 +627,22 @@
     },
     {
       "pos": 40,
+      "title": "Fais ton malin",
+      "artist": "Josey",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 41,
       "title": "M.I.L.S 3",
       "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 41,
+      "pos": 42,
       "title": "Gentleman 2.0",
       "artist": "Dadju",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 42,
-      "title": "Fais ton malin",
-      "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
@@ -655,15 +655,15 @@
     },
     {
       "pos": 44,
-      "title": "LVDG PACK 2 (Deluxe)",
-      "artist": "TRK.",
+      "title": "BDLM VOL.1",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 45,
-      "title": "BDLM VOL.1",
-      "artist": "Tiakola",
+      "title": "LVDG PACK 2 (Deluxe)",
+      "artist": "TRK.",
       "type": "Album",
       "mov": "="
     },
@@ -683,22 +683,22 @@
     },
     {
       "pos": 48,
-      "title": "Tokooos II",
-      "artist": "Fally Ipupa",
+      "title": "Numero Uno",
+      "artist": "TRK.",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 49,
-      "title": "Diamant Noir",
-      "artist": "Werenoi",
+      "title": "Mélo Décalé",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 50,
-      "title": "ICEMAN",
-      "artist": "Drake",
+      "title": "Tokooos II",
+      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     }
