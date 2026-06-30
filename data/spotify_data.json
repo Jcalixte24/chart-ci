@@ -417,22 +417,22 @@
     },
     {
       "pos": 10,
+      "title": "WAWA",
+      "artist": "Kodes, Himra",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 11,
       "title": "XX",
       "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 11,
+      "pos": 12,
       "title": "FREELYM",
       "artist": "døpelym",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 12,
-      "title": "WAWA",
-      "artist": "Kodes, Himra",
       "type": "Album",
       "mov": "="
     },
@@ -487,15 +487,15 @@
     },
     {
       "pos": 20,
-      "title": "Formule 7",
-      "artist": "Fally Ipupa",
+      "title": "R.F.W (Ready For War)",
+      "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 21,
-      "title": "R.F.W (Ready For War)",
-      "artist": "Lamoula$",
+      "title": "Formule 7",
+      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
@@ -529,50 +529,50 @@
     },
     {
       "pos": 26,
-      "title": "M.I.L.S 4",
-      "artist": "Ninho",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 27,
-      "title": "Ipséité",
-      "artist": "Damso",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 28,
-      "title": "Blanco nemesis",
-      "artist": "Booba",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 29,
-      "title": "Juventus Nueva Era (Deluxe Edition)",
-      "artist": "Didi B",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 30,
       "title": "Rien du Tout",
       "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 27,
+      "title": "M.I.L.S 4",
+      "artist": "Ninho",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 28,
+      "title": "Fais ton malin",
+      "artist": "Josey",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 29,
+      "title": "Ipséité",
+      "artist": "Damso",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 30,
+      "title": "Juventus Nueva Era (Deluxe Edition)",
+      "artist": "Didi B",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 31,
-      "title": "MERCON2BABIÈRE",
-      "artist": "Ameka Zrai",
+      "title": "Blanco nemesis",
+      "artist": "Booba",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 32,
-      "title": "Fais ton malin",
-      "artist": "Josey",
+      "title": "MERCON2BABIÈRE",
+      "artist": "Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
@@ -606,15 +606,15 @@
     },
     {
       "pos": 37,
-      "title": "Démosthène",
-      "artist": "Suspect 95",
+      "title": "Cherie Coco",
+      "artist": "Didi B, Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 38,
-      "title": "Cherie Coco",
-      "artist": "Didi B, Fally Ipupa",
+      "title": "Démosthène",
+      "artist": "Suspect 95",
       "type": "Album",
       "mov": "="
     },
