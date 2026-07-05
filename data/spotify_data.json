@@ -424,8 +424,8 @@
     },
     {
       "pos": 11,
-      "title": "FREELYM",
-      "artist": "døpelym",
+      "title": "Destin",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
@@ -438,8 +438,8 @@
     },
     {
       "pos": 13,
-      "title": "Destin",
-      "artist": "Ninho",
+      "title": "FREELYM",
+      "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
@@ -494,22 +494,22 @@
     },
     {
       "pos": 21,
+      "title": "Rien du Tout",
+      "artist": "Josey",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 22,
       "title": "R.F.W (Ready For War)",
       "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 22,
+      "pos": 23,
       "title": "Formule 7",
       "artist": "Fally Ipupa",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 23,
-      "title": "Rien du Tout",
-      "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
@@ -529,15 +529,15 @@
     },
     {
       "pos": 26,
-      "title": "BYAKUGAN",
-      "artist": "Kaaris",
+      "title": "BABI TAPE Vol.1",
+      "artist": "Babi Tape",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 27,
-      "title": "BABI TAPE Vol.1",
-      "artist": "Babi Tape",
+      "title": "BYAKUGAN",
+      "artist": "Kaaris",
       "type": "Album",
       "mov": "="
     },
@@ -592,22 +592,22 @@
     },
     {
       "pos": 35,
-      "title": "Raba",
-      "artist": "Didi B, Young Jonn",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 36,
       "title": "1X",
       "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 37,
+      "pos": 36,
       "title": "Numero Uno",
       "artist": "TRK.",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 37,
+      "title": "Raba",
+      "artist": "Didi B, Young Jonn",
       "type": "Album",
       "mov": "="
     },
@@ -627,15 +627,15 @@
     },
     {
       "pos": 40,
-      "title": "Cherie Coco",
-      "artist": "Didi B, Fally Ipupa",
+      "title": "Numéro d'écrou",
+      "artist": "La Rvfleuze",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 41,
-      "title": "Numéro d'écrou",
-      "artist": "La Rvfleuze",
+      "title": "Cherie Coco",
+      "artist": "Didi B, Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
@@ -648,15 +648,15 @@
     },
     {
       "pos": 43,
-      "title": "Démosthène",
-      "artist": "Suspect 95",
+      "title": "Gentleman 2.0",
+      "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 44,
-      "title": "Gentleman 2.0",
-      "artist": "Dadju",
+      "title": "Démosthène",
+      "artist": "Suspect 95",
       "type": "Album",
       "mov": "="
     },
