@@ -832,13 +832,13 @@
     },
     {
       "pos": 22,
-      "name": "Team Paiya",
+      "name": "Gazo",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 23,
-      "name": "Gazo",
+      "name": "Team Paiya",
       "genres": "Artiste",
       "streams": 0
     },
@@ -850,25 +850,25 @@
     },
     {
       "pos": 25,
-      "name": "Aya Nakamura",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 26,
       "name": "Philipayne",
       "genres": "Artiste",
       "streams": 0
     },
     {
+      "pos": 26,
+      "name": "Aya Nakamura",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
       "pos": 27,
-      "name": "Tripa Gninnin",
+      "name": "Leto",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 28,
-      "name": "Leto",
+      "name": "Tripa Gninnin",
       "genres": "Artiste",
       "streams": 0
     },
@@ -910,25 +910,25 @@
     },
     {
       "pos": 35,
-      "name": "Lamine løssa",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 36,
       "name": "Tayc",
       "genres": "Artiste",
       "streams": 0
     },
     {
+      "pos": 36,
+      "name": "Lamine løssa",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
       "pos": 37,
-      "name": "Jr La Melo",
+      "name": "Josey",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 38,
-      "name": "Josey",
+      "name": "Jr La Melo",
       "genres": "Artiste",
       "streams": 0
     },
@@ -964,25 +964,25 @@
     },
     {
       "pos": 44,
-      "name": "SDM",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 45,
       "name": "Franglish",
       "genres": "Artiste",
       "streams": 0
     },
     {
+      "pos": 45,
+      "name": "SDM",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
       "pos": 46,
-      "name": "Kalash",
+      "name": "L'Oiseau Rare",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 47,
-      "name": "L'Oiseau Rare",
+      "name": "Kalash",
       "genres": "Artiste",
       "streams": 0
     },
