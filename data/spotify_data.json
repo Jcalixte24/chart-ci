@@ -480,15 +480,15 @@
     },
     {
       "pos": 19,
-      "title": "XX",
-      "artist": "Fally Ipupa",
+      "title": "JEUNE & RICHE",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 20,
-      "title": "JEUNE & RICHE",
-      "artist": "Himra",
+      "title": "XX",
+      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
@@ -536,64 +536,64 @@
     },
     {
       "pos": 27,
+      "title": "2026 Golden Run",
+      "artist": "TRK.",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 28,
       "title": "Ipséité",
       "artist": "Damso",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 28,
+      "pos": 29,
       "title": "INVASION TOME II",
       "artist": "Sindika",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 29,
+      "pos": 30,
       "title": "M.I.L.S 4",
       "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 30,
+      "pos": 31,
       "title": "Mélo Décalé",
       "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 31,
+      "pos": 32,
       "title": "BABI TAPE Vol.1",
       "artist": "Babi Tape",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 32,
+      "pos": 33,
       "title": "MDMG",
       "artist": "jam$co",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 33,
+      "pos": 34,
       "title": "MERCON2BABIÈRE",
       "artist": "Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 34,
+      "pos": 35,
       "title": "Numero Uno",
       "artist": "TRK.",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 35,
-      "title": "M.I.L.S 3",
-      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
@@ -606,36 +606,36 @@
     },
     {
       "pos": 37,
+      "title": "M.I.L.S 3",
+      "artist": "Ninho",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 38,
       "title": "Poison Ou Antidote",
       "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 38,
+      "pos": 39,
       "title": "1X",
       "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 39,
+      "pos": 40,
       "title": "Juventus Nueva Era (Deluxe Edition)",
       "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 40,
+      "pos": 41,
       "title": "Juventus Nueva Era",
       "artist": "Didi B",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 41,
-      "title": "BYAKUGAN",
-      "artist": "Kaaris",
       "type": "Album",
       "mov": "="
     },
@@ -648,29 +648,29 @@
     },
     {
       "pos": 43,
+      "title": "BYAKUGAN",
+      "artist": "Kaaris",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 44,
       "title": "Numéro d'écrou",
       "artist": "La Rvfleuze",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 44,
+      "pos": 45,
       "title": "BDLM VOL.1",
       "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 45,
+      "pos": 46,
       "title": "WHO IS DØPE?",
       "artist": "døpelym",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 46,
-      "title": "Cherie Coco",
-      "artist": "Didi B, Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
@@ -683,15 +683,15 @@
     },
     {
       "pos": 48,
-      "title": "Blanco nemesis",
-      "artist": "Booba",
+      "title": "Cherie Coco",
+      "artist": "Didi B, Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 49,
-      "title": "Raba",
-      "artist": "Didi B, Young Jonn",
+      "title": "Blanco nemesis",
+      "artist": "Booba",
       "type": "Album",
       "mov": "="
     },
@@ -820,13 +820,13 @@
     },
     {
       "pos": 20,
-      "name": "Paulo Chakal",
+      "name": "Dydy Yeman",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 21,
-      "name": "Dydy Yeman",
+      "name": "Paulo Chakal",
       "genres": "Artiste",
       "streams": 0
     },
@@ -880,13 +880,13 @@
     },
     {
       "pos": 30,
-      "name": "Babi Tape",
+      "name": "Damso",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 31,
-      "name": "Damso",
+      "name": "Babi Tape",
       "genres": "Artiste",
       "streams": 0
     },
@@ -952,13 +952,13 @@
     },
     {
       "pos": 42,
-      "name": "3xdavs",
+      "name": "Lesky",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 43,
-      "name": "Lesky",
+      "name": "3xdavs",
       "genres": "Artiste",
       "streams": 0
     },
@@ -982,13 +982,13 @@
     },
     {
       "pos": 47,
-      "name": "VDA",
+      "name": "AsapJo",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 48,
-      "name": "Kalash",
+      "name": "VDA",
       "genres": "Artiste",
       "streams": 0
     },
