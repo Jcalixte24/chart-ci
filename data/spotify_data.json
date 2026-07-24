@@ -403,15 +403,15 @@
     },
     {
       "pos": 8,
-      "title": "DACHIBA KOUMGBA TCHAIBA",
-      "artist": "Himra",
+      "title": "2026 Golden Run",
+      "artist": "TRK.",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 9,
-      "title": "2026 Golden Run",
-      "artist": "TRK.",
+      "title": "DACHIBA KOUMGBA TCHAIBA",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
@@ -431,29 +431,29 @@
     },
     {
       "pos": 12,
-      "title": "IGBO",
-      "artist": "Didi B",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 13,
-      "title": "Fais ton malin",
-      "artist": "Josey",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 14,
       "title": "Mélo",
       "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 15,
+      "pos": 13,
+      "title": "IGBO",
+      "artist": "Didi B",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 14,
       "title": "WAWA",
       "artist": "Kodes, Himra",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 15,
+      "title": "Fais ton malin",
+      "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
@@ -522,15 +522,15 @@
     },
     {
       "pos": 25,
-      "title": "M$NEY",
-      "artist": "Asake",
+      "title": "R.F.W (Ready For War)",
+      "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 26,
-      "title": "R.F.W (Ready For War)",
-      "artist": "Lamoula$",
+      "title": "M$NEY",
+      "artist": "Asake",
       "type": "Album",
       "mov": "="
     },
@@ -550,22 +550,22 @@
     },
     {
       "pos": 29,
+      "title": "MDMG",
+      "artist": "jam$co",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 30,
       "title": "M.I.L.S 4",
       "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 30,
+      "pos": 31,
       "title": "INVASION TOME II",
       "artist": "Sindika",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 31,
-      "title": "MDMG",
-      "artist": "jam$co",
       "type": "Album",
       "mov": "="
     },
@@ -627,15 +627,15 @@
     },
     {
       "pos": 40,
-      "title": "Numero Uno",
-      "artist": "TRK.",
+      "title": "Juventus Nueva Era",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 41,
-      "title": "Juventus Nueva Era",
-      "artist": "Didi B",
+      "title": "Numero Uno",
+      "artist": "TRK.",
       "type": "Album",
       "mov": "="
     },
@@ -662,15 +662,15 @@
     },
     {
       "pos": 45,
-      "title": "BYAKUGAN",
-      "artist": "Kaaris",
+      "title": "WHO IS DØPE?",
+      "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 46,
-      "title": "WHO IS DØPE?",
-      "artist": "døpelym",
+      "title": "BYAKUGAN",
+      "artist": "Kaaris",
       "type": "Album",
       "mov": "="
     },
@@ -683,15 +683,15 @@
     },
     {
       "pos": 48,
-      "title": "Cherie Coco",
-      "artist": "Didi B, Fally Ipupa",
+      "title": "Tokooos II",
+      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 49,
-      "title": "Tokooos II",
-      "artist": "Fally Ipupa",
+      "title": "Cherie Coco",
+      "artist": "Didi B, Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
