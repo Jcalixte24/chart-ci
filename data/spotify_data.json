@@ -730,19 +730,19 @@
     },
     {
       "pos": 5,
-      "name": "Ninho",
+      "name": "døpelym",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 6,
-      "name": "Wantché",
+      "name": "Ninho",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 7,
-      "name": "døpelym",
+      "name": "Wantché",
       "genres": "Artiste",
       "streams": 0
     },
@@ -784,13 +784,13 @@
     },
     {
       "pos": 14,
-      "name": "Suspect 95",
+      "name": "Sindika",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 15,
-      "name": "Sindika",
+      "name": "Suspect 95",
       "genres": "Artiste",
       "streams": 0
     },
@@ -886,13 +886,13 @@
     },
     {
       "pos": 31,
-      "name": "Werenoi",
+      "name": "Tayc",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 32,
-      "name": "Tayc",
+      "name": "Werenoi",
       "genres": "Artiste",
       "streams": 0
     },
@@ -922,37 +922,37 @@
     },
     {
       "pos": 37,
-      "name": "Jr La Melo",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 38,
       "name": "Josey",
       "genres": "Artiste",
       "streams": 0
     },
     {
+      "pos": 38,
+      "name": "Jr La Melo",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
       "pos": 39,
-      "name": "La Rvfleuze",
+      "name": "AsapJo",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 40,
-      "name": "Asake",
+      "name": "La Rvfleuze",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 41,
-      "name": "Nyerky",
+      "name": "Asake",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 42,
-      "name": "AsapJo",
+      "name": "Nyerky",
       "genres": "Artiste",
       "streams": 0
     },
@@ -982,13 +982,13 @@
     },
     {
       "pos": 47,
-      "name": "L'Oiseau Rare",
+      "name": "VDA",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 48,
-      "name": "VDA",
+      "name": "L'Oiseau Rare",
       "genres": "Artiste",
       "streams": 0
     },
