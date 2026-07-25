@@ -396,15 +396,15 @@
     },
     {
       "pos": 7,
-      "title": "JEUNE & RICHE (DELUXE)",
-      "artist": "Himra",
+      "title": "2026 Golden Run",
+      "artist": "TRK.",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 8,
-      "title": "2026 Golden Run",
-      "artist": "TRK.",
+      "title": "JEUNE & RICHE (DELUXE)",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
@@ -452,8 +452,8 @@
     },
     {
       "pos": 15,
-      "title": "Fais ton malin",
-      "artist": "Josey",
+      "title": "FREELYM",
+      "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
@@ -466,15 +466,15 @@
     },
     {
       "pos": 17,
-      "title": "FREELYM",
-      "artist": "døpelym",
+      "title": "IDK2",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 18,
-      "title": "IDK2",
-      "artist": "Himra",
+      "title": "Fais ton malin",
+      "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
@@ -543,15 +543,15 @@
     },
     {
       "pos": 28,
-      "title": "Ipséité",
-      "artist": "Damso",
+      "title": "MDMG",
+      "artist": "jam$co",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 29,
-      "title": "MDMG",
-      "artist": "jam$co",
+      "title": "Ipséité",
+      "artist": "Damso",
       "type": "Album",
       "mov": "="
     },
@@ -564,15 +564,15 @@
     },
     {
       "pos": 31,
-      "title": "INVASION TOME II",
-      "artist": "Sindika",
+      "title": "Mélo Décalé",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 32,
-      "title": "Mélo Décalé",
-      "artist": "Tiakola",
+      "title": "INVASION TOME II",
+      "artist": "Sindika",
       "type": "Album",
       "mov": "="
     },
@@ -585,15 +585,15 @@
     },
     {
       "pos": 34,
-      "title": "MERCON2BABIÈRE",
-      "artist": "Ameka Zrai",
+      "title": "MATATA",
+      "artist": "Tazeboy",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 35,
-      "title": "MATATA",
-      "artist": "Tazeboy",
+      "title": "MERCON2BABIÈRE",
+      "artist": "Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
@@ -634,15 +634,15 @@
     },
     {
       "pos": 41,
-      "title": "Numero Uno",
-      "artist": "TRK.",
+      "title": "Gentleman 2.0",
+      "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 42,
-      "title": "Gentleman 2.0",
-      "artist": "Dadju",
+      "title": "Numero Uno",
+      "artist": "TRK.",
       "type": "Album",
       "mov": "="
     },
@@ -683,22 +683,22 @@
     },
     {
       "pos": 48,
+      "title": "LVDG PACK 2 (Deluxe)",
+      "artist": "TRK.",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 49,
       "title": "Tokooos II",
       "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 49,
-      "title": "Cherie Coco",
-      "artist": "Didi B, Fally Ipupa",
-      "type": "Album",
-      "mov": "="
-    },
-    {
       "pos": 50,
-      "title": "LVDG PACK 2 (Deluxe)",
-      "artist": "TRK.",
+      "title": "FLB",
+      "artist": "Wantché",
       "type": "Album",
       "mov": "="
     }
