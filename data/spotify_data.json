@@ -438,8 +438,8 @@
     },
     {
       "pos": 13,
-      "title": "IGBO",
-      "artist": "Didi B",
+      "title": "FREELYM",
+      "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
@@ -452,8 +452,8 @@
     },
     {
       "pos": 15,
-      "title": "FREELYM",
-      "artist": "døpelym",
+      "title": "IGBO",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
@@ -473,29 +473,29 @@
     },
     {
       "pos": 18,
-      "title": "Fais ton malin",
-      "artist": "Josey",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 19,
       "title": "Rien du Tout",
       "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 20,
+      "pos": 19,
       "title": "JEUNE & RICHE",
       "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 21,
+      "pos": 20,
       "title": "XX",
       "artist": "Fally Ipupa",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 21,
+      "title": "Fais ton malin",
+      "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
@@ -536,15 +536,15 @@
     },
     {
       "pos": 27,
-      "title": "BAHI",
-      "artist": "Wantché, OG Mahilet",
+      "title": "MDMG",
+      "artist": "jam$co",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 28,
-      "title": "MDMG",
-      "artist": "jam$co",
+      "title": "BAHI",
+      "artist": "Wantché, OG Mahilet",
       "type": "Album",
       "mov": "="
     },
@@ -641,36 +641,36 @@
     },
     {
       "pos": 42,
-      "title": "Numero Uno",
-      "artist": "TRK.",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 43,
       "title": "BDLM VOL.1",
       "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 44,
-      "title": "Numéro d'écrou",
-      "artist": "La Rvfleuze",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 45,
+      "pos": 43,
       "title": "WHO IS DØPE?",
       "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 44,
+      "title": "Numero Uno",
+      "artist": "TRK.",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 45,
+      "title": "Numéro d'écrou",
+      "artist": "La Rvfleuze",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 46,
-      "title": "BYAKUGAN",
-      "artist": "Kaaris",
+      "title": "BON MOOD",
+      "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
@@ -697,8 +697,8 @@
     },
     {
       "pos": 50,
-      "title": "FLB",
-      "artist": "Wantché",
+      "title": "BYAKUGAN",
+      "artist": "Kaaris",
       "type": "Album",
       "mov": "="
     }
