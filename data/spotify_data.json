@@ -382,22 +382,22 @@
     },
     {
       "pos": 5,
+      "title": "2026 Golden Run",
+      "artist": "TRK.",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 6,
       "title": "Flâ Ni",
       "artist": "Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 6,
+      "pos": 7,
       "title": "BIG POPPA",
       "artist": "Philipayne",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 7,
-      "title": "2026 Golden Run",
-      "artist": "TRK.",
       "type": "Album",
       "mov": "="
     },
@@ -557,15 +557,15 @@
     },
     {
       "pos": 30,
-      "title": "M.I.L.S 4",
-      "artist": "Ninho",
+      "title": "Mélo Décalé",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 31,
-      "title": "Mélo Décalé",
-      "artist": "Tiakola",
+      "title": "M.I.L.S 4",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
@@ -592,15 +592,15 @@
     },
     {
       "pos": 35,
-      "title": "MERCON2BABIÈRE",
-      "artist": "Ameka Zrai",
+      "title": "M.I.L.S 3",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 36,
-      "title": "M.I.L.S 3",
-      "artist": "Ninho",
+      "title": "MERCON2BABIÈRE",
+      "artist": "Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
@@ -620,22 +620,22 @@
     },
     {
       "pos": 39,
+      "title": "Gentleman 2.0",
+      "artist": "Dadju",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 40,
       "title": "Juventus Nueva Era (Deluxe Edition)",
       "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 40,
+      "pos": 41,
       "title": "Juventus Nueva Era",
       "artist": "Didi B",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 41,
-      "title": "Gentleman 2.0",
-      "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
@@ -655,15 +655,15 @@
     },
     {
       "pos": 44,
-      "title": "Numero Uno",
-      "artist": "TRK.",
+      "title": "Numéro d'écrou",
+      "artist": "La Rvfleuze",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 45,
-      "title": "Numéro d'écrou",
-      "artist": "La Rvfleuze",
+      "title": "Numero Uno",
+      "artist": "TRK.",
       "type": "Album",
       "mov": "="
     },
@@ -697,8 +697,8 @@
     },
     {
       "pos": 50,
-      "title": "BYAKUGAN",
-      "artist": "Kaaris",
+      "title": "FLB",
+      "artist": "Wantché",
       "type": "Album",
       "mov": "="
     }
