@@ -424,15 +424,15 @@
     },
     {
       "pos": 11,
-      "title": "LVDG PACK 2",
-      "artist": "TRK.",
+      "title": "Mélo",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 12,
-      "title": "Mélo",
-      "artist": "Tiakola",
+      "title": "LVDG PACK 2",
+      "artist": "TRK.",
       "type": "Album",
       "mov": "="
     },
@@ -459,14 +459,14 @@
     },
     {
       "pos": 16,
-      "title": "IGBO",
+      "title": "DIYILEM & BAZARHOFF : GENIUS",
       "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 17,
-      "title": "DIYILEM & BAZARHOFF : GENIUS",
+      "title": "IGBO",
       "artist": "Didi B",
       "type": "Album",
       "mov": "="
@@ -522,22 +522,22 @@
     },
     {
       "pos": 25,
-      "title": "Fais ton malin",
-      "artist": "Josey",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 26,
       "title": "R.F.W (Ready For War)",
       "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 27,
+      "pos": 26,
       "title": "M$NEY",
       "artist": "Asake",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 27,
+      "title": "Fais ton malin",
+      "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
@@ -571,15 +571,15 @@
     },
     {
       "pos": 32,
-      "title": "INVASION TOME II",
-      "artist": "Sindika",
+      "title": "BABI TAPE Vol.1",
+      "artist": "Babi Tape",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 33,
-      "title": "BABI TAPE Vol.1",
-      "artist": "Babi Tape",
+      "title": "INVASION TOME II",
+      "artist": "Sindika",
       "type": "Album",
       "mov": "="
     },
@@ -599,22 +599,22 @@
     },
     {
       "pos": 36,
+      "title": "ERMESEY - ÉCHAUFFEMENT",
+      "artist": "døpelym",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 37,
       "title": "Poison Ou Antidote",
       "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 37,
+      "pos": 38,
       "title": "MERCON2BABIÈRE",
       "artist": "Ameka Zrai",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 38,
-      "title": "ERMESEY - ÉCHAUFFEMENT",
-      "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
@@ -690,15 +690,15 @@
     },
     {
       "pos": 49,
-      "title": "BON MOOD",
-      "artist": "døpelym",
+      "title": "Tokooos II",
+      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 50,
-      "title": "Tokooos II",
-      "artist": "Fally Ipupa",
+      "title": "BON MOOD",
+      "artist": "døpelym",
       "type": "Album",
       "mov": "="
     }
