@@ -473,22 +473,22 @@
     },
     {
       "pos": 18,
+      "title": "MDMG",
+      "artist": "jam$co",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 19,
       "title": "Rien du Tout",
       "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 19,
+      "pos": 20,
       "title": "IGBO",
       "artist": "Didi B",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 20,
-      "title": "MDMG",
-      "artist": "jam$co",
       "type": "Album",
       "mov": "="
     },
@@ -522,15 +522,15 @@
     },
     {
       "pos": 25,
-      "title": "R.F.W (Ready For War)",
-      "artist": "Lamoula$",
+      "title": "M$NEY",
+      "artist": "Asake",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 26,
-      "title": "M$NEY",
-      "artist": "Asake",
+      "title": "R.F.W (Ready For War)",
+      "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
@@ -550,15 +550,15 @@
     },
     {
       "pos": 29,
-      "title": "Mélo Décalé",
-      "artist": "Tiakola",
+      "title": "M.I.L.S 4",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 30,
-      "title": "M.I.L.S 4",
-      "artist": "Ninho",
+      "title": "Mélo Décalé",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
@@ -571,29 +571,29 @@
     },
     {
       "pos": 32,
+      "title": "ERMESEY - ÉCHAUFFEMENT",
+      "artist": "døpelym",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 33,
       "title": "M.I.L.S 3",
       "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 33,
+      "pos": 34,
       "title": "BABI TAPE Vol.1",
       "artist": "Babi Tape",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 34,
+      "pos": 35,
       "title": "MATATA",
       "artist": "Tazeboy",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 35,
-      "title": "ERMESEY - ÉCHAUFFEMENT",
-      "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
@@ -641,15 +641,15 @@
     },
     {
       "pos": 42,
-      "title": "Juventus Nueva Era",
-      "artist": "Didi B",
+      "title": "BDLM VOL.1",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 43,
-      "title": "BDLM VOL.1",
-      "artist": "Tiakola",
+      "title": "Juventus Nueva Era",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
