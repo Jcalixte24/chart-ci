@@ -459,8 +459,8 @@
     },
     {
       "pos": 16,
-      "title": "WAWA",
-      "artist": "Kodes, Himra",
+      "title": "MDMG",
+      "artist": "jam$co",
       "type": "Album",
       "mov": "="
     },
@@ -473,29 +473,29 @@
     },
     {
       "pos": 18,
-      "title": "MDMG",
-      "artist": "jam$co",
+      "title": "WAWA",
+      "artist": "Kodes, Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 19,
+      "title": "XX",
+      "artist": "Fally Ipupa",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 20,
       "title": "Rien du Tout",
       "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 20,
+      "pos": 21,
       "title": "IGBO",
       "artist": "Didi B",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 21,
-      "title": "XX",
-      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
@@ -564,29 +564,29 @@
     },
     {
       "pos": 31,
-      "title": "Fais ton malin",
-      "artist": "Josey",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 32,
       "title": "ERMESEY - ÉCHAUFFEMENT",
       "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 33,
+      "pos": 32,
       "title": "M.I.L.S 3",
       "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 34,
+      "pos": 33,
       "title": "BABI TAPE Vol.1",
       "artist": "Babi Tape",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 34,
+      "title": "Fais ton malin",
+      "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
@@ -599,15 +599,15 @@
     },
     {
       "pos": 36,
-      "title": "INVASION TOME II",
-      "artist": "Sindika",
+      "title": "Poison Ou Antidote",
+      "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 37,
-      "title": "Poison Ou Antidote",
-      "artist": "Dadju",
+      "title": "INVASION TOME II",
+      "artist": "Sindika",
       "type": "Album",
       "mov": "="
     },
