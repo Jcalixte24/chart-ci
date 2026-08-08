@@ -438,8 +438,8 @@
     },
     {
       "pos": 13,
-      "title": "FREELYM",
-      "artist": "døpelym",
+      "title": "MDMG",
+      "artist": "jam$co",
       "type": "Album",
       "mov": "="
     },
@@ -452,15 +452,15 @@
     },
     {
       "pos": 15,
-      "title": "DIYILEM & BAZARHOFF : GENIUS",
-      "artist": "Didi B",
+      "title": "FREELYM",
+      "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 16,
-      "title": "MDMG",
-      "artist": "jam$co",
+      "title": "DIYILEM & BAZARHOFF : GENIUS",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
@@ -494,22 +494,22 @@
     },
     {
       "pos": 21,
-      "title": "Rien du Tout",
-      "artist": "Josey",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 22,
       "title": "BIG AKA 4 AKA KAI",
       "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 23,
+      "pos": 22,
       "title": "Jefe",
       "artist": "Ninho",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 23,
+      "title": "Rien du Tout",
+      "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
@@ -599,78 +599,78 @@
     },
     {
       "pos": 36,
-      "title": "Fais ton malin",
-      "artist": "Josey",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 37,
       "title": "INVASION TOME II",
       "artist": "Sindika",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 38,
+      "pos": 37,
       "title": "MERCON2BABIÈRE",
       "artist": "Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 39,
+      "pos": 38,
       "title": "1X",
       "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 39,
+      "title": "Fais ton malin",
+      "artist": "Josey",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 40,
+      "title": "PRINCE MOULA$",
+      "artist": "Lamoula$",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 41,
       "title": "Gentleman 2.0",
       "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 41,
+      "pos": 42,
       "title": "Juventus Nueva Era (Deluxe Edition)",
       "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 42,
+      "pos": 43,
       "title": "BDLM VOL.1",
       "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 43,
+      "pos": 44,
       "title": "Juventus Nueva Era",
       "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 44,
+      "pos": 45,
       "title": "WHO IS DØPE?",
       "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 45,
+      "pos": 46,
       "title": "FLB",
       "artist": "Wantché",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 46,
-      "title": "PRINCE MOULA$",
-      "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
@@ -697,8 +697,8 @@
     },
     {
       "pos": 50,
-      "title": "Tokooos II",
-      "artist": "Fally Ipupa",
+      "title": "Armageddon (feat. Genezio)",
+      "artist": "døpelym, Himra",
       "type": "Album",
       "mov": "="
     }
