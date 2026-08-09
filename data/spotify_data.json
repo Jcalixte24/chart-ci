@@ -23,120 +23,120 @@
     },
     {
       "pos": 4,
-      "title": "Indépendance Cha-Cha",
-      "artist": "Grand Kallé, L'African Jazz",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 5,
-      "title": "CASSE TES REINS",
-      "artist": "Dydy Yeman",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 6,
       "title": "Wagyu",
       "artist": "Mauvais djo",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 7,
+      "pos": 5,
+      "title": "Classico",
+      "artist": "Elow'n, Sindika",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 6,
       "title": "BALADER",
       "artist": "THB",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 8,
-      "title": "Facalo",
-      "artist": "Kadirov Mania, Godofwar",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 9,
-      "title": "Hennessy Cypher 2026",
-      "artist": "Sarz, Kwesi Arthur, ENNY, Suspect 95, Fena Gitu, ,",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 10,
-      "title": "MATATA",
-      "artist": "Tazeboy",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 11,
-      "title": "Bel Abidjan",
-      "artist": "Tabu Ley Rochereau",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 12,
-      "title": "Cote d'ivoire",
-      "artist": "Josey",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 13,
+      "pos": 7,
       "title": "SUPERVILAINS",
       "artist": "Young404, jam$co",
       "mov": "=",
       "streams": 0
     },
     {
+      "pos": 8,
+      "title": "VIVE LA MONNAIE",
+      "artist": "GIMS, Mauvais djo",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 9,
+      "title": "URBAN DÉCALÉ #2",
+      "artist": "Jr La Melo, JD",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 10,
+      "title": "Facalo",
+      "artist": "Kadirov Mania, Godofwar",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 11,
+      "title": "La pétasse",
+      "artist": "Aya Nakamura",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 12,
+      "title": "Kaay Waay",
+      "artist": "VJ",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 13,
+      "title": "GOUGNON (feat. Wantché)",
+      "artist": "SK 07, Wantché",
+      "mov": "=",
+      "streams": 0
+    },
+    {
       "pos": 14,
-      "title": "Mélo Décalé",
-      "artist": "Tiakola",
+      "title": "On my mind",
+      "artist": "Yamê, Adekunle Gold",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 15,
+      "title": "CASSE TES REINS",
+      "artist": "Dydy Yeman",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 16,
+      "title": "SCOTERLUDE",
+      "artist": "jam$co",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 17,
+      "title": "Le temps",
+      "artist": "TRK.",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 18,
       "title": "TEA",
       "artist": "Rema",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 16,
-      "title": "AMBIANCE",
-      "artist": "VDA",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 17,
-      "title": "Les jaloux saboteurs",
-      "artist": "Hamed Gazonga, International Challal",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 18,
-      "title": "Sholey",
-      "artist": "Force One",
-      "mov": "=",
-      "streams": 0
-    },
-    {
       "pos": 19,
-      "title": "FAIS OH FAIS (1 COUP KO)",
-      "artist": "Ste Milano",
+      "title": "Hennessy Cypher 2026",
+      "artist": "Sarz, Kwesi Arthur, ENNY, Suspect 95, Fena Gitu, ,",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 20,
-      "title": "Marcory Gasoil",
-      "artist": "Zitany Neil",
+      "title": "THAT GIRL!",
+      "artist": "Darkoo, Asake",
       "mov": "=",
       "streams": 0
     },
@@ -149,134 +149,134 @@
     },
     {
       "pos": 22,
-      "title": "THAT GIRL!",
-      "artist": "Darkoo, Asake",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 23,
-      "title": "VIVE LA MONNAIE",
-      "artist": "GIMS, Mauvais djo",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 24,
-      "title": "On my mind",
-      "artist": "Yamê, Adekunle Gold",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 25,
-      "title": "SCOTERLUDE",
-      "artist": "jam$co",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 26,
-      "title": "200% Zoblazo",
-      "artist": "Meiway",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 27,
-      "title": "La pétasse",
-      "artist": "Aya Nakamura",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 28,
-      "title": "Indépendance",
-      "artist": "LES GARAGISTES",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 29,
       "title": "NWVVR",
       "artist": "Toto le Banzou, Tripa Gninnin",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 30,
-      "title": "Zibote",
-      "artist": "Ernesto Djédjé",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 31,
+      "pos": 23,
       "title": "GIGA",
       "artist": "Lamoula$",
       "mov": "=",
       "streams": 0
     },
     {
+      "pos": 24,
+      "title": "FLB",
+      "artist": "Wantché",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 25,
+      "title": "BANDIT",
+      "artist": "Le kourouma",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 26,
+      "title": "Y'a Dieu dedans",
+      "artist": "Paulo Chakal, Didi B",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 27,
+      "title": "Sholey - Remix",
+      "artist": "Force One, Renard Barakissa",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 28,
+      "title": "TRAP DRILL SANMAN",
+      "artist": "GOKS",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 29,
+      "title": "Tu m'as menti",
+      "artist": "Vegedream",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 30,
+      "title": "YOROBO DRILL ACTE 3",
+      "artist": "Himra",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 31,
+      "title": "AMBIANCE",
+      "artist": "VDA",
+      "mov": "=",
+      "streams": 0
+    },
+    {
       "pos": 32,
-      "title": "Kaay Waay",
-      "artist": "VJ",
+      "title": "20 MILLIONS",
+      "artist": "Genezio",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 33,
-      "title": "GOUGNON (feat. Wantché)",
-      "artist": "SK 07, Wantché",
+      "title": "Boucan",
+      "artist": "KeBlack, Franglish",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 34,
-      "title": "Faut Gbachi",
-      "artist": "KOMMANDER SAMO",
+      "title": "Tu n'es pas bon oh",
+      "artist": "TC Levrai",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 35,
-      "title": "Deutsche Qualitat",
-      "artist": "TRK.",
+      "title": "Les Jaloux",
+      "artist": "Josey",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 36,
-      "title": "Abidjan farot",
-      "artist": "Espoir 2000",
+      "title": "LES DIAMANTS DE BOKASSA",
+      "artist": "Ninho, Tiakola",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 37,
-      "title": "Dos de chat",
-      "artist": "Renard Barakissa",
+      "title": "Série C",
+      "artist": "Espoir 2000",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 38,
-      "title": "Mario, pt. 1",
-      "artist": "Franco & le T.P OK Jazz",
+      "title": "M*R*H",
+      "artist": "BORO700",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 39,
-      "title": "1er Gaou",
-      "artist": "Magic System",
+      "title": "Alliance",
+      "artist": "Fally Ipupa",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 40,
-      "title": "Wolosso Azoubaguehi",
-      "artist": "Dollar DJ",
+      "title": "FAIS OH FAIS (1 COUP KO)",
+      "artist": "Ste Milano",
       "mov": "=",
       "streams": 0
     },
@@ -289,64 +289,64 @@
     },
     {
       "pos": 42,
-      "title": "YE BOIS PAS L'EAU",
-      "artist": "GOKS",
+      "title": "Coucher de soleil",
+      "artist": "Tiakola",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 43,
-      "title": "A nouhoume",
-      "artist": "Bailly Spinto",
+      "title": "Denw",
+      "artist": "Oumou Sangaré",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 44,
-      "title": "20 MILLIONS",
-      "artist": "Genezio",
+      "title": "TERRIBLE MAN",
+      "artist": "OG Plugging",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 45,
+      "title": "HAPPIEST",
+      "artist": "Ameka Zrai",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 46,
       "title": "YK Where It's Goin",
       "artist": "Hurricane Wisdom, Gunna",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 46,
-      "title": "This & That",
-      "artist": "Stray Kids",
-      "mov": "=",
-      "streams": 0
-    },
-    {
       "pos": 47,
-      "title": "Esmel",
-      "artist": "Youles International, Aboutou Roots, Vegas",
+      "title": "Hello mama",
+      "artist": "DIITO MATTRAK",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 48,
-      "title": "Sweet Mother",
-      "artist": "Prince Nico Mbarga & Rocafil Jazz International",
+      "title": "À l'aise",
+      "artist": "TRIANGLE DES BERMUDES, L2B, MC YOSHI, ,",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 49,
-      "title": "LOVE YOU",
-      "artist": "Nono La Grinta",
+      "title": "Uber",
+      "artist": "Franglish, KeBlack, Mauvais djo",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 50,
-      "title": "Fimbu",
-      "artist": "Team Paiya, Didi B, Ste Milano, Tam Sir, 3xdavs",
+      "title": "Manger la vie",
+      "artist": "Team Paiya, Team 2 poy, Tazeboy",
       "mov": "=",
       "streams": 0
     }
@@ -712,13 +712,13 @@
     },
     {
       "pos": 2,
-      "name": "TRK.",
+      "name": "døpelym",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 3,
-      "name": "døpelym",
+      "name": "TRK.",
       "genres": "Artiste",
       "streams": 0
     },
@@ -784,13 +784,13 @@
     },
     {
       "pos": 14,
-      "name": "Ste Milano",
+      "name": "AsapJo",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 15,
-      "name": "AsapJo",
+      "name": "Ste Milano",
       "genres": "Artiste",
       "streams": 0
     },
@@ -802,13 +802,13 @@
     },
     {
       "pos": 17,
-      "name": "Suspect 95",
+      "name": "Dydy Yeman",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 18,
-      "name": "Dydy Yeman",
+      "name": "Suspect 95",
       "genres": "Artiste",
       "streams": 0
     },
@@ -832,13 +832,13 @@
     },
     {
       "pos": 22,
-      "name": "Gazo",
+      "name": "SK 07",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 23,
-      "name": "SK 07",
+      "name": "Gazo",
       "genres": "Artiste",
       "streams": 0
     },
@@ -856,13 +856,13 @@
     },
     {
       "pos": 26,
-      "name": "Aya Nakamura",
+      "name": "Tayc",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 27,
-      "name": "Tayc",
+      "name": "Aya Nakamura",
       "genres": "Artiste",
       "streams": 0
     },
@@ -874,19 +874,19 @@
     },
     {
       "pos": 29,
-      "name": "Philipayne",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 30,
       "name": "DJ Arafat",
       "genres": "Artiste",
       "streams": 0
     },
     {
-      "pos": 31,
+      "pos": 30,
       "name": "Leto",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
+      "pos": 31,
+      "name": "Philipayne",
       "genres": "Artiste",
       "streams": 0
     },
@@ -910,13 +910,13 @@
     },
     {
       "pos": 35,
-      "name": "Niska",
+      "name": "Babi Tape",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 36,
-      "name": "Babi Tape",
+      "name": "Niska",
       "genres": "Artiste",
       "streams": 0
     },
@@ -976,13 +976,13 @@
     },
     {
       "pos": 46,
-      "name": "3xdavs",
+      "name": "SDM",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 47,
-      "name": "SDM",
+      "name": "3xdavs",
       "genres": "Artiste",
       "streams": 0
     },
