@@ -494,15 +494,15 @@
     },
     {
       "pos": 21,
-      "title": "IGBO",
-      "artist": "Didi B",
+      "title": "Jefe",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 22,
-      "title": "Jefe",
-      "artist": "Ninho",
+      "title": "IGBO",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
@@ -571,29 +571,29 @@
     },
     {
       "pos": 32,
-      "title": "BABI TAPE Vol.1",
-      "artist": "Babi Tape",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 33,
       "title": "M.I.L.S 3",
       "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 33,
+      "title": "BABI TAPE Vol.1",
+      "artist": "Babi Tape",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 34,
-      "title": "MATATA",
-      "artist": "Tazeboy",
+      "title": "PRINCE MOULA$",
+      "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 35,
-      "title": "PRINCE MOULA$",
-      "artist": "Lamoula$",
+      "title": "MATATA",
+      "artist": "Tazeboy",
       "type": "Album",
       "mov": "="
     },
@@ -634,22 +634,22 @@
     },
     {
       "pos": 41,
-      "title": "Fais ton malin",
-      "artist": "Josey",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 42,
       "title": "Juventus Nueva Era (Deluxe Edition)",
       "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 43,
+      "pos": 42,
       "title": "BDLM VOL.1",
       "artist": "Tiakola",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 43,
+      "title": "Fais ton malin",
+      "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
@@ -690,15 +690,15 @@
     },
     {
       "pos": 49,
-      "title": "LVDG PACK 2 (Deluxe)",
-      "artist": "TRK.",
+      "title": "Tokooos II",
+      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 50,
-      "title": "Numéro d'écrou",
-      "artist": "La Rvfleuze",
+      "title": "LVDG PACK 2 (Deluxe)",
+      "artist": "TRK.",
       "type": "Album",
       "mov": "="
     }
