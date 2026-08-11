@@ -431,15 +431,15 @@
     },
     {
       "pos": 12,
-      "title": "LVDG PACK 2",
-      "artist": "TRK.",
+      "title": "MDMG",
+      "artist": "jam$co",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 13,
-      "title": "MDMG",
-      "artist": "jam$co",
+      "title": "LVDG PACK 2",
+      "artist": "TRK.",
       "type": "Album",
       "mov": "="
     },
@@ -452,15 +452,15 @@
     },
     {
       "pos": 15,
-      "title": "FREELYM",
-      "artist": "døpelym",
+      "title": "DIYILEM & BAZARHOFF : GENIUS",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 16,
-      "title": "DIYILEM & BAZARHOFF : GENIUS",
-      "artist": "Didi B",
+      "title": "FREELYM",
+      "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
@@ -557,8 +557,8 @@
     },
     {
       "pos": 30,
-      "title": "BAHI",
-      "artist": "Wantché, OG Mahilet",
+      "title": "PRINCE MOULA$",
+      "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
@@ -571,8 +571,8 @@
     },
     {
       "pos": 32,
-      "title": "M.I.L.S 3",
-      "artist": "Ninho",
+      "title": "BAHI",
+      "artist": "Wantché, OG Mahilet",
       "type": "Album",
       "mov": "="
     },
@@ -585,8 +585,8 @@
     },
     {
       "pos": 34,
-      "title": "PRINCE MOULA$",
-      "artist": "Lamoula$",
+      "title": "M.I.L.S 3",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
@@ -606,15 +606,15 @@
     },
     {
       "pos": 37,
-      "title": "1X",
-      "artist": "Himra",
+      "title": "MERCON2BABIÈRE",
+      "artist": "Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 38,
-      "title": "MERCON2BABIÈRE",
-      "artist": "Ameka Zrai",
+      "title": "1X",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
@@ -648,57 +648,57 @@
     },
     {
       "pos": 43,
-      "title": "Fais ton malin",
-      "artist": "Josey",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 44,
       "title": "Juventus Nueva Era",
       "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 45,
-      "title": "WHO IS DØPE?",
-      "artist": "døpelym",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 46,
+      "pos": 44,
       "title": "Armageddon (feat. Genezio)",
       "artist": "døpelym, Himra",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 45,
+      "title": "Fais ton malin",
+      "artist": "Josey",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 46,
+      "title": "WHO IS DØPE?",
+      "artist": "døpelym",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 47,
-      "title": "FLB",
-      "artist": "Wantché",
+      "title": "JEUNE RICHE & CELEBRE",
+      "artist": "THB",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 48,
-      "title": "JAMAIS CHERLA",
-      "artist": "GENERATION NERF, døpelym, Himra",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 49,
       "title": "Tokooos II",
       "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 50,
+      "pos": 49,
       "title": "LVDG PACK 2 (Deluxe)",
       "artist": "TRK.",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 50,
+      "title": "JAMAIS CHERLA",
+      "artist": "GENERATION NERF, døpelym, Himra",
       "type": "Album",
       "mov": "="
     }
