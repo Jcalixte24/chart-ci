@@ -417,15 +417,15 @@
     },
     {
       "pos": 10,
-      "title": "DACHIBA KOUMGBA TCHAIBA",
-      "artist": "Himra",
+      "title": "Mélo",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 11,
-      "title": "Mélo",
-      "artist": "Tiakola",
+      "title": "DACHIBA KOUMGBA TCHAIBA",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
@@ -501,36 +501,36 @@
     },
     {
       "pos": 22,
-      "title": "IGBO",
-      "artist": "Didi B",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 23,
       "title": "Formule 7",
       "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 24,
-      "title": "Rien du Tout",
-      "artist": "Josey",
+      "pos": 23,
+      "title": "IGBO",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 25,
+      "pos": 24,
       "title": "M$NEY",
       "artist": "Asake",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 26,
+      "pos": 25,
       "title": "Ipséité",
       "artist": "Damso",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 26,
+      "title": "Rien du Tout",
+      "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
@@ -543,22 +543,22 @@
     },
     {
       "pos": 28,
+      "title": "PRINCE MOULA$",
+      "artist": "Lamoula$",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 29,
       "title": "M.I.L.S 4",
       "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 29,
+      "pos": 30,
       "title": "Mélo Décalé",
       "artist": "Tiakola",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 30,
-      "title": "PRINCE MOULA$",
-      "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
@@ -571,22 +571,22 @@
     },
     {
       "pos": 32,
-      "title": "BAHI",
-      "artist": "Wantché, OG Mahilet",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 33,
       "title": "BABI TAPE Vol.1",
       "artist": "Babi Tape",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 34,
+      "pos": 33,
       "title": "M.I.L.S 3",
       "artist": "Ninho",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 34,
+      "title": "BAHI",
+      "artist": "Wantché, OG Mahilet",
       "type": "Album",
       "mov": "="
     },
@@ -606,15 +606,15 @@
     },
     {
       "pos": 37,
-      "title": "MERCON2BABIÈRE",
-      "artist": "Ameka Zrai",
+      "title": "1X",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 38,
-      "title": "1X",
-      "artist": "Himra",
+      "title": "MERCON2BABIÈRE",
+      "artist": "Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
@@ -634,36 +634,36 @@
     },
     {
       "pos": 41,
-      "title": "Juventus Nueva Era (Deluxe Edition)",
-      "artist": "Didi B",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 42,
       "title": "BDLM VOL.1",
       "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 43,
-      "title": "Juventus Nueva Era",
+      "pos": 42,
+      "title": "Juventus Nueva Era (Deluxe Edition)",
       "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 43,
+      "title": "JEUNE RICHE & CELEBRE",
+      "artist": "THB",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 44,
-      "title": "Armageddon (feat. Genezio)",
-      "artist": "døpelym, Himra",
+      "title": "Armageddon",
+      "artist": "døpelym, Himra, Genezio",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 45,
-      "title": "Fais ton malin",
-      "artist": "Josey",
+      "title": "Juventus Nueva Era",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
@@ -676,8 +676,8 @@
     },
     {
       "pos": 47,
-      "title": "JEUNE RICHE & CELEBRE",
-      "artist": "THB",
+      "title": "Fais ton malin",
+      "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
