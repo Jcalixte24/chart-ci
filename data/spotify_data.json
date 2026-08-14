@@ -403,15 +403,15 @@
     },
     {
       "pos": 8,
-      "title": "BIG POPPA",
-      "artist": "Philipayne",
+      "title": "Destin",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 9,
-      "title": "Destin",
-      "artist": "Ninho",
+      "title": "BIG POPPA",
+      "artist": "Philipayne",
       "type": "Album",
       "mov": "="
     },
@@ -438,15 +438,15 @@
     },
     {
       "pos": 13,
-      "title": "LVDG PACK 2",
-      "artist": "TRK.",
+      "title": "IDK2",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 14,
-      "title": "IDK2",
-      "artist": "Himra",
+      "title": "LVDG PACK 2",
+      "artist": "TRK.",
       "type": "Album",
       "mov": "="
     },
@@ -550,8 +550,8 @@
     },
     {
       "pos": 29,
-      "title": "Rien du Tout",
-      "artist": "Josey",
+      "title": "ERMESEY - ÉCHAUFFEMENT",
+      "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
@@ -564,8 +564,8 @@
     },
     {
       "pos": 31,
-      "title": "ERMESEY - ÉCHAUFFEMENT",
-      "artist": "døpelym",
+      "title": "Rien du Tout",
+      "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
@@ -592,71 +592,71 @@
     },
     {
       "pos": 35,
-      "title": "BAHI",
-      "artist": "Wantché, OG Mahilet",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 36,
       "title": "Poison Ou Antidote",
       "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 37,
-      "title": "1X",
-      "artist": "Himra",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 38,
-      "title": "MERCON2BABIÈRE",
-      "artist": "Ameka Zrai",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 39,
+      "pos": 36,
       "title": "JEUNE RICHE & CELEBRE",
       "artist": "THB",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 40,
-      "title": "INVASION TOME II",
-      "artist": "Sindika",
+      "pos": 37,
+      "title": "BAHI",
+      "artist": "Wantché, OG Mahilet",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 41,
+      "pos": 38,
+      "title": "1X",
+      "artist": "Himra",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 39,
+      "title": "MERCON2BABIÈRE",
+      "artist": "Ameka Zrai",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 40,
       "title": "Gentleman 2.0",
       "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 41,
+      "title": "INVASION TOME II",
+      "artist": "Sindika",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 42,
+      "title": "Armageddon",
+      "artist": "døpelym, Himra, Genezio",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 43,
       "title": "BDLM VOL.1",
       "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 43,
+      "pos": 44,
       "title": "Juventus Nueva Era (Deluxe Edition)",
       "artist": "Didi B",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 44,
-      "title": "Armageddon",
-      "artist": "døpelym, Himra, Genezio",
       "type": "Album",
       "mov": "="
     },
@@ -676,29 +676,29 @@
     },
     {
       "pos": 47,
-      "title": "Fais ton malin",
-      "artist": "Josey",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 48,
       "title": "Tokooos II",
       "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 49,
+      "pos": 48,
       "title": "LVDG PACK 2 (Deluxe)",
       "artist": "TRK.",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 50,
+      "pos": 49,
       "title": "Nouchi in Paris (feat. TRK. & Ameka Zrai)",
       "artist": "Sindika, TRK., Ameka Zrai",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 50,
+      "title": "GOUGNON (feat. Wantché)",
+      "artist": "SK 07, Wantché",
       "type": "Album",
       "mov": "="
     }
