@@ -424,15 +424,15 @@
     },
     {
       "pos": 11,
-      "title": "DACHIBA KOUMGBA TCHAIBA",
-      "artist": "Himra",
+      "title": "MDMG",
+      "artist": "jam$co",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 12,
-      "title": "MDMG",
-      "artist": "jam$co",
+      "title": "DACHIBA KOUMGBA TCHAIBA",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
@@ -508,15 +508,15 @@
     },
     {
       "pos": 23,
-      "title": "IGBO",
-      "artist": "Didi B",
+      "title": "PRINCE MOULA$",
+      "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 24,
-      "title": "PRINCE MOULA$",
-      "artist": "Lamoula$",
+      "title": "Ipséité",
+      "artist": "Damso",
       "type": "Album",
       "mov": "="
     },
@@ -529,8 +529,8 @@
     },
     {
       "pos": 26,
-      "title": "Ipséité",
-      "artist": "Damso",
+      "title": "IGBO",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
@@ -543,15 +543,15 @@
     },
     {
       "pos": 28,
-      "title": "M.I.L.S 4",
-      "artist": "Ninho",
+      "title": "ERMESEY - ÉCHAUFFEMENT",
+      "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 29,
-      "title": "ERMESEY - ÉCHAUFFEMENT",
-      "artist": "døpelym",
+      "title": "M.I.L.S 4",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
@@ -564,8 +564,8 @@
     },
     {
       "pos": 31,
-      "title": "Rien du Tout",
-      "artist": "Josey",
+      "title": "M.I.L.S 3",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
@@ -578,15 +578,15 @@
     },
     {
       "pos": 33,
-      "title": "M.I.L.S 3",
-      "artist": "Ninho",
+      "title": "Rien du Tout",
+      "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 34,
-      "title": "MATATA",
-      "artist": "Tazeboy",
+      "title": "JEUNE RICHE & CELEBRE",
+      "artist": "THB",
       "type": "Album",
       "mov": "="
     },
@@ -599,8 +599,8 @@
     },
     {
       "pos": 36,
-      "title": "JEUNE RICHE & CELEBRE",
-      "artist": "THB",
+      "title": "MATATA",
+      "artist": "Tazeboy",
       "type": "Album",
       "mov": "="
     },
@@ -634,15 +634,15 @@
     },
     {
       "pos": 41,
-      "title": "INVASION TOME II",
-      "artist": "Sindika",
+      "title": "Armageddon",
+      "artist": "døpelym, Himra, Genezio",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 42,
-      "title": "Armageddon",
-      "artist": "døpelym, Himra, Genezio",
+      "title": "INVASION TOME II",
+      "artist": "Sindika",
       "type": "Album",
       "mov": "="
     },
@@ -754,13 +754,13 @@
     },
     {
       "pos": 9,
-      "name": "Tazeboy",
+      "name": "Dadju",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 10,
-      "name": "Dadju",
+      "name": "Tazeboy",
       "genres": "Artiste",
       "streams": 0
     },
@@ -778,13 +778,13 @@
     },
     {
       "pos": 13,
-      "name": "AsapJo",
+      "name": "Sindika",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 14,
-      "name": "Sindika",
+      "name": "AsapJo",
       "genres": "Artiste",
       "streams": 0
     },
@@ -916,19 +916,19 @@
     },
     {
       "pos": 36,
-      "name": "Philipayne",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 37,
       "name": "Doupi Papillon",
       "genres": "Artiste",
       "streams": 0
     },
     {
-      "pos": 38,
+      "pos": 37,
       "name": "Josey",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
+      "pos": 38,
+      "name": "Philipayne",
       "genres": "Artiste",
       "streams": 0
     },
@@ -946,13 +946,13 @@
     },
     {
       "pos": 41,
-      "name": "Lamine løssa",
+      "name": "La Rvfleuze",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 42,
-      "name": "La Rvfleuze",
+      "name": "Lamine løssa",
       "genres": "Artiste",
       "streams": 0
     },
@@ -970,19 +970,19 @@
     },
     {
       "pos": 45,
-      "name": "Lesky",
+      "name": "SDM",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 46,
-      "name": "3xdavs",
+      "name": "Lesky",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 47,
-      "name": "SDM",
+      "name": "3xdavs",
       "genres": "Artiste",
       "streams": 0
     },
