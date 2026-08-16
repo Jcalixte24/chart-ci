@@ -501,15 +501,15 @@
     },
     {
       "pos": 22,
-      "title": "Formule 7",
-      "artist": "Fally Ipupa",
+      "title": "PRINCE MOULA$",
+      "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 23,
-      "title": "PRINCE MOULA$",
-      "artist": "Lamoula$",
+      "title": "Formule 7",
+      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
@@ -564,29 +564,29 @@
     },
     {
       "pos": 31,
+      "title": "JEUNE RICHE & CELEBRE",
+      "artist": "THB",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 32,
       "title": "M.I.L.S 3",
       "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 32,
+      "pos": 33,
       "title": "BABI TAPE Vol.1",
       "artist": "Babi Tape",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 33,
+      "pos": 34,
       "title": "Rien du Tout",
       "artist": "Josey",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 34,
-      "title": "JEUNE RICHE & CELEBRE",
-      "artist": "THB",
       "type": "Album",
       "mov": "="
     },
@@ -606,50 +606,50 @@
     },
     {
       "pos": 37,
-      "title": "BAHI",
-      "artist": "Wantché, OG Mahilet",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 38,
       "title": "1X",
       "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 39,
+      "pos": 38,
       "title": "MERCON2BABIÈRE",
       "artist": "Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 40,
-      "title": "Gentleman 2.0",
-      "artist": "Dadju",
+      "pos": 39,
+      "title": "BAHI",
+      "artist": "Wantché, OG Mahilet",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 41,
+      "pos": 40,
       "title": "Armageddon",
       "artist": "døpelym, Himra, Genezio",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 41,
+      "title": "Gentleman 2.0",
+      "artist": "Dadju",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 42,
-      "title": "INVASION TOME II",
-      "artist": "Sindika",
+      "title": "BDLM VOL.1",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 43,
-      "title": "BDLM VOL.1",
-      "artist": "Tiakola",
+      "title": "INVASION TOME II",
+      "artist": "Sindika",
       "type": "Album",
       "mov": "="
     },
@@ -690,15 +690,15 @@
     },
     {
       "pos": 49,
-      "title": "Nouchi in Paris (feat. TRK. & Ameka Zrai)",
-      "artist": "Sindika, TRK., Ameka Zrai",
+      "title": "GOUGNON (feat. Wantché)",
+      "artist": "SK 07, Wantché",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 50,
-      "title": "GOUGNON (feat. Wantché)",
-      "artist": "SK 07, Wantché",
+      "title": "Nouchi in Paris (feat. TRK. & Ameka Zrai)",
+      "artist": "Sindika, TRK., Ameka Zrai",
       "type": "Album",
       "mov": "="
     }
