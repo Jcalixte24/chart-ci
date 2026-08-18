@@ -410,29 +410,29 @@
     },
     {
       "pos": 9,
-      "title": "Mélo",
-      "artist": "Tiakola",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 10,
       "title": "MDMG",
       "artist": "jam$co",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 10,
+      "title": "Mélo",
+      "artist": "Tiakola",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 11,
-      "title": "BIG POPPA",
-      "artist": "Philipayne",
+      "title": "DACHIBA KOUMGBA TCHAIBA",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 12,
-      "title": "DACHIBA KOUMGBA TCHAIBA",
-      "artist": "Himra",
+      "title": "BIG POPPA",
+      "artist": "Philipayne",
       "type": "Album",
       "mov": "="
     },
@@ -480,29 +480,29 @@
     },
     {
       "pos": 19,
-      "title": "XX",
-      "artist": "Fally Ipupa",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 20,
       "title": "BIG AKA 4 AKA KAI",
       "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 20,
+      "title": "XX",
+      "artist": "Fally Ipupa",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 21,
-      "title": "Jefe",
-      "artist": "Ninho",
+      "title": "PRINCE MOULA$",
+      "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 22,
-      "title": "PRINCE MOULA$",
-      "artist": "Lamoula$",
+      "title": "Jefe",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
@@ -536,29 +536,29 @@
     },
     {
       "pos": 27,
-      "title": "R.F.W (Ready For War)",
-      "artist": "Lamoula$",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 28,
       "title": "JEUNE RICHE & CELEBRE",
       "artist": "THB",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 28,
+      "title": "R.F.W (Ready For War)",
+      "artist": "Lamoula$",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 29,
-      "title": "IGBO",
-      "artist": "Didi B",
+      "title": "M.I.L.S 4",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 30,
-      "title": "M.I.L.S 4",
-      "artist": "Ninho",
+      "title": "IGBO",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
@@ -599,29 +599,29 @@
     },
     {
       "pos": 36,
-      "title": "Rien du Tout",
-      "artist": "Josey",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 37,
       "title": "1X",
       "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 37,
+      "title": "Rien du Tout",
+      "artist": "Josey",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 38,
-      "title": "MERCON2BABIÈRE",
-      "artist": "Ameka Zrai",
+      "title": "Armageddon",
+      "artist": "døpelym, Himra, Genezio",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 39,
-      "title": "Armageddon",
-      "artist": "døpelym, Himra, Genezio",
+      "title": "MERCON2BABIÈRE",
+      "artist": "Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
@@ -634,15 +634,15 @@
     },
     {
       "pos": 41,
-      "title": "BAHI",
-      "artist": "Wantché, OG Mahilet",
+      "title": "BDLM VOL.1",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 42,
-      "title": "BDLM VOL.1",
-      "artist": "Tiakola",
+      "title": "BAHI",
+      "artist": "Wantché, OG Mahilet",
       "type": "Album",
       "mov": "="
     },
@@ -676,22 +676,22 @@
     },
     {
       "pos": 47,
-      "title": "Tokooos II",
-      "artist": "Fally Ipupa",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 48,
       "title": "GOUGNON (feat. Wantché)",
       "artist": "SK 07, Wantché",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 49,
+      "pos": 48,
       "title": "LVDG PACK 2 (Deluxe)",
       "artist": "TRK.",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 49,
+      "title": "Tokooos II",
+      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
