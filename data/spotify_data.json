@@ -431,15 +431,15 @@
     },
     {
       "pos": 12,
-      "title": "BIG POPPA",
-      "artist": "Philipayne",
+      "title": "IDK2",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 13,
-      "title": "IDK2",
-      "artist": "Himra",
+      "title": "BIG POPPA",
+      "artist": "Philipayne",
       "type": "Album",
       "mov": "="
     },
@@ -459,22 +459,22 @@
     },
     {
       "pos": 16,
-      "title": "FREELYM",
-      "artist": "døpelym",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 17,
       "title": "JEUNE & RICHE",
       "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 17,
+      "title": "FREELYM",
+      "artist": "døpelym",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 18,
-      "title": "WAWA",
-      "artist": "Kodes, Himra",
+      "title": "PRINCE MOULA$",
+      "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
@@ -487,15 +487,15 @@
     },
     {
       "pos": 20,
-      "title": "XX",
-      "artist": "Fally Ipupa",
+      "title": "WAWA",
+      "artist": "Kodes, Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 21,
-      "title": "PRINCE MOULA$",
-      "artist": "Lamoula$",
+      "title": "XX",
+      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
@@ -515,29 +515,29 @@
     },
     {
       "pos": 24,
+      "title": "JEUNE RICHE & CELEBRE",
+      "artist": "THB",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 25,
       "title": "Ipséité",
       "artist": "Damso",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 25,
+      "pos": 26,
       "title": "M$NEY",
       "artist": "Asake",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 26,
+      "pos": 27,
       "title": "ERMESEY - ÉCHAUFFEMENT",
       "artist": "døpelym",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 27,
-      "title": "JEUNE RICHE & CELEBRE",
-      "artist": "THB",
       "type": "Album",
       "mov": "="
     },
@@ -606,29 +606,29 @@
     },
     {
       "pos": 37,
-      "title": "Rien du Tout",
-      "artist": "Josey",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 38,
       "title": "Armageddon",
       "artist": "døpelym, Himra, Genezio",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 39,
+      "pos": 38,
       "title": "MERCON2BABIÈRE",
       "artist": "Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 40,
+      "pos": 39,
       "title": "Gentleman 2.0",
       "artist": "Dadju",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 40,
+      "title": "Rien du Tout",
+      "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
@@ -641,15 +641,15 @@
     },
     {
       "pos": 42,
-      "title": "BAHI",
-      "artist": "Wantché, OG Mahilet",
+      "title": "INVASION TOME II",
+      "artist": "Sindika",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 43,
-      "title": "INVASION TOME II",
-      "artist": "Sindika",
+      "title": "BAHI",
+      "artist": "Wantché, OG Mahilet",
       "type": "Album",
       "mov": "="
     },
