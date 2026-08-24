@@ -16,15 +16,15 @@
     },
     {
       "pos": 3,
-      "title": "Telegram",
-      "artist": "GK, Sindika, Tripa Gninnin",
+      "title": "Facalo",
+      "artist": "Kadirov Mania, Godofwar",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 4,
-      "title": "Photo",
-      "artist": "Tayc",
+      "title": "Lost",
+      "artist": "Fally Ipupa",
       "mov": "=",
       "streams": 0
     },
@@ -37,43 +37,43 @@
     },
     {
       "pos": 6,
-      "title": "Facalo",
-      "artist": "Kadirov Mania, Godofwar",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 7,
-      "title": "Lost",
-      "artist": "Fally Ipupa",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 8,
-      "title": "MÉTAL",
-      "artist": "KAGE",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 9,
-      "title": "Pineapple",
-      "artist": "Leto",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 10,
       "title": "PEHISAIR",
       "artist": "KOMMANDER SAMO, Maa Bio",
       "mov": "=",
       "streams": 0
     },
     {
+      "pos": 7,
+      "title": "Telegram",
+      "artist": "GK, Sindika, Tripa Gninnin",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 8,
+      "title": "CASSE TES REINS",
+      "artist": "Dydy Yeman",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 9,
+      "title": "Photo",
+      "artist": "Tayc",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 10,
+      "title": "MÉTAL",
+      "artist": "KAGE",
+      "mov": "=",
+      "streams": 0
+    },
+    {
       "pos": 11,
-      "title": "BIG UP (feat. Ameka Zrai)",
-      "artist": "MiLKY ABREGGOR, Ameka Zrai",
+      "title": "Tu m'as menti",
+      "artist": "Vegedream",
       "mov": "=",
       "streams": 0
     },
@@ -86,141 +86,141 @@
     },
     {
       "pos": 13,
-      "title": "MARASSE",
-      "artist": "OG Mahilet, Wantché, Kylliann tyga",
+      "title": "Pineapple",
+      "artist": "Leto",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 14,
-      "title": "Seul Au Monde",
-      "artist": "Marho",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 15,
-      "title": "Holo Horema",
-      "artist": "Saifond",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 16,
-      "title": "Gangsta Bebe",
-      "artist": "døpelym",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 17,
-      "title": "BADDIEYA",
-      "artist": "PERENIMO",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 18,
-      "title": "SÉISME",
-      "artist": "STARK2, Jerry Kunta",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 19,
-      "title": "Tu m'as menti",
-      "artist": "Vegedream",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 20,
       "title": "Wagyu",
       "artist": "Mauvais djo",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 21,
-      "title": "BALADER",
-      "artist": "THB",
+      "pos": 15,
+      "title": "BIG UP (feat. Ameka Zrai)",
+      "artist": "MiLKY ABREGGOR, Ameka Zrai",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 22,
-      "title": "2FRESH",
-      "artist": "Victony",
+      "pos": 16,
+      "title": "Seul Au Monde",
+      "artist": "Marho",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 23,
+      "pos": 17,
       "title": "Sholey - Remix",
       "artist": "Force One, Renard Barakissa",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 24,
-      "title": "WINNER",
-      "artist": "Lamoula$",
+      "pos": 18,
+      "title": "Gangsta Bebe",
+      "artist": "døpelym",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 25,
+      "pos": 19,
+      "title": "MARASSE",
+      "artist": "OG Mahilet, Wantché, Kylliann tyga",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 20,
+      "title": "BADDIEYA",
+      "artist": "PERENIMO",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 21,
       "title": "AMBIANCE",
       "artist": "VDA",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 26,
-      "title": "DJAI",
-      "artist": "NÔJ, ALX FIDJI, Lil Black",
+      "pos": 22,
+      "title": "GAMMÉ",
+      "artist": "STARK2",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 27,
-      "title": "1frequentable",
-      "artist": "KABBSKY, 63KLUF",
+      "pos": 23,
+      "title": "BALADER",
+      "artist": "THB",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 28,
-      "title": "TCHAIPOYA",
-      "artist": "6kohSly, Greedbanks",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 29,
-      "title": "Hootie Frutti",
-      "artist": "KATSEYE",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 30,
-      "title": "Tôpkor",
-      "artist": "The shirurgian on the beatz, JR2X, NAGADA,",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 31,
+      "pos": 24,
       "title": "VIVE LA MONNAIE",
       "artist": "GIMS, Mauvais djo",
       "mov": "=",
       "streams": 0
     },
     {
+      "pos": 25,
+      "title": "WALLAYE BILLAYE",
+      "artist": "Himra",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 26,
+      "title": "Good Vibes",
+      "artist": "Joochar",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 27,
+      "title": "TCHAIPOYA",
+      "artist": "6kohSly, Greedbanks",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 28,
+      "title": "EVERYDAY",
+      "artist": "KH€O!, LN",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 29,
+      "title": "BIRDMAN & WEEZY",
+      "artist": "AsapJo, Himra",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 30,
+      "title": "Fimbu",
+      "artist": "Team Paiya, Didi B, Ste Milano, Tam Sir, 3xdavs",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 31,
+      "title": "FAIS OH FAIS (1 COUP KO)",
+      "artist": "Ste Milano",
+      "mov": "=",
+      "streams": 0
+    },
+    {
       "pos": 32,
-      "title": "Sexy Nana",
-      "artist": "Aya Nakamura, La Rvfleuze",
+      "title": "DOC I",
+      "artist": "BIGWAK!, Ozaki",
       "mov": "=",
       "streams": 0
     },
@@ -233,120 +233,120 @@
     },
     {
       "pos": 34,
+      "title": "SLICK",
+      "artist": "Victony",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 35,
+      "title": "Dos de chat",
+      "artist": "Renard Barakissa",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 36,
+      "title": "Holo Horema",
+      "artist": "Saifond",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 37,
+      "title": "Uber",
+      "artist": "Franglish, KeBlack, Mauvais djo",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 38,
+      "title": "DJAI",
+      "artist": "NÔJ, ALX FIDJI, Lil Black",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 39,
       "title": "On my mind (Acoustic Version)",
       "artist": "Yamê, Adekunle Gold",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 35,
-      "title": "Génération impolie",
-      "artist": "Franglish, KeBlack",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 36,
-      "title": "MBIFE",
-      "artist": "Tiakola, Genezio",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 37,
+      "pos": 40,
       "title": "ANANGO BACA",
       "artist": "Albinny",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 38,
-      "title": "Kpata kpata",
-      "artist": "STEPHEN IDOLO",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 39,
-      "title": "FREESTYLE SGL #1",
-      "artist": "La b 7",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 40,
-      "title": "4 Kampé",
-      "artist": "Joé Dwèt Filé",
-      "mov": "=",
-      "streams": 0
-    },
-    {
       "pos": 41,
-      "title": "apprenti",
-      "artist": "HIGHMAN, Wantché",
+      "title": "V8",
+      "artist": "Lamoula$",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 42,
-      "title": "ORGANISATION",
-      "artist": "Daayvx, Lamine Lossa",
+      "title": "Tonton",
+      "artist": "ADEBA KONAN",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 43,
-      "title": "BADMAN GANGSTA",
-      "artist": "Asake, Tiakola",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 44,
-      "title": "Some of Your Love",
-      "artist": "PARTYNEXTDOOR",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 45,
-      "title": "10 MINUTES",
-      "artist": "6uff, ODUMODUBLVCK",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 46,
-      "title": "I Can’t Wait",
-      "artist": "Phoebe Bridgers",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 47,
       "title": "Attraper pour laisser",
       "artist": "Serge Beynaud",
       "mov": "=",
       "streams": 0
     },
     {
+      "pos": 44,
+      "title": "Intro",
+      "artist": "ADM lamelo",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 45,
+      "title": "Tôpkor",
+      "artist": "The shirurgian on the beatz, JR2X, NAGADA,",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 46,
+      "title": "Biama Brut Reverse",
+      "artist": "Oyoki Onanayo, Renard Barakissa, Kadirov Mania",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 47,
+      "title": "SANS STR€SS€",
+      "artist": "Goh Dedi, 8MÉDUSA",
+      "mov": "=",
+      "streams": 0
+    },
+    {
       "pos": 48,
-      "title": "Méchant",
-      "artist": "Zayi, Didi B",
+      "title": "Kpata kpata",
+      "artist": "STEPHEN IDOLO",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 49,
-      "title": "BLOQUÉ",
-      "artist": "Genezio",
+      "title": "Gratitude",
+      "artist": "Asake",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 50,
-      "title": "SANS STR€SS€",
-      "artist": "Goh Dedi, 8MÉDUSA",
+      "title": "Méchant",
+      "artist": "Zayi, Didi B",
       "mov": "=",
       "streams": 0
     }
