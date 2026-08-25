@@ -445,15 +445,15 @@
     },
     {
       "pos": 14,
-      "title": "DIYILEM & BAZARHOFF : GENIUS",
-      "artist": "Didi B",
+      "title": "PRINCE MOULA$",
+      "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 15,
-      "title": "PRINCE MOULA$",
-      "artist": "Lamoula$",
+      "title": "DIYILEM & BAZARHOFF : GENIUS",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
@@ -508,15 +508,15 @@
     },
     {
       "pos": 23,
-      "title": "Formule 7",
-      "artist": "Fally Ipupa",
+      "title": "JEUNE RICHE & CELEBRE",
+      "artist": "THB",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 24,
-      "title": "JEUNE RICHE & CELEBRE",
-      "artist": "THB",
+      "title": "Formule 7",
+      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
@@ -578,15 +578,15 @@
     },
     {
       "pos": 33,
-      "title": "IGBO",
-      "artist": "Didi B",
+      "title": "Poison Ou Antidote",
+      "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 34,
-      "title": "Poison Ou Antidote",
-      "artist": "Dadju",
+      "title": "IGBO",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
@@ -669,22 +669,22 @@
     },
     {
       "pos": 46,
-      "title": "GOUGNON (feat. Wantché)",
-      "artist": "SK 07, Wantché",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 47,
       "title": "Tokooos II",
       "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 47,
+      "title": "Diamant Noir",
+      "artist": "Werenoi",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 48,
-      "title": "BAHI",
-      "artist": "Wantché, OG Mahilet",
+      "title": "GOUGNON (feat. Wantché)",
+      "artist": "SK 07, Wantché",
       "type": "Album",
       "mov": "="
     },
@@ -697,8 +697,8 @@
     },
     {
       "pos": 50,
-      "title": "Rien du Tout",
-      "artist": "Josey",
+      "title": "BAHI",
+      "artist": "Wantché, OG Mahilet",
       "type": "Album",
       "mov": "="
     }
