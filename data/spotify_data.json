@@ -424,43 +424,43 @@
     },
     {
       "pos": 11,
-      "title": "Mélo",
-      "artist": "Tiakola",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 12,
       "title": "DACHIBA KOUMGBA TCHAIBA",
       "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 13,
-      "title": "PRINCE MOULA$",
-      "artist": "Lamoula$",
+      "pos": 12,
+      "title": "Mélo",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 14,
+      "pos": 13,
       "title": "LVDG PACK 2",
       "artist": "TRK.",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 15,
+      "pos": 14,
       "title": "DIYILEM & BAZARHOFF : GENIUS",
       "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 16,
+      "pos": 15,
       "title": "JEUNE & RICHE",
       "artist": "Himra",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 16,
+      "title": "PRINCE MOULA$",
+      "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
@@ -494,15 +494,15 @@
     },
     {
       "pos": 21,
-      "title": "BIG POPPA",
-      "artist": "Philipayne",
+      "title": "JEUNE RICHE & CELEBRE",
+      "artist": "THB",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 22,
-      "title": "JEUNE RICHE & CELEBRE",
-      "artist": "THB",
+      "title": "BIG POPPA",
+      "artist": "Philipayne",
       "type": "Album",
       "mov": "="
     },
@@ -585,15 +585,15 @@
     },
     {
       "pos": 34,
-      "title": "1X",
-      "artist": "Himra",
+      "title": "Gaou la (feat. 6uff)",
+      "artist": "Didi B, 6uff",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 35,
-      "title": "Gaou la (feat. 6uff)",
-      "artist": "Didi B, 6uff",
+      "title": "1X",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
@@ -606,15 +606,15 @@
     },
     {
       "pos": 37,
-      "title": "IGBO",
-      "artist": "Didi B",
+      "title": "BDLM VOL.1",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 38,
-      "title": "BDLM VOL.1",
-      "artist": "Tiakola",
+      "title": "IGBO",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
@@ -697,8 +697,8 @@
     },
     {
       "pos": 50,
-      "title": "LVDG PACK 2 (Deluxe)",
-      "artist": "TRK.",
+      "title": "NI",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     }
