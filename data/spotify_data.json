@@ -501,15 +501,15 @@
     },
     {
       "pos": 22,
-      "title": "BIG POPPA",
-      "artist": "Philipayne",
+      "title": "Formule 7",
+      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 23,
-      "title": "Formule 7",
-      "artist": "Fally Ipupa",
+      "title": "BIG POPPA",
+      "artist": "Philipayne",
       "type": "Album",
       "mov": "="
     },
@@ -564,29 +564,29 @@
     },
     {
       "pos": 31,
-      "title": "Mélo Décalé",
-      "artist": "Tiakola",
+      "title": "Gaou la (feat. 6uff)",
+      "artist": "Didi B, 6uff",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 32,
-      "title": "BABI TAPE Vol.1",
-      "artist": "Babi Tape",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 33,
       "title": "Poison Ou Antidote",
       "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 33,
+      "title": "Mélo Décalé",
+      "artist": "Tiakola",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 34,
-      "title": "Gaou la (feat. 6uff)",
-      "artist": "Didi B, 6uff",
+      "title": "BABI TAPE Vol.1",
+      "artist": "Babi Tape",
       "type": "Album",
       "mov": "="
     },
@@ -599,36 +599,36 @@
     },
     {
       "pos": 36,
-      "title": "Armageddon",
-      "artist": "døpelym, Himra, Genezio",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 37,
       "title": "BDLM VOL.1",
       "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 38,
-      "title": "IGBO",
-      "artist": "Didi B",
+      "pos": 37,
+      "title": "Armageddon",
+      "artist": "døpelym, Himra, Genezio",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 39,
+      "pos": 38,
       "title": "Gentleman 2.0",
       "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 40,
+      "pos": 39,
       "title": "MERCON2BABIÈRE",
       "artist": "Ameka Zrai",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 40,
+      "title": "IGBO",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
@@ -669,8 +669,8 @@
     },
     {
       "pos": 46,
-      "title": "Juventus Nueva Era (Deluxe Edition)",
-      "artist": "Didi B",
+      "title": "Tokooos II",
+      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
@@ -683,8 +683,8 @@
     },
     {
       "pos": 48,
-      "title": "Tokooos II",
-      "artist": "Fally Ipupa",
+      "title": "Juventus Nueva Era (Deluxe Edition)",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
