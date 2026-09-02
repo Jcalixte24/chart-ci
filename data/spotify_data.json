@@ -438,15 +438,15 @@
     },
     {
       "pos": 13,
-      "title": "LVDG PACK 2",
-      "artist": "TRK.",
+      "title": "JEUNE & RICHE",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 14,
-      "title": "JEUNE & RICHE",
-      "artist": "Himra",
+      "title": "LVDG PACK 2",
+      "artist": "TRK.",
       "type": "Album",
       "mov": "="
     },
@@ -459,15 +459,15 @@
     },
     {
       "pos": 16,
-      "title": "FREELYM",
-      "artist": "døpelym",
+      "title": "BIG AKA 4 AKA KAI",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 17,
-      "title": "BIG AKA 4 AKA KAI",
-      "artist": "Himra",
+      "title": "FREELYM",
+      "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
@@ -494,22 +494,22 @@
     },
     {
       "pos": 21,
-      "title": "PRINCE MOULA$",
-      "artist": "Lamoula$",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 22,
       "title": "Formule 7",
       "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 23,
+      "pos": 22,
       "title": "WAWA",
       "artist": "Kodes, Himra",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 23,
+      "title": "PRINCE MOULA$",
+      "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
@@ -550,15 +550,15 @@
     },
     {
       "pos": 29,
-      "title": "M.I.L.S 4",
-      "artist": "Ninho",
+      "title": "Gaou la (feat. 6uff)",
+      "artist": "Didi B, 6uff",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 30,
-      "title": "Gaou la (feat. 6uff)",
-      "artist": "Didi B, 6uff",
+      "title": "M.I.L.S 4",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
@@ -606,15 +606,15 @@
     },
     {
       "pos": 37,
-      "title": "Armageddon",
-      "artist": "døpelym, Himra, Genezio",
+      "title": "Gentleman 2.0",
+      "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 38,
-      "title": "Gentleman 2.0",
-      "artist": "Dadju",
+      "title": "Armageddon",
+      "artist": "døpelym, Himra, Genezio",
       "type": "Album",
       "mov": "="
     },
@@ -655,15 +655,15 @@
     },
     {
       "pos": 44,
-      "title": "INVASION TOME II",
-      "artist": "Sindika",
+      "title": "Juventus Nueva Era",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 45,
-      "title": "Juventus Nueva Era",
-      "artist": "Didi B",
+      "title": "INVASION TOME II",
+      "artist": "Sindika",
       "type": "Album",
       "mov": "="
     },
@@ -697,8 +697,8 @@
     },
     {
       "pos": 50,
-      "title": "Juventus Nueva Era (Deluxe Edition)",
-      "artist": "Didi B",
+      "title": "Goh Dedi",
+      "artist": "-",
       "type": "Album",
       "mov": "="
     }
