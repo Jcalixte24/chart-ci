@@ -79,7 +79,7 @@
     },
     {
       "pos": 12,
-      "title": "As We Get High",
+      "title": "As We Get High (feat. Omah Lay & BEAM)",
       "artist": "bees & honey, OMAH LAY, BEAM, Gyptian",
       "mov": "=",
       "streams": 0
@@ -466,22 +466,22 @@
     },
     {
       "pos": 17,
+      "title": "JEUNE RICHE & CELEBRE",
+      "artist": "THB",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 18,
       "title": "FREELYM",
       "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 18,
+      "pos": 19,
       "title": "XX",
       "artist": "Fally Ipupa",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 19,
-      "title": "JEUNE RICHE & CELEBRE",
-      "artist": "THB",
       "type": "Album",
       "mov": "="
     },
@@ -515,15 +515,15 @@
     },
     {
       "pos": 24,
-      "title": "BIG POPPA",
-      "artist": "Philipayne",
+      "title": "Ipséité",
+      "artist": "Damso",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 25,
-      "title": "Ipséité",
-      "artist": "Damso",
+      "title": "BIG POPPA",
+      "artist": "Philipayne",
       "type": "Album",
       "mov": "="
     },
@@ -585,15 +585,15 @@
     },
     {
       "pos": 34,
-      "title": "Mélo Décalé",
-      "artist": "Tiakola",
+      "title": "1X",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 35,
-      "title": "1X",
-      "artist": "Himra",
+      "title": "Mélo Décalé",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
@@ -641,15 +641,15 @@
     },
     {
       "pos": 42,
-      "title": "WHO IS DØPE?",
-      "artist": "døpelym",
+      "title": "INVASION TOME II",
+      "artist": "Sindika",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 43,
-      "title": "Salo",
-      "artist": "Tayc, Didi B",
+      "title": "WHO IS DØPE?",
+      "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
@@ -662,8 +662,8 @@
     },
     {
       "pos": 45,
-      "title": "INVASION TOME II",
-      "artist": "Sindika",
+      "title": "Salo",
+      "artist": "Tayc, Didi B",
       "type": "Album",
       "mov": "="
     },
