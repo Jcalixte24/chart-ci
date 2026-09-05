@@ -508,15 +508,15 @@
     },
     {
       "pos": 23,
-      "title": "Ipséité",
-      "artist": "Damso",
+      "title": "M$NEY",
+      "artist": "Asake",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 24,
-      "title": "M$NEY",
-      "artist": "Asake",
+      "title": "Ipséité",
+      "artist": "Damso",
       "type": "Album",
       "mov": "="
     },
@@ -578,15 +578,15 @@
     },
     {
       "pos": 33,
-      "title": "BABI TAPE Vol.1",
-      "artist": "Babi Tape",
+      "title": "1X",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 34,
-      "title": "1X",
-      "artist": "Himra",
+      "title": "BABI TAPE Vol.1",
+      "artist": "Babi Tape",
       "type": "Album",
       "mov": "="
     },
@@ -599,15 +599,15 @@
     },
     {
       "pos": 36,
-      "title": "BDLM VOL.1",
-      "artist": "Tiakola",
+      "title": "Gentleman 2.0",
+      "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 37,
-      "title": "Gentleman 2.0",
-      "artist": "Dadju",
+      "title": "BDLM VOL.1",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
@@ -641,29 +641,29 @@
     },
     {
       "pos": 42,
+      "title": "MÉTAMORPHOSE",
+      "artist": "SK 07",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 43,
       "title": "INVASION TOME II",
       "artist": "Sindika",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 43,
+      "pos": 44,
       "title": "Juventus Nueva Era",
       "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 44,
+      "pos": 45,
       "title": "Tokooos II",
       "artist": "Fally Ipupa",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 45,
-      "title": "WHO IS DØPE?",
-      "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
@@ -676,29 +676,29 @@
     },
     {
       "pos": 47,
-      "title": "Salo",
-      "artist": "Tayc, Didi B",
+      "title": "WHO IS DØPE?",
+      "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 48,
-      "title": "MÉTAMORPHOSE",
-      "artist": "SK 07",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 49,
       "title": "LA MELO EST GANGX",
       "artist": "Gazo, Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 49,
+      "title": "Salo",
+      "artist": "Tayc, Didi B",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 50,
-      "title": "NI",
-      "artist": "Ninho",
+      "title": "KMT",
+      "artist": "Gazo",
       "type": "Album",
       "mov": "="
     }
