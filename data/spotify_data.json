@@ -826,13 +826,13 @@
     },
     {
       "pos": 21,
-      "name": "GENERATION NERF",
+      "name": "Gazo",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 22,
-      "name": "Gazo",
+      "name": "GENERATION NERF",
       "genres": "Artiste",
       "streams": 0
     },
@@ -844,13 +844,13 @@
     },
     {
       "pos": 24,
-      "name": "AsapJo",
+      "name": "DJ Arafat",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 25,
-      "name": "DJ Arafat",
+      "name": "AsapJo",
       "genres": "Artiste",
       "streams": 0
     },
@@ -946,31 +946,31 @@
     },
     {
       "pos": 41,
-      "name": "Doupi Papillon",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 42,
       "name": "Jr La Melo",
       "genres": "Artiste",
       "streams": 0
     },
     {
-      "pos": 43,
-      "name": "Lamine løssa",
+      "pos": 42,
+      "name": "Doupi Papillon",
       "genres": "Artiste",
       "streams": 0
     },
     {
-      "pos": 44,
+      "pos": 43,
       "name": "SDM",
       "genres": "Artiste",
       "streams": 0
     },
     {
-      "pos": 45,
+      "pos": 44,
       "name": "Kiff No Beat",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
+      "pos": 45,
+      "name": "Lamine løssa",
       "genres": "Artiste",
       "streams": 0
     },
@@ -982,13 +982,13 @@
     },
     {
       "pos": 47,
-      "name": "Lesky",
+      "name": "OG Mahilet",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 48,
-      "name": "OG Mahilet",
+      "name": "Lesky",
       "genres": "Artiste",
       "streams": 0
     },
