@@ -529,8 +529,8 @@
     },
     {
       "pos": 26,
-      "title": "PRINCE MOULA$",
-      "artist": "Lamoula$",
+      "title": "Gaou la (feat. 6uff)",
+      "artist": "Didi B, 6uff",
       "type": "Album",
       "mov": "="
     },
@@ -550,22 +550,22 @@
     },
     {
       "pos": 29,
-      "title": "Gaou la (feat. 6uff)",
-      "artist": "Didi B, 6uff",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 30,
       "title": "M.I.L.S 4",
       "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 31,
+      "pos": 30,
       "title": "M.I.L.S 3",
       "artist": "Ninho",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 31,
+      "title": "PRINCE MOULA$",
+      "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
@@ -634,71 +634,71 @@
     },
     {
       "pos": 41,
-      "title": "IGBO",
-      "artist": "Didi B",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 42,
       "title": "MÉTAMORPHOSE",
       "artist": "SK 07",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 43,
-      "title": "INVASION TOME II",
-      "artist": "Sindika",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 44,
-      "title": "Juventus Nueva Era",
+      "pos": 42,
+      "title": "IGBO",
       "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 45,
+      "pos": 43,
       "title": "Tokooos II",
       "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 44,
+      "title": "INVASION TOME II",
+      "artist": "Sindika",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 45,
+      "title": "Juventus Nueva Era",
+      "artist": "Didi B",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 46,
-      "title": "Diamant Noir",
-      "artist": "Werenoi",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 47,
-      "title": "WHO IS DØPE?",
-      "artist": "døpelym",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 48,
       "title": "LA MELO EST GANGX",
       "artist": "Gazo, Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 47,
+      "title": "Diamant Noir",
+      "artist": "Werenoi",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 48,
+      "title": "WHO IS DØPE?",
+      "artist": "døpelym",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 49,
-      "title": "Salo",
-      "artist": "Tayc, Didi B",
+      "title": "KMT",
+      "artist": "Gazo",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 50,
-      "title": "KMT",
-      "artist": "Gazo",
+      "title": "Salo",
+      "artist": "Tayc, Didi B",
       "type": "Album",
       "mov": "="
     }
