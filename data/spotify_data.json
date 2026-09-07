@@ -473,8 +473,8 @@
     },
     {
       "pos": 18,
-      "title": "FREELYM",
-      "artist": "døpelym",
+      "title": "Jefe",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
@@ -487,8 +487,8 @@
     },
     {
       "pos": 20,
-      "title": "Jefe",
-      "artist": "Ninho",
+      "title": "FREELYM",
+      "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
@@ -550,29 +550,29 @@
     },
     {
       "pos": 29,
-      "title": "M.I.L.S 4",
-      "artist": "Ninho",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 30,
       "title": "M.I.L.S 3",
       "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 30,
+      "title": "M.I.L.S 4",
+      "artist": "Ninho",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 31,
-      "title": "PRINCE MOULA$",
-      "artist": "Lamoula$",
+      "title": "Poison Ou Antidote",
+      "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 32,
-      "title": "Poison Ou Antidote",
-      "artist": "Dadju",
+      "title": "PRINCE MOULA$",
+      "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
@@ -627,15 +627,15 @@
     },
     {
       "pos": 40,
-      "title": "MATATA",
-      "artist": "Tazeboy",
+      "title": "MÉTAMORPHOSE",
+      "artist": "SK 07",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 41,
-      "title": "MÉTAMORPHOSE",
-      "artist": "SK 07",
+      "title": "MATATA",
+      "artist": "Tazeboy",
       "type": "Album",
       "mov": "="
     },
@@ -655,29 +655,29 @@
     },
     {
       "pos": 44,
-      "title": "INVASION TOME II",
-      "artist": "Sindika",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 45,
-      "title": "Juventus Nueva Era",
-      "artist": "Didi B",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 46,
       "title": "LA MELO EST GANGX",
       "artist": "Gazo, Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 47,
+      "pos": 45,
+      "title": "INVASION TOME II",
+      "artist": "Sindika",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 46,
       "title": "Diamant Noir",
       "artist": "Werenoi",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 47,
+      "title": "Juventus Nueva Era",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
@@ -697,8 +697,8 @@
     },
     {
       "pos": 50,
-      "title": "Salo",
-      "artist": "Tayc, Didi B",
+      "title": "NI",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     }
