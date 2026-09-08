@@ -808,13 +808,13 @@
     },
     {
       "pos": 18,
-      "name": "Ste Milano",
+      "name": "La Fouine",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 19,
-      "name": "La Fouine",
+      "name": "Ste Milano",
       "genres": "Artiste",
       "streams": 0
     },
@@ -880,13 +880,13 @@
     },
     {
       "pos": 30,
-      "name": "La Mano 1.9",
+      "name": "Werenoi",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 31,
-      "name": "Werenoi",
+      "name": "La Mano 1.9",
       "genres": "Artiste",
       "streams": 0
     },
@@ -910,19 +910,19 @@
     },
     {
       "pos": 35,
-      "name": "Tripa Gninnin",
+      "name": "Asake",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 36,
-      "name": "Josey",
+      "name": "Tripa Gninnin",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 37,
-      "name": "Asake",
+      "name": "Josey",
       "genres": "Artiste",
       "streams": 0
     },
@@ -934,13 +934,13 @@
     },
     {
       "pos": 39,
-      "name": "3xdavs",
+      "name": "Philipayne",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 40,
-      "name": "Philipayne",
+      "name": "3xdavs",
       "genres": "Artiste",
       "streams": 0
     },
@@ -958,25 +958,25 @@
     },
     {
       "pos": 43,
-      "name": "Doupi Papillon",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 44,
       "name": "SDM",
       "genres": "Artiste",
       "streams": 0
     },
     {
+      "pos": 44,
+      "name": "Doupi Papillon",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
       "pos": 45,
-      "name": "Lamine løssa",
+      "name": "OG Mahilet",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 46,
-      "name": "OG Mahilet",
+      "name": "Lamine løssa",
       "genres": "Artiste",
       "streams": 0
     },
@@ -994,13 +994,13 @@
     },
     {
       "pos": 49,
-      "name": "VDA",
+      "name": "KOMMANDER SAMO",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 50,
-      "name": "KOMMANDER SAMO",
+      "name": "VDA",
       "genres": "Artiste",
       "streams": 0
     }
