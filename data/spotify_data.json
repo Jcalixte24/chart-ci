@@ -459,29 +459,29 @@
     },
     {
       "pos": 16,
-      "title": "BIG AKA 4 AKA KAI",
-      "artist": "Himra",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 17,
       "title": "JEUNE RICHE & CELEBRE",
       "artist": "THB",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 17,
+      "title": "BIG AKA 4 AKA KAI",
+      "artist": "Himra",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 18,
-      "title": "Jefe",
-      "artist": "Ninho",
+      "title": "XX",
+      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 19,
-      "title": "XX",
-      "artist": "Fally Ipupa",
+      "title": "Jefe",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
@@ -501,15 +501,15 @@
     },
     {
       "pos": 22,
-      "title": "WAWA",
-      "artist": "Kodes, Himra",
+      "title": "M$NEY",
+      "artist": "Asake",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 23,
-      "title": "M$NEY",
-      "artist": "Asake",
+      "title": "WAWA",
+      "artist": "Kodes, Himra",
       "type": "Album",
       "mov": "="
     },
@@ -529,15 +529,15 @@
     },
     {
       "pos": 26,
-      "title": "Gaou la (feat. 6uff)",
-      "artist": "Didi B, 6uff",
+      "title": "R.F.W (Ready For War)",
+      "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 27,
-      "title": "R.F.W (Ready For War)",
-      "artist": "Lamoula$",
+      "title": "Gaou la (feat. 6uff)",
+      "artist": "Didi B, 6uff",
       "type": "Album",
       "mov": "="
     },
@@ -571,36 +571,36 @@
     },
     {
       "pos": 32,
-      "title": "PRINCE MOULA$",
-      "artist": "Lamoula$",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 33,
       "title": "1X",
       "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 34,
+      "pos": 33,
       "title": "BABI TAPE Vol.1",
       "artist": "Babi Tape",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 34,
+      "title": "PRINCE MOULA$",
+      "artist": "Lamoula$",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 35,
-      "title": "Mélo Décalé",
-      "artist": "Tiakola",
+      "title": "Gentleman 2.0",
+      "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 36,
-      "title": "Gentleman 2.0",
-      "artist": "Dadju",
+      "title": "Mélo Décalé",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
@@ -613,15 +613,15 @@
     },
     {
       "pos": 38,
-      "title": "Armageddon",
-      "artist": "døpelym, Himra, Genezio",
+      "title": "MERCON2BABIÈRE",
+      "artist": "Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 39,
-      "title": "MERCON2BABIÈRE",
-      "artist": "Ameka Zrai",
+      "title": "Armageddon",
+      "artist": "døpelym, Himra, Genezio",
       "type": "Album",
       "mov": "="
     },
@@ -662,36 +662,36 @@
     },
     {
       "pos": 45,
-      "title": "INVASION TOME II",
-      "artist": "Sindika",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 46,
       "title": "Diamant Noir",
       "artist": "Werenoi",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 47,
+      "pos": 46,
       "title": "Juventus Nueva Era",
       "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 47,
+      "title": "INVASION TOME II",
+      "artist": "Sindika",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 48,
-      "title": "WHO IS DØPE?",
-      "artist": "døpelym",
+      "title": "KMT",
+      "artist": "Gazo",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 49,
-      "title": "KMT",
-      "artist": "Gazo",
+      "title": "WHO IS DØPE?",
+      "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
