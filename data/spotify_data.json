@@ -473,15 +473,15 @@
     },
     {
       "pos": 18,
-      "title": "XX",
-      "artist": "Fally Ipupa",
+      "title": "Jefe",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 19,
-      "title": "Jefe",
-      "artist": "Ninho",
+      "title": "XX",
+      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
@@ -522,15 +522,15 @@
     },
     {
       "pos": 25,
-      "title": "BIG POPPA",
-      "artist": "Philipayne",
+      "title": "R.F.W (Ready For War)",
+      "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 26,
-      "title": "R.F.W (Ready For War)",
-      "artist": "Lamoula$",
+      "title": "BIG POPPA",
+      "artist": "Philipayne",
       "type": "Album",
       "mov": "="
     },
@@ -585,15 +585,15 @@
     },
     {
       "pos": 34,
-      "title": "PRINCE MOULA$",
-      "artist": "Lamoula$",
+      "title": "Gentleman 2.0",
+      "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 35,
-      "title": "Gentleman 2.0",
-      "artist": "Dadju",
+      "title": "BDLM VOL.1",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
@@ -606,29 +606,29 @@
     },
     {
       "pos": 37,
-      "title": "BDLM VOL.1",
-      "artist": "Tiakola",
+      "title": "PRINCE MOULA$",
+      "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 38,
+      "title": "MÉTAMORPHOSE",
+      "artist": "SK 07",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 39,
       "title": "MERCON2BABIÈRE",
       "artist": "Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 39,
+      "pos": 40,
       "title": "Armageddon",
       "artist": "døpelym, Himra, Genezio",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 40,
-      "title": "MÉTAMORPHOSE",
-      "artist": "SK 07",
       "type": "Album",
       "mov": "="
     },
@@ -648,15 +648,15 @@
     },
     {
       "pos": 43,
-      "title": "Tokooos II",
-      "artist": "Fally Ipupa",
+      "title": "LA MELO EST GANGX",
+      "artist": "Gazo, Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 44,
-      "title": "LA MELO EST GANGX",
-      "artist": "Gazo, Tiakola",
+      "title": "Tokooos II",
+      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
@@ -676,15 +676,15 @@
     },
     {
       "pos": 47,
-      "title": "INVASION TOME II",
-      "artist": "Sindika",
+      "title": "KMT",
+      "artist": "Gazo",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 48,
-      "title": "KMT",
-      "artist": "Gazo",
+      "title": "INVASION TOME II",
+      "artist": "Sindika",
       "type": "Album",
       "mov": "="
     },
@@ -697,7 +697,7 @@
     },
     {
       "pos": 50,
-      "title": "NI",
+      "title": "M.I.L.S 2.0",
       "artist": "Ninho",
       "type": "Album",
       "mov": "="
