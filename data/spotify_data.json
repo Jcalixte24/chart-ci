@@ -23,15 +23,15 @@
     },
     {
       "pos": 4,
-      "title": "LE BARA",
-      "artist": "Elow'n, TRK., Widgunz",
+      "title": "BIRDMAN & WEEZY",
+      "artist": "AsapJo, Himra",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 5,
-      "title": "BIRDMAN & WEEZY",
-      "artist": "AsapJo, Himra",
+      "title": "LE BARA",
+      "artist": "Elow'n, TRK., Widgunz",
       "mov": "=",
       "streams": 0
     },
@@ -44,8 +44,8 @@
     },
     {
       "pos": 7,
-      "title": "Les mêmes coeurs",
-      "artist": "David Okit",
+      "title": "Sorry - Nouvelle École",
+      "artist": "Badara, Nayte, Nouvelle École",
       "mov": "=",
       "streams": 0
     },
@@ -58,92 +58,92 @@
     },
     {
       "pos": 9,
-      "title": "Heaven Baby (feat. ZAYN)",
-      "artist": "Ayra Starr, ZAYN",
+      "title": "Les mêmes coeurs",
+      "artist": "David Okit",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 10,
-      "title": "TOLEKA",
-      "artist": "SK 07",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 11,
-      "title": "Baba",
-      "artist": "Hotkeed, Zlatan",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 12,
-      "title": "Gratitude",
-      "artist": "Asake",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 13,
       "title": "Uber",
       "artist": "Franglish, KeBlack, Mauvais djo",
       "mov": "=",
       "streams": 0
     },
     {
+      "pos": 11,
+      "title": "TOLEKA",
+      "artist": "SK 07",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 12,
+      "title": "Baba",
+      "artist": "Hotkeed, Zlatan",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 13,
+      "title": "Dégoût",
+      "artist": "OG Mahilet",
+      "mov": "=",
+      "streams": 0
+    },
+    {
       "pos": 14,
-      "title": "Sorry - Nouvelle École",
-      "artist": "Badara, Nayte, Nouvelle École",
+      "title": "CHARO c’est CHARO",
+      "artist": "Kadirov Mania",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 15,
-      "title": "apprenti",
-      "artist": "HIGHMAN, Wantché",
+      "title": "Heaven Baby (feat. ZAYN)",
+      "artist": "Ayra Starr, ZAYN",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 16,
-      "title": "Ah Dje Dje",
-      "artist": "Mauvais djo, Chily",
+      "title": "SORRY",
+      "artist": "ODK.",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 17,
-      "title": "JE PEUX PAS",
-      "artist": "Wantché",
+      "title": "LEVEL UP - Nouvelle École",
+      "artist": "Nayte, Nouvelle École",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 18,
+      "title": "NO LIMIT",
+      "artist": "Tiakola, KLN",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 19,
       "title": "SAYA",
       "artist": "Tino thebenzoboy",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 19,
-      "title": "Joker",
-      "artist": "Sindika",
-      "mov": "=",
-      "streams": 0
-    },
-    {
       "pos": 20,
-      "title": "FLOW",
-      "artist": "NTH$, døpelym",
+      "title": "Y’a pas Djai",
+      "artist": "Babi Tape, Wantché, Widgunz, Didi B",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 21,
-      "title": "Sage - Nouvelle École",
-      "artist": "YANAMKO, Nouvelle École",
+      "title": "apprenti",
+      "artist": "HIGHMAN, Wantché",
       "mov": "=",
       "streams": 0
     },
@@ -156,197 +156,197 @@
     },
     {
       "pos": 23,
-      "title": "Si j'savais",
-      "artist": "Tiakola",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 24,
-      "title": "Chelebouka",
-      "artist": "Zayi, Didi B",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 25,
-      "title": "Kali",
-      "artist": "Saifond, Djelykaba bintou",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 26,
-      "title": "Changer la Donne",
-      "artist": "Josey",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 27,
       "title": "J'te cherche encore",
       "artist": "kurry!",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 28,
-      "title": "Special",
-      "artist": "Dave, Tiakola",
+      "pos": 24,
+      "title": "Gratitude",
+      "artist": "Asake",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 29,
+      "pos": 25,
       "title": "SaWaDiKa",
       "artist": "LISA",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 30,
-      "title": "By Myself (feat. Dj E Money & G6reddot)",
-      "artist": "Kodak Black, Dj E Money, G6reddot",
+      "pos": 26,
+      "title": "Allo Doudou",
+      "artist": "Niska, litleboy lsbeats767, Miimii KDS",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 31,
-      "title": "Everlasting Love",
-      "artist": "Sam Smith",
+      "pos": 27,
+      "title": "FLOW",
+      "artist": "NTH$, døpelym",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 32,
-      "title": "Dégoût",
-      "artist": "OG Mahilet",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 33,
-      "title": "SALAIRE",
-      "artist": "THB, KRM",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 34,
-      "title": "GASS (feat. Travis Scott)",
-      "artist": "Nemzzz, Travis Scott",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 35,
-      "title": "TCHAIPOYA",
-      "artist": "6kohSly, Greedbanks",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 36,
-      "title": "Sur la lune",
-      "artist": "Bigflo & Oli",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 37,
-      "title": "Amour toxic",
-      "artist": "Dadju",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 38,
-      "title": "FREESTYLE SGL #1",
-      "artist": "La b 7",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 39,
-      "title": "La Jeep de JP",
-      "artist": "Babi Tape, Doupi Papillon, Tazeboy, PSK, NOVA BINKS",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 40,
-      "title": "Formidable",
-      "artist": "Stromae",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 41,
+      "pos": 28,
       "title": "Pangor (Swalalala)",
       "artist": "Djaksparo",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 42,
-      "title": "Jesus Oh",
-      "artist": "M I L O, Levixone, Gaise Baba",
+      "pos": 29,
+      "title": "Triple V",
+      "artist": "Werenoi, Damso, Ninho",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 43,
-      "title": "Blessings (with Asake) - Remix",
-      "artist": "Fridayy, Asake",
+      "pos": 30,
+      "title": "Y'A PAS MOUZINGUE (feat. Philipayne)",
+      "artist": "Himra, Philipayne",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 44,
-      "title": "NOTRE DAME",
-      "artist": "Gazo, Tiakola",
+      "pos": 31,
+      "title": "TCHAIPOYA",
+      "artist": "6kohSly, Greedbanks",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 45,
-      "title": "Dubaï",
-      "artist": "Himra",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 46,
-      "title": "i'm a mess",
-      "artist": "OMAH LAY",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 47,
-      "title": "Ronnie Kray",
-      "artist": "Landy, Tiakola",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 48,
+      "pos": 32,
       "title": "Ololo",
       "artist": "Heaven Sam, Didi B, Afro Live",
       "mov": "=",
       "streams": 0
     },
     {
+      "pos": 33,
+      "title": "MÉTAL",
+      "artist": "KAGE",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 34,
+      "title": "By Myself (feat. Dj E Money & G6reddot)",
+      "artist": "Kodak Black, Dj E Money, G6reddot",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 35,
+      "title": "Djourou",
+      "artist": "Tiken Jah Fakoly",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 36,
+      "title": "Ε. Signaler",
+      "artist": "Damso",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 37,
+      "title": "VIVE LA MONNAIE",
+      "artist": "GIMS, Mauvais djo",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 38,
+      "title": "Dingari",
+      "artist": "Mauvais djo",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 39,
+      "title": "Dieu merci",
+      "artist": "Dadju, Tiakola",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 40,
+      "title": "God's Plan",
+      "artist": "Drake",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 41,
+      "title": "Zoo",
+      "artist": "døpelym, OG Mahilet",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 42,
+      "title": "Faut Mettre Dans Dieu",
+      "artist": "M I L O",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 43,
+      "title": "Commando",
+      "artist": "Ks Bloom",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 44,
+      "title": "Bankroll",
+      "artist": "Slimelife Shawty",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 45,
+      "title": "YESSOUÉ",
+      "artist": "DJ KEROZEN",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 46,
+      "title": "Diyilem",
+      "artist": "Didi B",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 47,
+      "title": "Hold Somebody",
+      "artist": "Young Jonn",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 48,
+      "title": "SANS STR€SS€",
+      "artist": "Goh Dedi, 8MÉDUSA",
+      "mov": "=",
+      "streams": 0
+    },
+    {
       "pos": 49,
-      "title": "GANGSTA",
-      "artist": "Bamby, Himra",
+      "title": "Bere Mole",
+      "artist": "Kayode",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 50,
-      "title": "Zaza Therapy",
-      "artist": "Lynothecosmoskid, Panther Stuff",
+      "title": "Laho",
+      "artist": "Shallipopi",
       "mov": "=",
       "streams": 0
     }
