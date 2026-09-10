@@ -772,13 +772,13 @@
     },
     {
       "pos": 12,
-      "name": "Tazeboy",
+      "name": "Sindika",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 13,
-      "name": "Sindika",
+      "name": "Tazeboy",
       "genres": "Artiste",
       "streams": 0
     },
@@ -790,13 +790,13 @@
     },
     {
       "pos": 15,
-      "name": "Tayc",
+      "name": "GIMS",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 16,
-      "name": "GIMS",
+      "name": "Tayc",
       "genres": "Artiste",
       "streams": 0
     },
@@ -838,25 +838,25 @@
     },
     {
       "pos": 23,
-      "name": "DJ Arafat",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 24,
       "name": "Suspect 95",
       "genres": "Artiste",
       "streams": 0
     },
     {
-      "pos": 25,
+      "pos": 24,
       "name": "AsapJo",
       "genres": "Artiste",
       "streams": 0
     },
     {
-      "pos": 26,
+      "pos": 25,
       "name": "Leto",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
+      "pos": 26,
+      "name": "Paulo Chakal",
       "genres": "Artiste",
       "streams": 0
     },
@@ -868,7 +868,7 @@
     },
     {
       "pos": 28,
-      "name": "Paulo Chakal",
+      "name": "DJ Arafat",
       "genres": "Artiste",
       "streams": 0
     },
@@ -940,31 +940,31 @@
     },
     {
       "pos": 40,
-      "name": "Kiff No Beat",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 41,
       "name": "3xdavs",
       "genres": "Artiste",
       "streams": 0
     },
     {
-      "pos": 42,
+      "pos": 41,
       "name": "Jr La Melo",
       "genres": "Artiste",
       "streams": 0
     },
     {
+      "pos": 42,
+      "name": "Kiff No Beat",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
       "pos": 43,
-      "name": "SDM",
+      "name": "OG Mahilet",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 44,
-      "name": "OG Mahilet",
+      "name": "SDM",
       "genres": "Artiste",
       "streams": 0
     },
@@ -976,31 +976,31 @@
     },
     {
       "pos": 46,
-      "name": "Lamine løssa",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 47,
-      "name": "La Rvfleuze",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 48,
       "name": "KOMMANDER SAMO",
       "genres": "Artiste",
       "streams": 0
     },
     {
+      "pos": 47,
+      "name": "Lamine løssa",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
+      "pos": 48,
+      "name": "La Rvfleuze",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
       "pos": 49,
-      "name": "Lesky",
+      "name": "Kadirov Mania",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 50,
-      "name": "VDA",
+      "name": "Lesky",
       "genres": "Artiste",
       "streams": 0
     }
