@@ -445,22 +445,22 @@
     },
     {
       "pos": 14,
+      "title": "JEUNE RICHE & CELEBRE",
+      "artist": "THB",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 15,
       "title": "DIYILEM & BAZARHOFF : GENIUS",
       "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 15,
+      "pos": 16,
       "title": "LVDG PACK 2",
       "artist": "TRK.",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 16,
-      "title": "JEUNE RICHE & CELEBRE",
-      "artist": "THB",
       "type": "Album",
       "mov": "="
     },
@@ -550,22 +550,22 @@
     },
     {
       "pos": 29,
-      "title": "BIG POPPA",
-      "artist": "Philipayne",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 30,
       "title": "ERMESEY - ÉCHAUFFEMENT",
       "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 31,
+      "pos": 30,
       "title": "Poison Ou Antidote",
       "artist": "Dadju",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 31,
+      "title": "BIG POPPA",
+      "artist": "Philipayne",
       "type": "Album",
       "mov": "="
     },
@@ -627,15 +627,15 @@
     },
     {
       "pos": 40,
-      "title": "PRINCE MOULA$",
-      "artist": "Lamoula$",
+      "title": "MATATA",
+      "artist": "Tazeboy",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 41,
-      "title": "MATATA",
-      "artist": "Tazeboy",
+      "title": "PRINCE MOULA$",
+      "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
@@ -648,35 +648,35 @@
     },
     {
       "pos": 43,
-      "title": "Tokooos II",
-      "artist": "Fally Ipupa",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 44,
-      "title": "Diamant Noir",
-      "artist": "Werenoi",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 45,
       "title": "KMT",
       "artist": "Gazo",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 44,
+      "title": "Tokooos II",
+      "artist": "Fally Ipupa",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 45,
+      "title": "Diamant Noir",
+      "artist": "Werenoi",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 46,
-      "title": "IGBO",
+      "title": "Juventus Nueva Era",
       "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 47,
-      "title": "Juventus Nueva Era",
+      "title": "IGBO",
       "artist": "Didi B",
       "type": "Album",
       "mov": "="
@@ -697,8 +697,8 @@
     },
     {
       "pos": 50,
-      "title": "WHO IS DØPE?",
-      "artist": "døpelym",
+      "title": "Goh Dedi",
+      "artist": "-",
       "type": "Album",
       "mov": "="
     }
