@@ -417,15 +417,15 @@
     },
     {
       "pos": 10,
-      "title": "MDMG",
-      "artist": "jam$co",
+      "title": "DACHIBA KOUMGBA TCHAIBA",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 11,
-      "title": "DACHIBA KOUMGBA TCHAIBA",
-      "artist": "Himra",
+      "title": "MDMG",
+      "artist": "jam$co",
       "type": "Album",
       "mov": "="
     },
@@ -459,15 +459,15 @@
     },
     {
       "pos": 16,
-      "title": "LVDG PACK 2",
-      "artist": "TRK.",
+      "title": "BIG AKA 4 AKA KAI",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 17,
-      "title": "BIG AKA 4 AKA KAI",
-      "artist": "Himra",
+      "title": "LVDG PACK 2",
+      "artist": "TRK.",
       "type": "Album",
       "mov": "="
     },
@@ -543,36 +543,36 @@
     },
     {
       "pos": 28,
-      "title": "M.I.L.S 4",
-      "artist": "Ninho",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 29,
-      "title": "Poison Ou Antidote",
-      "artist": "Dadju",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 30,
       "title": "MÉTAMORPHOSE",
       "artist": "SK 07",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 29,
+      "title": "M.I.L.S 4",
+      "artist": "Ninho",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 30,
+      "title": "Poison Ou Antidote",
+      "artist": "Dadju",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 31,
-      "title": "ERMESEY - ÉCHAUFFEMENT",
-      "artist": "døpelym",
+      "title": "1X",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 32,
-      "title": "1X",
-      "artist": "Himra",
+      "title": "ERMESEY - ÉCHAUFFEMENT",
+      "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
@@ -606,15 +606,15 @@
     },
     {
       "pos": 37,
-      "title": "Mélo Décalé",
-      "artist": "Tiakola",
+      "title": "MERCON2BABIÈRE",
+      "artist": "Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 38,
-      "title": "MERCON2BABIÈRE",
-      "artist": "Ameka Zrai",
+      "title": "Mélo Décalé",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
@@ -634,15 +634,15 @@
     },
     {
       "pos": 41,
-      "title": "MATATA",
-      "artist": "Tazeboy",
+      "title": "LA MELO EST GANGX",
+      "artist": "Gazo, Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 42,
-      "title": "LA MELO EST GANGX",
-      "artist": "Gazo, Tiakola",
+      "title": "MATATA",
+      "artist": "Tazeboy",
       "type": "Album",
       "mov": "="
     },
@@ -676,8 +676,8 @@
     },
     {
       "pos": 47,
-      "title": "Goh Dedi",
-      "artist": "-",
+      "title": "IGBO",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
@@ -690,15 +690,15 @@
     },
     {
       "pos": 49,
-      "title": "NI",
-      "artist": "Ninho",
+      "title": "Goh Dedi",
+      "artist": "-",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 50,
-      "title": "IGBO",
-      "artist": "Didi B",
+      "title": "NI",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     }
