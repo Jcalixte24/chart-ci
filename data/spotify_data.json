@@ -522,22 +522,22 @@
     },
     {
       "pos": 25,
+      "title": "Gaou la (feat. 6uff)",
+      "artist": "Didi B, 6uff",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 26,
       "title": "R.F.W (Ready For War)",
       "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 26,
+      "pos": 27,
       "title": "M.I.L.S 3",
       "artist": "Ninho",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 27,
-      "title": "Gaou la (feat. 6uff)",
-      "artist": "Didi B, 6uff",
       "type": "Album",
       "mov": "="
     },
@@ -550,15 +550,15 @@
     },
     {
       "pos": 29,
-      "title": "M.I.L.S 4",
-      "artist": "Ninho",
+      "title": "Poison Ou Antidote",
+      "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 30,
-      "title": "Poison Ou Antidote",
-      "artist": "Dadju",
+      "title": "M.I.L.S 4",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
@@ -578,22 +578,22 @@
     },
     {
       "pos": 33,
-      "title": "BIG POPPA",
-      "artist": "Philipayne",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 34,
       "title": "BABI TAPE Vol.1",
       "artist": "Babi Tape",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 35,
+      "pos": 34,
       "title": "Gentleman 2.0",
       "artist": "Dadju",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 35,
+      "title": "BIG POPPA",
+      "artist": "Philipayne",
       "type": "Album",
       "mov": "="
     },
@@ -613,36 +613,36 @@
     },
     {
       "pos": 38,
-      "title": "Mélo Décalé",
-      "artist": "Tiakola",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 39,
-      "title": "Armageddon",
-      "artist": "døpelym, Himra, Genezio",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 40,
       "title": "PRINCE MOULA$",
       "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 39,
+      "title": "Mélo Décalé",
+      "artist": "Tiakola",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 40,
+      "title": "Armageddon",
+      "artist": "døpelym, Himra, Genezio",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 41,
-      "title": "LA MELO EST GANGX",
-      "artist": "Gazo, Tiakola",
+      "title": "IGBO",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 42,
-      "title": "MATATA",
-      "artist": "Tazeboy",
+      "title": "Juventus Nueva Era",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
@@ -655,29 +655,29 @@
     },
     {
       "pos": 44,
+      "title": "LA MELO EST GANGX",
+      "artist": "Gazo, Tiakola",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 45,
+      "title": "MATATA",
+      "artist": "Tazeboy",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 46,
       "title": "Tokooos II",
       "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 45,
+      "pos": 47,
       "title": "Diamant Noir",
       "artist": "Werenoi",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 46,
-      "title": "Juventus Nueva Era",
-      "artist": "Didi B",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 47,
-      "title": "IGBO",
-      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
