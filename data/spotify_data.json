@@ -424,15 +424,15 @@
     },
     {
       "pos": 11,
-      "title": "MDMG",
-      "artist": "jam$co",
+      "title": "Mélo",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 12,
-      "title": "Mélo",
-      "artist": "Tiakola",
+      "title": "MDMG",
+      "artist": "jam$co",
       "type": "Album",
       "mov": "="
     },
@@ -494,15 +494,15 @@
     },
     {
       "pos": 21,
-      "title": "FREELYM",
-      "artist": "døpelym",
+      "title": "M$NEY",
+      "artist": "Asake",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 22,
-      "title": "M$NEY",
-      "artist": "Asake",
+      "title": "FREELYM",
+      "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
@@ -529,8 +529,8 @@
     },
     {
       "pos": 26,
-      "title": "R.F.W (Ready For War)",
-      "artist": "Lamoula$",
+      "title": "MÉTAMORPHOSE",
+      "artist": "SK 07",
       "type": "Album",
       "mov": "="
     },
@@ -543,8 +543,8 @@
     },
     {
       "pos": 28,
-      "title": "MÉTAMORPHOSE",
-      "artist": "SK 07",
+      "title": "R.F.W (Ready For War)",
+      "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
@@ -578,15 +578,15 @@
     },
     {
       "pos": 33,
-      "title": "BABI TAPE Vol.1",
-      "artist": "Babi Tape",
+      "title": "Gentleman 2.0",
+      "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 34,
-      "title": "Gentleman 2.0",
-      "artist": "Dadju",
+      "title": "BABI TAPE Vol.1",
+      "artist": "Babi Tape",
       "type": "Album",
       "mov": "="
     },
@@ -606,15 +606,15 @@
     },
     {
       "pos": 37,
-      "title": "MERCON2BABIÈRE",
-      "artist": "Ameka Zrai",
+      "title": "PRINCE MOULA$",
+      "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 38,
-      "title": "PRINCE MOULA$",
-      "artist": "Lamoula$",
+      "title": "MERCON2BABIÈRE",
+      "artist": "Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
@@ -662,8 +662,8 @@
     },
     {
       "pos": 45,
-      "title": "MATATA",
-      "artist": "Tazeboy",
+      "title": "Diamant Noir",
+      "artist": "Werenoi",
       "type": "Album",
       "mov": "="
     },
@@ -676,8 +676,8 @@
     },
     {
       "pos": 47,
-      "title": "Diamant Noir",
-      "artist": "Werenoi",
+      "title": "MATATA",
+      "artist": "Tazeboy",
       "type": "Album",
       "mov": "="
     },
@@ -690,15 +690,15 @@
     },
     {
       "pos": 49,
-      "title": "Goh Dedi",
-      "artist": "-",
+      "title": "NI",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 50,
-      "title": "NI",
-      "artist": "Ninho",
+      "title": "Goh Dedi",
+      "artist": "-",
       "type": "Album",
       "mov": "="
     }
