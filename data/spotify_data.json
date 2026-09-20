@@ -571,22 +571,22 @@
     },
     {
       "pos": 32,
+      "title": "PRINCE MOULA$",
+      "artist": "Lamoula$",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 33,
       "title": "Gentleman 2.0",
       "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 33,
+      "pos": 34,
       "title": "ERMESEY - ÉCHAUFFEMENT",
       "artist": "døpelym",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 34,
-      "title": "PRINCE MOULA$",
-      "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
@@ -648,15 +648,15 @@
     },
     {
       "pos": 43,
-      "title": "KMT",
-      "artist": "Gazo",
+      "title": "Diamant Noir",
+      "artist": "Werenoi",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 44,
-      "title": "Diamant Noir",
-      "artist": "Werenoi",
+      "title": "KMT",
+      "artist": "Gazo",
       "type": "Album",
       "mov": "="
     },
