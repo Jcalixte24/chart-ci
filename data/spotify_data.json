@@ -784,13 +784,13 @@
     },
     {
       "pos": 14,
-      "name": "Tazeboy",
+      "name": "GIMS",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 15,
-      "name": "GIMS",
+      "name": "Tazeboy",
       "genres": "Artiste",
       "streams": 0
     },
@@ -856,13 +856,13 @@
     },
     {
       "pos": 26,
-      "name": "Aya Nakamura",
+      "name": "Paulo Chakal",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 27,
-      "name": "Paulo Chakal",
+      "name": "Aya Nakamura",
       "genres": "Artiste",
       "streams": 0
     },
@@ -940,19 +940,19 @@
     },
     {
       "pos": 40,
-      "name": "Philipayne",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 41,
       "name": "SDM",
       "genres": "Artiste",
       "streams": 0
     },
     {
+      "pos": 41,
+      "name": "Philipayne",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
       "pos": 42,
-      "name": "Jr La Melo",
+      "name": "Kadirov Mania",
       "genres": "Artiste",
       "streams": 0
     },
@@ -964,7 +964,7 @@
     },
     {
       "pos": 44,
-      "name": "Kadirov Mania",
+      "name": "Jr La Melo",
       "genres": "Artiste",
       "streams": 0
     },
@@ -994,13 +994,13 @@
     },
     {
       "pos": 49,
-      "name": "Doupi Papillon",
+      "name": "Davido",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 50,
-      "name": "Davido",
+      "name": "Doupi Papillon",
       "genres": "Artiste",
       "streams": 0
     }
