@@ -431,15 +431,15 @@
     },
     {
       "pos": 12,
-      "title": "MDMG",
-      "artist": "jam$co",
+      "title": "JEUNE & RICHE",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 13,
-      "title": "JEUNE & RICHE",
-      "artist": "Himra",
+      "title": "MDMG",
+      "artist": "jam$co",
       "type": "Album",
       "mov": "="
     },
@@ -501,57 +501,57 @@
     },
     {
       "pos": 22,
-      "title": "FREELYM",
-      "artist": "døpelym",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 23,
-      "title": "Ipséité",
-      "artist": "Damso",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 24,
-      "title": "MÉTAMORPHOSE",
-      "artist": "SK 07",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 25,
-      "title": "WAWA",
-      "artist": "Kodes, Himra",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 26,
       "title": "XX : Délirium",
       "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 27,
-      "title": "Gaou la (feat. 6uff)",
-      "artist": "Didi B, 6uff",
+      "pos": 23,
+      "title": "FREELYM",
+      "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 28,
+      "pos": 24,
+      "title": "Ipséité",
+      "artist": "Damso",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 25,
+      "title": "MÉTAMORPHOSE",
+      "artist": "SK 07",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 26,
+      "title": "WAWA",
+      "artist": "Kodes, Himra",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 27,
       "title": "M.I.L.S 3",
       "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 29,
+      "pos": 28,
       "title": "Poison Ou Antidote",
       "artist": "Dadju",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 29,
+      "title": "Gaou la (feat. 6uff)",
+      "artist": "Didi B, 6uff",
       "type": "Album",
       "mov": "="
     },
@@ -571,15 +571,15 @@
     },
     {
       "pos": 32,
-      "title": "R.F.W (Ready For War)",
-      "artist": "Lamoula$",
+      "title": "1X",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 33,
-      "title": "1X",
-      "artist": "Himra",
+      "title": "R.F.W (Ready For War)",
+      "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
@@ -599,15 +599,15 @@
     },
     {
       "pos": 36,
-      "title": "ERMESEY - ÉCHAUFFEMENT",
-      "artist": "døpelym",
+      "title": "BDLM VOL.1",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 37,
-      "title": "BDLM VOL.1",
-      "artist": "Tiakola",
+      "title": "ERMESEY - ÉCHAUFFEMENT",
+      "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
@@ -648,36 +648,36 @@
     },
     {
       "pos": 43,
-      "title": "IGBO",
-      "artist": "Didi B",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 44,
       "title": "KMT",
       "artist": "Gazo",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 45,
+      "pos": 44,
       "title": "LA MELO EST GANGX",
       "artist": "Gazo, Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 45,
+      "title": "IGBO",
+      "artist": "Didi B",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 46,
-      "title": "Armageddon",
-      "artist": "døpelym, Himra, Genezio",
+      "title": "Tokooos II",
+      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 47,
-      "title": "Tokooos II",
-      "artist": "Fally Ipupa",
+      "title": "Armageddon",
+      "artist": "døpelym, Himra, Genezio",
       "type": "Album",
       "mov": "="
     },
@@ -690,15 +690,15 @@
     },
     {
       "pos": 49,
-      "title": "MATATA",
-      "artist": "Tazeboy",
+      "title": "NI",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 50,
-      "title": "NI",
-      "artist": "Ninho",
+      "title": "MATATA",
+      "artist": "Tazeboy",
       "type": "Album",
       "mov": "="
     }
