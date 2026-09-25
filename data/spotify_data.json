@@ -417,15 +417,15 @@
     },
     {
       "pos": 10,
-      "title": "DACHIBA KOUMGBA TCHAIBA",
-      "artist": "Himra",
+      "title": "Mélo",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 11,
-      "title": "Mélo",
-      "artist": "Tiakola",
+      "title": "DACHIBA KOUMGBA TCHAIBA",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
@@ -473,36 +473,36 @@
     },
     {
       "pos": 18,
+      "title": "XX : Délirium",
+      "artist": "Fally Ipupa",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 19,
       "title": "LVDG PACK 2",
       "artist": "TRK.",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 19,
+      "pos": 20,
       "title": "XX",
       "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 20,
+      "pos": 21,
       "title": "Formule 7",
       "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 21,
+      "pos": 22,
       "title": "M$NEY",
       "artist": "Asake",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 22,
-      "title": "XX : Délirium",
-      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
@@ -550,15 +550,15 @@
     },
     {
       "pos": 29,
-      "title": "Gaou la (feat. 6uff)",
-      "artist": "Didi B, 6uff",
+      "title": "PRINCE MOULA$",
+      "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 30,
-      "title": "PRINCE MOULA$",
-      "artist": "Lamoula$",
+      "title": "Gaou la (feat. 6uff)",
+      "artist": "Didi B, 6uff",
       "type": "Album",
       "mov": "="
     },
@@ -648,15 +648,15 @@
     },
     {
       "pos": 43,
-      "title": "KMT",
-      "artist": "Gazo",
+      "title": "LA MELO EST GANGX",
+      "artist": "Gazo, Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 44,
-      "title": "LA MELO EST GANGX",
-      "artist": "Gazo, Tiakola",
+      "title": "KMT",
+      "artist": "Gazo",
       "type": "Album",
       "mov": "="
     },
