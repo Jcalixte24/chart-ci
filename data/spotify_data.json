@@ -445,15 +445,15 @@
     },
     {
       "pos": 14,
-      "title": "JEUNE RICHE & CELEBRE",
-      "artist": "THB",
+      "title": "XX : Délirium",
+      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 15,
-      "title": "BIG AKA 4 AKA KAI",
-      "artist": "Himra",
+      "title": "JEUNE RICHE & CELEBRE",
+      "artist": "THB",
       "type": "Album",
       "mov": "="
     },
@@ -466,50 +466,50 @@
     },
     {
       "pos": 17,
+      "title": "BIG AKA 4 AKA KAI",
+      "artist": "Himra",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 18,
+      "title": "WpointM",
+      "artist": "Tiakola",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 19,
       "title": "Jefe",
       "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 18,
-      "title": "XX : Délirium",
-      "artist": "Fally Ipupa",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 19,
+      "pos": 20,
       "title": "LVDG PACK 2",
       "artist": "TRK.",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 20,
+      "pos": 21,
       "title": "XX",
       "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 21,
+      "pos": 22,
       "title": "Formule 7",
       "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 22,
+      "pos": 23,
       "title": "M$NEY",
       "artist": "Asake",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 23,
-      "title": "FREELYM",
-      "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
@@ -522,78 +522,78 @@
     },
     {
       "pos": 25,
+      "title": "FREELYM",
+      "artist": "døpelym",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 26,
       "title": "MÉTAMORPHOSE",
       "artist": "SK 07",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 26,
+      "pos": 27,
       "title": "WAWA",
       "artist": "Kodes, Himra",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 27,
+      "pos": 28,
       "title": "M.I.L.S 3",
       "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 28,
+      "pos": 29,
       "title": "Poison Ou Antidote",
       "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 29,
+      "pos": 30,
       "title": "PRINCE MOULA$",
       "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 30,
+      "pos": 31,
       "title": "Gaou la (feat. 6uff)",
       "artist": "Didi B, 6uff",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 31,
+      "pos": 32,
       "title": "M.I.L.S 4",
       "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 32,
+      "pos": 33,
       "title": "1X",
       "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 33,
+      "pos": 34,
       "title": "R.F.W (Ready For War)",
       "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 34,
+      "pos": 35,
       "title": "Gentleman 2.0",
       "artist": "Dadju",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 35,
-      "title": "BABI TAPE Vol.1",
-      "artist": "Babi Tape",
       "type": "Album",
       "mov": "="
     },
@@ -606,29 +606,29 @@
     },
     {
       "pos": 37,
+      "title": "BABI TAPE Vol.1",
+      "artist": "Babi Tape",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 38,
       "title": "ERMESEY - ÉCHAUFFEMENT",
       "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 38,
+      "pos": 39,
       "title": "MERCON2BABIÈRE",
       "artist": "Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 39,
+      "pos": 40,
       "title": "BIG POPPA",
       "artist": "Philipayne",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 40,
-      "title": "Mélo Décalé",
-      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
@@ -648,57 +648,57 @@
     },
     {
       "pos": 43,
+      "title": "Mélo Décalé",
+      "artist": "Tiakola",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 44,
       "title": "LA MELO EST GANGX",
       "artist": "Gazo, Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 44,
+      "pos": 45,
       "title": "KMT",
       "artist": "Gazo",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 45,
+      "pos": 46,
       "title": "IGBO",
       "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 46,
+      "pos": 47,
       "title": "Tokooos II",
       "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 47,
+      "pos": 48,
       "title": "Armageddon",
       "artist": "døpelym, Himra, Genezio",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 48,
+      "pos": 49,
       "title": "M.I.L.S 2.0",
       "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 49,
+      "pos": 50,
       "title": "NI",
       "artist": "Ninho",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 50,
-      "title": "MATATA",
-      "artist": "Tazeboy",
       "type": "Album",
       "mov": "="
     }
