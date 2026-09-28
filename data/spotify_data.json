@@ -389,15 +389,15 @@
     },
     {
       "pos": 6,
-      "title": "JEUNE & RICHE (DELUXE)",
-      "artist": "Himra",
+      "title": "WpointM",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 7,
-      "title": "WpointM",
-      "artist": "Tiakola",
+      "title": "JEUNE & RICHE (DELUXE)",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
@@ -536,15 +536,15 @@
     },
     {
       "pos": 27,
-      "title": "WAWA",
-      "artist": "Kodes, Himra",
+      "title": "PRINCE MOULA$",
+      "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 28,
-      "title": "PRINCE MOULA$",
-      "artist": "Lamoula$",
+      "title": "WAWA",
+      "artist": "Kodes, Himra",
       "type": "Album",
       "mov": "="
     },
@@ -627,8 +627,8 @@
     },
     {
       "pos": 40,
-      "title": "BIG POPPA",
-      "artist": "Philipayne",
+      "title": "WpointM - 93120",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
@@ -648,15 +648,15 @@
     },
     {
       "pos": 43,
-      "title": "Juventus Nueva Era",
-      "artist": "Didi B",
+      "title": "BIG POPPA",
+      "artist": "Philipayne",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 44,
-      "title": "Mélo Décalé",
-      "artist": "Tiakola",
+      "title": "Juventus Nueva Era",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
@@ -669,29 +669,29 @@
     },
     {
       "pos": 46,
+      "title": "Mélo Décalé",
+      "artist": "Tiakola",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 47,
       "title": "Tokooos II",
       "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 47,
+      "pos": 48,
       "title": "IGBO",
       "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 48,
+      "pos": 49,
       "title": "Armageddon",
       "artist": "døpelym, Himra, Genezio",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 49,
-      "title": "WpointM - 93120",
-      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
