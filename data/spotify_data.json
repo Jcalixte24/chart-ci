@@ -382,15 +382,15 @@
     },
     {
       "pos": 5,
-      "title": "NOUCHI TRAP VOL 1",
-      "artist": "AsapJo",
+      "title": "WpointM",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 6,
-      "title": "WpointM",
-      "artist": "Tiakola",
+      "title": "NOUCHI TRAP VOL 1",
+      "artist": "AsapJo",
       "type": "Album",
       "mov": "="
     },
@@ -410,15 +410,15 @@
     },
     {
       "pos": 9,
-      "title": "Destin",
-      "artist": "Ninho",
+      "title": "XX : Délirium",
+      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 10,
-      "title": "XX : Délirium",
-      "artist": "Fally Ipupa",
+      "title": "Destin",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
@@ -543,15 +543,15 @@
     },
     {
       "pos": 28,
-      "title": "WAWA",
-      "artist": "Kodes, Himra",
+      "title": "M.I.L.S 3",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 29,
-      "title": "M.I.L.S 3",
-      "artist": "Ninho",
+      "title": "WAWA",
+      "artist": "Kodes, Himra",
       "type": "Album",
       "mov": "="
     },
@@ -571,36 +571,36 @@
     },
     {
       "pos": 32,
+      "title": "WpointM - 93120",
+      "artist": "Tiakola",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 33,
       "title": "1X",
       "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 33,
+      "pos": 34,
       "title": "Gentleman 2.0",
       "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 34,
+      "pos": 35,
       "title": "Gaou la (feat. 6uff)",
       "artist": "Didi B, 6uff",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 35,
+      "pos": 36,
       "title": "R.F.W (Ready For War)",
       "artist": "Lamoula$",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 36,
-      "title": "WpointM - 93120",
-      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
@@ -620,15 +620,15 @@
     },
     {
       "pos": 39,
-      "title": "ERMESEY - ÉCHAUFFEMENT",
-      "artist": "døpelym",
+      "title": "MERCON2BABIÈRE",
+      "artist": "Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 40,
-      "title": "MERCON2BABIÈRE",
-      "artist": "Ameka Zrai",
+      "title": "ERMESEY - ÉCHAUFFEMENT",
+      "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
@@ -669,15 +669,15 @@
     },
     {
       "pos": 46,
-      "title": "Mélo Décalé",
-      "artist": "Tiakola",
+      "title": "Tokooos II",
+      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 47,
-      "title": "Tokooos II",
-      "artist": "Fally Ipupa",
+      "title": "Mélo Décalé",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
@@ -697,8 +697,8 @@
     },
     {
       "pos": 50,
-      "title": "M.I.L.S 2.0",
-      "artist": "Ninho",
+      "title": "JURU",
+      "artist": "Didi B, Tayc",
       "type": "Album",
       "mov": "="
     }
