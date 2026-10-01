@@ -730,13 +730,13 @@
     },
     {
       "pos": 5,
-      "name": "Ninho",
+      "name": "Tiakola",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 6,
-      "name": "Tiakola",
+      "name": "Ninho",
       "genres": "Artiste",
       "streams": 0
     },
@@ -790,13 +790,13 @@
     },
     {
       "pos": 15,
-      "name": "La Fouine",
+      "name": "Gazo",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 16,
-      "name": "Gazo",
+      "name": "La Fouine",
       "genres": "Artiste",
       "streams": 0
     },
@@ -808,13 +808,13 @@
     },
     {
       "pos": 18,
-      "name": "Tayc",
+      "name": "AsapJo",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 19,
-      "name": "AsapJo",
+      "name": "Tayc",
       "genres": "Artiste",
       "streams": 0
     },
@@ -886,19 +886,19 @@
     },
     {
       "pos": 31,
-      "name": "Team Paiya",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 32,
       "name": "Niska",
       "genres": "Artiste",
       "streams": 0
     },
     {
-      "pos": 33,
+      "pos": 32,
       "name": "DJ Arafat",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
+      "pos": 33,
+      "name": "Team Paiya",
       "genres": "Artiste",
       "streams": 0
     },
@@ -952,13 +952,13 @@
     },
     {
       "pos": 42,
-      "name": "Kadirov Mania",
+      "name": "3xdavs",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 43,
-      "name": "3xdavs",
+      "name": "Kadirov Mania",
       "genres": "Artiste",
       "streams": 0
     },
