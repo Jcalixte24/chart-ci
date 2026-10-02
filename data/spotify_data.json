@@ -403,15 +403,15 @@
     },
     {
       "pos": 8,
-      "title": "Flâ Ni",
-      "artist": "Ameka Zrai",
+      "title": "XX : Délirium",
+      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 9,
-      "title": "XX : Délirium",
-      "artist": "Fally Ipupa",
+      "title": "Flâ Ni",
+      "artist": "Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
@@ -459,15 +459,15 @@
     },
     {
       "pos": 16,
-      "title": "MDMG",
-      "artist": "jam$co",
+      "title": "BIG AKA 4 AKA KAI",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 17,
-      "title": "BIG AKA 4 AKA KAI",
-      "artist": "Himra",
+      "title": "MDMG",
+      "artist": "jam$co",
       "type": "Album",
       "mov": "="
     },
@@ -487,8 +487,8 @@
     },
     {
       "pos": 20,
-      "title": "LVDG PACK 2",
-      "artist": "TRK.",
+      "title": "Formule 7",
+      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
@@ -501,8 +501,8 @@
     },
     {
       "pos": 22,
-      "title": "Formule 7",
-      "artist": "Fally Ipupa",
+      "title": "LVDG PACK 2",
+      "artist": "TRK.",
       "type": "Album",
       "mov": "="
     },
@@ -522,29 +522,29 @@
     },
     {
       "pos": 25,
-      "title": "FREELYM",
-      "artist": "døpelym",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 26,
       "title": "MÉTAMORPHOSE",
       "artist": "SK 07",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 26,
+      "title": "FREELYM",
+      "artist": "døpelym",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 27,
-      "title": "PRINCE MOULA$",
-      "artist": "Lamoula$",
+      "title": "WpointM - 93120",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 28,
-      "title": "WpointM - 93120",
-      "artist": "Tiakola",
+      "title": "PRINCE MOULA$",
+      "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
@@ -592,8 +592,8 @@
     },
     {
       "pos": 35,
-      "title": "Gaou la (feat. 6uff)",
-      "artist": "Didi B, 6uff",
+      "title": "BDLM VOL.1",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
@@ -606,8 +606,8 @@
     },
     {
       "pos": 37,
-      "title": "BDLM VOL.1",
-      "artist": "Tiakola",
+      "title": "Gaou la (feat. 6uff)",
+      "artist": "Didi B, 6uff",
       "type": "Album",
       "mov": "="
     },
@@ -620,22 +620,22 @@
     },
     {
       "pos": 39,
+      "title": "JURU",
+      "artist": "Didi B, Tayc",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 40,
       "title": "MERCON2BABIÈRE",
       "artist": "Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 40,
+      "pos": 41,
       "title": "ERMESEY - ÉCHAUFFEMENT",
       "artist": "døpelym",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 41,
-      "title": "LA MELO EST GANGX",
-      "artist": "Gazo, Tiakola",
       "type": "Album",
       "mov": "="
     },
@@ -648,8 +648,8 @@
     },
     {
       "pos": 43,
-      "title": "JURU",
-      "artist": "Didi B, Tayc",
+      "title": "LA MELO EST GANGX",
+      "artist": "Gazo, Tiakola",
       "type": "Album",
       "mov": "="
     },
@@ -690,8 +690,8 @@
     },
     {
       "pos": 49,
-      "title": "Mélo Décalé",
-      "artist": "Tiakola",
+      "title": "M.I.L.S 2.0",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
