@@ -431,43 +431,43 @@
     },
     {
       "pos": 12,
-      "title": "DACHIBA KOUMGBA TCHAIBA",
-      "artist": "Himra",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 13,
-      "title": "Mélo",
-      "artist": "Tiakola",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 14,
-      "title": "JEUNE & RICHE",
-      "artist": "Himra",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 15,
       "title": "Vibration Universelle",
       "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 13,
+      "title": "DACHIBA KOUMGBA TCHAIBA",
+      "artist": "Himra",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 14,
+      "title": "Mélo",
+      "artist": "Tiakola",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 15,
+      "title": "JEUNE & RICHE",
+      "artist": "Himra",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 16,
-      "title": "DIYILEM & BAZARHOFF : GENIUS",
-      "artist": "Didi B",
+      "title": "BIG AKA 4 AKA KAI",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 17,
-      "title": "BIG AKA 4 AKA KAI",
-      "artist": "Himra",
+      "title": "DIYILEM & BAZARHOFF : GENIUS",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
@@ -515,22 +515,22 @@
     },
     {
       "pos": 24,
+      "title": "MÉTAMORPHOSE",
+      "artist": "SK 07",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 25,
       "title": "Ipséité",
       "artist": "Damso",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 25,
+      "pos": 26,
       "title": "XX",
       "artist": "Fally Ipupa",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 26,
-      "title": "MÉTAMORPHOSE",
-      "artist": "SK 07",
       "type": "Album",
       "mov": "="
     },
@@ -592,43 +592,43 @@
     },
     {
       "pos": 35,
-      "title": "PRINCE MOULA$",
-      "artist": "Lamoula$",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 36,
       "title": "Gentleman 2.0",
       "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 37,
+      "pos": 36,
       "title": "Psaume 91",
       "artist": "JP N'DA",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 38,
+      "pos": 37,
       "title": "WELCOME TO MY HOOD",
       "artist": "Hoodbaby",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 38,
+      "title": "PRINCE MOULA$",
+      "artist": "Lamoula$",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 39,
-      "title": "BDLM VOL.1",
-      "artist": "Tiakola",
+      "title": "BABI TAPE Vol.1",
+      "artist": "Babi Tape",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 40,
-      "title": "BABI TAPE Vol.1",
-      "artist": "Babi Tape",
+      "title": "BDLM VOL.1",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
@@ -641,15 +641,15 @@
     },
     {
       "pos": 42,
-      "title": "MERCON2BABIÈRE",
-      "artist": "Ameka Zrai",
+      "title": "Diamant Noir",
+      "artist": "Werenoi",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 43,
-      "title": "Diamant Noir",
-      "artist": "Werenoi",
+      "title": "MERCON2BABIÈRE",
+      "artist": "Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
