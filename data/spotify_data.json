@@ -283,7 +283,7 @@
     {
       "pos": 41,
       "title": "7 SEULEMENT",
-      "artist": "Magic System, TRIANGLE DES BERMUDES",
+      "artist": "MAGIC SYSTEM, TRIANGLE DES BERMUDES",
       "mov": "=",
       "streams": 0
     },
@@ -501,8 +501,8 @@
     },
     {
       "pos": 22,
-      "title": "MDMG",
-      "artist": "jam$co",
+      "title": "Ipséité",
+      "artist": "Damso",
       "type": "Album",
       "mov": "="
     },
@@ -515,8 +515,8 @@
     },
     {
       "pos": 24,
-      "title": "Ipséité",
-      "artist": "Damso",
+      "title": "MDMG",
+      "artist": "jam$co",
       "type": "Album",
       "mov": "="
     },
@@ -557,50 +557,50 @@
     },
     {
       "pos": 30,
-      "title": "M.I.L.S 3",
-      "artist": "Ninho",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 31,
       "title": "Poison Ou Antidote",
       "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 31,
+      "title": "M.I.L.S 3",
+      "artist": "Ninho",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 32,
+      "title": "Youyou Oplus",
+      "artist": "Ks Bloom",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 33,
       "title": "1X",
       "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 33,
+      "pos": 34,
       "title": "M.I.L.S 4",
       "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 34,
+      "pos": 35,
       "title": "WELCOME TO MY HOOD",
       "artist": "Hoodbaby",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 35,
+      "pos": 36,
       "title": "Gentleman 2.0",
       "artist": "Dadju",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 36,
-      "title": "WAWA",
-      "artist": "Kodes, Himra",
       "type": "Album",
       "mov": "="
     },
@@ -613,8 +613,8 @@
     },
     {
       "pos": 38,
-      "title": "Youyou Oplus",
-      "artist": "Ks Bloom",
+      "title": "WAWA",
+      "artist": "Kodes, Himra",
       "type": "Album",
       "mov": "="
     },
@@ -634,29 +634,29 @@
     },
     {
       "pos": 41,
-      "title": "PRINCE MOULA$",
-      "artist": "Lamoula$",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 42,
       "title": "R.F.W (Ready For War)",
       "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 43,
+      "pos": 42,
       "title": "Diamant Noir",
       "artist": "Werenoi",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 44,
+      "pos": 43,
       "title": "MERCON2BABIÈRE",
       "artist": "Ameka Zrai",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 44,
+      "title": "PRINCE MOULA$",
+      "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
@@ -690,8 +690,8 @@
     },
     {
       "pos": 49,
-      "title": "Tokooos II",
-      "artist": "Fally Ipupa",
+      "title": "BLESSED",
+      "artist": "La Mano 1.9",
       "type": "Album",
       "mov": "="
     },
