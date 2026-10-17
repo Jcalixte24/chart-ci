@@ -820,19 +820,19 @@
     },
     {
       "pos": 20,
-      "name": "Tazeboy",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 21,
       "name": "Aya Nakamura",
       "genres": "Artiste",
       "streams": 0
     },
     {
-      "pos": 22,
+      "pos": 21,
       "name": "Suspect 95",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
+      "pos": 22,
+      "name": "Tazeboy",
       "genres": "Artiste",
       "streams": 0
     },
@@ -946,25 +946,25 @@
     },
     {
       "pos": 41,
-      "name": "VDA",
+      "name": "Mauvais djo",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 42,
-      "name": "Josey",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 43,
       "name": "Philipayne",
       "genres": "Artiste",
       "streams": 0
     },
     {
+      "pos": 43,
+      "name": "VDA",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
       "pos": 44,
-      "name": "Mauvais djo",
+      "name": "Josey",
       "genres": "Artiste",
       "streams": 0
     },
@@ -1000,7 +1000,7 @@
     },
     {
       "pos": 50,
-      "name": "Jr La Melo",
+      "name": "Le couteau",
       "genres": "Artiste",
       "streams": 0
     }
