@@ -874,19 +874,19 @@
     },
     {
       "pos": 29,
-      "name": "Dydy Yeman",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 30,
       "name": "GENERATION NERF",
       "genres": "Artiste",
       "streams": 0
     },
     {
-      "pos": 31,
+      "pos": 30,
       "name": "Asake",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
+      "pos": 31,
+      "name": "Dydy Yeman",
       "genres": "Artiste",
       "streams": 0
     },
@@ -910,13 +910,13 @@
     },
     {
       "pos": 35,
-      "name": "DJ Arafat",
+      "name": "Mauvais djo",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 36,
-      "name": "Mauvais djo",
+      "name": "DJ Arafat",
       "genres": "Artiste",
       "streams": 0
     },
@@ -940,25 +940,25 @@
     },
     {
       "pos": 40,
-      "name": "Team Paiya",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 41,
       "name": "MD?",
       "genres": "Artiste",
       "streams": 0
     },
     {
-      "pos": 42,
+      "pos": 41,
       "name": "jam$co",
       "genres": "Artiste",
       "streams": 0
     },
     {
+      "pos": 42,
+      "name": "Team Paiya",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
       "pos": 43,
-      "name": "Hoodbaby",
+      "name": "CØCA",
       "genres": "Artiste",
       "streams": 0
     },
@@ -976,31 +976,31 @@
     },
     {
       "pos": 46,
-      "name": "CØCA",
+      "name": "Hoodbaby",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 47,
-      "name": "Espoir 2000",
+      "name": "La b 7",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 48,
-      "name": "Kadirov Mania",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 49,
       "name": "Le couteau",
       "genres": "Artiste",
       "streams": 0
     },
     {
+      "pos": 49,
+      "name": "Espoir 2000",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
       "pos": 50,
-      "name": "La Rvfleuze",
+      "name": "Kadirov Mania",
       "genres": "Artiste",
       "streams": 0
     }
