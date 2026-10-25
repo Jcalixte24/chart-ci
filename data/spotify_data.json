@@ -487,29 +487,29 @@
     },
     {
       "pos": 20,
-      "title": "WpointM - 93120",
-      "artist": "Tiakola",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 21,
       "title": "Ipséité",
       "artist": "Damso",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 21,
+      "title": "WpointM - 93120",
+      "artist": "Tiakola",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 22,
-      "title": "Formule 7",
-      "artist": "Fally Ipupa",
+      "title": "JEUNE RICHE & CELEBRE",
+      "artist": "THB",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 23,
-      "title": "JEUNE RICHE & CELEBRE",
-      "artist": "THB",
+      "title": "Formule 7",
+      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
@@ -536,29 +536,29 @@
     },
     {
       "pos": 27,
+      "title": "74Block",
+      "artist": "La b 7",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 28,
       "title": "JURU",
       "artist": "Didi B, Tayc",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 28,
+      "pos": 29,
       "title": "LVDG PACK 2",
       "artist": "TRK.",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 29,
+      "pos": 30,
       "title": "MDMG",
       "artist": "jam$co",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 30,
-      "title": "74Block",
-      "artist": "La b 7",
       "type": "Album",
       "mov": "="
     },
@@ -613,15 +613,15 @@
     },
     {
       "pos": 38,
-      "title": "Psaume 91",
-      "artist": "JP N'DA",
+      "title": "WAWA",
+      "artist": "Kodes, Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 39,
-      "title": "WAWA",
-      "artist": "Kodes, Himra",
+      "title": "Psaume 91",
+      "artist": "JP N'DA",
       "type": "Album",
       "mov": "="
     },
@@ -655,15 +655,15 @@
     },
     {
       "pos": 44,
-      "title": "BLESSED",
-      "artist": "La Mano 1.9",
+      "title": "IGBO",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 45,
-      "title": "IGBO",
-      "artist": "Didi B",
+      "title": "BLESSED",
+      "artist": "La Mano 1.9",
       "type": "Album",
       "mov": "="
     },
