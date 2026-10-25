@@ -766,13 +766,13 @@
     },
     {
       "pos": 11,
-      "name": "SK 07",
+      "name": "JP N'DA",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 12,
-      "name": "JP N'DA",
+      "name": "SK 07",
       "genres": "Artiste",
       "streams": 0
     },
@@ -838,25 +838,25 @@
     },
     {
       "pos": 23,
-      "name": "Tazeboy",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 24,
-      "name": "Paulo Chakal",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 25,
       "name": "Lamoula$",
       "genres": "Artiste",
       "streams": 0
     },
     {
-      "pos": 26,
+      "pos": 24,
       "name": "Werenoi",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
+      "pos": 25,
+      "name": "Tazeboy",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
+      "pos": 26,
+      "name": "Paulo Chakal",
       "genres": "Artiste",
       "streams": 0
     },
@@ -892,7 +892,7 @@
     },
     {
       "pos": 32,
-      "name": "Niska",
+      "name": "Philipayne",
       "genres": "Artiste",
       "streams": 0
     },
@@ -904,7 +904,7 @@
     },
     {
       "pos": 34,
-      "name": "Philipayne",
+      "name": "Niska",
       "genres": "Artiste",
       "streams": 0
     },
@@ -922,7 +922,7 @@
     },
     {
       "pos": 37,
-      "name": "Babi Tape",
+      "name": "CØCA",
       "genres": "Artiste",
       "streams": 0
     },
@@ -934,7 +934,7 @@
     },
     {
       "pos": 39,
-      "name": "Tripa Gninnin",
+      "name": "Babi Tape",
       "genres": "Artiste",
       "streams": 0
     },
@@ -946,31 +946,31 @@
     },
     {
       "pos": 41,
-      "name": "jam$co",
+      "name": "Tripa Gninnin",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 42,
-      "name": "Team Paiya",
+      "name": "jam$co",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 43,
-      "name": "CØCA",
+      "name": "La b 7",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 44,
-      "name": "3xdavs",
+      "name": "Team Paiya",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 45,
-      "name": "VDA",
+      "name": "3xdavs",
       "genres": "Artiste",
       "streams": 0
     },
@@ -982,7 +982,7 @@
     },
     {
       "pos": 47,
-      "name": "La b 7",
+      "name": "VDA",
       "genres": "Artiste",
       "streams": 0
     },
@@ -994,13 +994,13 @@
     },
     {
       "pos": 49,
-      "name": "Espoir 2000",
+      "name": "Kadirov Mania",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 50,
-      "name": "Kadirov Mania",
+      "name": "Espoir 2000",
       "genres": "Artiste",
       "streams": 0
     }
