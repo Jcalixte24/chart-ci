@@ -826,13 +826,13 @@
     },
     {
       "pos": 21,
-      "name": "Suspect 95",
+      "name": "Ste Milano",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 22,
-      "name": "Ste Milano",
+      "name": "Suspect 95",
       "genres": "Artiste",
       "streams": 0
     },
@@ -886,13 +886,13 @@
     },
     {
       "pos": 31,
-      "name": "Dydy Yeman",
+      "name": "Philipayne",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 32,
-      "name": "Philipayne",
+      "name": "Dydy Yeman",
       "genres": "Artiste",
       "streams": 0
     },
@@ -916,37 +916,37 @@
     },
     {
       "pos": 36,
-      "name": "DJ Arafat",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 37,
       "name": "CØCA",
       "genres": "Artiste",
       "streams": 0
     },
     {
+      "pos": 37,
+      "name": "DJ Arafat",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
       "pos": 38,
-      "name": "La Mano 1.9",
+      "name": "La b 7",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 39,
-      "name": "Babi Tape",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 40,
       "name": "MD?",
       "genres": "Artiste",
       "streams": 0
     },
     {
+      "pos": 40,
+      "name": "La Mano 1.9",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
       "pos": 41,
-      "name": "Tripa Gninnin",
+      "name": "Babi Tape",
       "genres": "Artiste",
       "streams": 0
     },
@@ -958,7 +958,7 @@
     },
     {
       "pos": 43,
-      "name": "La b 7",
+      "name": "Tripa Gninnin",
       "genres": "Artiste",
       "streams": 0
     },
@@ -976,13 +976,13 @@
     },
     {
       "pos": 46,
-      "name": "Hoodbaby",
+      "name": "VDA",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 47,
-      "name": "VDA",
+      "name": "Hoodbaby",
       "genres": "Artiste",
       "streams": 0
     },
@@ -994,13 +994,13 @@
     },
     {
       "pos": 49,
-      "name": "Kadirov Mania",
+      "name": "Espoir 2000",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 50,
-      "name": "Espoir 2000",
+      "name": "Kadirov Mania",
       "genres": "Artiste",
       "streams": 0
     }
