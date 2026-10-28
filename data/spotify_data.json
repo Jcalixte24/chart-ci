@@ -403,15 +403,15 @@
     },
     {
       "pos": 8,
-      "title": "XX : Délirium",
-      "artist": "Fally Ipupa",
+      "title": "JEUNE & RICHE (DELUXE)",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 9,
-      "title": "JEUNE & RICHE (DELUXE)",
-      "artist": "Himra",
+      "title": "XX : Délirium",
+      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
@@ -438,15 +438,15 @@
     },
     {
       "pos": 13,
-      "title": "Flâ Ni",
-      "artist": "Ameka Zrai",
+      "title": "Mélo",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 14,
-      "title": "Mélo",
-      "artist": "Tiakola",
+      "title": "Flâ Ni",
+      "artist": "Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
@@ -529,43 +529,43 @@
     },
     {
       "pos": 26,
-      "title": "XX",
-      "artist": "Fally Ipupa",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 27,
       "title": "74Block",
       "artist": "La b 7",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 28,
-      "title": "JURU",
-      "artist": "Didi B, Tayc",
+      "pos": 27,
+      "title": "XX",
+      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 29,
+      "pos": 28,
       "title": "LVDG PACK 2",
       "artist": "TRK.",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 29,
+      "title": "JURU",
+      "artist": "Didi B, Tayc",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 30,
-      "title": "MDMG",
-      "artist": "jam$co",
+      "title": "Poison Ou Antidote",
+      "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 31,
-      "title": "Poison Ou Antidote",
-      "artist": "Dadju",
+      "title": "MDMG",
+      "artist": "jam$co",
       "type": "Album",
       "mov": "="
     },
@@ -613,15 +613,15 @@
     },
     {
       "pos": 38,
-      "title": "WAWA",
-      "artist": "Kodes, Himra",
+      "title": "BDLM VOL.1",
+      "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 39,
-      "title": "BDLM VOL.1",
-      "artist": "Tiakola",
+      "title": "WAWA",
+      "artist": "Kodes, Himra",
       "type": "Album",
       "mov": "="
     },
@@ -648,15 +648,15 @@
     },
     {
       "pos": 43,
-      "title": "Diamant Noir",
-      "artist": "Werenoi",
+      "title": "IGBO",
+      "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 44,
-      "title": "IGBO",
-      "artist": "Didi B",
+      "title": "Diamant Noir",
+      "artist": "Werenoi",
       "type": "Album",
       "mov": "="
     },
@@ -697,8 +697,8 @@
     },
     {
       "pos": 50,
-      "title": "A LA VIE A LA MORT",
-      "artist": "SDM",
+      "title": "MDMG DELUXE",
+      "artist": "jam$co",
       "type": "Album",
       "mov": "="
     }
