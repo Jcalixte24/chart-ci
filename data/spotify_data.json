@@ -826,7 +826,7 @@
     },
     {
       "pos": 21,
-      "name": "Ste Milano",
+      "name": "CØCA",
       "genres": "Artiste",
       "streams": 0
     },
@@ -838,7 +838,7 @@
     },
     {
       "pos": 23,
-      "name": "Suspect 95",
+      "name": "Ste Milano",
       "genres": "Artiste",
       "streams": 0
     },
@@ -850,55 +850,55 @@
     },
     {
       "pos": 25,
-      "name": "Damso",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 26,
       "name": "Paulo Chakal",
       "genres": "Artiste",
       "streams": 0
     },
     {
+      "pos": 26,
+      "name": "Damso",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
       "pos": 27,
-      "name": "CØCA",
+      "name": "Suspect 95",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 28,
-      "name": "Tazeboy",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 29,
-      "name": "Leto",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 30,
       "name": "Philipayne",
       "genres": "Artiste",
       "streams": 0
     },
     {
+      "pos": 29,
+      "name": "Tazeboy",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
+      "pos": 30,
+      "name": "Leto",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
       "pos": 31,
-      "name": "GENERATION NERF",
+      "name": "La b 7",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 32,
-      "name": "Asake",
+      "name": "GENERATION NERF",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 33,
-      "name": "La b 7",
+      "name": "Asake",
       "genres": "Artiste",
       "streams": 0
     },
@@ -910,13 +910,13 @@
     },
     {
       "pos": 35,
-      "name": "Dydy Yeman",
+      "name": "MD?",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 36,
-      "name": "MD?",
+      "name": "Dydy Yeman",
       "genres": "Artiste",
       "streams": 0
     },
@@ -940,37 +940,37 @@
     },
     {
       "pos": 40,
-      "name": "DJ Arafat",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 41,
       "name": "Tripa Gninnin",
       "genres": "Artiste",
       "streams": 0
     },
     {
-      "pos": 42,
-      "name": "La Mano 1.9",
+      "pos": 41,
+      "name": "DJ Arafat",
       "genres": "Artiste",
       "streams": 0
     },
     {
-      "pos": 43,
+      "pos": 42,
       "name": "Babi Tape",
       "genres": "Artiste",
       "streams": 0
     },
     {
+      "pos": 43,
+      "name": "La Mano 1.9",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
       "pos": 44,
-      "name": "Le couteau",
+      "name": "Team Paiya",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 45,
-      "name": "Team Paiya",
+      "name": "Le couteau",
       "genres": "Artiste",
       "streams": 0
     },
@@ -982,13 +982,13 @@
     },
     {
       "pos": 47,
-      "name": "Hoodbaby",
+      "name": "La Rvfleuze",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 48,
-      "name": "3xdavs",
+      "name": "Hoodbaby",
       "genres": "Artiste",
       "streams": 0
     },
@@ -1000,7 +1000,7 @@
     },
     {
       "pos": 50,
-      "name": "La Rvfleuze",
+      "name": "3xdavs",
       "genres": "Artiste",
       "streams": 0
     }
