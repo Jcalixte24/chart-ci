@@ -389,15 +389,15 @@
     },
     {
       "pos": 6,
-      "title": "2026 Golden Run",
-      "artist": "TRK.",
+      "title": "Vibration Universelle",
+      "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 7,
-      "title": "Vibration Universelle",
-      "artist": "Josey",
+      "title": "2026 Golden Run",
+      "artist": "TRK.",
       "type": "Album",
       "mov": "="
     },
@@ -515,22 +515,22 @@
     },
     {
       "pos": 24,
-      "title": "M$NEY",
-      "artist": "Asake",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 25,
       "title": "74Block",
       "artist": "La b 7",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 26,
+      "pos": 25,
       "title": "MÉTAMORPHOSE",
       "artist": "SK 07",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 26,
+      "title": "M$NEY",
+      "artist": "Asake",
       "type": "Album",
       "mov": "="
     },
@@ -564,15 +564,15 @@
     },
     {
       "pos": 31,
-      "title": "JURU",
-      "artist": "Didi B, Tayc",
+      "title": "FREELYM",
+      "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 32,
-      "title": "FREELYM",
-      "artist": "døpelym",
+      "title": "JURU",
+      "artist": "Didi B, Tayc",
       "type": "Album",
       "mov": "="
     },
@@ -592,15 +592,15 @@
     },
     {
       "pos": 35,
-      "title": "WELCOME TO MY HOOD",
-      "artist": "Hoodbaby",
+      "title": "1X",
+      "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 36,
-      "title": "1X",
-      "artist": "Himra",
+      "title": "WELCOME TO MY HOOD",
+      "artist": "Hoodbaby",
       "type": "Album",
       "mov": "="
     },
@@ -634,57 +634,57 @@
     },
     {
       "pos": 41,
-      "title": "Psaume 91",
-      "artist": "JP N'DA",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 42,
       "title": "R.F.W (Ready For War)",
       "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 43,
-      "title": "IGBO",
-      "artist": "Didi B",
+      "pos": 42,
+      "title": "Psaume 91",
+      "artist": "JP N'DA",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 44,
+      "pos": 43,
       "title": "Diamant Noir",
       "artist": "Werenoi",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 44,
+      "title": "IGBO",
+      "artist": "Didi B",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 45,
-      "title": "MDMG DELUXE",
-      "artist": "jam$co",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 46,
-      "title": "Gaou la (feat. 6uff)",
-      "artist": "Didi B, 6uff",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 47,
       "title": "Accélération",
       "artist": "CØCA",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 48,
+      "pos": 46,
+      "title": "MDMG DELUXE",
+      "artist": "jam$co",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 47,
       "title": "BLESSED",
       "artist": "La Mano 1.9",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 48,
+      "title": "GAOU LA (feat. 6uff)",
+      "artist": "Didi B, 6uff",
       "type": "Album",
       "mov": "="
     },
