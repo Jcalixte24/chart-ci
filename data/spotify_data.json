@@ -571,29 +571,29 @@
     },
     {
       "pos": 32,
-      "title": "JURU",
-      "artist": "Didi B, Tayc",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 33,
       "title": "M.I.L.S 3",
       "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 34,
+      "pos": 33,
       "title": "Gentleman 2.0",
       "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 35,
+      "pos": 34,
       "title": "1X",
       "artist": "Himra",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 35,
+      "title": "JURU",
+      "artist": "Didi B, Tayc",
       "type": "Album",
       "mov": "="
     },
@@ -613,36 +613,36 @@
     },
     {
       "pos": 38,
+      "title": "BLACK OPPS",
+      "artist": "Philipayne",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 39,
       "title": "BDLM VOL.1",
       "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 39,
+      "pos": 40,
       "title": "WAWA",
       "artist": "Kodes, Himra",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 40,
+      "pos": 41,
       "title": "BABI TAPE Vol.1",
       "artist": "Babi Tape",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 41,
+      "pos": 42,
       "title": "R.F.W (Ready For War)",
       "artist": "Lamoula$",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 42,
-      "title": "Psaume 91",
-      "artist": "JP N'DA",
       "type": "Album",
       "mov": "="
     },
@@ -655,50 +655,50 @@
     },
     {
       "pos": 44,
-      "title": "IGBO",
-      "artist": "Didi B",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 45,
       "title": "Accélération",
       "artist": "CØCA",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 45,
+      "title": "Psaume 91",
+      "artist": "JP N'DA",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 46,
+      "title": "IGBO",
+      "artist": "Didi B",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 47,
       "title": "MDMG DELUXE",
       "artist": "jam$co",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 47,
-      "title": "BLESSED",
-      "artist": "La Mano 1.9",
-      "type": "Album",
-      "mov": "="
-    },
-    {
       "pos": 48,
-      "title": "GAOU LA (feat. 6uff)",
-      "artist": "Didi B, 6uff",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 49,
       "title": "MERCON2BABIÈRE",
       "artist": "Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 50,
+      "pos": 49,
       "title": "KMT",
       "artist": "Gazo",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 50,
+      "title": "LA MELO EST GANGX",
+      "artist": "Gazo, Tiakola",
       "type": "Album",
       "mov": "="
     }
