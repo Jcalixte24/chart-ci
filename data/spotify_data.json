@@ -9,22 +9,22 @@
     },
     {
       "pos": 2,
-      "title": "ECM",
-      "artist": "Lamoula$",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 3,
       "title": "BRAND NEW",
       "artist": "Wantché, Bilouki",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 4,
+      "pos": 3,
       "title": "DIEUDONNÉ",
       "artist": "LA B7",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 4,
+      "title": "ECM",
+      "artist": "Lamoula$",
       "mov": "=",
       "streams": 0
     },
@@ -37,15 +37,15 @@
     },
     {
       "pos": 6,
-      "title": "BIRDMAN & WEEZY",
-      "artist": "AsapJo, Himra",
+      "title": "TAKE (feat. Tiakola)",
+      "artist": "OMAH LAY, Tiakola",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 7,
-      "title": "Cœur De Pirate",
-      "artist": "Tiakola",
+      "title": "BABI TRAP",
+      "artist": "PurppX, La b 7",
       "mov": "=",
       "streams": 0
     },
@@ -58,71 +58,71 @@
     },
     {
       "pos": 9,
-      "title": "BABI TRAP",
-      "artist": "PurppX, La b 7",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 10,
-      "title": "TAKE (feat. Tiakola)",
-      "artist": "OMAH LAY, Tiakola",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 11,
-      "title": "DJOROBITE",
-      "artist": "Himra",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 12,
-      "title": "BOTTEGA",
-      "artist": "jam$co",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 13,
       "title": "Wetin Day",
       "artist": "Zed",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 14,
+      "pos": 10,
       "title": "Merci",
       "artist": "Tayc",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 15,
-      "title": "Souljah",
-      "artist": "Jeune Morty",
+      "pos": 11,
+      "title": "INCENDIE",
+      "artist": "Himra",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 16,
+      "pos": 12,
+      "title": "Anna",
+      "artist": "LEMO_08",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 13,
       "title": "Champagne",
       "artist": "Ronisia",
       "mov": "=",
       "streams": 0
     },
     {
+      "pos": 14,
+      "title": "Delirium",
+      "artist": "Fally Ipupa",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 15,
+      "title": "OPPS #1",
+      "artist": "Kodes",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 16,
+      "title": "Souljah",
+      "artist": "Jeune Morty",
+      "mov": "=",
+      "streams": 0
+    },
+    {
       "pos": 17,
-      "title": "Tout Gâter",
-      "artist": "Agato, Kadirov Mania",
+      "title": "BOTTEGA",
+      "artist": "jam$co",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 18,
-      "title": "Delirium",
-      "artist": "Fally Ipupa",
+      "title": "PARIA",
+      "artist": "BORO700",
       "mov": "=",
       "streams": 0
     },
@@ -135,218 +135,218 @@
     },
     {
       "pos": 20,
-      "title": "Right Now",
-      "artist": "KAGE",
+      "title": "Reconnaissance",
+      "artist": "Morijah, David Okit",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 21,
-      "title": "AMBIANCE",
-      "artist": "VDA",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 22,
-      "title": "Adriano",
-      "artist": "Ameka Zrai",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 23,
-      "title": "WAWA",
-      "artist": "Kodes, Himra",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 24,
-      "title": "Vedette",
-      "artist": "Azazou Satelite",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 25,
-      "title": "FAIS OH FAIS (1 COUP KO)",
-      "artist": "Ste Milano",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 26,
-      "title": "MS",
-      "artist": "Kylliann tyga, La b 7",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 27,
       "title": "Mauvais djo",
       "artist": "-",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 28,
-      "title": "LES DIAMANTS DE BOKASSA",
-      "artist": "Ninho, Tiakola",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 29,
-      "title": "Armageddon",
-      "artist": "døpelym, Himra, Genezio",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 30,
-      "title": "Légendes",
-      "artist": "La Fouine, Himra",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 31,
-      "title": "Catimini",
-      "artist": "LEMO_08, 9way Tchou",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 32,
-      "title": "JAMAIS CHERLA",
-      "artist": "GENERATION NERF, døpelym, Himra",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 33,
-      "title": "SOUKINI",
-      "artist": "MARCO DENON, H.A",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 34,
-      "title": "YESSOUÉ",
-      "artist": "DJ KEROZEN",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 35,
+      "pos": 22,
       "title": "INFERNO",
       "artist": "Peruzzi, Zlatan, Shoday",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 36,
-      "title": "Biama Brut Reverse",
-      "artist": "Oyoki Onanayo, Renard Barakissa, Kadirov Mania",
+      "pos": 23,
+      "title": "VRAI OG",
+      "artist": "CN.1",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 37,
+      "pos": 24,
+      "title": "Mais que fait Spiderman ???",
+      "artist": "menace Santana",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 25,
+      "title": "Poulet Roti",
+      "artist": "RK, Konieur",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 26,
       "title": "Zoblazo",
       "artist": "Ruthee",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 38,
-      "title": "Batman",
-      "artist": "Bedry",
+      "pos": 27,
+      "title": "RI'SAN",
+      "artist": "Anendlessocean",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 39,
-      "title": "MMA",
-      "artist": "La Mano 1.9, Konieur",
+      "pos": 28,
+      "title": "Prisoner - Remastered",
+      "artist": "Lucky Dube",
       "mov": "=",
       "streams": 0
     },
     {
-      "pos": 40,
-      "title": "BADMAN GANGSTA",
-      "artist": "Asake, Tiakola",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 41,
-      "title": "C'est pas wozo",
-      "artist": "OROCHIMAROU LE P1, Chouchou Salvador",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 42,
+      "pos": 29,
       "title": "JERUSALEM",
       "artist": "Ks Bloom",
       "mov": "=",
       "streams": 0
     },
     {
+      "pos": 30,
+      "title": "REVIENS",
+      "artist": "2zg, 63OG",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 31,
+      "title": "MS",
+      "artist": "Kylliann tyga, La b 7",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 32,
+      "title": "MMA",
+      "artist": "La Mano 1.9, Konieur",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 33,
+      "title": "YESSOUÉ",
+      "artist": "DJ KEROZEN",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 34,
+      "title": "IKEBE 3000",
+      "artist": "Blaqbonez, Asake",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 35,
+      "title": "Tu n'es pas bon oh",
+      "artist": "TC Levrai",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 36,
+      "title": "Personne comme Jésus",
+      "artist": "Schekina",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 37,
+      "title": "Eveil le champion",
+      "artist": "Guy Christ Israël",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 38,
+      "title": "C'est pas wozo",
+      "artist": "OROCHIMAROU LE P1, Chouchou Salvador",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 39,
+      "title": "FICHIER INDESIRABLE X Tino thebenzoboy, Saintruand & Stritla",
+      "artist": "Dr. BPM, Saintruand, Stritla",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 40,
+      "title": "Esséyé",
+      "artist": "CHORALE SAINT LUC CHŒUR DE LA CHARITE 220 LOGEMENTS",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 41,
+      "title": "ma nana <3 (rhololo)",
+      "artist": "Dayarga",
+      "mov": "=",
+      "streams": 0
+    },
+    {
+      "pos": 42,
+      "title": "Différent",
+      "artist": "Bouss",
+      "mov": "=",
+      "streams": 0
+    },
+    {
       "pos": 43,
-      "title": "J'assume",
-      "artist": "RnBoi",
+      "title": "S.L.S",
+      "artist": "Mr 1920, Leto, Stefflon Don",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 44,
-      "title": "CHOUAAA (feat. Didi B)",
-      "artist": "L'Oiseau Rare, Didi B",
+      "title": "Maman",
+      "artist": "VDA",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 45,
-      "title": "Compliqué",
-      "artist": "Dadju",
+      "title": "Un homme",
+      "artist": "Jérémy Frerot",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 46,
-      "title": "Changé Numéro",
-      "artist": "Nyerky, Ameka Zrai",
+      "title": "Souffle",
+      "artist": "Dena Mwana",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 47,
-      "title": "Ojuelegba",
-      "artist": "Wizkid",
-      "mov": "=",
-      "streams": 0
-    },
-    {
-      "pos": 48,
       "title": "Amoudjou",
       "artist": "Gadji Celi",
       "mov": "=",
       "streams": 0
     },
     {
+      "pos": 48,
+      "title": "Fimbu",
+      "artist": "Team Paiya, Didi B, Ste Milano, Tam Sir, 3xdavs",
+      "mov": "=",
+      "streams": 0
+    },
+    {
       "pos": 49,
-      "title": "DANS LE DOS",
-      "artist": "NO PAIN NO GAIN, Himra, Ninho",
+      "title": "Gratitude",
+      "artist": "Asake",
       "mov": "=",
       "streams": 0
     },
     {
       "pos": 50,
-      "title": "MAISON B",
-      "artist": "Team Paiya, Team 2 poy, Maison B",
+      "title": "Coco",
+      "artist": "Ninho, Niska",
       "mov": "=",
       "streams": 0
     }
@@ -445,57 +445,57 @@
     },
     {
       "pos": 14,
+      "title": "BLACK OPPS",
+      "artist": "Philipayne",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 15,
       "title": "Flâ Ni",
       "artist": "Ameka Zrai",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 15,
+      "pos": 16,
       "title": "Youyou Oplus",
       "artist": "Ks Bloom",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 16,
+      "pos": 17,
       "title": "JEUNE & RICHE",
       "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 17,
+      "pos": 18,
       "title": "DIYILEM & BAZARHOFF : GENIUS",
       "artist": "Didi B",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 18,
+      "pos": 19,
       "title": "BIG AKA 4 AKA KAI",
       "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 19,
+      "pos": 20,
       "title": "Jefe",
       "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 20,
+      "pos": 21,
       "title": "Ipséité",
       "artist": "Damso",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 21,
-      "title": "JEUNE RICHE & CELEBRE",
-      "artist": "THB",
       "type": "Album",
       "mov": "="
     },
@@ -515,8 +515,8 @@
     },
     {
       "pos": 24,
-      "title": "BLACK OPPS",
-      "artist": "Philipayne",
+      "title": "JEUNE RICHE & CELEBRE",
+      "artist": "THB",
       "type": "Album",
       "mov": "="
     },
@@ -599,22 +599,22 @@
     },
     {
       "pos": 36,
-      "title": "JURU",
-      "artist": "Didi B, Tayc",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 37,
       "title": "M.I.L.S 4",
       "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 38,
+      "pos": 37,
       "title": "WELCOME TO MY HOOD",
       "artist": "Hoodbaby",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 38,
+      "title": "JURU",
+      "artist": "Didi B, Tayc",
       "type": "Album",
       "mov": "="
     },
@@ -648,15 +648,15 @@
     },
     {
       "pos": 43,
-      "title": "R.F.W (Ready For War)",
-      "artist": "Lamoula$",
+      "title": "Diamant Noir",
+      "artist": "Werenoi",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 44,
-      "title": "Diamant Noir",
-      "artist": "Werenoi",
+      "title": "R.F.W (Ready For War)",
+      "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
@@ -669,15 +669,15 @@
     },
     {
       "pos": 46,
-      "title": "Psaume 91",
-      "artist": "JP N'DA",
+      "title": "MDMG DELUXE",
+      "artist": "jam$co",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 47,
-      "title": "MDMG DELUXE",
-      "artist": "jam$co",
+      "title": "Psaume 91",
+      "artist": "JP N'DA",
       "type": "Album",
       "mov": "="
     },
@@ -697,8 +697,8 @@
     },
     {
       "pos": 50,
-      "title": "KMT",
-      "artist": "Gazo",
+      "title": "TRILOGIE 3",
+      "artist": "Tino thebenzoboy",
       "type": "Album",
       "mov": "="
     }
