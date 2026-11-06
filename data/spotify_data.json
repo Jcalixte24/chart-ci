@@ -844,13 +844,13 @@
     },
     {
       "pos": 24,
-      "name": "Werenoi",
+      "name": "Paulo Chakal",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 25,
-      "name": "Paulo Chakal",
+      "name": "Werenoi",
       "genres": "Artiste",
       "streams": 0
     },
@@ -874,37 +874,37 @@
     },
     {
       "pos": 29,
-      "name": "Suspect 95",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 30,
       "name": "Mauvais djo",
       "genres": "Artiste",
       "streams": 0
     },
     {
-      "pos": 31,
-      "name": "Leto",
+      "pos": 30,
+      "name": "Suspect 95",
       "genres": "Artiste",
       "streams": 0
     },
     {
-      "pos": 32,
+      "pos": 31,
       "name": "GENERATION NERF",
       "genres": "Artiste",
       "streams": 0
     },
     {
+      "pos": 32,
+      "name": "Leto",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
       "pos": 33,
-      "name": "MD?",
+      "name": "Asake",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 34,
-      "name": "Asake",
+      "name": "MD?",
       "genres": "Artiste",
       "streams": 0
     },
@@ -916,13 +916,13 @@
     },
     {
       "pos": 36,
-      "name": "Dydy Yeman",
+      "name": "Niska",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 37,
-      "name": "Niska",
+      "name": "Dydy Yeman",
       "genres": "Artiste",
       "streams": 0
     },
@@ -946,25 +946,25 @@
     },
     {
       "pos": 41,
-      "name": "Babi Tape",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 42,
       "name": "DJ Arafat",
       "genres": "Artiste",
       "streams": 0
     },
     {
+      "pos": 42,
+      "name": "Babi Tape",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
       "pos": 43,
-      "name": "La Mano 1.9",
+      "name": "Tino thebenzoboy",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 44,
-      "name": "Tino thebenzoboy",
+      "name": "La Mano 1.9",
       "genres": "Artiste",
       "streams": 0
     },
@@ -976,13 +976,13 @@
     },
     {
       "pos": 46,
-      "name": "Le couteau",
+      "name": "La Rvfleuze",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 47,
-      "name": "La Rvfleuze",
+      "name": "Le couteau",
       "genres": "Artiste",
       "streams": 0
     },
@@ -994,13 +994,13 @@
     },
     {
       "pos": 49,
-      "name": "Hoodbaby",
+      "name": "Team Paiya",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 50,
-      "name": "Team Paiya",
+      "name": "Hoodbaby",
       "genres": "Artiste",
       "streams": 0
     }
