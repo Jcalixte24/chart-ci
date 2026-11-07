@@ -712,13 +712,13 @@
     },
     {
       "pos": 2,
-      "name": "Tiakola",
+      "name": "Didi B",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 3,
-      "name": "Didi B",
+      "name": "Tiakola",
       "genres": "Artiste",
       "streams": 0
     },
@@ -784,37 +784,37 @@
     },
     {
       "pos": 14,
-      "name": "GIMS",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 15,
-      "name": "La Fouine",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 16,
       "name": "Philipayne",
       "genres": "Artiste",
       "streams": 0
     },
     {
+      "pos": 15,
+      "name": "GIMS",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
+      "pos": 16,
+      "name": "La Fouine",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
       "pos": 17,
-      "name": "Sindika",
+      "name": "Tayc",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 18,
-      "name": "Gazo",
+      "name": "Sindika",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 19,
-      "name": "Tayc",
+      "name": "Gazo",
       "genres": "Artiste",
       "streams": 0
     },
@@ -826,13 +826,13 @@
     },
     {
       "pos": 21,
-      "name": "Aya Nakamura",
+      "name": "Kodes",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 22,
-      "name": "Kodes",
+      "name": "Aya Nakamura",
       "genres": "Artiste",
       "streams": 0
     },
@@ -850,13 +850,13 @@
     },
     {
       "pos": 25,
-      "name": "Werenoi",
+      "name": "Damso",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 26,
-      "name": "Damso",
+      "name": "Werenoi",
       "genres": "Artiste",
       "streams": 0
     },
@@ -886,13 +886,13 @@
     },
     {
       "pos": 31,
-      "name": "Suspect 95",
+      "name": "GENERATION NERF",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 32,
-      "name": "GENERATION NERF",
+      "name": "Suspect 95",
       "genres": "Artiste",
       "streams": 0
     },
@@ -952,31 +952,31 @@
     },
     {
       "pos": 42,
-      "name": "Tino thebenzoboy",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 43,
       "name": "Babi Tape",
       "genres": "Artiste",
       "streams": 0
     },
     {
-      "pos": 44,
-      "name": "La Mano 1.9",
+      "pos": 43,
+      "name": "Tino thebenzoboy",
       "genres": "Artiste",
       "streams": 0
     },
     {
-      "pos": 45,
+      "pos": 44,
       "name": "VDA",
       "genres": "Artiste",
       "streams": 0
     },
     {
-      "pos": 46,
+      "pos": 45,
       "name": "La Rvfleuze",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
+      "pos": 46,
+      "name": "La Mano 1.9",
       "genres": "Artiste",
       "streams": 0
     },
@@ -1000,7 +1000,7 @@
     },
     {
       "pos": 50,
-      "name": "Hoodbaby",
+      "name": "3xdavs",
       "genres": "Artiste",
       "streams": 0
     }
