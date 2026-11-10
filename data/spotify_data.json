@@ -459,50 +459,50 @@
     },
     {
       "pos": 16,
-      "title": "DIYILEM & BAZARHOFF : GENIUS",
-      "artist": "Didi B",
+      "title": "NEWSTALGIA",
+      "artist": "KRM",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 17,
-      "title": "Flâ Ni",
-      "artist": "Ameka Zrai",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 18,
       "title": "Jefe",
       "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 18,
+      "title": "DIYILEM & BAZARHOFF : GENIUS",
+      "artist": "Didi B",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 19,
+      "title": "Flâ Ni",
+      "artist": "Ameka Zrai",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 20,
       "title": "JEUNE & RICHE",
       "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 20,
+      "pos": 21,
       "title": "Youyou Oplus",
       "artist": "Ks Bloom",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 21,
+      "pos": 22,
       "title": "BIG AKA 4 AKA KAI",
       "artist": "Himra",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 22,
-      "title": "NEWSTALGIA",
-      "artist": "KRM",
       "type": "Album",
       "mov": "="
     },
@@ -536,15 +536,15 @@
     },
     {
       "pos": 27,
-      "title": "JEUNE RICHE & CELEBRE",
-      "artist": "THB",
+      "title": "M$NEY",
+      "artist": "Asake",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 28,
-      "title": "M$NEY",
-      "artist": "Asake",
+      "title": "JEUNE RICHE & CELEBRE",
+      "artist": "THB",
       "type": "Album",
       "mov": "="
     },
@@ -564,22 +564,22 @@
     },
     {
       "pos": 31,
-      "title": "XX",
-      "artist": "Fally Ipupa",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 32,
       "title": "M.I.L.S 4",
       "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 33,
+      "pos": 32,
       "title": "M.I.L.S 3",
       "artist": "Ninho",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 33,
+      "title": "XX",
+      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
@@ -592,43 +592,43 @@
     },
     {
       "pos": 35,
-      "title": "LVDG PACK 2",
-      "artist": "TRK.",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 36,
       "title": "Gentleman 2.0",
       "artist": "Dadju",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 37,
-      "title": "MDMG",
-      "artist": "jam$co",
+      "pos": 36,
+      "title": "LVDG PACK 2",
+      "artist": "TRK.",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 38,
+      "pos": 37,
       "title": "FREELYM",
       "artist": "døpelym",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 38,
+      "title": "MDMG",
+      "artist": "jam$co",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 39,
-      "title": "WELCOME TO MY HOOD",
-      "artist": "Hoodbaby",
+      "title": "PLATINUM TRAPPER",
+      "artist": "Wantché",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 40,
-      "title": "PLATINUM TRAPPER",
-      "artist": "Wantché",
+      "title": "WELCOME TO MY HOOD",
+      "artist": "Hoodbaby",
       "type": "Album",
       "mov": "="
     },
@@ -641,64 +641,64 @@
     },
     {
       "pos": 42,
-      "title": "JURU",
-      "artist": "Didi B, Tayc",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 43,
       "title": "BABI TAPE Vol.1",
       "artist": "Babi Tape",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 44,
+      "pos": 43,
       "title": "WAWA",
       "artist": "Kodes, Himra",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 45,
+      "pos": 44,
       "title": "Accélération",
       "artist": "CØCA",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 46,
-      "title": "IGBO",
-      "artist": "Didi B",
+      "pos": 45,
+      "title": "JURU",
+      "artist": "Didi B, Tayc",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 47,
+      "pos": 46,
       "title": "Diamant Noir",
       "artist": "Werenoi",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 48,
-      "title": "MALADE",
-      "artist": "Didi B, Khaid",
+      "pos": 47,
+      "title": "NI",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 49,
+      "pos": 48,
       "title": "PRINCE MOULA$",
       "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
     {
+      "pos": 49,
+      "title": "IGBO",
+      "artist": "Didi B",
+      "type": "Album",
+      "mov": "="
+    },
+    {
       "pos": 50,
-      "title": "NI",
-      "artist": "Ninho",
+      "title": "MDMG DELUXE",
+      "artist": "jam$co",
       "type": "Album",
       "mov": "="
     }
