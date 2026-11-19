@@ -431,15 +431,15 @@
     },
     {
       "pos": 12,
-      "title": "RÉSONANCE",
-      "artist": "Josey",
+      "title": "NEWSTALGIA",
+      "artist": "KRM",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 13,
-      "title": "NEWSTALGIA",
-      "artist": "KRM",
+      "title": "RÉSONANCE",
+      "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
@@ -480,22 +480,22 @@
     },
     {
       "pos": 19,
+      "title": "IN INFINITUM",
+      "artist": "SDM",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 20,
       "title": "JEUNE & RICHE",
       "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 20,
+      "pos": 21,
       "title": "Flâ Ni",
       "artist": "Ameka Zrai",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 21,
-      "title": "IN INFINITUM",
-      "artist": "SDM",
       "type": "Album",
       "mov": "="
     },
@@ -648,15 +648,15 @@
     },
     {
       "pos": 43,
-      "title": "WELCOME TO MY HOOD",
-      "artist": "Hoodbaby",
+      "title": "M.I.L.S 2.0",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 44,
-      "title": "M.I.L.S 2.0",
-      "artist": "Ninho",
+      "title": "WELCOME TO MY HOOD",
+      "artist": "Hoodbaby",
       "type": "Album",
       "mov": "="
     },
@@ -676,15 +676,15 @@
     },
     {
       "pos": 47,
-      "title": "WAWA",
-      "artist": "Kodes, Himra",
+      "title": "Comme prévu",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 48,
-      "title": "Comme prévu",
-      "artist": "Ninho",
+      "title": "WAWA",
+      "artist": "Kodes, Himra",
       "type": "Album",
       "mov": "="
     },
@@ -862,13 +862,13 @@
     },
     {
       "pos": 27,
-      "name": "GENERATION NERF",
+      "name": "Leto",
       "genres": "Artiste",
       "streams": 0
     },
     {
       "pos": 28,
-      "name": "Leto",
+      "name": "GENERATION NERF",
       "genres": "Artiste",
       "streams": 0
     },
@@ -880,25 +880,25 @@
     },
     {
       "pos": 30,
-      "name": "Ste Milano",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 31,
-      "name": "Asake",
-      "genres": "Artiste",
-      "streams": 0
-    },
-    {
-      "pos": 32,
       "name": "SDM",
       "genres": "Artiste",
       "streams": 0
     },
     {
-      "pos": 33,
+      "pos": 31,
       "name": "DJ Arafat",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
+      "pos": 32,
+      "name": "Ste Milano",
+      "genres": "Artiste",
+      "streams": 0
+    },
+    {
+      "pos": 33,
+      "name": "Asake",
       "genres": "Artiste",
       "streams": 0
     },
