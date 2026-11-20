@@ -410,15 +410,15 @@
     },
     {
       "pos": 9,
-      "title": "Vibration Universelle",
-      "artist": "Josey",
+      "title": "Destin",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 10,
-      "title": "Destin",
-      "artist": "Ninho",
+      "title": "Vibration Universelle",
+      "artist": "Josey",
       "type": "Album",
       "mov": "="
     },
@@ -445,14 +445,14 @@
     },
     {
       "pos": 14,
-      "title": "DACHIBA KOUMGBA TCHAIBA",
+      "title": "IDK2",
       "artist": "Himra",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 15,
-      "title": "IDK2",
+      "title": "DACHIBA KOUMGBA TCHAIBA",
       "artist": "Himra",
       "type": "Album",
       "mov": "="
@@ -466,22 +466,22 @@
     },
     {
       "pos": 17,
+      "title": "IN INFINITUM",
+      "artist": "SDM",
+      "type": "Album",
+      "mov": "="
+    },
+    {
+      "pos": 18,
       "title": "Mélo",
       "artist": "Tiakola",
       "type": "Album",
       "mov": "="
     },
     {
-      "pos": 18,
+      "pos": 19,
       "title": "DIYILEM & BAZARHOFF : GENIUS",
       "artist": "Didi B",
-      "type": "Album",
-      "mov": "="
-    },
-    {
-      "pos": 19,
-      "title": "IN INFINITUM",
-      "artist": "SDM",
       "type": "Album",
       "mov": "="
     },
@@ -592,15 +592,15 @@
     },
     {
       "pos": 35,
-      "title": "JEUNE RICHE & CELEBRE",
-      "artist": "THB",
+      "title": "XX",
+      "artist": "Fally Ipupa",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 36,
-      "title": "XX",
-      "artist": "Fally Ipupa",
+      "title": "JEUNE RICHE & CELEBRE",
+      "artist": "THB",
       "type": "Album",
       "mov": "="
     },
@@ -627,15 +627,15 @@
     },
     {
       "pos": 40,
-      "title": "MDMG",
-      "artist": "jam$co",
+      "title": "NI",
+      "artist": "Ninho",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 41,
-      "title": "NI",
-      "artist": "Ninho",
+      "title": "MDMG",
+      "artist": "jam$co",
       "type": "Album",
       "mov": "="
     },
@@ -662,15 +662,15 @@
     },
     {
       "pos": 45,
-      "title": "BABI TAPE Vol.1",
-      "artist": "Babi Tape",
+      "title": "PRINCE MOULA$",
+      "artist": "Lamoula$",
       "type": "Album",
       "mov": "="
     },
     {
       "pos": 46,
-      "title": "PRINCE MOULA$",
-      "artist": "Lamoula$",
+      "title": "BABI TAPE Vol.1",
+      "artist": "Babi Tape",
       "type": "Album",
       "mov": "="
     },
